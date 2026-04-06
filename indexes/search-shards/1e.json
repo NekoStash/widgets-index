@@ -1,0 +1,18 @@
+{
+  "shard": "1e",
+  "tokenCount": 4,
+  "tokens": {
+    "artist": [
+      "test_widget"
+    ],
+    "control": [
+      "test_widget"
+    ],
+    "elegantly": [
+      "test_widget"
+    ],
+    "progresses": [
+      "test_widget"
+    ]
+  }
+}

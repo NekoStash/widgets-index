@@ -1,0 +1,15 @@
+{
+  "shard": "3d",
+  "tokenCount": 3,
+  "tokens": {
+    "contributing": [
+      "test_widget"
+    ],
+    "feature": [
+      "test_widget"
+    ],
+    "feel": [
+      "test_widget"
+    ]
+  }
+}

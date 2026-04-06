@@ -1,0 +1,9 @@
+{
+  "shard": "02",
+  "tokenCount": 1,
+  "tokens": {
+    "skip": [
+      "test_widget"
+    ]
+  }
+}

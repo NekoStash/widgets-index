@@ -1,0 +1,15 @@
+{
+  "shard": "2e",
+  "tokenCount": 3,
+  "tokens": {
+    "custom": [
+      "test_widget"
+    ],
+    "dynamic": [
+      "test_widget"
+    ],
+    "适用于小米背屏系列的音乐播放器": [
+      "test_widget"
+    ]
+  }
+}

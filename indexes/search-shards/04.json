@@ -1,0 +1,15 @@
+{
+  "shard": "04",
+  "tokenCount": 3,
+  "tokens": {
+    "license": [
+      "test_widget"
+    ],
+    "or": [
+      "test_widget"
+    ],
+    "简体中文": [
+      "test_widget"
+    ]
+  }
+}

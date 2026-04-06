@@ -1,0 +1,15 @@
+{
+  "shard": "2f",
+  "tokenCount": 3,
+  "tokens": {
+    "active": [
+      "test_widget"
+    ],
+    "between": [
+      "test_widget"
+    ],
+    "smooth": [
+      "test_widget"
+    ]
+  }
+}

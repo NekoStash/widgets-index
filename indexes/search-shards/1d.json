@@ -1,0 +1,15 @@
+{
+  "shard": "1d",
+  "tokenCount": 3,
+  "tokens": {
+    "background": [
+      "test_widget"
+    ],
+    "tracks": [
+      "test_widget"
+    ],
+    "体中": [
+      "test_widget"
+    ]
+  }
+}

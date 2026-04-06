@@ -1,0 +1,13 @@
+{
+  "id": "test_widget",
+  "indexedAt": "2026-04-06T15:18:21.581Z",
+  "readme": {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "0efdcbd72c2c58f9f4c7a3d9e45ce7f2752e5d7e",
+    "size": 2049,
+    "htmlUrl": "https://github.com/killerprojecte/Test-Widget/blob/main/README.md",
+    "downloadUrl": "https://raw.githubusercontent.com/killerprojecte/Test-Widget/main/README.md",
+    "content": "# Xiaomi RearScreen Music\n> About: A music player compatible with the Xiaomi RearScreen series.\n\n*[English](README.md) | [简体中文](README_zh.md)*\n\nA highly dynamic, elegantly designed music player widget custom-built for Xiaomi devices equipped with a rear screen. It leverages HyperOS/MIUI widget capabilities to deliver a seamless, native-feeling audio control experience.\n\n### ✨ Features\n* **Dynamic Lyric Animations**: Lyrics slide up smoothly with a custom transition effect whenever the track progresses, without visual stuttering.\n* **HyperMaterial & Adaptive Colors**: Automatically extracts color palettes from the current album art to tint the background and UI elements, creating an immersive visual experience.\n* **Always-On Display (AOD) Support**: Seamlessly transitions between active screen and AOD states, rearranging the layout (like artist and title) to save power while keeping information visible.\n* **Full Media Controls**: Easily play, pause, skip, or go back to previous tracks with smooth Lottie icon animations.\n\n### 🛠 Contributing\nContributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues). \n\n### 📄 License\nThis project is licensed under the [GPL-3.0 License](LICENSE).\n\n## Star History\n\n<a href=\"https://www.star-history.com/?repos=SiberiaApp%2FXiaomi-RearScreen-Music&type=date&legend=top-left\">\n <picture>\n   <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/image?repos=SiberiaApp/Xiaomi-RearScreen-Music&type=date&theme=dark&legend=top-left\" />\n   <source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/image?repos=SiberiaApp/Xiaomi-RearScreen-Music&type=date&legend=top-left\" />\n   <img alt=\"Star History Chart\" src=\"https://api.star-history.com/image?repos=SiberiaApp/Xiaomi-RearScreen-Music&type=date&legend=top-left\" />\n </picture>\n</a>\n\n## Sponsor me\n\n<img width=\"1171\" height=\"1171\" alt=\"imagename\" src=\"https://github.com/user-attachments/assets/eaa26296-4303-4f6f-a565-6e56800e9970\" />\n\n"
+  }
+}

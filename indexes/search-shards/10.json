@@ -1,0 +1,15 @@
+{
+  "shard": "10",
+  "tokenCount": 3,
+  "tokens": {
+    "for": [
+      "test_widget"
+    ],
+    "it": [
+      "test_widget"
+    ],
+    "on": [
+      "test_widget"
+    ]
+  }
+}

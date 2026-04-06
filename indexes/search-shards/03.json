@@ -1,0 +1,18 @@
+{
+  "shard": "03",
+  "tokenCount": 4,
+  "tokens": {
+    "leverages": [
+      "test_widget"
+    ],
+    "media": [
+      "test_widget"
+    ],
+    "rear": [
+      "test_widget"
+    ],
+    "transitions": [
+      "test_widget"
+    ]
+  }
+}

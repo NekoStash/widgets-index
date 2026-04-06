@@ -1,0 +1,18 @@
+{
+  "shard": "0a",
+  "tokenCount": 4,
+  "tokens": {
+    "art": [
+      "test_widget"
+    ],
+    "features": [
+      "test_widget"
+    ],
+    "native": [
+      "test_widget"
+    ],
+    "米背": [
+      "test_widget"
+    ]
+  }
+}

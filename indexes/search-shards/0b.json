@@ -1,0 +1,9 @@
+{
+  "shard": "0b",
+  "tokenCount": 1,
+  "tokens": {
+    "go": [
+      "test_widget"
+    ]
+  }
+}

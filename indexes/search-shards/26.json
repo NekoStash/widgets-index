@@ -1,0 +1,18 @@
+{
+  "shard": "26",
+  "tokenCount": 4,
+  "tokens": {
+    "an": [
+      "test_widget"
+    ],
+    "and": [
+      "test_widget"
+    ],
+    "lottie": [
+      "test_widget"
+    ],
+    "slide": [
+      "test_widget"
+    ]
+  }
+}

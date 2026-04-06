@@ -1,0 +1,15 @@
+{
+  "shard": "20",
+  "tokenCount": 3,
+  "tokens": {
+    "licensed": [
+      "test_widget"
+    ],
+    "up": [
+      "test_widget"
+    ],
+    "的音": [
+      "test_widget"
+    ]
+  }
+}

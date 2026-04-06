@@ -1,0 +1,12 @@
+{
+  "shard": "32",
+  "tokenCount": 2,
+  "tokens": {
+    "automatically": [
+      "test_widget"
+    ],
+    "播放": [
+      "test_widget"
+    ]
+  }
+}

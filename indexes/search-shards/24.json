@@ -1,0 +1,15 @@
+{
+  "shard": "24",
+  "tokenCount": 3,
+  "tokens": {
+    "always": [
+      "test_widget"
+    ],
+    "to": [
+      "test_widget"
+    ],
+    "简体": [
+      "test_widget"
+    ]
+  }
+}

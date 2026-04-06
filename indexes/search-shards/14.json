@@ -1,0 +1,21 @@
+{
+  "shard": "14",
+  "tokenCount": 5,
+  "tokens": {
+    "contributions": [
+      "test_widget"
+    ],
+    "effect": [
+      "test_widget"
+    ],
+    "hypermaterial": [
+      "test_widget"
+    ],
+    "lyric": [
+      "test_widget"
+    ],
+    "music": [
+      "test_widget"
+    ]
+  }
+}

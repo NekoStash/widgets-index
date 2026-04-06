@@ -1,0 +1,15 @@
+{
+  "shard": "30",
+  "tokenCount": 3,
+  "tokens": {
+    "equipped": [
+      "test_widget"
+    ],
+    "icon": [
+      "test_widget"
+    ],
+    "series": [
+      "test_widget"
+    ]
+  }
+}

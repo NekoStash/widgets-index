@@ -1,0 +1,18 @@
+{
+  "shard": "29",
+  "tokenCount": 4,
+  "tokens": {
+    "experience": [
+      "test_widget"
+    ],
+    "palettes": [
+      "test_widget"
+    ],
+    "sponsor": [
+      "test_widget"
+    ],
+    "with": [
+      "test_widget"
+    ]
+  }
+}

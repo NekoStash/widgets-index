@@ -1,0 +1,15 @@
+{
+  "shard": "34",
+  "tokenCount": 3,
+  "tokens": {
+    "easily": [
+      "test_widget"
+    ],
+    "test-widget": [
+      "test_widget"
+    ],
+    "xiaomi": [
+      "test_widget"
+    ]
+  }
+}

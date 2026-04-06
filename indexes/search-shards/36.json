@@ -1,0 +1,12 @@
+{
+  "shard": "36",
+  "tokenCount": 2,
+  "tokens": {
+    "like": [
+      "test_widget"
+    ],
+    "page": [
+      "test_widget"
+    ]
+  }
+}

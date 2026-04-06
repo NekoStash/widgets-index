@@ -1,0 +1,15 @@
+{
+  "shard": "37",
+  "tokenCount": 3,
+  "tokens": {
+    "extracts": [
+      "test_widget"
+    ],
+    "小米": [
+      "test_widget"
+    ],
+    "系列": [
+      "test_widget"
+    ]
+  }
+}

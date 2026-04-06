@@ -1,0 +1,12 @@
+{
+  "shard": "2a",
+  "tokenCount": 2,
+  "tokens": {
+    "animations": [
+      "test_widget"
+    ],
+    "gpl": [
+      "test_widget"
+    ]
+  }
+}

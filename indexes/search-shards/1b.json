@@ -1,0 +1,18 @@
+{
+  "shard": "1b",
+  "tokenCount": 4,
+  "tokens": {
+    "adaptive": [
+      "test_widget"
+    ],
+    "english": [
+      "test_widget"
+    ],
+    "free": [
+      "test_widget"
+    ],
+    "用于": [
+      "test_widget"
+    ]
+  }
+}

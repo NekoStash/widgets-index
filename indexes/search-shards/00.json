@@ -1,0 +1,21 @@
+{
+  "shard": "00",
+  "tokenCount": 5,
+  "tokens": {
+    "devices": [
+      "test_widget"
+    ],
+    "immersive": [
+      "test_widget"
+    ],
+    "keeping": [
+      "test_widget"
+    ],
+    "player": [
+      "test_widget"
+    ],
+    "smoothly": [
+      "test_widget"
+    ]
+  }
+}

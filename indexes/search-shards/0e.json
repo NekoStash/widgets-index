@@ -1,0 +1,18 @@
+{
+  "shard": "0e",
+  "tokenCount": 4,
+  "tokens": {
+    "deliver": [
+      "test_widget"
+    ],
+    "designed": [
+      "test_widget"
+    ],
+    "highly": [
+      "test_widget"
+    ],
+    "while": [
+      "test_widget"
+    ]
+  }
+}

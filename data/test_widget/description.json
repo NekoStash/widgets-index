@@ -1,0 +1,23 @@
+{
+  "id": "test_widget",
+  "indexedAt": "2026-04-06T15:18:21.581Z",
+  "sourceMetadataPath": "repos/test_widget/metadata.json",
+  "repository": {
+    "owner": "killerprojecte",
+    "name": "Test-Widget",
+    "fullName": "killerprojecte/Test-Widget",
+    "url": "https://github.com/killerprojecte/Test-Widget",
+    "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
+    "homepage": "",
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-04-06T13:20:52Z",
+    "updatedAt": "2026-04-06T13:23:10Z",
+    "pushedAt": "2026-04-06T13:23:02Z"
+  }
+}

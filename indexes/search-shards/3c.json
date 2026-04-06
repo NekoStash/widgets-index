@@ -1,0 +1,15 @@
+{
+  "shard": "3c",
+  "tokenCount": 3,
+  "tokens": {
+    "anserjim": [
+      "test_widget"
+    ],
+    "full": [
+      "test_widget"
+    ],
+    "track": [
+      "test_widget"
+    ]
+  }
+}

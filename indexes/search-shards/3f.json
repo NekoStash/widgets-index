@@ -1,0 +1,15 @@
+{
+  "shard": "3f",
+  "tokenCount": 3,
+  "tokens": {
+    "capabilities": [
+      "test_widget"
+    ],
+    "layout": [
+      "test_widget"
+    ],
+    "rearscreen": [
+      "test_widget"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "shard": "33",
+  "tokenCount": 4,
+  "tokens": {
+    "built": [
+      "test_widget"
+    ],
+    "compatible": [
+      "test_widget"
+    ],
+    "rearranging": [
+      "test_widget"
+    ],
+    "welcome": [
+      "test_widget"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "shard": "0d",
+  "tokenCount": 3,
+  "tokens": {
+    "are": [
+      "test_widget"
+    ],
+    "pause": [
+      "test_widget"
+    ],
+    "under": [
+      "test_widget"
+    ]
+  }
+}

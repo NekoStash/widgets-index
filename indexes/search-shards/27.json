@@ -1,0 +1,12 @@
+{
+  "shard": "27",
+  "tokenCount": 2,
+  "tokens": {
+    "aod": [
+      "test_widget"
+    ],
+    "me": [
+      "test_widget"
+    ]
+  }
+}

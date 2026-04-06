@@ -1,0 +1,9 @@
+{
+  "shard": "3b",
+  "tokenCount": 1,
+  "tokens": {
+    "ui": [
+      "test_widget"
+    ]
+  }
+}

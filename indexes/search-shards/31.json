@@ -1,0 +1,15 @@
+{
+  "shard": "31",
+  "tokenCount": 3,
+  "tokens": {
+    "colors": [
+      "test_widget"
+    ],
+    "miui": [
+      "test_widget"
+    ],
+    "star": [
+      "test_widget"
+    ]
+  }
+}
