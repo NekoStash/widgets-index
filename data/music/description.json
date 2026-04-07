@@ -1,7 +1,6 @@
 {
   "id": "music",
   "name": "音乐歌词",
-  "indexedAt": "2026-04-07T02:27:43.950Z",
   "sourceMetadataPath": "repos/music/metadata.json",
   "repository": {
     "widgetName": "音乐歌词",

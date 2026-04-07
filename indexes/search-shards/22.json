@@ -1,17 +1,12 @@
 {
   "shard": "22",
-  "tokenCount": 3,
+  "tokenCount": 2,
   "tokens": {
     "back": [
-      "music",
-      "test_widget"
-    ],
-    "killerprojecte": [
-      "test_widget"
+      "music"
     ],
     "transition": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

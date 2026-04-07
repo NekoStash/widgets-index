@@ -3,20 +3,16 @@
   "tokenCount": 4,
   "tokens": {
     "art": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "features": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "native": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "米背": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

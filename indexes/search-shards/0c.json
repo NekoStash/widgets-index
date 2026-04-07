@@ -3,12 +3,10 @@
   "tokenCount": 2,
   "tokens": {
     "elements": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "tint": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

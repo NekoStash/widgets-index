@@ -3,8 +3,7 @@
   "tokenCount": 2,
   "tokens": {
     "requests": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "xiaomi-rearscreen-music": [
       "music"

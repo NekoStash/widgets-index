@@ -3,16 +3,13 @@
   "tokenCount": 3,
   "tokens": {
     "are": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "pause": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "under": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

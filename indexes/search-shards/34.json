@@ -1,17 +1,12 @@
 {
   "shard": "34",
-  "tokenCount": 3,
+  "tokenCount": 2,
   "tokens": {
     "easily": [
-      "music",
-      "test_widget"
-    ],
-    "test-widget": [
-      "test_widget"
+      "music"
     ],
     "xiaomi": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

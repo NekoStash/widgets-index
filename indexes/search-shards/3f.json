@@ -3,16 +3,13 @@
   "tokenCount": 3,
   "tokens": {
     "capabilities": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "layout": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "rearscreen": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

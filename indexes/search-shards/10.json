@@ -3,16 +3,13 @@
   "tokenCount": 3,
   "tokens": {
     "for": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "it": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "on": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

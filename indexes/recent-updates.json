@@ -1,9 +1,9 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 1,
-  "components": {
-    "music": {
+  "limit": 20,
+  "items": [
+    {
       "id": "music",
       "name": "音乐歌词",
       "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
@@ -13,7 +13,12 @@
         "url": "https://github.com/SiberiaApp",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
         "type": "User"
+      },
+      "updatedAt": "2026-04-07T00:48:52.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",
+        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music"
       }
     }
-  }
+  ]
 }

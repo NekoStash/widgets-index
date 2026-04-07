@@ -3,12 +3,10 @@
   "tokenCount": 2,
   "tokens": {
     "animations": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "gpl": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

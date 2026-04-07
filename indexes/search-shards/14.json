@@ -3,24 +3,19 @@
   "tokenCount": 5,
   "tokens": {
     "contributions": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "effect": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "hypermaterial": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "lyric": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "music": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

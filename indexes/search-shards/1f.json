@@ -3,16 +3,13 @@
   "tokenCount": 3,
   "tokens": {
     "history": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "states": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "屏系": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

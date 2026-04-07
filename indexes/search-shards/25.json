@@ -1,17 +1,12 @@
 {
   "shard": "25",
-  "tokenCount": 3,
+  "tokenCount": 2,
   "tokens": {
     "lyrics": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "seamlessly": [
-      "music",
-      "test_widget"
-    ],
-    "test": [
-      "test_widget"
+      "music"
     ]
   }
 }

@@ -3,12 +3,10 @@
   "tokenCount": 2,
   "tokens": {
     "like": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "page": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

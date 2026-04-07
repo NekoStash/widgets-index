@@ -1,17 +1,12 @@
 {
   "shard": "3c",
-  "tokenCount": 3,
+  "tokenCount": 2,
   "tokens": {
-    "anserjim": [
-      "test_widget"
-    ],
     "full": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "track": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

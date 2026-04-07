@@ -3,20 +3,16 @@
   "tokenCount": 4,
   "tokens": {
     "leverages": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "media": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "rear": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "transitions": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

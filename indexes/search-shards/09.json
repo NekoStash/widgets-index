@@ -3,12 +3,10 @@
   "tokenCount": 2,
   "tokens": {
     "issues": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "title": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }

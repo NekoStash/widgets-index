@@ -3,16 +3,13 @@
   "tokenCount": 3,
   "tokens": {
     "custom": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "dynamic": [
-      "music",
-      "test_widget"
+      "music"
     ],
     "适用于小米背屏系列的音乐播放器": [
-      "music",
-      "test_widget"
+      "music"
     ]
   }
 }
