@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-07T01:12:59.572Z",
+  "generatedAt": "2026-04-07T02:27:43.950Z",
   "sourceRepo": "NekoStash/widgets-repo",
   "shardCount": 64,
   "tokenizer": {
@@ -105,7 +105,7 @@
     {
       "shard": "12",
       "path": "indexes/search-shards/12.json",
-      "tokenCount": 1
+      "tokenCount": 2
     },
     {
       "shard": "13",
@@ -140,7 +140,7 @@
     {
       "shard": "19",
       "path": "indexes/search-shards/19.json",
-      "tokenCount": 1
+      "tokenCount": 2
     },
     {
       "shard": "1a",
@@ -300,7 +300,7 @@
     {
       "shard": "39",
       "path": "indexes/search-shards/39.json",
-      "tokenCount": 1
+      "tokenCount": 2
     },
     {
       "shard": "3a",

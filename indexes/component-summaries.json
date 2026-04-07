@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-07T02:27:43.950Z",
+  "sourceRepo": "NekoStash/widgets-repo",
+  "componentCount": 2,
+  "components": {
+    "music": {
+      "id": "music",
+      "name": "音乐歌词",
+      "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "test_widget": {
+      "id": "test_widget",
+      "name": "Test Widget",
+      "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
+      "author": {
+        "login": "killerprojecte",
+        "name": "AnserJim",
+        "url": "https://github.com/killerprojecte",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81072191?v=4",
+        "type": "User"
+      }
+    }
+  }
+}

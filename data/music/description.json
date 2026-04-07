@@ -1,8 +1,10 @@
 {
   "id": "music",
-  "indexedAt": "2026-04-07T01:12:59.572Z",
+  "name": "音乐歌词",
+  "indexedAt": "2026-04-07T02:27:43.950Z",
   "sourceMetadataPath": "repos/music/metadata.json",
   "repository": {
+    "widgetName": "音乐歌词",
     "owner": "SiberiaApp",
     "name": "Xiaomi-RearScreen-Music",
     "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",

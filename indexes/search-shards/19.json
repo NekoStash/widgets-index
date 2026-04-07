@@ -1,10 +1,13 @@
 {
   "shard": "19",
-  "tokenCount": 1,
+  "tokenCount": 2,
   "tokens": {
     "audio": [
       "music",
       "test_widget"
+    ],
+    "音乐歌词": [
+      "music"
     ]
   }
 }

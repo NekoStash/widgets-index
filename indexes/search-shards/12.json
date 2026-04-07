@@ -1,9 +1,12 @@
 {
   "shard": "12",
-  "tokenCount": 1,
+  "tokenCount": 2,
   "tokens": {
     "test_widget": [
       "test_widget"
+    ],
+    "歌词": [
+      "music"
     ]
   }
 }
