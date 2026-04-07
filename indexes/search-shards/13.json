@@ -1,9 +1,13 @@
 {
   "shard": "13",
-  "tokenCount": 1,
+  "tokenCount": 2,
   "tokens": {
     "requests": [
+      "music",
       "test_widget"
+    ],
+    "xiaomi-rearscreen-music": [
+      "music"
     ]
   }
 }

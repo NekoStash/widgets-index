@@ -3,15 +3,19 @@
   "tokenCount": 4,
   "tokens": {
     "artist": [
+      "music",
       "test_widget"
     ],
     "control": [
+      "music",
       "test_widget"
     ],
     "elegantly": [
+      "music",
       "test_widget"
     ],
     "progresses": [
+      "music",
       "test_widget"
     ]
   }

@@ -3,15 +3,19 @@
   "tokenCount": 4,
   "tokens": {
     "built": [
+      "music",
       "test_widget"
     ],
     "compatible": [
+      "music",
       "test_widget"
     ],
     "rearranging": [
+      "music",
       "test_widget"
     ],
     "welcome": [
+      "music",
       "test_widget"
     ]
   }

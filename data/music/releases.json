@@ -1,0 +1,30 @@
+{
+  "id": "music",
+  "indexedAt": "2026-04-07T01:12:59.572Z",
+  "releases": [
+    {
+      "id": 305875788,
+      "tagName": "v2.0",
+      "name": "v2.0",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-03-18T06:09:34Z",
+      "publishedAt": "2026-04-07T00:38:59Z",
+      "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music/releases/tag/v2.0",
+      "body": "> [!IMPORTANT]\r\n> **重要更新提示**\r\n> 从 **v2.0** 版本开始，我们不再支持蓝牙歌词功能，而是基于小米原生歌词接口开发。\r\n\r\n为修复小米原生歌词接口，请提前下载并使用 **REAREye**。\r\n\r\n### 关于 REAREye\r\n**REAREye** 是适用于小米 17 Pro / Pro Max 及以后机型的背屏增强模块。基于 LSPosed / Xposed，为系统框架、背屏中心和主题管理提供更细粒度的可配置能力。\r\n\r\n* **下载地址：** [https://github.com/killerprojecte/REAREye](https://github.com/killerprojecte/REAREye)",
+      "assets": [
+        {
+          "id": 390420192,
+          "name": "Xiaomi-RearScreen-Music_v2.0.zip",
+          "label": null,
+          "size": 58037,
+          "contentType": "application/zip",
+          "downloadCount": 2,
+          "createdAt": "2026-04-07T00:38:36Z",
+          "updatedAt": "2026-04-07T00:38:39Z",
+          "downloadUrl": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music/releases/download/v2.0/Xiaomi-RearScreen-Music_v2.0.zip"
+        }
+      ]
+    }
+  ]
+}

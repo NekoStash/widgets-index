@@ -3,9 +3,11 @@
   "tokenCount": 2,
   "tokens": {
     "display": [
+      "music",
       "test_widget"
     ],
     "is": [
+      "music",
       "test_widget"
     ]
   }

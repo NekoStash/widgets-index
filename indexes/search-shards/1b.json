@@ -1,17 +1,24 @@
 {
   "shard": "1b",
-  "tokenCount": 4,
+  "tokenCount": 5,
   "tokens": {
     "adaptive": [
+      "music",
       "test_widget"
     ],
     "english": [
+      "music",
       "test_widget"
     ],
     "free": [
+      "music",
       "test_widget"
     ],
+    "siberiaapp": [
+      "music"
+    ],
     "用于": [
+      "music",
       "test_widget"
     ]
   }

@@ -3,12 +3,15 @@
   "tokenCount": 3,
   "tokens": {
     "equipped": [
+      "music",
       "test_widget"
     ],
     "icon": [
+      "music",
       "test_widget"
     ],
     "series": [
+      "music",
       "test_widget"
     ]
   }

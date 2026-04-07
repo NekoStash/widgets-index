@@ -3,12 +3,15 @@
   "tokenCount": 3,
   "tokens": {
     "colors": [
+      "music",
       "test_widget"
     ],
     "miui": [
+      "music",
       "test_widget"
     ],
     "star": [
+      "music",
       "test_widget"
     ]
   }

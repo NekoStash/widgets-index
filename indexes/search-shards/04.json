@@ -3,12 +3,15 @@
   "tokenCount": 3,
   "tokens": {
     "license": [
+      "music",
       "test_widget"
     ],
     "or": [
+      "music",
       "test_widget"
     ],
     "简体中文": [
+      "music",
       "test_widget"
     ]
   }

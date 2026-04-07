@@ -3,18 +3,23 @@
   "tokenCount": 5,
   "tokens": {
     "devices": [
+      "music",
       "test_widget"
     ],
     "immersive": [
+      "music",
       "test_widget"
     ],
     "keeping": [
+      "music",
       "test_widget"
     ],
     "player": [
+      "music",
       "test_widget"
     ],
     "smoothly": [
+      "music",
       "test_widget"
     ]
   }

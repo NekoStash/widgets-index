@@ -3,12 +3,14 @@
   "tokenCount": 3,
   "tokens": {
     "easily": [
+      "music",
       "test_widget"
     ],
     "test-widget": [
       "test_widget"
     ],
     "xiaomi": [
+      "music",
       "test_widget"
     ]
   }

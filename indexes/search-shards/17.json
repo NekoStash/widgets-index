@@ -3,9 +3,11 @@
   "tokenCount": 2,
   "tokens": {
     "controls": [
+      "music",
       "test_widget"
     ],
     "适用": [
+      "music",
       "test_widget"
     ]
   }

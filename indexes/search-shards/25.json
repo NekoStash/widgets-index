@@ -3,9 +3,11 @@
   "tokenCount": 3,
   "tokens": {
     "lyrics": [
+      "music",
       "test_widget"
     ],
     "seamlessly": [
+      "music",
       "test_widget"
     ],
     "test": [

@@ -3,9 +3,11 @@
   "tokenCount": 2,
   "tokens": {
     "album": [
+      "music",
       "test_widget"
     ],
     "背屏": [
+      "music",
       "test_widget"
     ]
   }

@@ -3,9 +3,11 @@
   "tokenCount": 2,
   "tokens": {
     "automatically": [
+      "music",
       "test_widget"
     ],
     "播放": [
+      "music",
       "test_widget"
     ]
   }

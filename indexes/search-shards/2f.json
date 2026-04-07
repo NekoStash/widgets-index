@@ -3,12 +3,15 @@
   "tokenCount": 3,
   "tokens": {
     "active": [
+      "music",
       "test_widget"
     ],
     "between": [
+      "music",
       "test_widget"
     ],
     "smooth": [
+      "music",
       "test_widget"
     ]
   }

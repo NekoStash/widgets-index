@@ -3,9 +3,11 @@
   "tokenCount": 2,
   "tokens": {
     "about": [
+      "music",
       "test_widget"
     ],
     "project": [
+      "music",
       "test_widget"
     ]
   }

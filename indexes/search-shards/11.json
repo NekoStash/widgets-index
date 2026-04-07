@@ -3,9 +3,11 @@
   "tokenCount": 2,
   "tokens": {
     "screen": [
+      "music",
       "test_widget"
     ],
     "whenever": [
+      "music",
       "test_widget"
     ]
   }

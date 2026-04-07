@@ -3,12 +3,15 @@
   "tokenCount": 3,
   "tokens": {
     "licensed": [
+      "music",
       "test_widget"
     ],
     "up": [
+      "music",
       "test_widget"
     ],
     "的音": [
+      "music",
       "test_widget"
     ]
   }

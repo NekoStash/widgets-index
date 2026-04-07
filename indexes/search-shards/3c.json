@@ -6,9 +6,11 @@
       "test_widget"
     ],
     "full": [
+      "music",
       "test_widget"
     ],
     "track": [
+      "music",
       "test_widget"
     ]
   }
