@@ -1,0 +1,10 @@
+{
+  "id": "music",
+  "widgetInfo": {
+    "name": "音乐歌词",
+    "business_setup": {
+      "id": "music",
+      "renameable": false
+    }
+  }
+}
