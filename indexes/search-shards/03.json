@@ -1,7 +1,10 @@
 {
   "shard": "03",
-  "tokenCount": 4,
+  "tokenCount": 13,
   "tokens": {
+    "fastboot": [
+      "weather"
+    ],
     "leverages": [
       "music"
     ],
@@ -13,6 +16,30 @@
     ],
     "transitions": [
       "music"
+    ],
+    "个独": [
+      "weather"
+    ],
+    "分辨": [
+      "weather"
+    ],
+    "副屏": [
+      "weather"
+    ],
+    "息屏": [
+      "weather"
+    ],
+    "摆轨": [
+      "weather"
+    ],
+    "空呼": [
+      "weather"
+    ],
+    "索更": [
+      "weather"
+    ],
+    "适应": [
+      "weather"
     ]
   }
 }

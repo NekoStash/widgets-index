@@ -1,12 +1,36 @@
 {
   "shard": "2a",
-  "tokenCount": 2,
+  "tokenCount": 10,
   "tokens": {
     "animations": [
       "music"
     ],
     "gpl": [
       "music"
+    ],
+    "maml": [
+      "weather"
+    ],
+    "体验": [
+      "weather"
+    ],
+    "兼顾极致视觉体验与设备续航": [
+      "weather"
+    ],
+    "内置": [
+      "weather"
+    ],
+    "影渲": [
+      "weather"
+    ],
+    "气语": [
+      "weather"
+    ],
+    "涉及": [
+      "weather"
+    ],
+    "轨迹": [
+      "weather"
     ]
   }
 }

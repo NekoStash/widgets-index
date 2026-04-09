@@ -1,9 +1,21 @@
 {
   "shard": "01",
-  "tokenCount": 1,
+  "tokenCount": 5,
   "tokens": {
     "this": [
       "music"
+    ],
+    "保仓": [
+      "weather"
+    ],
+    "度适": [
+      "weather"
+    ],
+    "显示": [
+      "weather"
+    ],
+    "核心业务逻辑与": [
+      "weather"
     ]
   }
 }

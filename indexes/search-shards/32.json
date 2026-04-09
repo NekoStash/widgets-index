@@ -1,12 +1,55 @@
 {
   "shard": "32",
-  "tokenCount": 2,
+  "tokenCount": 16,
   "tokens": {
     "automatically": [
       "music"
     ],
+    "request": [
+      "weather"
+    ],
+    "snow": [
+      "weather"
+    ],
+    "theme": [
+      "weather"
+    ],
+    "下完": [
+      "weather"
+    ],
+    "了使": [
+      "weather"
+    ],
+    "例和": [
+      "weather"
+    ],
+    "刷新": [
+      "weather"
+    ],
     "播放": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "杂元": [
+      "weather"
+    ],
+    "气内": [
+      "weather"
+    ],
+    "渲染": [
+      "weather"
+    ],
+    "粒子纹理贴图": [
+      "weather"
+    ],
+    "行热": [
+      "weather"
+    ],
+    "调整": [
+      "weather"
+    ],
+    "适用于小米背屏系列的天气小组件": [
+      "weather"
     ]
   }
 }

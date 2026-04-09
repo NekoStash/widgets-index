@@ -1,12 +1,30 @@
 {
   "shard": "22",
-  "tokenCount": 2,
+  "tokenCount": 8,
   "tokens": {
     "back": [
       "music"
     ],
     "transition": [
       "music"
+    ],
+    "动态": [
+      "weather"
+    ],
+    "天划": [
+      "weather"
+    ],
+    "屏动": [
+      "weather"
+    ],
+    "推送": [
+      "weather"
+    ],
+    "间段": [
+      "weather"
+    ],
+    "障碍": [
+      "weather"
     ]
   }
 }

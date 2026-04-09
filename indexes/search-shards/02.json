@@ -1,9 +1,36 @@
 {
   "shard": "02",
-  "tokenCount": 1,
+  "tokenCount": 10,
   "tokens": {
     "skip": [
       "music"
+    ],
+    "一天": [
+      "weather"
+    ],
+    "及其同级目录下的": [
+      "weather"
+    ],
+    "子纹": [
+      "weather"
+    ],
+    "源项": [
+      "weather"
+    ],
+    "目标": [
+      "weather"
+    ],
+    "等开源项目一起": [
+      "weather"
+    ],
+    "统默": [
+      "weather"
+    ],
+    "进行": [
+      "weather"
+    ],
+    "静止": [
+      "weather"
     ]
   }
 }

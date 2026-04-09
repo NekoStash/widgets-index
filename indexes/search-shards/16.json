@@ -1,15 +1,32 @@
 {
   "shard": "16",
-  "tokenCount": 3,
+  "tokenCount": 8,
   "tokens": {
+    "450": [
+      "weather"
+    ],
     "creating": [
       "music"
     ],
+    "元素": [
+      "weather"
+    ],
     "列的": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "及其他具备背屏的": [
+      "weather"
+    ],
+    "库到": [
+      "weather"
+    ],
+    "续航": [
+      "weather"
     ],
     "音乐": [
-      "music"
+      "music",
+      "weather"
     ]
   }
 }

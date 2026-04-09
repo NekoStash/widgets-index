@@ -1,9 +1,42 @@
 {
   "shard": "18",
-  "tokenCount": 1,
+  "tokenCount": 12,
   "tokens": {
+    "120hz": [
+      "weather"
+    ],
+    "cloud6": [
+      "weather"
+    ],
     "color": [
       "music"
+    ],
+    "pro": [
+      "weather"
+    ],
+    "出日": [
+      "weather"
+    ],
+    "核心特性": [
+      "weather"
+    ],
+    "比例": [
+      "weather"
+    ],
+    "状态": [
+      "weather"
+    ],
+    "用生": [
+      "weather"
+    ],
+    "触发": [
+      "weather"
+    ],
+    "适配": [
+      "weather"
+    ],
+    "速度": [
+      "weather"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 3,
+  "tokenCount": 16,
   "tokens": {
     "equipped": [
       "music"
@@ -10,6 +10,45 @@
     ],
     "series": [
       "music"
+    ],
+    "仅提": [
+      "weather"
+    ],
+    "你是": [
+      "weather"
+    ],
+    "到使": [
+      "weather"
+    ],
+    "天气": [
+      "weather"
+    ],
+    "屏微": [
+      "weather"
+    ],
+    "带有": [
+      "weather"
+    ],
+    "或改": [
+      "weather"
+    ],
+    "文件": [
+      "weather"
+    ],
+    "星空与云朵": [
+      "weather"
+    ],
+    "是从": [
+      "weather"
+    ],
+    "智能": [
+      "weather"
+    ],
+    "致力于丰富小米": [
+      "weather"
+    ],
+    "辨率": [
+      "weather"
     ]
   }
 }

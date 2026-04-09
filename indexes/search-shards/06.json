@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 3,
+  "tokenCount": 9,
   "tokens": {
     "power": [
       "music"
@@ -10,6 +10,24 @@
     ],
     "乐播": [
       "music"
+    ],
+    "大": [
+      "weather"
+    ],
+    "无缝": [
+      "weather"
+    ],
+    "气象": [
+      "weather"
+    ],
+    "片资": [
+      "weather"
+    ],
+    "立雨": [
+      "weather"
+    ],
+    "还内": [
+      "weather"
     ]
   }
 }

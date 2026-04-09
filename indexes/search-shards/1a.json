@@ -1,9 +1,45 @@
 {
   "shard": "1a",
-  "tokenCount": 1,
+  "tokenCount": 13,
   "tokens": {
     "current": [
       "music"
+    ],
+    "与副": [
+      "weather"
+    ],
+    "云层": [
+      "weather"
+    ],
+    "全天": [
+      "weather"
+    ],
+    "参与贡献": [
+      "weather"
+    ],
+    "夜晚晴空自动触发星空呼吸闪烁": [
+      "weather"
+    ],
+    "天空": [
+      "weather"
+    ],
+    "如果你是从头构建": [
+      "weather"
+    ],
+    "将文": [
+      "weather"
+    ],
+    "屏需": [
+      "weather"
+    ],
+    "引擎": [
+      "weather"
+    ],
+    "能或": [
+      "weather"
+    ],
+    "雨天": [
+      "weather"
     ]
   }
 }

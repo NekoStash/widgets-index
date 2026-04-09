@@ -1,9 +1,33 @@
 {
   "shard": "07",
-  "tokenCount": 1,
+  "tokenCount": 9,
   "tokens": {
     "check": [
       "music"
+    ],
+    "中包": [
+      "weather"
+    ],
+    "准的": [
+      "weather"
+    ],
+    "壁纸应用中": [
+      "weather"
+    ],
+    "息屏显示": [
+      "weather"
+    ],
+    "或者通过": [
+      "weather"
+    ],
+    "时间": [
+      "weather"
+    ],
+    "根据雨量": [
+      "weather"
+    ],
+    "率进": [
+      "weather"
     ]
   }
 }

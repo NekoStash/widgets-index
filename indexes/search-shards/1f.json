@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 3,
+  "tokenCount": 11,
   "tokens": {
     "history": [
       "music"
@@ -8,8 +8,33 @@
     "states": [
       "music"
     ],
+    "其同": [
+      "weather"
+    ],
+    "兼顾": [
+      "weather"
+    ],
+    "场动": [
+      "weather"
+    ],
+    "实的": [
+      "weather"
+    ],
     "屏系": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "系统": [
+      "weather"
+    ],
+    "级调": [
+      "weather"
+    ],
+    "至指": [
+      "weather"
+    ],
+    "还内置了极具沉浸感的粒子动效与全天候光影渲染": [
+      "weather"
     ]
   }
 }

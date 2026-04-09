@@ -1,12 +1,48 @@
 {
   "shard": "39",
-  "tokenCount": 2,
+  "tokenCount": 14,
   "tokens": {
     "visual": [
       "music"
     ],
+    "为微": [
+      "weather"
+    ],
     "乐歌": [
       "music"
+    ],
+    "关流": [
+      "weather"
+    ],
+    "分为": [
+      "weather"
+    ],
+    "到本": [
+      "weather"
+    ],
+    "呼吸": [
+      "weather"
+    ],
+    "本项目不仅提供了精准的天气数据展示": [
+      "weather"
+    ],
+    "朵缓": [
+      "weather"
+    ],
+    "的渐": [
+      "weather"
+    ],
+    "资源": [
+      "weather"
+    ],
+    "运行": [
+      "weather"
+    ],
+    "醒时": [
+      "weather"
+    ],
+    "默认": [
+      "weather"
     ]
   }
 }

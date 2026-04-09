@@ -1,7 +1,10 @@
 {
   "shard": "0e",
-  "tokenCount": 4,
+  "tokenCount": 16,
   "tokens": {
+    "adb": [
+      "weather"
+    ],
     "deliver": [
       "music"
     ],
@@ -13,6 +16,39 @@
     ],
     "while": [
       "music"
+    ],
+    "克隆本仓库到本地": [
+      "weather"
+    ],
+    "包为": [
+      "weather"
+    ],
+    "小组": [
+      "weather"
+    ],
+    "屏的": [
+      "weather"
+    ],
+    "极其": [
+      "weather"
+    ],
+    "深度": [
+      "weather"
+    ],
+    "添加": [
+      "weather"
+    ],
+    "用中": [
+      "weather"
+    ],
+    "的天": [
+      "weather"
+    ],
+    "结合正弦函数": [
+      "weather"
+    ],
+    "背屏动态天气微件": [
+      "weather"
     ]
   }
 }

@@ -1,12 +1,42 @@
 {
   "shard": "3c",
-  "tokenCount": 2,
+  "tokenCount": 12,
   "tokens": {
     "full": [
       "music"
     ],
     "track": [
       "music"
+    ],
+    "不同": [
+      "weather"
+    ],
+    "合正": [
+      "weather"
+    ],
+    "多云日照素材": [
+      "weather"
+    ],
+    "夹素": [
+      "weather"
+    ],
+    "提供": [
+      "weather"
+    ],
+    "星空": [
+      "weather"
+    ],
+    "演算": [
+      "weather"
+    ],
+    "调度": [
+      "weather"
+    ],
+    "辑器": [
+      "weather"
+    ],
+    "雪天": [
+      "weather"
     ]
   }
 }

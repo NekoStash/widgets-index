@@ -1,5 +1,42 @@
 {
   "shard": "0f",
-  "tokenCount": 0,
-  "tokens": {}
+  "tokenCount": 12,
+  "tokens": {
+    "云天": [
+      "weather"
+    ],
+    "光影": [
+      "weather"
+    ],
+    "动挂": [
+      "weather"
+    ],
+    "升至": [
+      "weather"
+    ],
+    "变色": [
+      "weather"
+    ],
+    "据此": [
+      "weather"
+    ],
+    "自动": [
+      "weather"
+    ],
+    "行精": [
+      "weather"
+    ],
+    "请确保仓库中包含以下素材结构": [
+      "weather"
+    ],
+    "读屏": [
+      "weather"
+    ],
+    "量身": [
+      "weather"
+    ],
+    "隆本": [
+      "weather"
+    ]
+  }
 }

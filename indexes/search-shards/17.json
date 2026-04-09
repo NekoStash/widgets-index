@@ -1,12 +1,40 @@
 {
   "shard": "17",
-  "tokenCount": 2,
+  "tokenCount": 11,
   "tokens": {
     "controls": [
       "music"
     ],
+    "preview": [
+      "weather"
+    ],
+    "作时": [
+      "weather"
+    ],
+    "及到": [
+      "weather"
+    ],
+    "吸闪": [
+      "weather"
+    ],
+    "和分": [
+      "weather"
+    ],
+    "气微": [
+      "weather"
+    ],
+    "的图": [
+      "weather"
+    ],
+    "算逻": [
+      "weather"
+    ],
+    "进行高级调试": [
+      "weather"
+    ],
     "适用": [
-      "music"
+      "music",
+      "weather"
     ]
   }
 }

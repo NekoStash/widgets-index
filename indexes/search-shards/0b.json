@@ -1,9 +1,27 @@
 {
   "shard": "0b",
-  "tokenCount": 1,
+  "tokenCount": 7,
   "tokens": {
+    "15": [
+      "weather"
+    ],
     "go": [
       "music"
+    ],
+    "断网": [
+      "weather"
+    ],
+    "机的": [
+      "weather"
+    ],
+    "构建": [
+      "weather"
+    ],
+    "根据系统日出日落时间": [
+      "weather"
+    ],
+    "载态": [
+      "weather"
     ]
   }
 }

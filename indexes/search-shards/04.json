@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 3,
+  "tokenCount": 12,
   "tokens": {
     "license": [
       "music"
@@ -8,8 +8,35 @@
     "or": [
       "music"
     ],
+    "业务": [
+      "weather"
+    ],
+    "动画": [
+      "weather"
+    ],
+    "态素": [
+      "weather"
+    ],
+    "或者": [
+      "weather"
+    ],
+    "据依": [
+      "weather"
+    ],
+    "确保": [
+      "weather"
+    ],
     "简体中文": [
       "music"
+    ],
+    "缺省": [
+      "weather"
+    ],
+    "觉效": [
+      "weather"
+    ],
+    "请根据此目录放入对应的图片资产": [
+      "weather"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 3,
+  "tokenCount": 15,
   "tokens": {
     "capabilities": [
       "music"
@@ -9,7 +9,44 @@
       "music"
     ],
     "rearscreen": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "从头": [
+      "weather"
+    ],
+    "完美": [
+      "weather"
+    ],
+    "层素": [
+      "weather"
+    ],
+    "态天": [
+      "weather"
+    ],
+    "据气": [
+      "weather"
+    ],
+    "气带": [
+      "weather"
+    ],
+    "视障": [
+      "weather"
+    ],
+    "粒子": [
+      "weather"
+    ],
+    "组件": [
+      "weather"
+    ],
+    "致视": [
+      "weather"
+    ],
+    "重载": [
+      "weather"
+    ],
+    "验与": [
+      "weather"
     ]
   }
 }

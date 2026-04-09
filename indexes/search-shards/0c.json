@@ -1,12 +1,39 @@
 {
   "shard": "0c",
-  "tokenCount": 2,
+  "tokenCount": 11,
   "tokens": {
     "elements": [
       "music"
     ],
     "tint": [
       "music"
+    ],
+    "切换": [
+      "weather"
+    ],
+    "将一天划分为": [
+      "weather"
+    ],
+    "操作": [
+      "weather"
+    ],
+    "放入": [
+      "weather"
+    ],
+    "核心": [
+      "weather"
+    ],
+    "正常渲染视觉效果": [
+      "weather"
+    ],
+    "自适应刷新率控制": [
+      "weather"
+    ],
+    "行环": [
+      "weather"
+    ],
+    "起渲": [
+      "weather"
     ]
   }
 }

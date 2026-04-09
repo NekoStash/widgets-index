@@ -1,9 +1,36 @@
 {
   "shard": "12",
-  "tokenCount": 1,
+  "tokenCount": 10,
   "tokens": {
+    "使用": [
+      "weather"
+    ],
+    "图片": [
+      "weather"
+    ],
+    "态自": [
+      "weather"
+    ],
+    "或小": [
+      "weather"
+    ],
+    "星星星芒": [
+      "weather"
+    ],
+    "机型": [
+      "weather"
+    ],
     "歌词": [
       "music"
+    ],
+    "照素": [
+      "weather"
+    ],
+    "结构": [
+      "weather"
+    ],
+    "设备": [
+      "weather"
     ]
   }
 }

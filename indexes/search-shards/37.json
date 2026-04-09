@@ -1,15 +1,38 @@
 {
   "shard": "37",
-  "tokenCount": 3,
+  "tokenCount": 10,
   "tokens": {
     "extracts": [
       "music"
     ],
+    "loading": [
+      "weather"
+    ],
+    "制的": [
+      "weather"
+    ],
+    "动态调整下落速度与透明度": [
+      "weather"
+    ],
     "小米": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "屏音": [
+      "weather"
+    ],
+    "属背": [
+      "weather"
+    ],
+    "理贴": [
+      "weather"
     ],
     "系列": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "资源目录结构": [
+      "weather"
     ]
   }
 }

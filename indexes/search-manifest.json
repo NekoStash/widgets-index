@@ -9,327 +9,327 @@
     "readmeSearchLimit": 20000,
     "shardAlgorithm": "fnv1a32-mod"
   },
-  "componentCount": 1,
+  "componentCount": 2,
   "shards": [
     {
       "shard": "00",
       "path": "indexes/search-shards/00.json",
-      "tokenCount": 5
+      "tokenCount": 16
     },
     {
       "shard": "01",
       "path": "indexes/search-shards/01.json",
-      "tokenCount": 1
+      "tokenCount": 5
     },
     {
       "shard": "02",
       "path": "indexes/search-shards/02.json",
-      "tokenCount": 1
+      "tokenCount": 10
     },
     {
       "shard": "03",
       "path": "indexes/search-shards/03.json",
-      "tokenCount": 4
+      "tokenCount": 13
     },
     {
       "shard": "04",
       "path": "indexes/search-shards/04.json",
-      "tokenCount": 3
+      "tokenCount": 12
     },
     {
       "shard": "05",
       "path": "indexes/search-shards/05.json",
-      "tokenCount": 1
+      "tokenCount": 14
     },
     {
       "shard": "06",
       "path": "indexes/search-shards/06.json",
-      "tokenCount": 3
+      "tokenCount": 9
     },
     {
       "shard": "07",
       "path": "indexes/search-shards/07.json",
-      "tokenCount": 1
+      "tokenCount": 9
     },
     {
       "shard": "08",
       "path": "indexes/search-shards/08.json",
-      "tokenCount": 1
+      "tokenCount": 13
     },
     {
       "shard": "09",
       "path": "indexes/search-shards/09.json",
-      "tokenCount": 2
+      "tokenCount": 11
     },
     {
       "shard": "0a",
       "path": "indexes/search-shards/0a.json",
-      "tokenCount": 4
+      "tokenCount": 13
     },
     {
       "shard": "0b",
       "path": "indexes/search-shards/0b.json",
-      "tokenCount": 1
+      "tokenCount": 7
     },
     {
       "shard": "0c",
       "path": "indexes/search-shards/0c.json",
-      "tokenCount": 2
+      "tokenCount": 11
     },
     {
       "shard": "0d",
       "path": "indexes/search-shards/0d.json",
-      "tokenCount": 3
+      "tokenCount": 13
     },
     {
       "shard": "0e",
       "path": "indexes/search-shards/0e.json",
-      "tokenCount": 4
+      "tokenCount": 16
     },
     {
       "shard": "0f",
       "path": "indexes/search-shards/0f.json",
-      "tokenCount": 0
+      "tokenCount": 12
     },
     {
       "shard": "10",
       "path": "indexes/search-shards/10.json",
-      "tokenCount": 3
+      "tokenCount": 14
     },
     {
       "shard": "11",
       "path": "indexes/search-shards/11.json",
-      "tokenCount": 2
+      "tokenCount": 14
     },
     {
       "shard": "12",
       "path": "indexes/search-shards/12.json",
-      "tokenCount": 1
+      "tokenCount": 10
     },
     {
       "shard": "13",
       "path": "indexes/search-shards/13.json",
-      "tokenCount": 2
+      "tokenCount": 16
     },
     {
       "shard": "14",
       "path": "indexes/search-shards/14.json",
-      "tokenCount": 5
+      "tokenCount": 16
     },
     {
       "shard": "15",
       "path": "indexes/search-shards/15.json",
-      "tokenCount": 2
+      "tokenCount": 12
     },
     {
       "shard": "16",
       "path": "indexes/search-shards/16.json",
-      "tokenCount": 3
+      "tokenCount": 8
     },
     {
       "shard": "17",
       "path": "indexes/search-shards/17.json",
-      "tokenCount": 2
+      "tokenCount": 11
     },
     {
       "shard": "18",
       "path": "indexes/search-shards/18.json",
-      "tokenCount": 1
+      "tokenCount": 12
     },
     {
       "shard": "19",
       "path": "indexes/search-shards/19.json",
-      "tokenCount": 2
+      "tokenCount": 15
     },
     {
       "shard": "1a",
       "path": "indexes/search-shards/1a.json",
-      "tokenCount": 1
+      "tokenCount": 13
     },
     {
       "shard": "1b",
       "path": "indexes/search-shards/1b.json",
-      "tokenCount": 5
+      "tokenCount": 16
     },
     {
       "shard": "1c",
       "path": "indexes/search-shards/1c.json",
-      "tokenCount": 1
+      "tokenCount": 12
     },
     {
       "shard": "1d",
       "path": "indexes/search-shards/1d.json",
-      "tokenCount": 3
+      "tokenCount": 16
     },
     {
       "shard": "1e",
       "path": "indexes/search-shards/1e.json",
-      "tokenCount": 4
+      "tokenCount": 15
     },
     {
       "shard": "1f",
       "path": "indexes/search-shards/1f.json",
-      "tokenCount": 3
+      "tokenCount": 11
     },
     {
       "shard": "20",
       "path": "indexes/search-shards/20.json",
-      "tokenCount": 3
+      "tokenCount": 13
     },
     {
       "shard": "21",
       "path": "indexes/search-shards/21.json",
-      "tokenCount": 1
+      "tokenCount": 12
     },
     {
       "shard": "22",
       "path": "indexes/search-shards/22.json",
-      "tokenCount": 2
+      "tokenCount": 8
     },
     {
       "shard": "23",
       "path": "indexes/search-shards/23.json",
-      "tokenCount": 4
+      "tokenCount": 18
     },
     {
       "shard": "24",
       "path": "indexes/search-shards/24.json",
-      "tokenCount": 3
+      "tokenCount": 10
     },
     {
       "shard": "25",
       "path": "indexes/search-shards/25.json",
-      "tokenCount": 2
+      "tokenCount": 10
     },
     {
       "shard": "26",
       "path": "indexes/search-shards/26.json",
-      "tokenCount": 4
+      "tokenCount": 12
     },
     {
       "shard": "27",
       "path": "indexes/search-shards/27.json",
-      "tokenCount": 2
+      "tokenCount": 14
     },
     {
       "shard": "28",
       "path": "indexes/search-shards/28.json",
-      "tokenCount": 2
+      "tokenCount": 11
     },
     {
       "shard": "29",
       "path": "indexes/search-shards/29.json",
-      "tokenCount": 4
+      "tokenCount": 11
     },
     {
       "shard": "2a",
       "path": "indexes/search-shards/2a.json",
-      "tokenCount": 2
+      "tokenCount": 10
     },
     {
       "shard": "2b",
       "path": "indexes/search-shards/2b.json",
-      "tokenCount": 1
+      "tokenCount": 14
     },
     {
       "shard": "2c",
       "path": "indexes/search-shards/2c.json",
-      "tokenCount": 2
+      "tokenCount": 14
     },
     {
       "shard": "2d",
       "path": "indexes/search-shards/2d.json",
-      "tokenCount": 1
+      "tokenCount": 5
     },
     {
       "shard": "2e",
       "path": "indexes/search-shards/2e.json",
-      "tokenCount": 3
+      "tokenCount": 14
     },
     {
       "shard": "2f",
       "path": "indexes/search-shards/2f.json",
-      "tokenCount": 3
+      "tokenCount": 10
     },
     {
       "shard": "30",
       "path": "indexes/search-shards/30.json",
-      "tokenCount": 3
+      "tokenCount": 16
     },
     {
       "shard": "31",
       "path": "indexes/search-shards/31.json",
-      "tokenCount": 3
+      "tokenCount": 23
     },
     {
       "shard": "32",
       "path": "indexes/search-shards/32.json",
-      "tokenCount": 2
+      "tokenCount": 16
     },
     {
       "shard": "33",
       "path": "indexes/search-shards/33.json",
-      "tokenCount": 4
+      "tokenCount": 14
     },
     {
       "shard": "34",
       "path": "indexes/search-shards/34.json",
-      "tokenCount": 2
+      "tokenCount": 13
     },
     {
       "shard": "35",
       "path": "indexes/search-shards/35.json",
-      "tokenCount": 2
+      "tokenCount": 12
     },
     {
       "shard": "36",
       "path": "indexes/search-shards/36.json",
-      "tokenCount": 2
+      "tokenCount": 13
     },
     {
       "shard": "37",
       "path": "indexes/search-shards/37.json",
-      "tokenCount": 3
+      "tokenCount": 10
     },
     {
       "shard": "38",
       "path": "indexes/search-shards/38.json",
-      "tokenCount": 0
+      "tokenCount": 19
     },
     {
       "shard": "39",
       "path": "indexes/search-shards/39.json",
-      "tokenCount": 2
+      "tokenCount": 14
     },
     {
       "shard": "3a",
       "path": "indexes/search-shards/3a.json",
-      "tokenCount": 2
+      "tokenCount": 14
     },
     {
       "shard": "3b",
       "path": "indexes/search-shards/3b.json",
-      "tokenCount": 1
+      "tokenCount": 13
     },
     {
       "shard": "3c",
       "path": "indexes/search-shards/3c.json",
-      "tokenCount": 2
+      "tokenCount": 12
     },
     {
       "shard": "3d",
       "path": "indexes/search-shards/3d.json",
-      "tokenCount": 3
+      "tokenCount": 13
     },
     {
       "shard": "3e",
       "path": "indexes/search-shards/3e.json",
-      "tokenCount": 2
+      "tokenCount": 13
     },
     {
       "shard": "3f",
       "path": "indexes/search-shards/3f.json",
-      "tokenCount": 3
+      "tokenCount": 15
     }
   ]
 }

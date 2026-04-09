@@ -1,9 +1,45 @@
 {
   "shard": "08",
-  "tokenCount": 1,
+  "tokenCount": 13,
   "tokens": {
     "save": [
       "music"
+    ],
+    "talkback": [
+      "weather"
+    ],
+    "专为": [
+      "weather"
+    ],
+    "内置极其细腻的渐变色计算逻辑": [
+      "weather"
+    ],
+    "函数": [
+      "weather"
+    ],
+    "唤醒时通过": [
+      "weather"
+    ],
+    "本仓": [
+      "weather"
+    ],
+    "标设": [
+      "weather"
+    ],
+    "浸感": [
+      "weather"
+    ],
+    "破系": [
+      "weather"
+    ],
+    "置天": [
+      "weather"
+    ],
+    "请确": [
+      "weather"
+    ],
+    "雨量": [
+      "weather"
     ]
   }
 }

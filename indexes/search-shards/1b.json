@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 5,
+  "tokenCount": 16,
   "tokens": {
     "adaptive": [
       "music"
@@ -12,10 +12,45 @@
       "music"
     ],
     "siberiaapp": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "丝滑": [
+      "weather"
+    ],
+    "云日": [
+      "weather"
+    ],
+    "件限": [
+      "weather"
+    ],
+    "入对": [
+      "weather"
+    ],
+    "在风": [
+      "weather"
+    ],
+    "如果": [
+      "weather"
+    ],
+    "据动": [
+      "weather"
+    ],
+    "据雨": [
+      "weather"
+    ],
+    "晴空": [
+      "weather"
+    ],
+    "暂停": [
+      "weather"
     ],
     "用于": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "译工": [
+      "weather"
     ]
   }
 }

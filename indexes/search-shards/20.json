@@ -1,15 +1,45 @@
 {
   "shard": "20",
-  "tokenCount": 3,
+  "tokenCount": 13,
   "tokens": {
+    "folme": [
+      "weather"
+    ],
     "licensed": [
       "music"
     ],
     "up": [
       "music"
     ],
+    "你熟": [
+      "weather"
+    ],
+    "具或": [
+      "weather"
+    ],
+    "对应": [
+      "weather"
+    ],
+    "摇摆": [
+      "weather"
+    ],
+    "时物": [
+      "weather"
+    ],
+    "用户": [
+      "weather"
+    ],
+    "的平": [
+      "weather"
+    ],
     "的音": [
       "music"
+    ],
+    "算并": [
+      "weather"
+    ],
+    "顾极": [
+      "weather"
     ]
   }
 }

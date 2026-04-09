@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 4,
+  "tokenCount": 14,
   "tokens": {
     "built": [
       "music"
@@ -13,6 +13,36 @@
     ],
     "welcome": [
       "music"
+    ],
+    "于丰": [
+      "weather"
+    ],
+    "交互": [
+      "weather"
+    ],
+    "唤醒": [
+      "weather"
+    ],
+    "在状": [
+      "weather"
+    ],
+    "声明": [
+      "weather"
+    ],
+    "安装": [
+      "weather"
+    ],
+    "整适": [
+      "weather"
+    ],
+    "断网或加载态素材": [
+      "weather"
+    ],
+    "源目": [
+      "weather"
+    ],
+    "运行环境": [
+      "weather"
     ]
   }
 }

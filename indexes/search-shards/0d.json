@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 3,
+  "tokenCount": 13,
   "tokens": {
     "are": [
       "music"
@@ -10,6 +10,36 @@
     ],
     "under": [
       "music"
+    ],
+    "其他": [
+      "weather"
+    ],
+    "动效": [
+      "weather"
+    ],
+    "完整": [
+      "weather"
+    ],
+    "支持": [
+      "weather"
+    ],
+    "时自动隐藏复杂元素并暂停粒子动画": [
+      "weather"
+    ],
+    "构完": [
+      "weather"
+    ],
+    "测试": [
+      "weather"
+    ],
+    "的背": [
+      "weather"
+    ],
+    "空色": [
+      "weather"
+    ],
+    "进入": [
+      "weather"
     ]
   }
 }

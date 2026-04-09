@@ -1,6 +1,6 @@
 {
   "shard": "2e",
-  "tokenCount": 3,
+  "tokenCount": 14,
   "tokens": {
     "custom": [
       "music"
@@ -8,8 +8,41 @@
     "dynamic": [
       "music"
     ],
+    "与测": [
+      "weather"
+    ],
+    "件打": [
+      "weather"
+    ],
+    "入场": [
+      "weather"
+    ],
+    "在不": [
+      "weather"
+    ],
+    "复杂": [
+      "weather"
+    ],
+    "屏交": [
+      "weather"
+    ],
+    "日出": [
+      "weather"
+    ],
+    "根据": [
+      "weather"
+    ],
+    "者通": [
+      "weather"
+    ],
     "适用于小米背屏系列的音乐播放器": [
       "music"
+    ],
+    "项目": [
+      "weather"
+    ],
+    "飘落": [
+      "weather"
     ]
   }
 }

@@ -1,9 +1,49 @@
 {
   "shard": "05",
-  "tokenCount": 1,
+  "tokenCount": 14,
   "tokens": {
+    "cloudy": [
+      "weather"
+    ],
     "widget": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "个基": [
+      "weather"
+    ],
+    "了精": [
+      "weather"
+    ],
+    "动隐": [
+      "weather"
+    ],
+    "应的": [
+      "weather"
+    ],
+    "微件": [
+      "weather"
+    ],
+    "态下": [
+      "weather"
+    ],
+    "探索": [
+      "weather"
+    ],
+    "日照": [
+      "weather"
+    ],
+    "流程": [
+      "weather"
+    ],
+    "空自": [
+      "weather"
+    ],
+    "缓入": [
+      "weather"
+    ],
+    "过渡": [
+      "weather"
     ]
   }
 }

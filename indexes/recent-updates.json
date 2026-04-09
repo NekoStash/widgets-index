@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "weather",
+      "name": "背屏天气",
+      "description": "适用于小米背屏系列的天气小组件。",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-09T09:58:40.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Xiaomi-RearScreen-Weather",
+        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather"
+      }
+    },
+    {
       "id": "music",
       "name": "音乐歌词",
       "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",

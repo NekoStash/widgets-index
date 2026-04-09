@@ -1,0 +1,17 @@
+{
+  "id": "weather",
+  "widgetInfo": {
+    "name": "背屏天气",
+    "business_setup": {
+      "id": "weather",
+      "renameable": true
+    },
+    "card_setup": {
+      "name": "背屏天气",
+      "package": "hk.uwu.reareye",
+      "priority": 500,
+      "sticky": true,
+      "renameable": true
+    }
+  }
+}

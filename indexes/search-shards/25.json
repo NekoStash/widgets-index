@@ -1,12 +1,36 @@
 {
   "shard": "25",
-  "tokenCount": 2,
+  "tokenCount": 10,
   "tokens": {
     "lyrics": [
       "music"
     ],
     "seamlessly": [
       "music"
+    ],
+    "件目": [
+      "weather"
+    ],
+    "头构": [
+      "weather"
+    ],
+    "子动": [
+      "weather"
+    ],
+    "导入至手机的主题": [
+      "weather"
+    ],
+    "打包": [
+      "weather"
+    ],
+    "熟悉": [
+      "weather"
+    ],
+    "精准": [
+      "weather"
+    ],
+    "调试": [
+      "weather"
     ]
   }
 }

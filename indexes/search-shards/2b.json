@@ -1,9 +1,48 @@
 {
   "shard": "2b",
-  "tokenCount": 1,
+  "tokenCount": 14,
   "tokens": {
+    "云朵": [
+      "weather"
+    ],
+    "仅在状态切换或动画播放时拉升至": [
+      "weather"
+    ],
+    "停粒": [
+      "weather"
+    ],
+    "定的": [
+      "weather"
+    ],
+    "帧率降至": [
+      "weather"
+    ],
+    "影引": [
+      "weather"
+    ],
+    "或加": [
+      "weather"
+    ],
+    "或推送至指定的副屏微件目录进行热重载测试": [
+      "weather"
+    ],
+    "接天": [
+      "weather"
+    ],
     "放器": [
       "music"
+    ],
+    "架开": [
+      "weather"
+    ],
+    "素并": [
+      "weather"
+    ],
+    "至手": [
+      "weather"
+    ],
+    "风飘": [
+      "weather"
     ]
   }
 }

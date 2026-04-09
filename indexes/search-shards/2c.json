@@ -1,12 +1,49 @@
 {
   "shard": "2c",
-  "tokenCount": 2,
+  "tokenCount": 14,
   "tokens": {
     "album": [
       "music"
     ],
+    "xiaomi-rearscreen-weather": [
+      "weather"
+    ],
+    "与副屏音乐": [
+      "weather"
+    ],
+    "容提": [
+      "weather"
+    ],
+    "富小": [
+      "weather"
+    ],
+    "对齐": [
+      "weather"
+    ],
+    "弦函": [
+      "weather"
+    ],
+    "态动": [
+      "weather"
+    ],
+    "据展": [
+      "weather"
+    ],
+    "染视": [
+      "weather"
+    ],
+    "根据气象数据动态拼接天气语音播报": [
+      "weather"
+    ],
+    "目录": [
+      "weather"
+    ],
+    "等开": [
+      "weather"
+    ],
     "背屏": [
-      "music"
+      "music",
+      "weather"
     ]
   }
 }
