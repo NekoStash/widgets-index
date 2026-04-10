@@ -2,6 +2,30 @@
   "id": "weather",
   "releases": [
     {
+      "id": 307500354,
+      "tagName": "v1.1",
+      "name": "v1.1",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-04-09T09:56:57Z",
+      "publishedAt": "2026-04-10T11:19:29Z",
+      "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather/releases/tag/v1.1",
+      "body": "<p dir=\"auto\">修复跳转应用的问题。</p>",
+      "assets": [
+        {
+          "id": 393210565,
+          "name": "Xiaomi-RearScreen-Weather_v1.1.zip",
+          "label": null,
+          "size": 710935,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 2,
+          "createdAt": "2026-04-10T11:19:24Z",
+          "updatedAt": "2026-04-10T11:19:27Z",
+          "downloadUrl": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather/releases/download/v1.1/Xiaomi-RearScreen-Weather_v1.1.zip"
+        }
+      ]
+    },
+    {
       "id": 306990268,
       "tagName": "v1.0",
       "name": "v1.0",
