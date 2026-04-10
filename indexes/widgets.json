@@ -1,0 +1,32 @@
+[
+  {
+    "id": "business",
+    "name": "[适配Todo便签]超级背屏岛Pro",
+    "authorName": "SiberiaApp",
+    "authorId": "SiberiaApp",
+    "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
+    "latestReleaseTag": "Beta-0.2",
+    "latestReleasePublishedAt": "2026-04-10T00:08:58.000Z",
+    "stars": 0
+  },
+  {
+    "id": "music",
+    "name": "音乐歌词",
+    "authorName": "SiberiaApp",
+    "authorId": "SiberiaApp",
+    "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
+    "latestReleaseTag": "v2.0",
+    "latestReleasePublishedAt": "2026-04-07T00:38:59.000Z",
+    "stars": 2
+  },
+  {
+    "id": "weather",
+    "name": "背屏天气",
+    "authorName": "SiberiaApp",
+    "authorId": "SiberiaApp",
+    "description": "适用于小米背屏系列的天气小组件。",
+    "latestReleaseTag": "v1.0",
+    "latestReleasePublishedAt": "2026-04-09T09:58:40.000Z",
+    "stars": 0
+  }
+]
