@@ -1,6 +1,6 @@
 {
   "shard": "19",
-  "tokenCount": 15,
+  "tokenCount": 17,
   "tokens": {
     "audio": [
       "music"
@@ -15,10 +15,17 @@
       "weather"
     ],
     "基于": [
+      "business",
       "weather"
+    ],
+    "层焦": [
+      "business"
     ],
     "录结": [
       "weather"
+    ],
+    "或触发外卖状态": [
+      "business"
     ],
     "拉升": [
       "weather"

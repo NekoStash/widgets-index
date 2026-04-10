@@ -1,8 +1,9 @@
 {
   "shard": "20",
-  "tokenCount": 13,
+  "tokenCount": 18,
   "tokens": {
     "folme": [
+      "business",
       "weather"
     ],
     "licensed": [
@@ -18,7 +19,11 @@
       "weather"
     ],
     "对应": [
+      "business",
       "weather"
+    ],
+    "射至": [
+      "business"
     ],
     "摇摆": [
       "weather"
@@ -26,10 +31,17 @@
     "时物": [
       "weather"
     ],
+    "焦点": [
+      "business"
+    ],
     "用户": [
       "weather"
     ],
+    "的关": [
+      "business"
+    ],
     "的平": [
+      "business",
       "weather"
     ],
     "的音": [
@@ -38,8 +50,14 @@
     "算并": [
       "weather"
     ],
+    "觉资": [
+      "business"
+    ],
     "顾极": [
       "weather"
+    ],
+    "题文": [
+      "business"
     ]
   }
 }

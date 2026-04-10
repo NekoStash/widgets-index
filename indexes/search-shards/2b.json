@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 14,
+  "tokenCount": 16,
   "tokens": {
     "云朵": [
       "weather"
@@ -10,6 +10,12 @@
     ],
     "停粒": [
       "weather"
+    ],
+    "动回": [
+      "business"
+    ],
+    "和": [
+      "business"
     ],
     "定的": [
       "weather"

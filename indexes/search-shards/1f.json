@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 11,
+  "tokenCount": 20,
   "tokens": {
     "history": [
       "music"
@@ -14,17 +14,42 @@
     "兼顾": [
       "weather"
     ],
+    "命名为": [
+      "business"
+    ],
     "场动": [
       "weather"
     ],
     "实的": [
       "weather"
     ],
+    "屏主": [
+      "business"
+    ],
     "屏系": [
       "music",
       "weather"
     ],
+    "并放置于主题包的": [
+      "business"
+    ],
+    "开发者说明": [
+      "business"
+    ],
+    "搭载": [
+      "business"
+    ],
+    "时同": [
+      "business"
+    ],
+    "时掌": [
+      "business"
+    ],
+    "汉堡": [
+      "business"
+    ],
     "系统": [
+      "business",
       "weather"
     ],
     "级调": [
@@ -35,6 +60,9 @@
     ],
     "还内置了极具沉浸感的粒子动效与全天候光影渲染": [
       "weather"
+    ],
+    "进行深度逻辑优化": [
+      "business"
     ]
   }
 }

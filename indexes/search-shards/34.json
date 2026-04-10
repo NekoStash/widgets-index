@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 13,
+  "tokenCount": 19,
   "tokens": {
     "easily": [
       "music"
@@ -9,14 +9,22 @@
       "weather"
     ],
     "xiaomi": [
+      "business",
       "music",
       "weather"
     ],
     "专属": [
+      "business",
       "weather"
+    ],
+    "中的": [
+      "business"
     ],
     "供了": [
       "weather"
+    ],
+    "别外": [
+      "business"
     ],
     "屏适": [
       "weather"
@@ -27,6 +35,9 @@
     "星芒": [
       "weather"
     ],
+    "王茶": [
+      "business"
+    ],
     "的副": [
       "weather"
     ],
@@ -36,8 +47,17 @@
     "目不": [
       "weather"
     ],
+    "目前": [
+      "business"
+    ],
     "色彩": [
       "weather"
+    ],
+    "节点": [
+      "business"
+    ],
+    "键词": [
+      "business"
     ],
     "闪烁": [
       "weather"

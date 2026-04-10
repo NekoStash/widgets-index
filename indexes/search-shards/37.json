@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 10,
+  "tokenCount": 18,
   "tokens": {
     "extracts": [
       "music"
@@ -9,12 +9,23 @@
       "weather"
     ],
     "制的": [
+      "business",
       "weather"
     ],
     "动态调整下落速度与透明度": [
       "weather"
     ],
+    "动画引擎": [
+      "business"
+    ],
+    "包名": [
+      "business"
+    ],
+    "如添加新品牌": [
+      "business"
+    ],
     "小米": [
+      "business",
       "music",
       "weather"
     ],
@@ -24,15 +35,31 @@
     "属背": [
       "weather"
     ],
+    "点点": [
+      "business"
+    ],
     "理贴": [
       "weather"
     ],
     "系列": [
+      "business",
       "music",
       "weather"
     ],
     "资源目录结构": [
       "weather"
+    ],
+    "选择": [
+      "business"
+    ],
+    "配引": [
+      "business"
+    ],
+    "雪冰": [
+      "business"
+    ],
+    "麦当劳": [
+      "business"
     ]
   }
 }

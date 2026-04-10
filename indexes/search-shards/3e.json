@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 13,
+  "tokenCount": 20,
   "tokens": {
     "about": [
       "music"
@@ -17,6 +17,9 @@
     "text": [
       "weather"
     ],
+    "与进": [
+      "business"
+    ],
     "个时间段": [
       "weather"
     ],
@@ -26,20 +29,39 @@
     "为微件添加新的天气状态动效": [
       "weather"
     ],
+    "二次": [
+      "business"
+    ],
     "小": [
       "weather"
     ],
     "展示": [
       "weather"
     ],
+    "强大": [
+      "business"
+    ],
     "据系": [
       "weather"
+    ],
+    "掌握": [
+      "business"
     ],
     "晴天": [
       "weather"
     ],
+    "级背": [
+      "business"
+    ],
+    "若未": [
+      "business"
+    ],
     "通过": [
+      "business",
       "weather"
+    ],
+    "麦当": [
+      "business"
     ]
   }
 }

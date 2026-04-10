@@ -1,7 +1,10 @@
 {
   "shard": "39",
-  "tokenCount": 14,
+  "tokenCount": 20,
   "tokens": {
+    "coco": [
+      "business"
+    ],
     "visual": [
       "music"
     ],
@@ -10,6 +13,9 @@
     ],
     "乐歌": [
       "music"
+    ],
+    "信息": [
+      "business"
     ],
     "关流": [
       "weather"
@@ -23,6 +29,12 @@
     "呼吸": [
       "weather"
     ],
+    "度定": [
+      "business"
+    ],
+    "接口": [
+      "business"
+    ],
     "本项目不仅提供了精准的天气数据展示": [
       "weather"
     ],
@@ -32,16 +44,24 @@
     "的渐": [
       "weather"
     ],
+    "算法": [
+      "business"
+    ],
     "资源": [
       "weather"
     ],
+    "过接": [
+      "business"
+    ],
     "运行": [
+      "business",
       "weather"
     ],
     "醒时": [
       "weather"
     ],
     "默认": [
+      "business",
       "weather"
     ]
   }

@@ -1,11 +1,12 @@
 {
   "shard": "23",
-  "tokenCount": 18,
+  "tokenCount": 23,
   "tokens": {
     "feeling": [
       "music"
     ],
     "hyperos": [
+      "business",
       "music",
       "weather"
     ],
@@ -15,6 +16,9 @@
     "without": [
       "music"
     ],
+    "下主": [
+      "business"
+    ],
     "互的": [
       "weather"
     ],
@@ -22,6 +26,7 @@
       "weather"
     ],
     "优化": [
+      "business",
       "weather"
     ],
     "具备": [
@@ -32,6 +37,9 @@
     ],
     "安装与测试": [
       "weather"
+    ],
+    "对包": [
+      "business"
     ],
     "拟真": [
       "weather"
@@ -50,6 +58,15 @@
     ],
     "缓缓": [
       "weather"
+    ],
+    "美映": [
+      "business"
+    ],
+    "肯德基": [
+      "business"
+    ],
+    "蜜雪": [
+      "business"
     ],
     "试突": [
       "weather"

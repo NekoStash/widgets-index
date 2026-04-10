@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 9,
+  "tokenCount": 10,
   "tokens": {
     "check": [
       "music"
@@ -15,6 +15,7 @@
       "weather"
     ],
     "息屏显示": [
+      "business",
       "weather"
     ],
     "或者通过": [
@@ -28,6 +29,9 @@
     ],
     "率进": [
       "weather"
+    ],
+    "赖应": [
+      "business"
     ]
   }
 }

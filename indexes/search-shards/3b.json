@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 13,
+  "tokenCount": 22,
   "tokens": {
     "language": [
       "weather"
@@ -12,11 +12,27 @@
       "music",
       "weather"
     ],
+    "不泡": [
+      "business"
+    ],
     "与全": [
       "weather"
     ],
     "内容": [
+      "business",
       "weather"
+    ],
+    "功耗": [
+      "business"
+    ],
+    "匹配": [
+      "business"
+    ],
+    "发者": [
+      "business"
+    ],
+    "容不": [
+      "business"
     ],
     "将一": [
       "weather"
@@ -29,6 +45,18 @@
     ],
     "更多": [
       "weather"
+    ],
+    "样式": [
+      "business"
+    ],
+    "瑞幸": [
+      "business"
+    ],
+    "的自": [
+      "business"
+    ],
+    "管底": [
+      "business"
     ],
     "米主": [
       "weather"

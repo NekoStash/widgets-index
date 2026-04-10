@@ -1,7 +1,10 @@
 {
   "shard": "11",
-  "tokenCount": 14,
+  "tokenCount": 17,
   "tokens": {
+    "heytea": [
+      "business"
+    ],
     "screen": [
       "music"
     ],
@@ -24,6 +27,7 @@
       "weather"
     ],
     "心特": [
+      "business",
       "weather"
     ],
     "态切": [
@@ -35,6 +39,12 @@
     "统日": [
       "weather"
     ],
+    "置基": [
+      "business"
+    ],
+    "置强": [
+      "business"
+    ],
     "背屏天气": [
       "weather"
     ],
@@ -42,6 +52,7 @@
       "weather"
     ],
     "逻辑": [
+      "business",
       "weather"
     ]
   }

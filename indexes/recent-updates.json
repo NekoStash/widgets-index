@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "business",
+      "name": "[适配Todo便签]超级背屏岛Pro",
+      "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-10T00:10:56.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Super-RearScreen-Island-Todo",
+        "url": "https://github.com/SiberiaApp/Super-RearScreen-Island-Todo"
+      }
+    },
+    {
       "id": "weather",
       "name": "背屏天气",
       "description": "适用于小米背屏系列的天气小组件。",

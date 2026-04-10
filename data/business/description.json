@@ -1,0 +1,24 @@
+{
+  "id": "business",
+  "name": "[适配Todo便签]超级背屏岛Pro",
+  "sourceMetadataPath": "repos/business/metadata.json",
+  "repository": {
+    "widgetName": "[适配Todo便签]超级背屏岛Pro",
+    "owner": "SiberiaApp",
+    "name": "Super-RearScreen-Island-Todo",
+    "fullName": "SiberiaApp/Super-RearScreen-Island-Todo",
+    "url": "https://github.com/SiberiaApp/Super-RearScreen-Island-Todo",
+    "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-04-09T23:58:42Z",
+    "updatedAt": "2026-04-10T00:10:56Z",
+    "pushedAt": "2026-04-10T00:10:49Z"
+  }
+}

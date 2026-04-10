@@ -1,7 +1,10 @@
 {
   "shard": "0f",
-  "tokenCount": 12,
+  "tokenCount": 17,
   "tokens": {
+    "主屏": [
+      "business"
+    ],
     "云天": [
       "weather"
     ],
@@ -17,11 +20,24 @@
     "变色": [
       "weather"
     ],
+    "尺寸": [
+      "business"
+    ],
+    "已支持的品牌库": [
+      "business"
+    ],
     "据此": [
       "weather"
     ],
+    "础上": [
+      "business"
+    ],
     "自动": [
+      "business",
       "weather"
+    ],
+    "自动识别外卖品牌并加载专属视觉资产": [
+      "business"
     ],
     "行精": [
       "weather"

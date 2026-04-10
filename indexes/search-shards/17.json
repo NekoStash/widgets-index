@@ -1,6 +1,6 @@
 {
   "shard": "17",
-  "tokenCount": 11,
+  "tokenCount": 18,
   "tokens": {
     "controls": [
       "music"
@@ -11,6 +11,9 @@
     "作时": [
       "weather"
     ],
+    "即可": [
+      "business"
+    ],
     "及到": [
       "weather"
     ],
@@ -20,14 +23,32 @@
     "和分": [
       "weather"
     ],
+    "喜茶": [
+      "business"
+    ],
+    "基础": [
+      "business"
+    ],
+    "无缝解析系统": [
+      "business"
+    ],
     "气微": [
       "weather"
+    ],
+    "牌识": [
+      "business"
     ],
     "的图": [
       "weather"
     ],
     "算逻": [
       "weather"
+    ],
+    "美兼": [
+      "business"
+    ],
+    "说明": [
+      "business"
     ],
     "进行高级调试": [
       "weather"

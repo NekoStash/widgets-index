@@ -1,7 +1,10 @@
 {
   "shard": "10",
-  "tokenCount": 14,
+  "tokenCount": 22,
   "tokens": {
+    "burger": [
+      "business"
+    ],
     "for": [
       "music"
     ],
@@ -17,10 +20,26 @@
     "件夹": [
       "weather"
     ],
+    "便签": [
+      "business"
+    ],
+    "定位到": [
+      "business"
+    ],
+    "容的": [
+      "business"
+    ],
+    "屏与": [
+      "business"
+    ],
+    "已知": [
+      "business"
+    ],
     "态拼": [
       "weather"
     ],
     "手机": [
+      "business",
       "weather"
     ],
     "控制": [
@@ -30,6 +49,7 @@
       "weather"
     ],
     "视觉": [
+      "business",
       "weather"
     ],
     "置极": [
@@ -39,10 +59,17 @@
       "weather"
     ],
     "透明": [
+      "business",
       "weather"
     ],
     "随风": [
       "weather"
+    ],
+    "需支": [
+      "business"
+    ],
+    "饮品": [
+      "business"
     ]
   }
 }

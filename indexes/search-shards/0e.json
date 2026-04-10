@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 16,
+  "tokenCount": 22,
   "tokens": {
     "adb": [
       "weather"
@@ -29,13 +29,27 @@
     "屏的": [
       "weather"
     ],
+    "已支": [
+      "business"
+    ],
+    "快餐": [
+      "business"
+    ],
+    "握外": [
+      "business"
+    ],
     "极其": [
       "weather"
     ],
     "深度": [
+      "business",
       "weather"
     ],
+    "深度定制的": [
+      "business"
+    ],
     "添加": [
+      "business",
       "weather"
     ],
     "用中": [
@@ -47,8 +61,14 @@
     "结合正弦函数": [
       "weather"
     ],
+    "缩放": [
+      "business"
+    ],
     "背屏动态天气微件": [
       "weather"
+    ],
+    "霸王茶姬": [
+      "business"
     ]
   }
 }

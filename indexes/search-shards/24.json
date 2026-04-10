@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 10,
+  "tokenCount": 18,
   "tokens": {
     "always": [
       "music"
@@ -14,11 +14,29 @@
     "to": [
       "music"
     ],
+    "件包": [
+      "business"
+    ],
     "克隆": [
       "weather"
     ],
+    "入本": [
+      "business"
+    ],
+    "动岛": [
+      "business"
+    ],
     "同级": [
       "weather"
+    ],
+    "块通": [
+      "business"
+    ],
+    "德基": [
+      "business"
+    ],
+    "打开手机内置的": [
+      "business"
     ],
     "擎丝": [
       "weather"
@@ -29,8 +47,14 @@
     "简体": [
       "music"
     ],
+    "若未匹配到已知品牌": [
+      "business"
+    ],
     "雪花": [
       "weather"
+    ],
+    "霸王": [
+      "business"
     ]
   }
 }

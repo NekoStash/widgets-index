@@ -1,9 +1,12 @@
 {
   "shard": "05",
-  "tokenCount": 14,
+  "tokenCount": 20,
   "tokens": {
     "cloudy": [
       "weather"
+    ],
+    "kfc": [
+      "business"
     ],
     "widget": [
       "music",
@@ -18,8 +21,18 @@
     "动隐": [
       "weather"
     ],
+    "将对应的品牌": [
+      "business"
+    ],
+    "属视": [
+      "business"
+    ],
     "应的": [
+      "business",
       "weather"
+    ],
+    "待办等关键进度": [
+      "business"
     ],
     "微件": [
       "weather"
@@ -33,6 +46,9 @@
     "日照": [
       "weather"
     ],
+    "本模块通过接管底层焦点通知": [
+      "business"
+    ],
     "流程": [
       "weather"
     ],
@@ -42,7 +58,11 @@
     "缓入": [
       "weather"
     ],
+    "辑添": [
+      "business"
+    ],
     "过渡": [
+      "business",
       "weather"
     ]
   }

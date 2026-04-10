@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 10,
+  "tokenCount": 16,
   "tokens": {
     "lyrics": [
       "music"
@@ -10,6 +10,9 @@
     ],
     "件目": [
       "weather"
+    ],
+    "堡王": [
+      "business"
     ],
     "头构": [
       "weather"
@@ -26,11 +29,27 @@
     "熟悉": [
       "weather"
     ],
+    "目录下": [
+      "business"
+    ],
     "精准": [
+      "business",
       "weather"
+    ],
+    "茶饮": [
+      "business"
+    ],
+    "蜜雪冰城": [
+      "business"
+    ],
+    "行二": [
+      "business"
     ],
     "调试": [
       "weather"
+    ],
+    "超级": [
+      "business"
     ]
   }
 }

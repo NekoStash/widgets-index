@@ -1,12 +1,24 @@
 {
   "shard": "0b",
-  "tokenCount": 7,
+  "tokenCount": 16,
   "tokens": {
     "15": [
       "weather"
     ],
+    "business": [
+      "business"
+    ],
     "go": [
       "music"
+    ],
+    "tastien": [
+      "business"
+    ],
+    "准提": [
+      "business"
+    ],
+    "并加": [
+      "business"
     ],
     "断网": [
       "weather"
@@ -20,8 +32,23 @@
     "根据系统日出日落时间": [
       "weather"
     ],
+    "深度适配": [
+      "business"
+    ],
+    "肯德": [
+      "business"
+    ],
+    "背屏机型": [
+      "business"
+    ],
+    "能品": [
+      "business"
+    ],
     "载态": [
       "weather"
+    ],
+    "题与": [
+      "business"
     ]
   }
 }

@@ -1,8 +1,12 @@
 {
   "shard": "1c",
-  "tokenCount": 12,
+  "tokenCount": 17,
   "tokens": {
+    "chagee": [
+      "business"
+    ],
     "png": [
+      "business",
       "weather"
     ],
     "the": [
@@ -12,7 +16,14 @@
       "weather"
     ],
     "壁纸": [
+      "business",
       "weather"
+    ],
+    "将前": [
+      "business"
+    ],
+    "幕的": [
+      "business"
     ],
     "应刷": [
       "weather"
@@ -23,6 +34,9 @@
     "文件夹素材结构完整": [
       "weather"
     ],
+    "析系": [
+      "business"
+    ],
     "格式": [
       "weather"
     ],
@@ -32,10 +46,14 @@
     "相关": [
       "weather"
     ],
+    "者说": [
+      "business"
+    ],
     "色计": [
       "weather"
     ],
     "资产": [
+      "business",
       "weather"
     ]
   }

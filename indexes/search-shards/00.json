@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 16,
+  "tokenCount": 24,
   "tokens": {
     "devices": [
       "music"
@@ -26,17 +26,42 @@
     "与云": [
       "weather"
     ],
+    "品牌": [
+      "business"
+    ],
+    "安装与使用": [
+      "business"
+    ],
+    "定位": [
+      "business"
+    ],
+    "将前台的": [
+      "business"
+    ],
+    "将对": [
+      "business"
+    ],
     "屏显": [
+      "business",
       "weather"
+    ],
+    "应布": [
+      "business"
     ],
     "彩的": [
       "weather"
+    ],
+    "态完": [
+      "business"
     ],
     "探索更多背屏交互的可能": [
       "weather"
     ],
     "时拉": [
       "weather"
+    ],
+    "智能品牌识别系统": [
+      "business"
     ],
     "独立": [
       "weather"

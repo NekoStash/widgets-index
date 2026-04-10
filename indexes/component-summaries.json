@@ -1,8 +1,20 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 2,
+  "componentCount": 3,
   "components": {
+    "business": {
+      "id": "business",
+      "name": "[适配Todo便签]超级背屏岛Pro",
+      "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
     "music": {
       "id": "music",
       "name": "音乐歌词",

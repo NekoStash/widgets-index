@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 15,
+  "tokenCount": 20,
   "tokens": {
     "artist": [
       "music"
@@ -20,6 +20,12 @@
     "个雪花粒子": [
       "weather"
     ],
+    "于主": [
+      "business"
+    ],
+    "发外": [
+      "business"
+    ],
     "备背": [
       "weather"
     ],
@@ -32,11 +38,17 @@
     "屏比": [
       "weather"
     ],
+    "应缩": [
+      "business"
+    ],
     "感的": [
       "weather"
     ],
     "报告": [
       "weather"
+    ],
+    "本模": [
+      "business"
     ],
     "正常": [
       "weather"
@@ -46,6 +58,9 @@
     ],
     "网或": [
       "weather"
+    ],
+    "键进": [
+      "business"
     ]
   }
 }

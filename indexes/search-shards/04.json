@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 12,
+  "tokenCount": 21,
   "tokens": {
     "license": [
       "music"
@@ -11,8 +11,18 @@
     "业务": [
       "weather"
     ],
+    "关键": [
+      "business"
+    ],
     "动画": [
+      "business",
       "weather"
+    ],
+    "塔斯": [
+      "business"
+    ],
+    "完美映射超级岛": [
+      "business"
     ],
     "态素": [
       "weather"
@@ -23,20 +33,38 @@
     "据依": [
       "weather"
     ],
+    "支持亮屏与": [
+      "business"
+    ],
+    "极低功耗": [
+      "business"
+    ],
+    "次开": [
+      "business"
+    ],
     "确保": [
       "weather"
     ],
     "简体中文": [
       "music"
     ],
+    "精准提取标题": [
+      "business"
+    ],
     "缺省": [
       "weather"
+    ],
+    "背屏显示": [
+      "business"
     ],
     "觉效": [
       "weather"
     ],
     "请根据此目录放入对应的图片资产": [
       "weather"
+    ],
+    "退至": [
+      "business"
     ]
   }
 }

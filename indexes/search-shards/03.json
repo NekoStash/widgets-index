@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 13,
+  "tokenCount": 17,
   "tokens": {
     "fastboot": [
       "weather"
@@ -23,10 +23,23 @@
     "分辨": [
       "weather"
     ],
+    "别系": [
+      "business"
+    ],
     "副屏": [
       "weather"
     ],
+    "动识": [
+      "business"
+    ],
+    "完美兼容不同比例的背屏尺寸": [
+      "business"
+    ],
+    "当劳": [
+      "business"
+    ],
     "息屏": [
+      "business",
       "weather"
     ],
     "摆轨": [
@@ -39,6 +52,7 @@
       "weather"
     ],
     "适应": [
+      "business",
       "weather"
     ]
   }

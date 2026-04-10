@@ -1,14 +1,22 @@
 {
   "shard": "12",
-  "tokenCount": 10,
+  "tokenCount": 15,
   "tokens": {
+    "一点": [
+      "business"
+    ],
     "使用": [
+      "business",
       "weather"
+    ],
+    "图标": [
+      "business"
     ],
     "图片": [
       "weather"
     ],
     "态自": [
+      "business",
       "weather"
     ],
     "或小": [
@@ -18,6 +26,7 @@
       "weather"
     ],
     "机型": [
+      "business",
       "weather"
     ],
     "歌词": [
@@ -26,11 +35,21 @@
     "照素": [
       "weather"
     ],
+    "现有": [
+      "business"
+    ],
     "结构": [
       "weather"
     ],
     "设备": [
+      "business",
       "weather"
+    ],
+    "阿姨": [
+      "business"
+    ],
+    "题壁": [
+      "business"
     ]
   }
 }

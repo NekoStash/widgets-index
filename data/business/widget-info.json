@@ -1,0 +1,10 @@
+{
+  "id": "business",
+  "widgetInfo": {
+    "name": "[适配Todo便签]超级背屏岛Pro",
+    "business_setup": {
+      "id": "business",
+      "renameable": false
+    }
+  }
+}
