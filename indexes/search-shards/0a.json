@@ -1,11 +1,12 @@
 {
   "shard": "0a",
-  "tokenCount": 19,
+  "tokenCount": 26,
   "tokens": {
     "art": [
       "music"
     ],
     "features": [
+      "calendar-lite",
       "music"
     ],
     "native": [
@@ -16,6 +17,9 @@
     ],
     "为了使": [
       "weather"
+    ],
+    "于真": [
+      "calendar-lite"
     ],
     "低功": [
       "business"
@@ -29,6 +33,15 @@
     "同步": [
       "business"
     ],
+    "堆叠法": [
+      "calendar-lite"
+    ],
+    "对齐到了日历第一列": [
+      "calendar-lite"
+    ],
+    "并完美复刻了系统级的": [
+      "calendar-lite"
+    ],
     "开发": [
       "business",
       "weather"
@@ -36,7 +49,11 @@
     "录放": [
       "weather"
     ],
+    "没有任何外部图片素材": [
+      "calendar-lite"
+    ],
     "米背": [
+      "calendar-lite",
       "music",
       "weather"
     ],
@@ -61,7 +78,14 @@
     ],
     "针对": [
       "business",
+      "calendar-lite",
       "weather"
+    ],
+    "限省": [
+      "calendar-lite"
+    ],
+    "雅与": [
+      "calendar-lite"
     ]
   }
 }

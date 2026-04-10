@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 17,
+  "tokenCount": 22,
   "tokens": {
     "chagee": [
       "business"
@@ -12,12 +12,21 @@
     "the": [
       "music"
     ],
+    "今天": [
+      "calendar-lite"
+    ],
+    "最底层铺设": [
+      "calendar-lite"
+    ],
     "力于": [
       "weather"
     ],
     "壁纸": [
       "business",
       "weather"
+    ],
+    "天数": [
+      "calendar-lite"
     ],
     "将前": [
       "business"
@@ -27,6 +36,9 @@
     ],
     "应刷": [
       "weather"
+    ],
+    "弃了": [
+      "calendar-lite"
     ],
     "或尝": [
       "weather"
@@ -48,6 +60,9 @@
     ],
     "者说": [
       "business"
+    ],
+    "自动计算当月": [
+      "calendar-lite"
     ],
     "色计": [
       "weather"

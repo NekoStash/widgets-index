@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 20,
+  "tokenCount": 29,
   "tokens": {
     "artist": [
       "music"
@@ -26,8 +26,17 @@
     "发外": [
       "business"
     ],
+    "叠法": [
+      "calendar-lite"
+    ],
     "备背": [
       "weather"
+    ],
+    "导网": [
+      "calendar-lite"
+    ],
+    "将左侧": [
+      "calendar-lite"
     ],
     "将文件打包为": [
       "weather"
@@ -41,20 +50,38 @@
     "应缩": [
       "business"
     ],
+    "当月": [
+      "calendar-lite"
+    ],
     "感的": [
       "weather"
     ],
     "报告": [
       "weather"
     ],
+    "智能识别当前运行环境是": [
+      "calendar-lite"
+    ],
     "本模": [
       "business"
+    ],
+    "材日": [
+      "calendar-lite"
     ],
     "正常": [
       "weather"
     ],
+    "比缩": [
+      "calendar-lite"
+    ],
+    "系数": [
+      "calendar-lite"
+    ],
     "结合": [
       "weather"
+    ],
+    "统的": [
+      "calendar-lite"
     ],
     "网或": [
       "weather"

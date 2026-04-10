@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 16,
+  "tokenCount": 24,
   "tokens": {
     "15": [
       "weather"
@@ -16,6 +16,18 @@
     ],
     "准提": [
       "business"
+    ],
+    "判定": [
+      "calendar-lite"
+    ],
+    "到了": [
+      "calendar-lite"
+    ],
+    "号星": [
+      "calendar-lite"
+    ],
+    "年及": [
+      "calendar-lite"
     ],
     "并加": [
       "business"
@@ -35,6 +47,12 @@
     "深度适配": [
       "business"
     ],
+    "码日": [
+      "calendar-lite"
+    ],
+    "移至": [
+      "calendar-lite"
+    ],
     "肯德": [
       "business"
     ],
@@ -44,8 +62,14 @@
     "能品": [
       "business"
     ],
+    "表达": [
+      "calendar-lite"
+    ],
     "载态": [
       "weather"
+    ],
+    "部图": [
+      "calendar-lite"
     ],
     "题与": [
       "business"

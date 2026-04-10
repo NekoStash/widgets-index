@@ -1,9 +1,10 @@
 {
   "shard": "20",
-  "tokenCount": 18,
+  "tokenCount": 20,
   "tokens": {
     "folme": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "licensed": [
@@ -11,6 +12,9 @@
     ],
     "up": [
       "music"
+    ],
+    "传统": [
+      "calendar-lite"
     ],
     "你熟": [
       "weather"
@@ -49,6 +53,9 @@
     ],
     "算并": [
       "weather"
+    ],
+    "精准避让摄像头": [
+      "calendar-lite"
     ],
     "觉资": [
       "business"

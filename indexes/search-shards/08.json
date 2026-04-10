@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 13,
+  "tokenCount": 20,
   "tokens": {
     "save": [
       "music"
@@ -8,9 +8,16 @@
     "talkback": [
       "weather"
     ],
+    "与安": [
+      "calendar-lite"
+    ],
     "专为": [
       "business",
+      "calendar-lite",
       "weather"
+    ],
+    "偏左": [
+      "calendar-lite"
     ],
     "内置极其细腻的渐变色计算逻辑": [
       "weather"
@@ -24,6 +31,9 @@
     "本仓": [
       "weather"
     ],
+    "标签": [
+      "calendar-lite"
+    ],
     "标设": [
       "business",
       "weather"
@@ -31,14 +41,26 @@
     "浸感": [
       "weather"
     ],
+    "用小": [
+      "calendar-lite"
+    ],
     "破系": [
       "weather"
+    ],
+    "纯代码日历小部件": [
+      "calendar-lite"
+    ],
+    "统时": [
+      "calendar-lite"
     ],
     "置天": [
       "weather"
     ],
     "请确": [
       "weather"
+    ],
+    "这是一个专为小米": [
+      "calendar-lite"
     ],
     "雨量": [
       "weather"

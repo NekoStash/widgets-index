@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 10,
+  "tokenCount": 13,
   "tokens": {
     "check": [
       "music"
@@ -10,6 +10,9 @@
     ],
     "准的": [
       "weather"
+    ],
+    "单位": [
+      "calendar-lite"
     ],
     "壁纸应用中": [
       "weather"
@@ -22,6 +25,7 @@
       "weather"
     ],
     "时间": [
+      "calendar-lite",
       "weather"
     ],
     "根据雨量": [
@@ -29,6 +33,12 @@
     ],
     "率进": [
       "weather"
+    ],
+    "纯代": [
+      "calendar-lite"
+    ],
+    "自动计算": [
+      "calendar-lite"
     ],
     "赖应": [
       "business"

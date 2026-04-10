@@ -1,9 +1,12 @@
 {
   "shard": "32",
-  "tokenCount": 20,
+  "tokenCount": 26,
   "tokens": {
     "automatically": [
       "music"
+    ],
+    "calendar-lite": [
+      "calendar-lite"
     ],
     "request": [
       "weather"
@@ -26,6 +29,12 @@
     "例和": [
       "weather"
     ],
+    "例背": [
+      "calendar-lite"
+    ],
+    "准避": [
+      "calendar-lite"
+    ],
     "刷新": [
       "business",
       "weather"
@@ -33,6 +42,9 @@
     "播放": [
       "music",
       "weather"
+    ],
+    "时透": [
+      "calendar-lite"
     ],
     "杂元": [
       "weather"
@@ -46,6 +58,9 @@
     "渲染": [
       "weather"
     ],
+    "片素": [
+      "calendar-lite"
+    ],
     "直接": [
       "business"
     ],
@@ -58,7 +73,11 @@
     "行热": [
       "weather"
     ],
+    "让适": [
+      "calendar-lite"
+    ],
     "调整": [
+      "calendar-lite",
       "weather"
     ],
     "适用于小米背屏系列的天气小组件": [

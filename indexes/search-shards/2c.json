@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 23,
+  "tokenCount": 25,
   "tokens": {
     "album": [
       "music"
@@ -23,6 +23,9 @@
     "古茗": [
       "business"
     ],
+    "基准单位划为禁区": [
+      "calendar-lite"
+    ],
     "容提": [
       "weather"
     ],
@@ -30,6 +33,7 @@
       "weather"
     ],
     "对齐": [
+      "calendar-lite",
       "weather"
     ],
     "弦函": [
@@ -59,8 +63,12 @@
     ],
     "背屏": [
       "business",
+      "calendar-lite",
       "music",
       "weather"
+    ],
+    "背屏级动态响应与安全区避让": [
+      "calendar-lite"
     ],
     "要在": [
       "business"

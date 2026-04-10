@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 20,
+  "tokenCount": 25,
   "tokens": {
     "coco": [
       "business"
@@ -13,6 +13,9 @@
     ],
     "乐歌": [
       "music"
+    ],
+    "了基": [
+      "calendar-lite"
     ],
     "信息": [
       "business"
@@ -29,11 +32,20 @@
     "呼吸": [
       "weather"
     ],
+    "完全": [
+      "calendar-lite"
+    ],
+    "完全依靠系统时间变量和纯数学表达式推导网格坐标": [
+      "calendar-lite"
+    ],
     "度定": [
       "business"
     ],
     "接口": [
       "business"
+    ],
+    "推演": [
+      "calendar-lite"
     ],
     "本项目不仅提供了精准的天气数据展示": [
       "weather"
@@ -41,11 +53,15 @@
     "朵缓": [
       "weather"
     ],
+    "的坐": [
+      "calendar-lite"
+    ],
     "的渐": [
       "weather"
     ],
     "算法": [
-      "business"
+      "business",
+      "calendar-lite"
     ],
     "资源": [
       "weather"
@@ -55,6 +71,7 @@
     ],
     "运行": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "醒时": [
@@ -62,6 +79,7 @@
     ],
     "默认": [
       "business",
+      "calendar-lite",
       "weather"
     ]
   }

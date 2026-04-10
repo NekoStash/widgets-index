@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 22,
+  "tokenCount": 27,
   "tokens": {
     "adb": [
       "weather"
@@ -23,23 +23,40 @@
     "包为": [
       "weather"
     ],
+    "号的动态隐藏与显示": [
+      "calendar-lite"
+    ],
     "小组": [
+      "calendar-lite",
       "weather"
     ],
     "屏的": [
+      "calendar-lite",
       "weather"
     ],
     "已支": [
       "business"
     ],
+    "并平": [
+      "calendar-lite"
+    ],
     "快餐": [
       "business"
+    ],
+    "息屏的极限省电": [
+      "calendar-lite"
     ],
     "握外": [
       "business"
     ],
+    "日历网格自动压缩并平滑移至右侧安全区显示": [
+      "calendar-lite"
+    ],
     "极其": [
       "weather"
+    ],
+    "标签中修改": [
+      "calendar-lite"
     ],
     "深度": [
       "business",
@@ -62,7 +79,8 @@
       "weather"
     ],
     "缩放": [
-      "business"
+      "business",
+      "calendar-lite"
     ],
     "背屏动态天气微件": [
       "weather"

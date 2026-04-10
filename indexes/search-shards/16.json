@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 14,
+  "tokenCount": 19,
   "tokens": {
     "450": [
       "weather"
@@ -18,26 +18,42 @@
       "music",
       "weather"
     ],
+    "区避": [
+      "calendar-lite"
+    ],
     "及其他具备背屏的": [
       "weather"
     ],
     "在前台运行": [
       "business"
     ],
+    "在息屏时透明度降至": [
+      "calendar-lite"
+    ],
     "块的": [
       "business"
+    ],
+    "屏瞬": [
+      "calendar-lite"
     ],
     "库到": [
       "weather"
     ],
+    "彻底抛弃了传统的": [
+      "calendar-lite"
+    ],
     "的品": [
       "business"
+    ],
+    "的极": [
+      "calendar-lite"
     ],
     "续航": [
       "weather"
     ],
     "识别": [
-      "business"
+      "business",
+      "calendar-lite"
     ],
     "需支持底层焦点通知与": [
       "business"

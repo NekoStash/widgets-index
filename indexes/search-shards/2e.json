@@ -1,11 +1,12 @@
 {
   "shard": "2e",
-  "tokenCount": 21,
+  "tokenCount": 22,
   "tokens": {
     "custom": [
       "music"
     ],
     "dynamic": [
+      "calendar-lite",
       "music"
     ],
     "与测": [
@@ -38,6 +39,9 @@
     "屏交": [
       "weather"
     ],
+    "放系": [
+      "calendar-lite"
+    ],
     "日出": [
       "weather"
     ],
@@ -61,6 +65,7 @@
     ],
     "项目": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "飘落": [

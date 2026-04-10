@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 21,
+  "tokenCount": 29,
   "tokens": {
     "an": [
       "music"
@@ -8,6 +8,9 @@
     "and": [
       "music",
       "weather"
+    ],
+    "frame": [
+      "calendar-lite"
     ],
     "lottie": [
       "music"
@@ -21,12 +24,19 @@
     "star3": [
       "weather"
     ],
+    "xiaomi-rearscreen-calendar": [
+      "calendar-lite"
+    ],
     "与专": [
       "business"
     ],
     "主题": [
       "business",
+      "calendar-lite",
       "weather"
+    ],
+    "了系": [
+      "calendar-lite"
     ],
     "依赖应用": [
       "business"
@@ -41,11 +51,17 @@
     "同物": [
       "weather"
     ],
+    "回调": [
+      "calendar-lite"
+    ],
     "大的": [
       "business"
     ],
     "将主": [
       "business"
+    ],
+    "底防": [
+      "calendar-lite"
     ],
     "极低": [
       "business"
@@ -53,14 +69,23 @@
     "物理": [
       "weather"
     ],
+    "生硬": [
+      "calendar-lite"
+    ],
     "的背屏": [
       "weather"
     ],
     "看效": [
       "business"
     ],
+    "级的": [
+      "calendar-lite"
+    ],
     "细腻": [
       "weather"
+    ],
+    "自动判定平": [
+      "calendar-lite"
     ],
     "解析": [
       "business"

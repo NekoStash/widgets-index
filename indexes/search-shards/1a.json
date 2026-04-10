@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 21,
+  "tokenCount": 26,
   "tokens": {
     "current": [
       "music"
@@ -11,11 +11,15 @@
     "与副": [
       "weather"
     ],
+    "了过": [
+      "calendar-lite"
+    ],
     "云层": [
       "weather"
     ],
     "亮屏": [
-      "business"
+      "business",
+      "calendar-lite"
     ],
     "全天": [
       "weather"
@@ -38,18 +42,32 @@
     "如添": [
       "business"
     ],
+    "定平": [
+      "calendar-lite"
+    ],
     "将文": [
       "weather"
     ],
     "屏需": [
       "weather"
     ],
+    "左侧": [
+      "calendar-lite"
+    ],
     "引擎": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "标题": [
-      "business"
+      "business",
+      "calendar-lite"
+    ],
+    "特殊": [
+      "calendar-lite"
+    ],
+    "生成": [
+      "calendar-lite"
     ],
     "知实": [
       "business"

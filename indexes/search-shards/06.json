@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 18,
+  "tokenCount": 28,
   "tokens": {
     "power": [
       "music"
@@ -11,17 +11,41 @@
     "上阿": [
       "business"
     ],
+    "为小": [
+      "calendar-lite"
+    ],
     "乐播": [
       "music"
+    ],
+    "亮打": [
+      "calendar-lite"
+    ],
+    "优雅": [
+      "calendar-lite"
+    ],
+    "别针": [
+      "calendar-lite"
     ],
     "参照": [
       "business"
     ],
+    "发回": [
+      "calendar-lite"
+    ],
     "名为": [
       "business"
     ],
+    "嗅探": [
+      "calendar-lite"
+    ],
+    "在动画完成的瞬间": [
+      "calendar-lite"
+    ],
     "大": [
       "weather"
+    ],
+    "帧": [
+      "calendar-lite"
     ],
     "度逻": [
       "business"
@@ -35,6 +59,9 @@
     "无缝": [
       "business",
       "weather"
+    ],
+    "标的": [
+      "calendar-lite"
     ],
     "气象": [
       "weather"
@@ -50,6 +77,9 @@
     ],
     "立雨": [
       "weather"
+    ],
+    "要微": [
+      "calendar-lite"
     ],
     "还内": [
       "weather"

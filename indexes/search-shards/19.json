@@ -1,12 +1,15 @@
 {
   "shard": "19",
-  "tokenCount": 17,
+  "tokenCount": 23,
   "tokens": {
     "audio": [
       "music"
     ],
     "丰富": [
       "weather"
+    ],
+    "压缩": [
+      "calendar-lite"
     ],
     "发星": [
       "weather"
@@ -16,7 +19,11 @@
     ],
     "基于": [
       "business",
+      "calendar-lite",
       "weather"
+    ],
+    "复刻": [
+      "calendar-lite"
     ],
     "层焦": [
       "business"
@@ -36,11 +43,20 @@
     "时自": [
       "weather"
     ],
+    "的数": [
+      "calendar-lite"
+    ],
     "空与": [
       "weather"
     ],
     "系统内置天气内容提供者": [
       "weather"
+    ],
+    "耗电": [
+      "calendar-lite"
+    ],
+    "起引": [
+      "calendar-lite"
     ],
     "载测": [
       "weather"
@@ -53,6 +69,9 @@
     ],
     "音乐歌词": [
       "music"
+    ],
+    "题的": [
+      "calendar-lite"
     ]
   }
 }

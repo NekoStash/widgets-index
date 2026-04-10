@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 16,
+  "tokenCount": 20,
   "tokens": {
     "lyrics": [
       "music"
@@ -23,6 +23,9 @@
     "导入至手机的主题": [
       "weather"
     ],
+    "成全": [
+      "calendar-lite"
+    ],
     "打包": [
       "weather"
     ],
@@ -34,7 +37,11 @@
     ],
     "精准": [
       "business",
+      "calendar-lite",
       "weather"
+    ],
+    "自定": [
+      "calendar-lite"
     ],
     "茶饮": [
       "business"
@@ -50,6 +57,12 @@
     ],
     "超级": [
       "business"
+    ],
+    "避让": [
+      "calendar-lite"
+    ],
+    "顾了": [
+      "calendar-lite"
     ]
   }
 }

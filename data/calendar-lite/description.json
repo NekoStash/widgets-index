@@ -1,0 +1,24 @@
+{
+  "id": "calendar-lite",
+  "name": "背屏日历Lite",
+  "sourceMetadataPath": "repos/calendar-lite/metadata.json",
+  "repository": {
+    "widgetName": "背屏日历Lite",
+    "owner": "SiberiaApp",
+    "name": "Xiaomi-RearScreen-Calendar",
+    "fullName": "SiberiaApp/Xiaomi-RearScreen-Calendar",
+    "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Calendar",
+    "description": "适用于小米背屏的日历小组件",
+    "homepage": "",
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-04-10T09:18:47Z",
+    "updatedAt": "2026-04-10T09:25:52Z",
+    "pushedAt": "2026-04-10T09:25:48Z"
+  }
+}

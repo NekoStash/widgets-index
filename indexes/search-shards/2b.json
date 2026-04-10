@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 16,
+  "tokenCount": 24,
   "tokens": {
     "云朵": [
       "weather"
@@ -15,7 +15,8 @@
       "business"
     ],
     "和": [
-      "business"
+      "business",
+      "calendar-lite"
     ],
     "定的": [
       "weather"
@@ -38,17 +39,41 @@
     "放器": [
       "music"
     ],
+    "数学": [
+      "calendar-lite"
+    ],
+    "本项目特别针对": [
+      "calendar-lite"
+    ],
     "架开": [
       "weather"
+    ],
+    "殊比": [
+      "calendar-lite"
+    ],
+    "烧屏": [
+      "calendar-lite"
+    ],
+    "码内": [
+      "calendar-lite"
     ],
     "素并": [
       "weather"
     ],
+    "统级": [
+      "calendar-lite"
+    ],
     "至手": [
       "weather"
     ],
+    "零帧挂起省电逻辑": [
+      "calendar-lite"
+    ],
     "风飘": [
       "weather"
+    ],
+    "高亮": [
+      "calendar-lite"
     ]
   }
 }

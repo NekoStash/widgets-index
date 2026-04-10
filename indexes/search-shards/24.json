@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 18,
+  "tokenCount": 22,
   "tokens": {
     "always": [
       "music"
@@ -29,8 +29,14 @@
     "同级": [
       "weather"
     ],
+    "响应": [
+      "calendar-lite"
+    ],
     "块通": [
       "business"
+    ],
+    "安全": [
+      "calendar-lite"
     ],
     "德基": [
       "business"
@@ -43,6 +49,12 @@
     ],
     "气小": [
       "weather"
+    ],
+    "等": [
+      "calendar-lite"
+    ],
+    "签中": [
+      "calendar-lite"
     ],
     "简体": [
       "music"

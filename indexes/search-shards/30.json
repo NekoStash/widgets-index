@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 22,
+  "tokenCount": 25,
   "tokens": {
     "equipped": [
       "music"
@@ -29,6 +29,9 @@
     "动画接口": [
       "business"
     ],
+    "坐标的数值": [
+      "calendar-lite"
+    ],
     "天气": [
       "weather"
     ],
@@ -56,7 +59,11 @@
     ],
     "智能": [
       "business",
+      "calendar-lite",
       "weather"
+    ],
+    "标并": [
+      "calendar-lite"
     ],
     "此代": [
       "business"
@@ -66,6 +73,9 @@
     ],
     "辨率": [
       "weather"
+    ],
+    "配合": [
+      "calendar-lite"
     ],
     "针对包名": [
       "business"

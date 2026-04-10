@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 19,
+  "tokenCount": 20,
   "tokens": {
     "easily": [
       "music"
@@ -10,6 +10,7 @@
     ],
     "xiaomi": [
       "business",
+      "calendar-lite",
       "music",
       "weather"
     ],
@@ -25,6 +26,9 @@
     ],
     "别外": [
       "business"
+    ],
+    "实宽": [
+      "calendar-lite"
     ],
     "屏适": [
       "weather"

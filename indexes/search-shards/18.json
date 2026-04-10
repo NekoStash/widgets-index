@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 19,
+  "tokenCount": 28,
   "tokens": {
     "120hz": [
       "weather"
@@ -13,7 +13,14 @@
     ],
     "pro": [
       "business",
+      "calendar-lite",
       "weather"
+    ],
+    "safe": [
+      "calendar-lite"
+    ],
+    "一列": [
+      "calendar-lite"
     ],
     "与背景": [
       "business"
@@ -21,14 +28,26 @@
     "以在": [
       "business"
     ],
+    "修改": [
+      "calendar-lite"
+    ],
     "出日": [
       "weather"
+    ],
+    "前运": [
+      "calendar-lite"
     ],
     "办等": [
       "business"
     ],
     "咖啡": [
       "business"
+    ],
+    "坐标": [
+      "calendar-lite"
+    ],
+    "屏时": [
+      "calendar-lite"
     ],
     "屏状": [
       "business"
@@ -41,10 +60,12 @@
     ],
     "核心特性": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "比例": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "状态": [
@@ -54,12 +75,23 @@
     "用生": [
       "weather"
     ],
+    "目特": [
+      "calendar-lite"
+    ],
+    "绝杀": [
+      "calendar-lite"
+    ],
     "触发": [
       "business",
+      "calendar-lite",
       "weather"
+    ],
+    "还是": [
+      "calendar-lite"
     ],
     "适配": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "速度": [

@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "built": [
       "music"
@@ -24,6 +24,7 @@
       "business"
     ],
     "唤醒": [
+      "calendar-lite",
       "weather"
     ],
     "在状": [
@@ -45,6 +46,9 @@
     "断网或加载态素材": [
       "weather"
     ],
+    "期偏": [
+      "calendar-lite"
+    ],
     "源目": [
       "weather"
     ],
@@ -58,7 +62,8 @@
       "weather"
     ],
     "部件": [
-      "business"
+      "business",
+      "calendar-lite"
     ],
     "餐饮": [
       "business"

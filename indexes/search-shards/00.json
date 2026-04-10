@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 24,
+  "tokenCount": 27,
   "tokens": {
     "devices": [
       "music"
@@ -25,6 +25,9 @@
     ],
     "与云": [
       "weather"
+    ],
+    "代码内置了基于真实宽高比": [
+      "calendar-lite"
     ],
     "品牌": [
       "business"
@@ -69,10 +72,18 @@
     "程及": [
       "weather"
     ],
+    "网格": [
+      "calendar-lite"
+    ],
+    "让摄": [
+      "calendar-lite"
+    ],
     "隐藏": [
+      "calendar-lite",
       "weather"
     ],
     "高级": [
+      "calendar-lite",
       "weather"
     ]
   }

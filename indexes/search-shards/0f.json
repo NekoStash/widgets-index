@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 17,
+  "tokenCount": 23,
   "tokens": {
     "主屏": [
       "business"
@@ -17,8 +17,14 @@
     "升至": [
       "weather"
     ],
+    "历第": [
+      "calendar-lite"
+    ],
     "变色": [
       "weather"
+    ],
+    "处理": [
+      "calendar-lite"
     ],
     "尺寸": [
       "business"
@@ -29,11 +35,21 @@
     "据此": [
       "weather"
     ],
+    "擎处": [
+      "calendar-lite"
+    ],
     "础上": [
       "business"
     ],
+    "移量": [
+      "calendar-lite"
+    ],
+    "纯数学推演的无素材日历": [
+      "calendar-lite"
+    ],
     "自动": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "自动识别外卖品牌并加载专属视觉资产": [
@@ -53,6 +69,9 @@
     ],
     "隆本": [
       "weather"
+    ],
+    "零帧绝杀": [
+      "calendar-lite"
     ]
   }
 }

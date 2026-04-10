@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 17,
+  "tokenCount": 20,
   "tokens": {
     "fastboot": [
       "weather"
@@ -35,15 +35,25 @@
     "完美兼容不同比例的背屏尺寸": [
       "business"
     ],
+    "并高": [
+      "calendar-lite"
+    ],
     "当劳": [
       "business"
     ],
     "息屏": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "摆轨": [
       "weather"
+    ],
+    "格自": [
+      "calendar-lite"
+    ],
+    "的偏左侧": [
+      "calendar-lite"
     ],
     "空呼": [
       "weather"

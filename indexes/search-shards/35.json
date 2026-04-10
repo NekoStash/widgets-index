@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 18,
+  "tokenCount": 22,
   "tokens": {
     "bug": [
       "weather"
@@ -20,14 +20,23 @@
     "你在": [
       "business"
     ],
+    "全局": [
+      "calendar-lite"
+    ],
     "务逻": [
       "weather"
+    ],
+    "周一": [
+      "calendar-lite"
     ],
     "屏天": [
       "weather"
     ],
     "工具": [
       "weather"
+    ],
+    "并非": [
+      "calendar-lite"
     ],
     "度与": [
       "weather"
@@ -39,6 +48,7 @@
       "weather"
     ],
     "渐变": [
+      "calendar-lite",
       "weather"
     ],
     "的平滑过渡与透明度切换": [
@@ -49,6 +59,9 @@
     ],
     "米底": [
       "business"
+    ],
+    "自动处理": [
+      "calendar-lite"
     ],
     "超级背屏岛": [
       "business"

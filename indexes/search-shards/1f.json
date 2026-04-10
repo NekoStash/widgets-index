@@ -1,17 +1,24 @@
 {
   "shard": "1f",
-  "tokenCount": 20,
+  "tokenCount": 26,
   "tokens": {
+    "calendar": [
+      "calendar-lite"
+    ],
     "history": [
       "music"
     ],
     "states": [
       "music"
     ],
+    "偏移": [
+      "calendar-lite"
+    ],
     "其同": [
       "weather"
     ],
     "兼顾": [
+      "calendar-lite",
       "weather"
     ],
     "命名为": [
@@ -30,11 +37,17 @@
       "music",
       "weather"
     ],
+    "并完": [
+      "calendar-lite"
+    ],
     "并放置于主题包的": [
       "business"
     ],
     "开发者说明": [
       "business"
+    ],
+    "引擎处理息屏过渡动画": [
+      "calendar-lite"
     ],
     "搭载": [
       "business"
@@ -48,8 +61,12 @@
     "汉堡": [
       "business"
     ],
+    "算当": [
+      "calendar-lite"
+    ],
     "系统": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "级调": [
@@ -63,6 +80,9 @@
     ],
     "进行深度逻辑优化": [
       "business"
+    ],
+    "高级自定义": [
+      "calendar-lite"
     ]
   }
 }

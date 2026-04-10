@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 19,
+  "tokenCount": 22,
   "tokens": {
     "capabilities": [
       "music"
@@ -10,18 +10,26 @@
     ],
     "rearscreen": [
       "business",
+      "calendar-lite",
       "music",
       "weather"
     ],
     "从头": [
       "weather"
     ],
+    "右侧": [
+      "calendar-lite"
+    ],
     "命名": [
       "business"
     ],
     "完美": [
       "business",
+      "calendar-lite",
       "weather"
+    ],
+    "完美兼顾了过渡动画的优雅与": [
+      "calendar-lite"
     ],
     "层素": [
       "weather"
@@ -38,6 +46,9 @@
     "气带": [
       "weather"
     ],
+    "没有": [
+      "calendar-lite"
+    ],
     "视障": [
       "weather"
     ],
@@ -45,6 +56,7 @@
       "weather"
     ],
     "组件": [
+      "calendar-lite",
       "weather"
     ],
     "致视": [

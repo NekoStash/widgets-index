@@ -1,12 +1,13 @@
 {
   "shard": "23",
-  "tokenCount": 23,
+  "tokenCount": 36,
   "tokens": {
     "feeling": [
       "music"
     ],
     "hyperos": [
       "business",
+      "calendar-lite",
       "music",
       "weather"
     ],
@@ -15,6 +16,9 @@
     ],
     "without": [
       "music"
+    ],
+    "zero": [
+      "calendar-lite"
     ],
     "下主": [
       "business"
@@ -25,21 +29,37 @@
     "仓库": [
       "weather"
     ],
+    "代码默认将左上角的": [
+      "calendar-lite"
+    ],
     "优化": [
       "business",
       "weather"
     ],
     "具备": [
+      "calendar-lite",
       "weather"
     ],
     "动触": [
       "weather"
     ],
+    "学推": [
+      "calendar-lite"
+    ],
+    "学表": [
+      "calendar-lite"
+    ],
     "安装与测试": [
       "weather"
     ],
+    "实现": [
+      "calendar-lite"
+    ],
     "对包": [
       "business"
+    ],
+    "年": [
+      "calendar-lite"
     ],
     "拟真": [
       "weather"
@@ -50,11 +70,17 @@
     "星星": [
       "weather"
     ],
+    "星期": [
+      "calendar-lite"
+    ],
     "滴粒": [
       "weather"
     ],
     "目一": [
       "weather"
+    ],
+    "纯黑打底防烧屏": [
+      "calendar-lite"
     ],
     "缓缓": [
       "weather"
@@ -65,11 +91,26 @@
     "肯德基": [
       "business"
     ],
+    "至右": [
+      "calendar-lite"
+    ],
     "蜜雪": [
       "business"
     ],
+    "角的": [
+      "calendar-lite"
+    ],
+    "触发回调": [
+      "calendar-lite"
+    ],
     "试突": [
       "weather"
+    ],
+    "调它": [
+      "calendar-lite"
+    ],
+    "间秒": [
+      "calendar-lite"
     ],
     "题编": [
       "weather"

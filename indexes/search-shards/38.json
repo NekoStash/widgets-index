@@ -1,9 +1,10 @@
 {
   "shard": "38",
-  "tokenCount": 29,
+  "tokenCount": 32,
   "tokens": {
     "assets": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "editor": [
@@ -33,6 +34,9 @@
     "位到": [
       "business"
     ],
+    "依靠": [
+      "calendar-lite"
+    ],
     "保你": [
       "weather"
     ],
@@ -41,6 +45,12 @@
     ],
     "卖品": [
       "business"
+    ],
+    "历网": [
+      "calendar-lite"
+    ],
+    "变量": [
+      "calendar-lite"
     ],
     "心业": [
       "weather"

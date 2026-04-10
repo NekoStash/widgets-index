@@ -1,6 +1,6 @@
 {
   "shard": "17",
-  "tokenCount": 18,
+  "tokenCount": 21,
   "tokens": {
     "controls": [
       "music"
@@ -10,6 +10,9 @@
     ],
     "作时": [
       "weather"
+    ],
+    "全区": [
+      "calendar-lite"
     ],
     "即可": [
       "business"
@@ -45,7 +48,14 @@
       "weather"
     ],
     "美兼": [
-      "business"
+      "business",
+      "calendar-lite"
+    ],
+    "背屏日历": [
+      "calendar-lite"
+    ],
+    "行了": [
+      "calendar-lite"
     ],
     "说明": [
       "business"
@@ -54,6 +64,7 @@
       "weather"
     ],
     "适用": [
+      "calendar-lite",
       "music",
       "weather"
     ]

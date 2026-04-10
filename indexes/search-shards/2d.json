@@ -1,12 +1,13 @@
 {
   "shard": "2d",
-  "tokenCount": 15,
+  "tokenCount": 21,
   "tokens": {
     "中文": [
       "music"
     ],
     "你需": [
-      "business"
+      "business",
+      "calendar-lite"
     ],
     "供者": [
       "weather"
@@ -17,14 +18,23 @@
     "具沉": [
       "weather"
     ],
+    "动态生成全局缩放系数": [
+      "calendar-lite"
+    ],
     "台运": [
       "business"
     ],
     "同比": [
       "business"
     ],
+    "在动": [
+      "calendar-lite"
+    ],
     "外卖": [
       "business"
+    ],
+    "层铺": [
+      "calendar-lite"
     ],
     "属图": [
       "business"
@@ -38,6 +48,12 @@
     "画接": [
       "business"
     ],
+    "的瞬": [
+      "calendar-lite"
+    ],
+    "瞬间": [
+      "calendar-lite"
+    ],
     "置于": [
       "business"
     ],
@@ -47,6 +63,9 @@
     ],
     "送至": [
       "weather"
+    ],
+    "齐到": [
+      "calendar-lite"
     ]
   }
 }

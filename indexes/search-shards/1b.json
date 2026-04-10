@@ -1,9 +1,12 @@
 {
   "shard": "1b",
-  "tokenCount": 20,
+  "tokenCount": 25,
   "tokens": {
     "adaptive": [
       "music"
+    ],
+    "asset": [
+      "calendar-lite"
     ],
     "english": [
       "music"
@@ -13,12 +16,16 @@
     ],
     "siberiaapp": [
       "business",
+      "calendar-lite",
       "music",
       "weather"
     ],
     "丝滑": [
       "business",
       "weather"
+    ],
+    "了传": [
+      "calendar-lite"
     ],
     "云日": [
       "weather"
@@ -35,12 +42,22 @@
     "在风": [
       "weather"
     ],
+    "堆叠": [
+      "calendar-lite"
+    ],
     "如果": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "将主屏幕的焦点通知实时同步至背屏显示": [
       "business"
+    ],
+    "屏级": [
+      "calendar-lite"
+    ],
+    "手搓": [
+      "calendar-lite"
     ],
     "持底": [
       "business"
@@ -61,6 +78,7 @@
       "weather"
     ],
     "用于": [
+      "calendar-lite",
       "music",
       "weather"
     ],

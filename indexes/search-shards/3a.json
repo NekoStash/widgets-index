@@ -1,7 +1,10 @@
 {
   "shard": "3a",
-  "tokenCount": 20,
+  "tokenCount": 28,
   "tokens": {
+    "no": [
+      "calendar-lite"
+    ],
     "stuttering": [
       "music"
     ],
@@ -10,6 +13,7 @@
       "weather"
     ],
     "于小": [
+      "calendar-lite",
       "music",
       "weather"
     ],
@@ -39,14 +43,27 @@
     "拼接": [
       "weather"
     ],
+    "探逻": [
+      "calendar-lite"
+    ],
     "斯汀": [
       "business"
     ],
     "是一": [
+      "calendar-lite",
       "weather"
+    ],
+    "月天": [
+      "calendar-lite"
     ],
     "滑恢": [
       "weather"
+    ],
+    "画的": [
+      "calendar-lite"
+    ],
+    "的位": [
+      "calendar-lite"
     ],
     "的操": [
       "weather"
@@ -60,11 +77,21 @@
     "词识": [
       "business"
     ],
+    "请在": [
+      "calendar-lite"
+    ],
+    "适用于小米背屏的日历小组件": [
+      "calendar-lite"
+    ],
     "配视": [
       "weather"
     ],
     "需要": [
-      "business"
+      "business",
+      "calendar-lite"
+    ],
+    "非生": [
+      "calendar-lite"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 21,
+  "tokenCount": 27,
   "tokens": {
     "elements": [
       "music"
@@ -18,8 +18,14 @@
     "包的": [
       "business"
     ],
+    "和纯": [
+      "calendar-lite"
+    ],
     "塔斯汀": [
       "business"
+    ],
+    "定义": [
+      "calendar-lite"
     ],
     "将一天划分为": [
       "weather"
@@ -29,6 +35,9 @@
     ],
     "屏机": [
       "business"
+    ],
+    "帧挂": [
+      "calendar-lite"
     ],
     "打车": [
       "business"
@@ -44,19 +53,28 @@
     ],
     "核心": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "正常渲染视觉效果": [
       "weather"
     ],
+    "渡动": [
+      "calendar-lite"
+    ],
     "背景": [
-      "business"
+      "business",
+      "calendar-lite"
     ],
     "自适应刷新率控制": [
       "weather"
     ],
     "行环": [
+      "calendar-lite",
       "weather"
+    ],
+    "表达式": [
+      "calendar-lite"
     ],
     "认样": [
       "business"
@@ -66,6 +84,9 @@
     ],
     "载本": [
       "business"
+    ],
+    "靠系": [
+      "calendar-lite"
     ]
   }
 }

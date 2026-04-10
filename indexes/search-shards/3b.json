@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 22,
+  "tokenCount": 29,
   "tokens": {
     "language": [
       "weather"
@@ -9,6 +9,7 @@
       "weather"
     ],
     "ui": [
+      "calendar-lite",
       "music",
       "weather"
     ],
@@ -22,6 +23,9 @@
       "business",
       "weather"
     ],
+    "别当": [
+      "calendar-lite"
+    ],
     "功耗": [
       "business"
     ],
@@ -31,11 +35,23 @@
     "发者": [
       "business"
     ],
+    "变回": [
+      "calendar-lite"
+    ],
+    "号星期偏移量": [
+      "calendar-lite"
+    ],
     "容不": [
       "business"
     ],
     "将一": [
       "weather"
+    ],
+    "屏过": [
+      "calendar-lite"
+    ],
+    "抛弃": [
+      "calendar-lite"
     ],
     "效与": [
       "weather"
@@ -55,11 +71,17 @@
     "的自": [
       "business"
     ],
+    "省电": [
+      "calendar-lite"
+    ],
     "管底": [
       "business"
     ],
     "米主": [
       "weather"
+    ],
+    "米系": [
+      "calendar-lite"
     ],
     "进布": [
       "weather"

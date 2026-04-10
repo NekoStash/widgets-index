@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 19,
+  "tokenCount": 22,
   "tokens": {
     "display": [
       "music"
@@ -13,6 +13,9 @@
     ],
     "下载": [
       "business"
+    ],
+    "亮屏瞬间秒切": [
+      "calendar-lite"
     ],
     "动态自适应布局": [
       "business"
@@ -30,8 +33,12 @@
     "或尝试突破系统默认副屏微件限制的操作时": [
       "weather"
     ],
+    "打底": [
+      "calendar-lite"
+    ],
     "明度": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "沪上": [
@@ -47,6 +54,7 @@
       "weather"
     ],
     "置了": [
+      "calendar-lite",
       "weather"
     ],
     "茶百": [
@@ -60,6 +68,9 @@
     ],
     "觉体": [
       "weather"
+    ],
+    "起省": [
+      "calendar-lite"
     ]
   }
 }

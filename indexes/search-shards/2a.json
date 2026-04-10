@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 18,
+  "tokenCount": 24,
   "tokens": {
     "animations": [
       "music"
@@ -12,6 +12,7 @@
       "music"
     ],
     "maml": [
+      "calendar-lite",
       "weather"
     ],
     "your": [
@@ -19,6 +20,9 @@
     ],
     "与使": [
       "business"
+    ],
+    "个专": [
+      "calendar-lite"
     ],
     "体验": [
       "weather"
@@ -28,6 +32,7 @@
     ],
     "内置": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "取标": [
@@ -54,8 +59,23 @@
     "知与": [
       "business"
     ],
+    "级动": [
+      "calendar-lite"
+    ],
+    "纯数": [
+      "calendar-lite"
+    ],
+    "能识": [
+      "calendar-lite"
+    ],
     "轨迹": [
       "weather"
+    ],
+    "达式": [
+      "calendar-lite"
+    ],
+    "零帧": [
+      "calendar-lite"
     ]
   }
 }

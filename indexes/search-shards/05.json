@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 20,
+  "tokenCount": 24,
   "tokens": {
     "cloudy": [
       "weather"
@@ -15,11 +15,17 @@
     "个基": [
       "weather"
     ],
+    "主题引擎": [
+      "calendar-lite"
+    ],
     "了精": [
       "weather"
     ],
     "动隐": [
       "weather"
+    ],
+    "如": [
+      "calendar-lite"
     ],
     "将对应的品牌": [
       "business"
@@ -52,6 +58,12 @@
     "流程": [
       "weather"
     ],
+    "滑移": [
+      "calendar-lite"
+    ],
+    "演的": [
+      "calendar-lite"
+    ],
     "空自": [
       "weather"
     ],
@@ -63,6 +75,7 @@
     ],
     "过渡": [
       "business",
+      "calendar-lite",
       "weather"
     ]
   }

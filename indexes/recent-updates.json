@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "calendar-lite",
+      "name": "背屏日历Lite",
+      "description": "适用于小米背屏的日历小组件",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-10T09:25:52.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Xiaomi-RearScreen-Calendar",
+        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Calendar"
+      }
+    },
+    {
       "id": "business",
       "name": "[适配Todo便签]超级背屏岛Pro",
       "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",

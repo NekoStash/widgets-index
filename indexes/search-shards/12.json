@@ -1,9 +1,12 @@
 {
   "shard": "12",
-  "tokenCount": 15,
+  "tokenCount": 18,
   "tokens": {
     "一点": [
       "business"
+    ],
+    "何外": [
+      "calendar-lite"
     ],
     "使用": [
       "business",
@@ -13,6 +16,7 @@
       "business"
     ],
     "图片": [
+      "calendar-lite",
       "weather"
     ],
     "态自": [
@@ -22,11 +26,18 @@
     "或小": [
       "weather"
     ],
+    "搓的": [
+      "calendar-lite"
+    ],
+    "日历": [
+      "calendar-lite"
+    ],
     "星星星芒": [
       "weather"
     ],
     "机型": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "歌词": [

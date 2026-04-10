@@ -1,12 +1,15 @@
 {
   "shard": "3e",
-  "tokenCount": 20,
+  "tokenCount": 28,
   "tokens": {
     "about": [
       "music"
     ],
     "cloud": [
       "weather"
+    ],
+    "core": [
+      "calendar-lite"
     ],
     "project": [
       "music"
@@ -32,14 +35,32 @@
     "二次": [
       "business"
     ],
+    "位划": [
+      "calendar-lite"
+    ],
+    "像头": [
+      "calendar-lite"
+    ],
+    "全依": [
+      "calendar-lite"
+    ],
+    "最底": [
+      "calendar-lite"
+    ],
     "小": [
       "weather"
     ],
     "展示": [
       "weather"
     ],
+    "并非生硬地写死": [
+      "calendar-lite"
+    ],
     "强大": [
       "business"
+    ],
+    "执行": [
+      "calendar-lite"
     ],
     "据系": [
       "weather"
@@ -50,6 +71,9 @@
     "晴天": [
       "weather"
     ],
+    "月天数": [
+      "calendar-lite"
+    ],
     "级背": [
       "business"
     ],
@@ -58,6 +82,7 @@
     ],
     "通过": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "麦当": [

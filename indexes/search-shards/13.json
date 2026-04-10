@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 21,
+  "tokenCount": 23,
   "tokens": {
     "focus": [
       "business"
@@ -26,6 +26,9 @@
     "回退": [
       "business"
     ],
+    "外部": [
+      "calendar-lite"
+    ],
     "多背": [
       "weather"
     ],
@@ -34,6 +37,9 @@
     ],
     "帧率": [
       "weather"
+    ],
+    "态响": [
+      "calendar-lite"
     ],
     "或动": [
       "weather"

@@ -1,12 +1,15 @@
 {
   "shard": "22",
-  "tokenCount": 13,
+  "tokenCount": 19,
   "tokens": {
     "back": [
       "music"
     ],
     "transition": [
       "music"
+    ],
+    "中修": [
+      "calendar-lite"
     ],
     "倒扣": [
       "business"
@@ -16,6 +19,7 @@
     ],
     "动态": [
       "business",
+      "calendar-lite",
       "weather"
     ],
     "天划": [
@@ -24,8 +28,14 @@
     "射超": [
       "business"
     ],
+    "小部": [
+      "calendar-lite"
+    ],
     "屏动": [
       "weather"
+    ],
+    "式推": [
+      "calendar-lite"
     ],
     "推送": [
       "weather"
@@ -35,6 +45,15 @@
     ],
     "机翻": [
       "business"
+    ],
+    "理息": [
+      "calendar-lite"
+    ],
+    "画完": [
+      "calendar-lite"
+    ],
+    "的嗅": [
+      "calendar-lite"
     ],
     "间段": [
       "weather"
