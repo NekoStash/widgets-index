@@ -5,6 +5,7 @@
     "business_setup": {
       "id": "business",
       "renameable": false
-    }
+    },
+    "type": "widget"
   }
 }

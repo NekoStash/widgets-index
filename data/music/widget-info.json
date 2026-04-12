@@ -5,6 +5,7 @@
     "business_setup": {
       "id": "music",
       "renameable": false
-    }
+    },
+    "type": "widget"
   }
 }
