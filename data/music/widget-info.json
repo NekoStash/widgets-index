@@ -1,5 +1,6 @@
 {
   "id": "music",
+  "type": "enhanced",
   "widgetInfo": {
     "name": "音乐歌词",
     "business_setup": {

@@ -1,5 +1,6 @@
 {
   "id": "weather",
+  "type": "card",
   "widgetInfo": {
     "name": "背屏天气",
     "business_setup": {

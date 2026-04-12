@@ -1,5 +1,6 @@
 {
   "id": "calendar-lite",
+  "type": "card",
   "widgetInfo": {
     "name": "背屏日历Lite",
     "business_setup": {
