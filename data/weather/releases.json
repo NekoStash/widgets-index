@@ -2,6 +2,30 @@
   "id": "weather",
   "releases": [
     {
+      "id": 308245743,
+      "tagName": "v2.0",
+      "name": "v2.0",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-04-09T09:56:57Z",
+      "publishedAt": "2026-04-13T09:29:04Z",
+      "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather/releases/tag/v2.0",
+      "body": "<h1 dir=\"auto\">背屏天气 v2.0 重大更新</h1>\n<blockquote>\n<p dir=\"auto\">感谢金凡圣开源。</p>\n</blockquote>\n<p dir=\"auto\"><strong>注意：</strong> 从 2.0 版本之后，背屏天气将基于官方发布的背屏天气进行二创魔改。</p>\n<h3 dir=\"auto\">更新内容/魔改内容：</h3>\n<ol dir=\"auto\">\n<li>去除原版右上角的时间胶囊，以此防止与背屏快捷功能/动态通知中的胶囊冲突。</li>\n<li>增加自由切换：点击下方可自由切换逐小时预报视图和每日/多天预报视图。</li>\n</ol>",
+      "assets": [
+        {
+          "id": 395284683,
+          "name": "Xiaomi-RearScreen-Weather_v2.0.zip",
+          "label": null,
+          "size": 5243305,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 1,
+          "createdAt": "2026-04-13T09:28:57Z",
+          "updatedAt": "2026-04-13T09:29:02Z",
+          "downloadUrl": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather/releases/download/v2.0/Xiaomi-RearScreen-Weather_v2.0.zip"
+        }
+      ]
+    },
+    {
       "id": 307500354,
       "tagName": "v1.1",
       "name": "v1.1",
@@ -18,7 +42,7 @@
           "label": null,
           "size": 710935,
           "contentType": "application/x-zip-compressed",
-          "downloadCount": 99,
+          "downloadCount": 108,
           "createdAt": "2026-04-10T11:19:24Z",
           "updatedAt": "2026-04-10T11:19:27Z",
           "downloadUrl": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather/releases/download/v1.1/Xiaomi-RearScreen-Weather_v1.1.zip"
