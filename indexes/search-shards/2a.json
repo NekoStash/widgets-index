@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 24,
+  "tokenCount": 22,
   "tokens": {
     "animations": [
       "music"
@@ -16,9 +16,6 @@
       "weather"
     ],
     "your": [
-      "business"
-    ],
-    "与使": [
       "business"
     ],
     "个专": [
@@ -48,9 +45,6 @@
       "business"
     ],
     "气语": [
-      "weather"
-    ],
-    "涉及": [
       "weather"
     ],
     "点通": [

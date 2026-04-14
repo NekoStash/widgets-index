@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 25,
+  "tokenCount": 22,
   "tokens": {
     "equipped": [
       "music"
@@ -20,9 +20,6 @@
     "依托": [
       "business"
     ],
-    "到使": [
-      "weather"
-    ],
     "副标题与进度信息": [
       "business"
     ],
@@ -35,9 +32,6 @@
     "天气": [
       "weather"
     ],
-    "屏微": [
-      "weather"
-    ],
     "已内": [
       "business"
     ],
@@ -45,10 +39,6 @@
       "weather"
     ],
     "或改": [
-      "weather"
-    ],
-    "文件": [
-      "business",
       "weather"
     ],
     "星空与云朵": [

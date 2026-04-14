@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 26,
+  "tokenCount": 21,
   "tokens": {
     "automatically": [
       "music"
@@ -9,12 +9,6 @@
       "calendar-lite"
     ],
     "request": [
-      "weather"
-    ],
-    "snow": [
-      "weather"
-    ],
-    "theme": [
       "weather"
     ],
     "上进": [
@@ -61,17 +55,8 @@
     "片素": [
       "calendar-lite"
     ],
-    "直接": [
-      "business"
-    ],
-    "粒子纹理贴图": [
-      "weather"
-    ],
     "茶百道": [
       "business"
-    ],
-    "行热": [
-      "weather"
     ],
     "让适": [
       "calendar-lite"

@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 36,
+  "tokenCount": 32,
   "tokens": {
     "feeling": [
       "music"
@@ -49,9 +49,6 @@
     "学表": [
       "calendar-lite"
     ],
-    "安装与测试": [
-      "weather"
-    ],
     "实现": [
       "calendar-lite"
     ],
@@ -65,9 +62,6 @@
       "weather"
     ],
     "无缝切换": [
-      "weather"
-    ],
-    "星星": [
       "weather"
     ],
     "星期": [
@@ -103,17 +97,11 @@
     "触发回调": [
       "calendar-lite"
     ],
-    "试突": [
-      "weather"
-    ],
     "调它": [
       "calendar-lite"
     ],
     "间秒": [
       "calendar-lite"
-    ],
-    "题编": [
-      "weather"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 23,
+  "tokenCount": 22,
   "tokens": {
     "contributing": [
       "music"
@@ -10,9 +10,6 @@
     ],
     "feel": [
       "music"
-    ],
-    "note": [
-      "weather"
     ],
     "todo": [
       "business"

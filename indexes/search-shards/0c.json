@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 27,
+  "tokenCount": 25,
   "tokens": {
     "elements": [
       "music"
@@ -42,9 +42,6 @@
     "打车": [
       "business"
     ],
-    "操作": [
-      "weather"
-    ],
     "放入": [
       "weather"
     ],
@@ -81,9 +78,6 @@
     ],
     "起渲": [
       "weather"
-    ],
-    "载本": [
-      "business"
     ],
     "靠系": [
       "calendar-lite"

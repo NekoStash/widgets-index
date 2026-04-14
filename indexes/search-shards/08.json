@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 20,
+  "tokenCount": 18,
   "tokens": {
     "save": [
       "music"
@@ -28,9 +28,6 @@
     "唤醒时通过": [
       "weather"
     ],
-    "本仓": [
-      "weather"
-    ],
     "标签": [
       "calendar-lite"
     ],
@@ -43,9 +40,6 @@
     ],
     "用小": [
       "calendar-lite"
-    ],
-    "破系": [
-      "weather"
     ],
     "纯代码日历小部件": [
       "calendar-lite"

@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 29,
+  "tokenCount": 27,
   "tokens": {
     "an": [
       "music"
@@ -21,9 +21,6 @@
     "slide": [
       "music"
     ],
-    "star3": [
-      "weather"
-    ],
     "xiaomi-rearscreen-calendar": [
       "calendar-lite"
     ],
@@ -32,8 +29,7 @@
     ],
     "主题": [
       "business",
-      "calendar-lite",
-      "weather"
+      "calendar-lite"
     ],
     "了系": [
       "calendar-lite"
@@ -45,8 +41,7 @@
       "business"
     ],
     "加载": [
-      "business",
-      "weather"
+      "business"
     ],
     "同物": [
       "weather"
@@ -74,9 +69,6 @@
     ],
     "的背屏": [
       "weather"
-    ],
-    "看效": [
-      "business"
     ],
     "级的": [
       "calendar-lite"

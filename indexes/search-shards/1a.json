@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 26,
+  "tokenCount": 24,
   "tokens": {
     "current": [
       "music"
@@ -13,9 +13,6 @@
     ],
     "了过": [
       "calendar-lite"
-    ],
-    "云层": [
-      "weather"
     ],
     "亮屏": [
       "business",
@@ -44,9 +41,6 @@
     ],
     "定平": [
       "calendar-lite"
-    ],
-    "将文": [
-      "weather"
     ],
     "屏需": [
       "weather"

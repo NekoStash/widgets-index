@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 19,
+  "tokenCount": 14,
   "tokens": {
     "full": [
       "music"
@@ -18,20 +18,8 @@
     "合正": [
       "weather"
     ],
-    "地主": [
-      "business"
-    ],
-    "多云日照素材": [
-      "weather"
-    ],
-    "夹素": [
-      "weather"
-    ],
     "度降": [
       "calendar-lite"
-    ],
-    "开手": [
-      "business"
     ],
     "提供": [
       "weather"
@@ -52,9 +40,6 @@
       "business"
     ],
     "调度": [
-      "weather"
-    ],
-    "辑器": [
       "weather"
     ],
     "雪天": [

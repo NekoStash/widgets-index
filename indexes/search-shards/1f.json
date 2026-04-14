@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 26,
+  "tokenCount": 23,
   "tokens": {
     "calendar": [
       "calendar-lite"
@@ -13,9 +13,6 @@
     ],
     "偏移": [
       "calendar-lite"
-    ],
-    "其同": [
-      "weather"
     ],
     "兼顾": [
       "calendar-lite",
@@ -67,12 +64,6 @@
     "系统": [
       "business",
       "calendar-lite",
-      "weather"
-    ],
-    "级调": [
-      "weather"
-    ],
-    "至指": [
       "weather"
     ],
     "还内置了极具沉浸感的粒子动效与全天候光影渲染": [

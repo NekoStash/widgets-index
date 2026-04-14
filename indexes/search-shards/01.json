@@ -1,6 +1,6 @@
 {
   "shard": "01",
-  "tokenCount": 13,
+  "tokenCount": 10,
   "tokens": {
     "this": [
       "music"
@@ -17,9 +17,6 @@
     "屏日": [
       "calendar-lite"
     ],
-    "屏查": [
-      "business"
-    ],
     "帧绝": [
       "calendar-lite"
     ],
@@ -31,12 +28,6 @@
       "business",
       "calendar-lite",
       "weather"
-    ],
-    "核心业务逻辑与": [
-      "weather"
-    ],
-    "混搭": [
-      "business"
     ],
     "背屏主题部件": [
       "business"

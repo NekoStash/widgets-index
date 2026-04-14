@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 25,
+  "tokenCount": 22,
   "tokens": {
     "are": [
       "music"
@@ -23,9 +23,6 @@
     ],
     "动效": [
       "weather"
-    ],
-    "卖状": [
-      "business"
     ],
     "备特": [
       "calendar-lite"
@@ -58,12 +55,6 @@
     "有逻": [
       "business"
     ],
-    "构完": [
-      "weather"
-    ],
-    "测试": [
-      "weather"
-    ],
     "特别": [
       "calendar-lite"
     ],
@@ -78,7 +69,6 @@
       "weather"
     ],
     "进入": [
-      "business",
       "weather"
     ]
   }

@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 29,
+  "tokenCount": 26,
   "tokens": {
     "artist": [
       "music"
@@ -23,9 +23,6 @@
     "于主": [
       "business"
     ],
-    "发外": [
-      "business"
-    ],
     "叠法": [
       "calendar-lite"
     ],
@@ -37,9 +34,6 @@
     ],
     "将左侧": [
       "calendar-lite"
-    ],
-    "将文件打包为": [
-      "weather"
     ],
     "屏应": [
       "weather"
@@ -82,9 +76,6 @@
     ],
     "统的": [
       "calendar-lite"
-    ],
-    "网或": [
-      "weather"
     ],
     "键进": [
       "business"

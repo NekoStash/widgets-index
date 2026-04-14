@@ -1,12 +1,9 @@
 {
   "shard": "3e",
-  "tokenCount": 28,
+  "tokenCount": 25,
   "tokens": {
     "about": [
       "music"
-    ],
-    "cloud": [
-      "weather"
     ],
     "core": [
       "calendar-lite"
@@ -15,9 +12,6 @@
       "music"
     ],
     "pull": [
-      "weather"
-    ],
-    "text": [
       "weather"
     ],
     "与进": [
@@ -67,9 +61,6 @@
     ],
     "掌握": [
       "business"
-    ],
-    "晴天": [
-      "weather"
     ],
     "月天数": [
       "calendar-lite"

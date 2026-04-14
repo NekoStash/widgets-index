@@ -1,33 +1,15 @@
 {
   "shard": "24",
-  "tokenCount": 22,
+  "tokenCount": 15,
   "tokens": {
     "always": [
       "music"
     ],
-    "manifest": [
-      "weather"
-    ],
-    "null": [
-      "weather"
-    ],
     "to": [
       "music"
     ],
-    "件包": [
-      "business"
-    ],
-    "克隆": [
-      "weather"
-    ],
-    "入本": [
-      "business"
-    ],
     "动岛": [
       "business"
-    ],
-    "同级": [
-      "weather"
     ],
     "响应": [
       "calendar-lite"
@@ -39,9 +21,6 @@
       "calendar-lite"
     ],
     "德基": [
-      "business"
-    ],
-    "打开手机内置的": [
       "business"
     ],
     "擎丝": [

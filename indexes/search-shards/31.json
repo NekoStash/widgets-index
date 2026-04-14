@@ -1,6 +1,6 @@
 {
   "shard": "31",
-  "tokenCount": 35,
+  "tokenCount": 32,
   "tokens": {
     "17": [
       "business",
@@ -64,9 +64,6 @@
     "底抛": [
       "calendar-lite"
     ],
-    "录进": [
-      "weather"
-    ],
     "推导": [
       "calendar-lite"
     ],
@@ -74,23 +71,16 @@
       "weather"
     ],
     "效果": [
-      "business",
       "weather"
     ],
     "新的": [
       "business",
       "weather"
     ],
-    "查看": [
-      "business"
-    ],
     "格坐": [
       "calendar-lite"
     ],
     "欢迎": [
-      "weather"
-    ],
-    "涉及到使用": [
       "weather"
     ],
     "率降": [

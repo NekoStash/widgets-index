@@ -1,10 +1,7 @@
 {
   "shard": "0e",
-  "tokenCount": 27,
+  "tokenCount": 23,
   "tokens": {
-    "adb": [
-      "weather"
-    ],
     "deliver": [
       "music"
     ],
@@ -16,12 +13,6 @@
     ],
     "while": [
       "music"
-    ],
-    "克隆本仓库到本地": [
-      "weather"
-    ],
-    "包为": [
-      "weather"
     ],
     "号的动态隐藏与显示": [
       "calendar-lite"
@@ -67,9 +58,6 @@
     ],
     "添加": [
       "business",
-      "weather"
-    ],
-    "用中": [
       "weather"
     ],
     "的天": [

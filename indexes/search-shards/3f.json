@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 22,
+  "tokenCount": 20,
   "tokens": {
     "capabilities": [
       "music"
@@ -30,9 +30,6 @@
     ],
     "完美兼顾了过渡动画的优雅与": [
       "calendar-lite"
-    ],
-    "层素": [
-      "weather"
     ],
     "屏岛": [
       "business"
@@ -67,9 +64,6 @@
     ],
     "让你在手机倒扣时也能实时掌握外卖": [
       "business"
-    ],
-    "重载": [
-      "weather"
     ],
     "验与": [
       "weather"

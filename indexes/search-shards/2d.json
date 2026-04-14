@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 21,
+  "tokenCount": 19,
   "tokens": {
     "中文": [
       "music"
@@ -20,9 +20,6 @@
     ],
     "动态生成全局缩放系数": [
       "calendar-lite"
-    ],
-    "台运": [
-      "business"
     ],
     "同比": [
       "business"
@@ -59,9 +56,6 @@
     ],
     "自适": [
       "business",
-      "weather"
-    ],
-    "送至": [
       "weather"
     ],
     "齐到": [

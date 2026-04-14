@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 25,
+  "tokenCount": 23,
   "tokens": {
     "coco": [
       "business"
@@ -20,13 +20,7 @@
     "信息": [
       "business"
     ],
-    "关流": [
-      "weather"
-    ],
     "分为": [
-      "weather"
-    ],
-    "到本": [
       "weather"
     ],
     "呼吸": [
@@ -70,7 +64,6 @@
       "business"
     ],
     "运行": [
-      "business",
       "calendar-lite",
       "weather"
     ],
@@ -79,8 +72,7 @@
     ],
     "默认": [
       "business",
-      "calendar-lite",
-      "weather"
+      "calendar-lite"
     ]
   }
 }

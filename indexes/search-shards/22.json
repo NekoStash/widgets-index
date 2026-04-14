@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 19,
+  "tokenCount": 17,
   "tokens": {
     "back": [
       "music"
@@ -37,13 +37,7 @@
     "式推": [
       "calendar-lite"
     ],
-    "推送": [
-      "weather"
-    ],
     "时也": [
-      "business"
-    ],
-    "机翻": [
       "business"
     ],
     "理息": [

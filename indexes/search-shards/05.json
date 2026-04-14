@@ -1,10 +1,7 @@
 {
   "shard": "05",
-  "tokenCount": 24,
+  "tokenCount": 21,
   "tokens": {
-    "cloudy": [
-      "weather"
-    ],
     "kfc": [
       "business"
     ],
@@ -49,14 +46,8 @@
     "探索": [
       "weather"
     ],
-    "日照": [
-      "weather"
-    ],
     "本模块通过接管底层焦点通知": [
       "business"
-    ],
-    "流程": [
-      "weather"
     ],
     "滑移": [
       "calendar-lite"

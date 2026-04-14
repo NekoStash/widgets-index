@@ -1,12 +1,9 @@
 {
   "shard": "2c",
-  "tokenCount": 25,
+  "tokenCount": 24,
   "tokens": {
     "album": [
       "music"
-    ],
-    "app": [
-      "business"
     ],
     "island": [
       "business"

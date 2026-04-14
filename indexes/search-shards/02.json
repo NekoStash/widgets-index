@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 28,
+  "tokenCount": 23,
   "tokens": {
     "skip": [
       "music"
@@ -20,17 +20,8 @@
     "参照现有逻辑添加新的": [
       "business"
     ],
-    "及其同级目录下的": [
-      "weather"
-    ],
-    "可在": [
-      "business"
-    ],
     "地写": [
       "calendar-lite"
-    ],
-    "子纹": [
-      "weather"
     ],
     "它的": [
       "calendar-lite"
@@ -71,12 +62,6 @@
     ],
     "终极": [
       "calendar-lite"
-    ],
-    "统默": [
-      "weather"
-    ],
-    "翻转": [
-      "business"
     ],
     "能实": [
       "business"

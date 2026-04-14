@@ -1,19 +1,15 @@
 {
   "shard": "37",
-  "tokenCount": 22,
+  "tokenCount": 19,
   "tokens": {
     "extracts": [
       "music"
-    ],
-    "loading": [
-      "weather"
     ],
     "oled": [
       "calendar-lite"
     ],
     "制的": [
-      "business",
-      "weather"
+      "business"
     ],
     "动态调整下落速度与透明度": [
       "weather"
@@ -51,9 +47,6 @@
     "点点": [
       "business"
     ],
-    "理贴": [
-      "weather"
-    ],
     "系列": [
       "business",
       "calendar-lite",
@@ -62,9 +55,6 @@
     ],
     "资源目录结构": [
       "weather"
-    ],
-    "选择": [
-      "business"
     ],
     "配引": [
       "business"

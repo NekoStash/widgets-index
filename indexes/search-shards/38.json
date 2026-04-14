@@ -1,14 +1,10 @@
 {
   "shard": "38",
-  "tokenCount": 32,
+  "tokenCount": 26,
   "tokens": {
     "assets": [
       "business",
-      "calendar-lite",
-      "weather"
-    ],
-    "editor": [
-      "weather"
+      "calendar-lite"
     ],
     "sine": [
       "weather"
@@ -37,9 +33,6 @@
     "依靠": [
       "calendar-lite"
     ],
-    "保你": [
-      "weather"
-    ],
     "前台": [
       "business"
     ],
@@ -51,9 +44,6 @@
     ],
     "变量": [
       "calendar-lite"
-    ],
-    "心业": [
-      "weather"
     ],
     "恢复": [
       "weather"
@@ -71,13 +61,7 @@
     "无障碍支持": [
       "weather"
     ],
-    "机内": [
-      "business"
-    ],
     "模拟真实的随风飘落摇摆轨迹": [
-      "weather"
-    ],
-    "的主": [
       "weather"
     ],
     "的读": [
@@ -85,9 +69,6 @@
     ],
     "示超": [
       "business"
-    ],
-    "级目": [
-      "weather"
     ],
     "统将": [
       "business"

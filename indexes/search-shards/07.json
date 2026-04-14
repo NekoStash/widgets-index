@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 13,
+  "tokenCount": 12,
   "tokens": {
     "check": [
       "music"
@@ -13,9 +13,6 @@
     ],
     "单位": [
       "calendar-lite"
-    ],
-    "壁纸应用中": [
-      "weather"
     ],
     "息屏显示": [
       "business",

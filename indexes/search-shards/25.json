@@ -1,15 +1,12 @@
 {
   "shard": "25",
-  "tokenCount": 20,
+  "tokenCount": 15,
   "tokens": {
     "lyrics": [
       "music"
     ],
     "seamlessly": [
       "music"
-    ],
-    "件目": [
-      "weather"
     ],
     "堡王": [
       "business"
@@ -20,17 +17,8 @@
     "子动": [
       "weather"
     ],
-    "导入至手机的主题": [
-      "weather"
-    ],
     "成全": [
       "calendar-lite"
-    ],
-    "打包": [
-      "weather"
-    ],
-    "熟悉": [
-      "weather"
     ],
     "目录下": [
       "business"
@@ -51,9 +39,6 @@
     ],
     "行二": [
       "business"
-    ],
-    "调试": [
-      "weather"
     ],
     "超级": [
       "business"

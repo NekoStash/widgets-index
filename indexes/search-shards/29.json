@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 25,
+  "tokenCount": 23,
   "tokens": {
     "experience": [
       "music"
@@ -23,9 +23,6 @@
     "代码": [
       "business",
       "calendar-lite"
-    ],
-    "入至": [
-      "weather"
     ],
     "动处": [
       "calendar-lite"
@@ -74,9 +71,6 @@
       "calendar-lite"
     ],
     "系统环境": [
-      "weather"
-    ],
-    "纸应": [
       "weather"
     ],
     "铺设": [

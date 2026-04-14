@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 23,
+  "tokenCount": 22,
   "tokens": {
     "主屏": [
       "business"
@@ -65,9 +65,6 @@
       "weather"
     ],
     "量身": [
-      "weather"
-    ],
-    "隆本": [
       "weather"
     ],
     "零帧绝杀": [

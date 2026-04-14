@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 28,
+  "tokenCount": 24,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -13,9 +13,6 @@
     ],
     "or": [
       "music"
-    ],
-    "业务": [
-      "weather"
     ],
     "为禁": [
       "calendar-lite"
@@ -39,9 +36,6 @@
     ],
     "完美映射超级岛": [
       "business"
-    ],
-    "态素": [
-      "weather"
     ],
     "或者": [
       "weather"
@@ -72,12 +66,6 @@
     ],
     "纯黑背景": [
       "calendar-lite"
-    ],
-    "缺省": [
-      "weather"
-    ],
-    "背屏显示": [
-      "business"
     ],
     "觉效": [
       "weather"

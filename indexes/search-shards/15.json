@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 22,
+  "tokenCount": 20,
   "tokens": {
     "display": [
       "music"
@@ -10,9 +10,6 @@
     ],
     "下落": [
       "weather"
-    ],
-    "下载": [
-      "business"
     ],
     "亮屏瞬间秒切": [
       "calendar-lite"
@@ -28,9 +25,6 @@
       "business"
     ],
     "引擎丝滑恢复": [
-      "weather"
-    ],
-    "或尝试突破系统默认副屏微件限制的操作时": [
       "weather"
     ],
     "打底": [

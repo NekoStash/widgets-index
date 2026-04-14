@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 24,
+  "tokenCount": 21,
   "tokens": {
     "15": [
       "weather"
@@ -32,12 +32,6 @@
     "并加": [
       "business"
     ],
-    "断网": [
-      "weather"
-    ],
-    "机的": [
-      "weather"
-    ],
     "构建": [
       "weather"
     ],
@@ -64,9 +58,6 @@
     ],
     "表达": [
       "calendar-lite"
-    ],
-    "载态": [
-      "weather"
     ],
     "部图": [
       "calendar-lite"

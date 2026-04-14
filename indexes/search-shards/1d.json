@@ -1,15 +1,12 @@
 {
   "shard": "1d",
-  "tokenCount": 29,
+  "tokenCount": 25,
   "tokens": {
     "animation": [
       "weather"
     ],
     "background": [
       "music"
-    ],
-    "cloud1": [
-      "weather"
     ],
     "tracks": [
       "music"
@@ -39,9 +36,6 @@
     "含以": [
       "weather"
     ],
-    "并应用": [
-      "business"
-    ],
     "库中": [
       "weather"
     ],
@@ -57,17 +51,11 @@
     "态调": [
       "weather"
     ],
-    "或触": [
-      "business"
-    ],
     "放置": [
       "business"
     ],
     "框架": [
       "weather"
-    ],
-    "模块混搭": [
-      "business"
     ],
     "深度适配系统": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 26,
+  "tokenCount": 23,
   "tokens": {
     "art": [
       "music"
@@ -11,9 +11,6 @@
     ],
     "native": [
       "music"
-    ],
-    "下的": [
-      "weather"
     ],
     "为了使": [
       "weather"
@@ -57,17 +54,10 @@
       "music",
       "weather"
     ],
-    "编译工具或小米主题编辑器": [
-      "weather"
-    ],
     "至背": [
       "business"
     ],
     "花粒": [
-      "weather"
-    ],
-    "装与": [
-      "business",
       "weather"
     ],
     "要求": [

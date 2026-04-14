@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 29,
+  "tokenCount": 27,
   "tokens": {
     "language": [
       "weather"
@@ -77,9 +77,6 @@
     "管底": [
       "business"
     ],
-    "米主": [
-      "weather"
-    ],
     "米系": [
       "calendar-lite"
     ],
@@ -87,9 +84,6 @@
       "weather"
     ],
     "量身定制": [
-      "weather"
-    ],
-    "限制": [
       "weather"
     ]
   }

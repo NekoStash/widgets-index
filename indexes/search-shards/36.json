@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 31,
+  "tokenCount": 28,
   "tokens": {
     "30": [
       "calendar-lite"
@@ -22,8 +22,7 @@
     ],
     "xml": [
       "business",
-      "calendar-lite",
-      "weather"
+      "calendar-lite"
     ],
     "件添": [
       "weather"
@@ -36,9 +35,6 @@
     ],
     "多云天气带有云朵缓缓入场动画": [
       "weather"
-    ],
-    "将手": [
-      "business"
     ],
     "布局": [
       "business",
@@ -62,7 +58,6 @@
       "weather"
     ],
     "本项": [
-      "business",
       "calendar-lite",
       "weather"
     ],
@@ -81,14 +76,8 @@
     "系统将自动回退至默认样式": [
       "business"
     ],
-    "纹理": [
-      "weather"
-    ],
     "缩并": [
       "calendar-lite"
-    ],
-    "辑与": [
-      "weather"
     ],
     "量和": [
       "calendar-lite"

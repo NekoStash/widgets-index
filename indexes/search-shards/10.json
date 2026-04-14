@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 28,
+  "tokenCount": 27,
   "tokens": {
     "burger": [
       "business"
@@ -19,9 +19,6 @@
     ],
     "了等": [
       "calendar-lite"
-    ],
-    "件夹": [
-      "weather"
     ],
     "便签": [
       "business"
@@ -45,8 +42,7 @@
       "weather"
     ],
     "手机": [
-      "business",
-      "weather"
+      "business"
     ],
     "控制": [
       "weather"

@@ -14,10 +14,27 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
         "type": "User"
       },
-      "updatedAt": "2026-04-13T09:29:04.000Z",
+      "updatedAt": "2026-04-14T09:03:44.000Z",
       "repository": {
         "fullName": "SiberiaApp/Xiaomi-RearScreen-Weather",
         "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather"
+      }
+    },
+    {
+      "id": "business",
+      "name": "[适配Todo便签]超级背屏岛Pro",
+      "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-14T09:02:14.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Super-RearScreen-Island-Todo",
+        "url": "https://github.com/SiberiaApp/Super-RearScreen-Island-Todo"
       }
     },
     {
@@ -35,23 +52,6 @@
       "repository": {
         "fullName": "SiberiaApp/Xiaomi-RearScreen-Calendar",
         "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Calendar"
-      }
-    },
-    {
-      "id": "business",
-      "name": "[适配Todo便签]超级背屏岛Pro",
-      "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
-      "author": {
-        "login": "SiberiaApp",
-        "name": "SiberiaApp",
-        "url": "https://github.com/SiberiaApp",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-04-10T00:10:56.000Z",
-      "repository": {
-        "fullName": "SiberiaApp/Super-RearScreen-Island-Todo",
-        "url": "https://github.com/SiberiaApp/Super-RearScreen-Island-Todo"
       }
     },
     {

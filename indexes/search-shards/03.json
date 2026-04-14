@@ -1,10 +1,7 @@
 {
   "shard": "03",
-  "tokenCount": 20,
+  "tokenCount": 19,
   "tokens": {
-    "fastboot": [
-      "weather"
-    ],
     "leverages": [
       "music"
     ],

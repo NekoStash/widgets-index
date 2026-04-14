@@ -1,15 +1,12 @@
 {
   "shard": "2f",
-  "tokenCount": 18,
+  "tokenCount": 14,
   "tokens": {
     "active": [
       "music"
     ],
     "between": [
       "music"
-    ],
-    "light": [
-      "weather"
     ],
     "luckin": [
       "business"
@@ -39,19 +36,10 @@
     "气状": [
       "weather"
     ],
-    "热重": [
-      "weather"
-    ],
     "的焦": [
       "business"
     ],
     "目前代码已内置以下主流餐饮": [
-      "business"
-    ],
-    "目的": [
-      "business"
-    ],
-    "置的": [
       "business"
     ],
     "认将": [

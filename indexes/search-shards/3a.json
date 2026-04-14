@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 28,
+  "tokenCount": 25,
   "tokens": {
     "no": [
       "calendar-lite"
@@ -17,9 +17,6 @@
       "music",
       "weather"
     ],
-    "云层素材": [
-      "weather"
-    ],
     "他具": [
       "weather"
     ],
@@ -29,10 +26,6 @@
     ],
     "及其他搭载背屏模块的": [
       "business"
-    ],
-    "导入": [
-      "business",
-      "weather"
     ],
     "度切": [
       "business"
@@ -64,9 +57,6 @@
     ],
     "的位": [
       "calendar-lite"
-    ],
-    "的操": [
-      "weather"
     ],
     "腻的": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 25,
+  "tokenCount": 21,
   "tokens": {
     "adaptive": [
       "music"
@@ -27,20 +27,11 @@
     "了传": [
       "calendar-lite"
     ],
-    "云日": [
-      "weather"
-    ],
-    "件限": [
-      "weather"
-    ],
     "入对": [
       "weather"
     ],
     "副标": [
       "business"
-    ],
-    "在风": [
-      "weather"
     ],
     "堆叠": [
       "calendar-lite"
@@ -80,9 +71,6 @@
     "用于": [
       "calendar-lite",
       "music",
-      "weather"
-    ],
-    "译工": [
       "weather"
     ]
   }

@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 24,
+  "tokenCount": 19,
   "tokens": {
     "aod": [
       "business",
@@ -20,9 +20,6 @@
     "与背": [
       "business"
     ],
-    "主题壁纸": [
-      "business"
-    ],
     "候光": [
       "weather"
     ],
@@ -37,15 +34,6 @@
     ],
     "天候": [
       "weather"
-    ],
-    "尝试": [
-      "weather"
-    ],
-    "并应": [
-      "business"
-    ],
-    "或直": [
-      "business"
     ],
     "播报": [
       "weather"
@@ -71,9 +59,6 @@
     ],
     "级岛": [
       "business"
-    ],
-    "贴图": [
-      "weather"
     ],
     "需求": [
       "weather"

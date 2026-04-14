@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 32,
+  "tokenCount": 28,
   "tokens": {
     "210": [
       "weather"
@@ -22,9 +22,6 @@
       "weather"
     ],
     "super": [
-      "business"
-    ],
-    "下载本项目的": [
       "business"
     ],
     "了日": [
@@ -50,12 +47,6 @@
     ],
     "态隐": [
       "calendar-lite"
-    ],
-    "悉相": [
-      "weather"
-    ],
-    "接导": [
-      "business"
     ],
     "摄像": [
       "calendar-lite"
@@ -89,9 +80,6 @@
     ],
     "美复": [
       "calendar-lite"
-    ],
-    "认副": [
-      "weather"
     ],
     "象数": [
       "weather"

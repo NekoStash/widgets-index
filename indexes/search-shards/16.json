@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 19,
+  "tokenCount": 17,
   "tokens": {
     "450": [
       "weather"
@@ -24,9 +24,6 @@
     "及其他具备背屏的": [
       "weather"
     ],
-    "在前台运行": [
-      "business"
-    ],
     "在息屏时透明度降至": [
       "calendar-lite"
     ],
@@ -35,9 +32,6 @@
     ],
     "屏瞬": [
       "calendar-lite"
-    ],
-    "库到": [
-      "weather"
     ],
     "彻底抛弃了传统的": [
       "calendar-lite"

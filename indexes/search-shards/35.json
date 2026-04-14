@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 22,
+  "tokenCount": 20,
   "tokens": {
     "bug": [
       "weather"
@@ -23,16 +23,10 @@
     "全局": [
       "calendar-lite"
     ],
-    "务逻": [
-      "weather"
-    ],
     "周一": [
       "calendar-lite"
     ],
     "屏天": [
-      "weather"
-    ],
-    "工具": [
       "weather"
     ],
     "并非": [

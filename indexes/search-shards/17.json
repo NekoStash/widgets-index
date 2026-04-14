@@ -1,24 +1,12 @@
 {
   "shard": "17",
-  "tokenCount": 21,
+  "tokenCount": 16,
   "tokens": {
     "controls": [
       "music"
     ],
-    "preview": [
-      "weather"
-    ],
-    "作时": [
-      "weather"
-    ],
     "全区": [
       "calendar-lite"
-    ],
-    "即可": [
-      "business"
-    ],
-    "及到": [
-      "weather"
     ],
     "吸闪": [
       "weather"
@@ -59,9 +47,6 @@
     ],
     "说明": [
       "business"
-    ],
-    "进行高级调试": [
-      "weather"
     ],
     "适用": [
       "calendar-lite",

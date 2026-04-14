@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 24,
+  "tokenCount": 20,
   "tokens": {
     "云朵": [
       "weather"
@@ -18,19 +18,10 @@
       "business",
       "calendar-lite"
     ],
-    "定的": [
-      "weather"
-    ],
     "帧率降至": [
       "weather"
     ],
     "影引": [
-      "weather"
-    ],
-    "或加": [
-      "weather"
-    ],
-    "或推送至指定的副屏微件目录进行热重载测试": [
       "weather"
     ],
     "接天": [
@@ -62,9 +53,6 @@
     ],
     "统级": [
       "calendar-lite"
-    ],
-    "至手": [
-      "weather"
     ],
     "零帧挂起省电逻辑": [
       "calendar-lite"

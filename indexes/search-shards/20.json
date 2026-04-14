@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 20,
+  "tokenCount": 17,
   "tokens": {
     "folme": [
       "business",
@@ -15,12 +15,6 @@
     ],
     "传统": [
       "calendar-lite"
-    ],
-    "你熟": [
-      "weather"
-    ],
-    "具或": [
-      "weather"
     ],
     "对应": [
       "business",
@@ -62,9 +56,6 @@
     ],
     "顾极": [
       "weather"
-    ],
-    "题文": [
-      "business"
     ]
   }
 }

@@ -1,11 +1,8 @@
 {
   "shard": "18",
-  "tokenCount": 28,
+  "tokenCount": 27,
   "tokens": {
     "120hz": [
-      "weather"
-    ],
-    "cloud6": [
       "weather"
     ],
     "color": [
@@ -82,7 +79,6 @@
       "calendar-lite"
     ],
     "触发": [
-      "business",
       "calendar-lite",
       "weather"
     ],
