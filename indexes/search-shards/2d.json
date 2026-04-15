@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 19,
+  "tokenCount": 22,
   "tokens": {
     "中文": [
       "music"
@@ -25,10 +25,14 @@
       "business"
     ],
     "在动": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "外卖": [
       "business"
+    ],
+    "实现极低待机功耗": [
+      "schedule_reminder"
     ],
     "层铺": [
       "calendar-lite"
@@ -41,6 +45,9 @@
     ],
     "机倒": [
       "business"
+    ],
+    "用动": [
+      "schedule_reminder"
     ],
     "画接": [
       "business"
@@ -57,6 +64,9 @@
     "自适": [
       "business",
       "weather"
+    ],
+    "色彩重构": [
+      "schedule_reminder"
     ],
     "齐到": [
       "calendar-lite"

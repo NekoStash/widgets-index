@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 22,
+  "tokenCount": 25,
   "tokens": {
     "animations": [
       "music"
@@ -13,13 +13,15 @@
     ],
     "maml": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "your": [
       "business"
     ],
     "个专": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "体验": [
       "weather"
@@ -30,6 +32,7 @@
     "内置": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "取标": [
@@ -41,6 +44,9 @@
     "息屏状态": [
       "business"
     ],
+    "据真": [
+      "schedule_reminder"
+    ],
     "新品": [
       "business"
     ],
@@ -48,13 +54,21 @@
       "weather"
     ],
     "点通": [
-      "business"
+      "business",
+      "schedule_reminder"
+    ],
+    "现极": [
+      "schedule_reminder"
+    ],
+    "省电规范": [
+      "schedule_reminder"
     ],
     "知与": [
       "business"
     ],
     "级动": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "纯数": [
       "calendar-lite"
@@ -69,7 +83,8 @@
       "calendar-lite"
     ],
     "零帧": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ]
   }
 }

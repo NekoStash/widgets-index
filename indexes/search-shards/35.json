@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 20,
+  "tokenCount": 22,
   "tokens": {
     "bug": [
       "weather"
@@ -21,7 +21,11 @@
       "business"
     ],
     "全局": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
+    ],
+    "吸渐": [
+      "schedule_reminder"
     ],
     "周一": [
       "calendar-lite"
@@ -38,11 +42,15 @@
     "放时": [
       "weather"
     ],
+    "时实": [
+      "schedule_reminder"
+    ],
     "欢迎提交": [
       "weather"
     ],
     "渐变": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "的平滑过渡与透明度切换": [

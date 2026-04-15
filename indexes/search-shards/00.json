@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 24,
+  "tokenCount": 26,
   "tokens": {
     "devices": [
       "music"
@@ -57,11 +57,17 @@
     "时拉": [
       "weather"
     ],
+    "晰可": [
+      "schedule_reminder"
+    ],
     "智能品牌识别系统": [
       "business"
     ],
     "独立": [
       "weather"
+    ],
+    "目深": [
+      "schedule_reminder"
     ],
     "网格": [
       "calendar-lite"

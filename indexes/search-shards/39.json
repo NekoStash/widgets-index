@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 23,
+  "tokenCount": 27,
   "tokens": {
     "coco": [
       "business"
@@ -24,7 +24,11 @@
       "weather"
     ],
     "呼吸": [
+      "schedule_reminder",
       "weather"
+    ],
+    "它通过解析系统底层的": [
+      "schedule_reminder"
     ],
     "完全": [
       "calendar-lite"
@@ -35,11 +39,20 @@
     "度定": [
       "business"
     ],
+    "态小": [
+      "schedule_reminder"
+    ],
     "接口": [
       "business"
     ],
     "推演": [
       "calendar-lite"
+    ],
+    "插件": [
+      "schedule_reminder"
+    ],
+    "放换": [
+      "schedule_reminder"
     ],
     "本项目不仅提供了精准的天气数据展示": [
       "weather"
@@ -55,7 +68,8 @@
     ],
     "算法": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "资源": [
       "weather"

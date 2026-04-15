@@ -27,7 +27,8 @@
       "calendar-lite"
     ],
     "局缩": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "放算": [
       "business"
@@ -42,7 +43,8 @@
       "business"
     ],
     "的日": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "的自适应缩放算法": [
       "business"

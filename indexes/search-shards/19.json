@@ -1,6 +1,6 @@
 {
   "shard": "19",
-  "tokenCount": 21,
+  "tokenCount": 24,
   "tokens": {
     "audio": [
       "music"
@@ -23,7 +23,11 @@
       "weather"
     ],
     "复刻": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
+    ],
+    "完美对齐左侧摄像头安全区": [
+      "schedule_reminder"
     ],
     "层焦": [
       "business"
@@ -40,6 +44,9 @@
     "时自": [
       "weather"
     ],
+    "现背": [
+      "schedule_reminder"
+    ],
     "的数": [
       "calendar-lite"
     ],
@@ -49,11 +56,15 @@
     "系统内置天气内容提供者": [
       "weather"
     ],
+    "级日": [
+      "schedule_reminder"
+    ],
     "耗电": [
       "calendar-lite"
     ],
     "起引": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "配系": [
       "weather"

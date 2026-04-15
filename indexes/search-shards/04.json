@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -17,6 +17,9 @@
     "为禁": [
       "calendar-lite"
     ],
+    "保护": [
+      "schedule_reminder"
+    ],
     "关键": [
       "business"
     ],
@@ -24,11 +27,13 @@
       "calendar-lite"
     ],
     "利用": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "动画": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "塔斯": [
@@ -53,6 +58,7 @@
       "business"
     ],
     "确保": [
+      "schedule_reminder",
       "weather"
     ],
     "简体中文": [

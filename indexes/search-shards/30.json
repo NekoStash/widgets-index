@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 22,
+  "tokenCount": 26,
   "tokens": {
     "equipped": [
       "music"
@@ -47,9 +47,13 @@
     "是从": [
       "weather"
     ],
+    "景与": [
+      "schedule_reminder"
+    ],
     "智能": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "标并": [
@@ -58,11 +62,20 @@
     "此代": [
       "business"
     ],
+    "监听": [
+      "schedule_reminder"
+    ],
     "致力于丰富小米": [
       "weather"
     ],
+    "规范": [
+      "schedule_reminder"
+    ],
     "辨率": [
       "weather"
+    ],
+    "透亮": [
+      "schedule_reminder"
     ],
     "配合": [
       "calendar-lite"

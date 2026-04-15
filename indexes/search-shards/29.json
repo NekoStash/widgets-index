@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 23,
+  "tokenCount": 25,
   "tokens": {
     "experience": [
       "music"
@@ -22,13 +22,17 @@
     ],
     "代码": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "动处": [
       "calendar-lite"
     ],
     "区显": [
       "calendar-lite"
+    ],
+    "呼吸渐变": [
+      "schedule_reminder"
     ],
     "如果你需要在此代码基础上进行二次开发": [
       "business"
@@ -45,6 +49,7 @@
     "平滑": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "态生": [
@@ -52,6 +57,9 @@
     ],
     "数值": [
       "calendar-lite"
+    ],
+    "方级": [
+      "schedule_reminder"
     ],
     "时通": [
       "weather"
@@ -65,6 +73,7 @@
     "特性": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "等具": [

@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 27,
+  "tokenCount": 29,
   "tokens": {
     "120hz": [
       "weather"
@@ -11,6 +11,7 @@
     "pro": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "safe": [
@@ -21,6 +22,9 @@
     ],
     "与背景": [
       "business"
+    ],
+    "严谨": [
+      "schedule_reminder"
     ],
     "以在": [
       "business"
@@ -41,10 +45,12 @@
       "business"
     ],
     "坐标": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "屏时": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "屏状": [
       "business"
@@ -58,6 +64,7 @@
     "核心特性": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "比例": [
@@ -88,10 +95,14 @@
     "适配": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "速度": [
       "weather"
+    ],
+    "长文本适配": [
+      "schedule_reminder"
     ]
   }
 }

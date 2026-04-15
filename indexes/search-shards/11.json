@@ -1,12 +1,16 @@
 {
   "shard": "11",
-  "tokenCount": 21,
+  "tokenCount": 23,
   "tokens": {
     "heytea": [
       "business"
     ],
+    "juzipaome": [
+      "schedule_reminder"
+    ],
     "screen": [
-      "music"
+      "music",
+      "schedule_reminder"
     ],
     "whenever": [
       "music"
@@ -20,6 +24,9 @@
     "参与": [
       "weather"
     ],
+    "后": [
+      "schedule_reminder"
+    ],
     "备续": [
       "weather"
     ],
@@ -29,6 +36,7 @@
     "心特": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "态切": [
@@ -64,6 +72,7 @@
     "逻辑": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "闰年及": [

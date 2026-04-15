@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 26,
+  "tokenCount": 28,
   "tokens": {
     "assets": [
       "business",
@@ -36,6 +36,9 @@
     "前台": [
       "business"
     ],
+    "动避": [
+      "schedule_reminder"
+    ],
     "卖品": [
       "business"
     ],
@@ -44,6 +47,9 @@
     ],
     "变量": [
       "calendar-lite"
+    ],
+    "它通": [
+      "schedule_reminder"
     ],
     "恢复": [
       "weather"
@@ -74,10 +80,12 @@
       "business"
     ],
     "美对": [
+      "schedule_reminder",
       "weather"
     ],
     "通知": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "配到": [
       "business"

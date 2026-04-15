@@ -1,0 +1,29 @@
+{
+  "id": "schedule_reminder",
+  "releases": [
+    {
+      "id": 309124020,
+      "tagName": "beta-0.1",
+      "name": "日程背屏焦点beta-0.1",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-04-15T01:07:32Z",
+      "publishedAt": "2026-04-15T02:02:02Z",
+      "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule/releases/tag/beta-0.1",
+      "body": "<p dir=\"auto\">beta版，有什么建议或bug可提出</p>",
+      "assets": [
+        {
+          "id": 396663823,
+          "name": "beta-0.1.zip",
+          "label": null,
+          "size": 347482,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 0,
+          "createdAt": "2026-04-15T02:01:20Z",
+          "updatedAt": "2026-04-15T02:01:23Z",
+          "downloadUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule/releases/download/beta-0.1/beta-0.1.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 17,
+  "tokenCount": 19,
   "tokens": {
     "built": [
       "music"
@@ -30,11 +30,17 @@
     "在状": [
       "weather"
     ],
+    "复刻官方级动效": [
+      "schedule_reminder"
+    ],
     "整适": [
       "weather"
     ],
     "期偏": [
       "calendar-lite"
+    ],
+    "标均": [
+      "schedule_reminder"
     ],
     "源目": [
       "weather"
@@ -50,7 +56,8 @@
     ],
     "部件": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "餐饮": [
       "business"

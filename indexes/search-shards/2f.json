@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 14,
+  "tokenCount": 16,
   "tokens": {
     "active": [
       "music"
@@ -16,10 +16,17 @@
     ],
     "一个": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
+    ],
+    "为高": [
+      "schedule_reminder"
     ],
     "刷新率降至": [
       "business"
+    ],
+    "动换": [
+      "schedule_reminder"
     ],
     "常渲": [
       "weather"

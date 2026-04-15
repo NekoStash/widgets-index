@@ -1,9 +1,10 @@
 {
   "shard": "13",
-  "tokenCount": 19,
+  "tokenCount": 24,
   "tokens": {
     "focus": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "params": [
       "business"
@@ -17,8 +18,17 @@
     "xiaomi-rearscreen-music": [
       "music"
     ],
+    "入淡": [
+      "schedule_reminder"
+    ],
+    "动外": [
+      "schedule_reminder"
+    ],
     "回退": [
       "business"
+    ],
+    "坐标均经过缩放换算": [
+      "schedule_reminder"
     ],
     "外部": [
       "calendar-lite"
@@ -28,6 +38,9 @@
     ],
     "夜晚": [
       "weather"
+    ],
+    "层的": [
+      "schedule_reminder"
     ],
     "帧率": [
       "weather"
@@ -43,6 +56,7 @@
     ],
     "数据": [
       "business",
+      "schedule_reminder",
       "weather"
     ],
     "爷爷": [
@@ -59,6 +73,9 @@
     ],
     "迎提": [
       "weather"
+    ],
+    "高度": [
+      "schedule_reminder"
     ]
   }
 }

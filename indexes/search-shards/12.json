@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 13,
+  "tokenCount": 15,
   "tokens": {
     "一点": [
       "business"
@@ -15,6 +15,9 @@
       "calendar-lite",
       "weather"
     ],
+    "外屏": [
+      "schedule_reminder"
+    ],
     "态自": [
       "business",
       "weather"
@@ -23,11 +26,13 @@
       "calendar-lite"
     ],
     "日历": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "机型": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "歌词": [
@@ -38,6 +43,9 @@
     ],
     "结构": [
       "weather"
+    ],
+    "背屏日历焦点版": [
+      "schedule_reminder"
     ],
     "设备": [
       "business",

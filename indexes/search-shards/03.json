@@ -1,7 +1,10 @@
 {
   "shard": "03",
-  "tokenCount": 19,
+  "tokenCount": 22,
   "tokens": {
+    "breathable": [
+      "schedule_reminder"
+    ],
     "leverages": [
       "music"
     ],
@@ -23,6 +26,9 @@
     "别系": [
       "business"
     ],
+    "别逻": [
+      "schedule_reminder"
+    ],
     "副屏": [
       "weather"
     ],
@@ -41,7 +47,11 @@
     "息屏": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
+    ],
+    "成回": [
+      "schedule_reminder"
     ],
     "摆轨": [
       "weather"

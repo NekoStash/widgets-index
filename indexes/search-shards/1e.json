@@ -1,9 +1,12 @@
 {
   "shard": "1e",
-  "tokenCount": 26,
+  "tokenCount": 34,
   "tokens": {
     "artist": [
       "music"
+    ],
+    "com": [
+      "schedule_reminder"
     ],
     "control": [
       "music"
@@ -23,11 +26,20 @@
     "于主": [
       "business"
     ],
+    "代码内置": [
+      "schedule_reminder"
+    ],
     "叠法": [
       "calendar-lite"
     ],
+    "后彻": [
+      "schedule_reminder"
+    ],
     "备背": [
       "weather"
+    ],
+    "头安": [
+      "schedule_reminder"
     ],
     "导网": [
       "calendar-lite"
@@ -44,6 +56,9 @@
     "应缩": [
       "business"
     ],
+    "度稳": [
+      "schedule_reminder"
+    ],
     "当月": [
       "calendar-lite"
     ],
@@ -52,6 +67,9 @@
     ],
     "报告": [
       "weather"
+    ],
+    "时解": [
+      "schedule_reminder"
     ],
     "智能识别当前运行环境是": [
       "calendar-lite"
@@ -62,20 +80,28 @@
     "材日": [
       "calendar-lite"
     ],
+    "极度": [
+      "schedule_reminder"
+    ],
     "正常": [
       "weather"
     ],
     "比缩": [
       "calendar-lite"
     ],
+    "视觉重心极度稳定": [
+      "schedule_reminder"
+    ],
     "系数": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "结合": [
       "weather"
     ],
     "统的": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "键进": [
       "business"

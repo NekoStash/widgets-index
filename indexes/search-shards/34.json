@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 17,
+  "tokenCount": 18,
   "tokens": {
     "easily": [
       "music"
@@ -9,6 +9,7 @@
       "business",
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
     ],
     "专属": [
@@ -25,10 +26,15 @@
       "business"
     ],
     "实宽": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "屏适": [
+      "schedule_reminder",
       "weather"
+    ],
+    "点版": [
+      "schedule_reminder"
     ],
     "王茶": [
       "business"
@@ -46,6 +52,7 @@
       "business"
     ],
     "色彩": [
+      "schedule_reminder",
       "weather"
     ],
     "节点": [

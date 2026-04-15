@@ -1,0 +1,12 @@
+{
+  "id": "schedule_reminder",
+  "type": "notification",
+  "widgetInfo": {
+    "type": "widget",
+    "name": "日历日程",
+    "business_setup": {
+      "id": "schedule_reminder",
+      "renameable": false
+    }
+  }
+}

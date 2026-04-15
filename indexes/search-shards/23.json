@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 32,
+  "tokenCount": 36,
   "tokens": {
     "feeling": [
       "music"
@@ -22,6 +22,9 @@
     ],
     "下主": [
       "business"
+    ],
+    "于传": [
+      "schedule_reminder"
     ],
     "互的": [
       "weather"
@@ -50,7 +53,8 @@
       "calendar-lite"
     ],
     "实现": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "对包": [
       "business"
@@ -60,6 +64,9 @@
     ],
     "拟真": [
       "weather"
+    ],
+    "文字": [
+      "schedule_reminder"
     ],
     "无缝切换": [
       "weather"
@@ -72,6 +79,9 @@
     ],
     "目一": [
       "weather"
+    ],
+    "知监": [
+      "schedule_reminder"
     ],
     "纯黑打底防烧屏": [
       "calendar-lite"
@@ -99,6 +109,9 @@
     ],
     "调它": [
       "calendar-lite"
+    ],
+    "转为": [
+      "schedule_reminder"
     ],
     "间秒": [
       "calendar-lite"

@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 23,
+  "tokenCount": 29,
   "tokens": {
     "deliver": [
       "music"
@@ -14,15 +14,23 @@
     "while": [
       "music"
     ],
+    "交叉": [
+      "schedule_reminder"
+    ],
     "号的动态隐藏与显示": [
       "calendar-lite"
     ],
+    "始数": [
+      "schedule_reminder"
+    ],
     "小组": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "屏的": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "已支": [
@@ -30,6 +38,9 @@
     ],
     "并平": [
       "calendar-lite"
+    ],
+    "待机": [
+      "schedule_reminder"
     ],
     "快餐": [
       "business"
@@ -51,6 +62,7 @@
     ],
     "深度": [
       "business",
+      "schedule_reminder",
       "weather"
     ],
     "深度定制的": [
@@ -60,6 +72,9 @@
       "business",
       "weather"
     ],
+    "灵动外屏适配": [
+      "schedule_reminder"
+    ],
     "的天": [
       "weather"
     ],
@@ -68,10 +83,17 @@
     ],
     "缩放": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "背屏动态天气微件": [
       "weather"
+    ],
+    "遵循": [
+      "schedule_reminder"
+    ],
+    "醒小": [
+      "schedule_reminder"
     ],
     "霸王茶姬": [
       "business"

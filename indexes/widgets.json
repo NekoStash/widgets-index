@@ -30,6 +30,16 @@
     "stars": 2
   },
   {
+    "id": "schedule_reminder",
+    "name": "日历日程",
+    "authorName": "JUZI",
+    "authorId": "juzipaome",
+    "description": "适用于小米背屏的日程提醒小组件",
+    "latestReleaseTag": "beta-0.1",
+    "latestReleasePublishedAt": "2026-04-15T02:02:02.000Z",
+    "stars": 0
+  },
+  {
     "id": "weather",
     "name": "背屏天气",
     "authorName": "SiberiaApp",

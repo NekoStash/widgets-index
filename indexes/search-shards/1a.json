@@ -1,12 +1,15 @@
 {
   "shard": "1a",
-  "tokenCount": 24,
+  "tokenCount": 27,
   "tokens": {
     "current": [
       "music"
     ],
     "logo": [
       "business"
+    ],
+    "sync": [
+      "schedule_reminder"
     ],
     "与副": [
       "weather"
@@ -46,16 +49,19 @@
       "weather"
     ],
     "左侧": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "引擎": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "标题": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "特殊": [
       "calendar-lite"
@@ -63,11 +69,17 @@
     "生成": [
       "calendar-lite"
     ],
+    "画幅识别逻辑": [
+      "schedule_reminder"
+    ],
     "知实": [
       "business"
     ],
     "码已": [
       "business"
+    ],
+    "算全": [
+      "schedule_reminder"
     ],
     "能或": [
       "weather"

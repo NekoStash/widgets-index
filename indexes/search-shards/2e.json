@@ -1,6 +1,6 @@
 {
   "shard": "2e",
-  "tokenCount": 17,
+  "tokenCount": 22,
   "tokens": {
     "custom": [
       "music"
@@ -11,6 +11,9 @@
     ],
     "入场": [
       "weather"
+    ],
+    "兼顾美感与": [
+      "schedule_reminder"
     ],
     "在不": [
       "weather"
@@ -25,16 +28,30 @@
       "weather"
     ],
     "放系": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "日出": [
       "weather"
     ],
     "根据": [
+      "schedule_reminder",
       "weather"
+    ],
+    "法自": [
+      "schedule_reminder"
     ],
     "泡茶": [
       "business"
+    ],
+    "白色": [
+      "schedule_reminder"
+    ],
+    "的原始数据流": [
+      "schedule_reminder"
+    ],
+    "程提": [
+      "schedule_reminder"
     ],
     "者通": [
       "weather"
@@ -50,6 +67,7 @@
     ],
     "项目": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "飘落": [

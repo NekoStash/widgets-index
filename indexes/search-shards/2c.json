@@ -1,9 +1,12 @@
 {
   "shard": "2c",
-  "tokenCount": 24,
+  "tokenCount": 27,
   "tokens": {
     "album": [
       "music"
+    ],
+    "android": [
+      "schedule_reminder"
     ],
     "island": [
       "business"
@@ -31,7 +34,11 @@
     ],
     "对齐": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
+    ],
+    "度白": [
+      "schedule_reminder"
     ],
     "弦函": [
       "weather"
@@ -62,6 +69,7 @@
       "business",
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
     ],
     "背屏级动态响应与安全区避让": [
@@ -78,6 +86,9 @@
     ],
     "辑优": [
       "business"
+    ],
+    "间切": [
+      "schedule_reminder"
     ]
   }
 }

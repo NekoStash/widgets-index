@@ -1,10 +1,11 @@
 {
   "shard": "20",
-  "tokenCount": 17,
+  "tokenCount": 22,
   "tokens": {
     "folme": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "licensed": [
@@ -14,14 +15,27 @@
       "music"
     ],
     "传统": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "对应": [
       "business",
       "weather"
     ],
+    "对比": [
+      "schedule_reminder"
+    ],
     "射至": [
       "business"
+    ],
+    "屏幕保护": [
+      "schedule_reminder"
+    ],
+    "并利": [
+      "schedule_reminder"
+    ],
+    "感与": [
+      "schedule_reminder"
     ],
     "摇摆": [
       "weather"
@@ -30,7 +44,8 @@
       "weather"
     ],
     "焦点": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "用户": [
       "weather"
@@ -40,10 +55,14 @@
     ],
     "的平": [
       "business",
+      "schedule_reminder",
       "weather"
     ],
     "的音": [
       "music"
+    ],
+    "确保黑底环境下清晰可见": [
+      "schedule_reminder"
     ],
     "算并": [
       "weather"

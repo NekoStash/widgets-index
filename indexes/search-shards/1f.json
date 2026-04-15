@@ -1,9 +1,10 @@
 {
   "shard": "1f",
-  "tokenCount": 23,
+  "tokenCount": 27,
   "tokens": {
     "calendar": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "history": [
       "music"
@@ -11,12 +12,22 @@
     "states": [
       "music"
     ],
+    "不同于传统的静态插件": [
+      "schedule_reminder"
+    ],
     "偏移": [
       "calendar-lite"
     ],
     "兼顾": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
+    ],
+    "最多": [
+      "schedule_reminder"
+    ],
+    "叉淡": [
+      "schedule_reminder"
     ],
     "命名为": [
       "business"
@@ -64,7 +75,11 @@
     "系统": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
+    ],
+    "过解": [
+      "schedule_reminder"
     ],
     "还内置了极具沉浸感的粒子动效与全天候光影渲染": [
       "weather"

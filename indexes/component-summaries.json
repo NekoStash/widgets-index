@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 4,
+  "componentCount": 5,
   "components": {
     "business": {
       "id": "business",
@@ -36,6 +36,18 @@
         "name": "SiberiaApp",
         "url": "https://github.com/SiberiaApp",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "schedule_reminder": {
+      "id": "schedule_reminder",
+      "name": "日历日程",
+      "description": "适用于小米背屏的日程提醒小组件",
+      "author": {
+        "login": "juzipaome",
+        "name": "JUZI",
+        "url": "https://github.com/juzipaome",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
         "type": "User"
       }
     },

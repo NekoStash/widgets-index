@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 20,
+  "tokenCount": 25,
   "tokens": {
     "云朵": [
       "weather"
@@ -21,6 +21,9 @@
     "帧率降至": [
       "weather"
     ],
+    "彩重": [
+      "schedule_reminder"
+    ],
     "影引": [
       "weather"
     ],
@@ -33,6 +36,9 @@
     "数学": [
       "calendar-lite"
     ],
+    "本适": [
+      "schedule_reminder"
+    ],
     "本项目特别针对": [
       "calendar-lite"
     ],
@@ -42,17 +48,28 @@
     "殊比": [
       "calendar-lite"
     ],
+    "淡入": [
+      "schedule_reminder"
+    ],
     "烧屏": [
       "calendar-lite"
     ],
     "码内": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "素并": [
       "weather"
     ],
     "统级": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
+    ],
+    "行": [
+      "schedule_reminder"
+    ],
+    "长文": [
+      "schedule_reminder"
     ],
     "零帧挂起省电逻辑": [
       "calendar-lite"

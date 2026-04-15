@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 23,
+  "tokenCount": 26,
   "tokens": {
     "art": [
       "music"
@@ -28,7 +28,8 @@
       "weather"
     ],
     "同步": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "堆叠法": [
       "calendar-lite"
@@ -39,6 +40,9 @@
     "并完美复刻了系统级的": [
       "calendar-lite"
     ],
+    "度算": [
+      "schedule_reminder"
+    ],
     "开发": [
       "business",
       "weather"
@@ -46,13 +50,20 @@
     "录放": [
       "weather"
     ],
+    "支持日程标题自动换行": [
+      "schedule_reminder"
+    ],
     "没有任何外部图片素材": [
       "calendar-lite"
     ],
     "米背": [
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
+    ],
+    "美感": [
+      "schedule_reminder"
     ],
     "至背": [
       "business"

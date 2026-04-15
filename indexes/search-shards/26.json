@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 27,
+  "tokenCount": 31,
   "tokens": {
     "an": [
       "music"
@@ -37,8 +37,14 @@
     "依赖应用": [
       "business"
     ],
+    "侧摄": [
+      "schedule_reminder"
+    ],
     "兼容": [
       "business"
+    ],
+    "刻官": [
+      "schedule_reminder"
     ],
     "加载": [
       "business"
@@ -47,7 +53,8 @@
       "weather"
     ],
     "回调": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "大的": [
       "business"
@@ -58,8 +65,15 @@
     "底防": [
       "calendar-lite"
     ],
+    "打造": [
+      "schedule_reminder"
+    ],
+    "方时": [
+      "schedule_reminder"
+    ],
     "极低": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "物理": [
       "weather"
@@ -80,7 +94,8 @@
       "calendar-lite"
     ],
     "解析": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "贡献": [
       "weather"

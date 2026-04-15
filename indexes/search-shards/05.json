@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 21,
+  "tokenCount": 23,
   "tokens": {
     "kfc": [
       "business"
@@ -20,6 +20,9 @@
     ],
     "动隐": [
       "weather"
+    ],
+    "呈现": [
+      "schedule_reminder"
     ],
     "如": [
       "calendar-lite"
@@ -54,6 +57,9 @@
     ],
     "演的": [
       "calendar-lite"
+    ],
+    "现在": [
+      "schedule_reminder"
     ],
     "空自": [
       "weather"

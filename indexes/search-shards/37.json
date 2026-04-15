@@ -1,12 +1,13 @@
 {
   "shard": "37",
-  "tokenCount": 19,
+  "tokenCount": 23,
   "tokens": {
     "extracts": [
       "music"
     ],
     "oled": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "制的": [
       "business"
@@ -15,7 +16,8 @@
       "weather"
     ],
     "动画引擎": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "包名": [
       "business"
@@ -27,6 +29,7 @@
       "business",
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
     ],
     "屏音": [
@@ -38,6 +41,9 @@
     "应与": [
       "calendar-lite"
     ],
+    "智能嗅探": [
+      "schedule_reminder"
+    ],
     "月": [
       "calendar-lite"
     ],
@@ -47,11 +53,18 @@
     "点点": [
       "business"
     ],
+    "程标": [
+      "schedule_reminder"
+    ],
     "系列": [
       "business",
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
+    ],
+    "系统级日程同步": [
+      "schedule_reminder"
     ],
     "资源目录结构": [
       "weather"
@@ -61,6 +74,9 @@
     ],
     "雪冰": [
       "business"
+    ],
+    "题自": [
+      "schedule_reminder"
     ],
     "麦当劳": [
       "business"

@@ -1,9 +1,12 @@
 {
   "shard": "3a",
-  "tokenCount": 25,
+  "tokenCount": 30,
   "tokens": {
     "no": [
       "calendar-lite"
+    ],
+    "q200": [
+      "schedule_reminder"
     ],
     "stuttering": [
       "music"
@@ -15,6 +18,7 @@
     "于小": [
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
     ],
     "他具": [
@@ -27,11 +31,17 @@
     "及其他搭载背屏模块的": [
       "business"
     ],
+    "官方": [
+      "schedule_reminder"
+    ],
     "度切": [
       "business"
     ],
     "待办": [
       "business"
+    ],
+    "态插": [
+      "schedule_reminder"
     ],
     "拼接": [
       "weather"
@@ -42,8 +52,12 @@
     "斯汀": [
       "business"
     ],
+    "日历日程": [
+      "schedule_reminder"
+    ],
     "是一": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "月天": [
@@ -82,6 +96,9 @@
     ],
     "非生": [
       "calendar-lite"
+    ],
+    "高对": [
+      "schedule_reminder"
     ]
   }
 }

@@ -1,7 +1,10 @@
 {
   "shard": "0f",
-  "tokenCount": 22,
+  "tokenCount": 25,
   "tokens": {
+    "reminder": [
+      "schedule_reminder"
+    ],
     "主屏": [
       "business"
     ],
@@ -38,6 +41,9 @@
     "擎处": [
       "calendar-lite"
     ],
+    "时间切换为透亮浅蓝": [
+      "schedule_reminder"
+    ],
     "础上": [
       "business"
     ],
@@ -50,6 +56,7 @@
     "自动": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "自动识别外卖品牌并加载专属视觉资产": [
@@ -69,6 +76,9 @@
     ],
     "零帧绝杀": [
       "calendar-lite"
+    ],
+    "静态": [
+      "schedule_reminder"
     ]
   }
 }

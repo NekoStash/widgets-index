@@ -1,9 +1,12 @@
 {
   "shard": "07",
-  "tokenCount": 12,
+  "tokenCount": 15,
   "tokens": {
     "check": [
       "music"
+    ],
+    "严谨遵循": [
+      "schedule_reminder"
     ],
     "中包": [
       "weather"
@@ -21,9 +24,16 @@
     "或者通过": [
       "weather"
     ],
+    "排版": [
+      "schedule_reminder"
+    ],
     "时间": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
+    ],
+    "本项目深度集成系统通知监听逻辑": [
+      "schedule_reminder"
     ],
     "根据雨量": [
       "weather"

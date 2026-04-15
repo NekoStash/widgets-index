@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 17,
+  "tokenCount": 24,
   "tokens": {
     "chagee": [
       "business"
@@ -8,8 +8,14 @@
     "png": [
       "business"
     ],
+    "system": [
+      "schedule_reminder"
+    ],
     "the": [
       "music"
+    ],
+    "亮浅": [
+      "schedule_reminder"
     ],
     "今天": [
       "calendar-lite"
@@ -20,11 +26,17 @@
     "力于": [
       "weather"
     ],
+    "在息屏时实现背景与文字的平滑交叉淡入淡出": [
+      "schedule_reminder"
+    ],
     "天数": [
       "calendar-lite"
     ],
     "将前": [
       "business"
+    ],
+    "屏上": [
+      "schedule_reminder"
     ],
     "幕的": [
       "business"
@@ -35,11 +47,21 @@
     "弃了": [
       "calendar-lite"
     ],
+    "成系": [
+      "schedule_reminder"
+    ],
+    "抓取": [
+      "schedule_reminder"
+    ],
     "析系": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "正弦": [
       "weather"
+    ],
+    "统通": [
+      "schedule_reminder"
     ],
     "者说": [
       "business"

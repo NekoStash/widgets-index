@@ -1,11 +1,12 @@
 {
   "shard": "27",
-  "tokenCount": 19,
+  "tokenCount": 25,
   "tokens": {
     "aod": [
       "business",
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
     ],
     "maker": [
@@ -13,6 +14,15 @@
     ],
     "me": [
       "music"
+    ],
+    "oncomplete": [
+      "schedule_reminder"
+    ],
+    "p2": [
+      "schedule_reminder"
+    ],
+    "rate": [
+      "schedule_reminder"
     ],
     "不仅": [
       "weather"
@@ -35,6 +45,9 @@
     "天候": [
       "weather"
     ],
+    "提醒": [
+      "schedule_reminder"
+    ],
     "播报": [
       "weather"
     ],
@@ -47,12 +60,19 @@
     "此目": [
       "weather"
     ],
+    "浅蓝": [
+      "schedule_reminder"
+    ],
     "牌并": [
       "business"
     ],
     "环境": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
+    ],
+    "精准排版": [
+      "schedule_reminder"
     ],
     "系列等具备特殊比例背屏": [
       "calendar-lite"

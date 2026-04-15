@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "schedule_reminder",
+      "name": "日历日程",
+      "description": "适用于小米背屏的日程提醒小组件",
+      "author": {
+        "login": "juzipaome",
+        "name": "JUZI",
+        "url": "https://github.com/juzipaome",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-15T02:12:12.000Z",
+      "repository": {
+        "fullName": "juzipaome/Xiaomi-RearScreen-Schedule",
+        "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule"
+      }
+    },
+    {
       "id": "weather",
       "name": "背屏天气",
       "description": "适用于小米背屏系列的天气小组件。",

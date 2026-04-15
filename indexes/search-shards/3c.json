@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 14,
+  "tokenCount": 18,
   "tokens": {
     "full": [
       "music"
@@ -10,7 +10,11 @@
     ],
     "不同": [
       "business",
+      "schedule_reminder",
       "weather"
+    ],
+    "低待": [
+      "schedule_reminder"
     ],
     "内置强大的关键词匹配引擎": [
       "business"
@@ -20,6 +24,9 @@
     ],
     "度降": [
       "calendar-lite"
+    ],
+    "态高": [
+      "schedule_reminder"
     ],
     "提供": [
       "weather"
@@ -33,8 +40,14 @@
     "演算": [
       "weather"
     ],
+    "电规": [
+      "schedule_reminder"
+    ],
     "码默": [
       "calendar-lite"
+    ],
+    "程实": [
+      "schedule_reminder"
     ],
     "置以": [
       "business"

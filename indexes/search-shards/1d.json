@@ -1,7 +1,10 @@
 {
   "shard": "1d",
-  "tokenCount": 25,
+  "tokenCount": 31,
   "tokens": {
+    "90caf9": [
+      "schedule_reminder"
+    ],
     "animation": [
       "weather"
     ],
@@ -11,8 +14,14 @@
     "tracks": [
       "music"
     ],
+    "xiaomi-rearscreen-schedule": [
+      "schedule_reminder"
+    ],
     "上角": [
       "calendar-lite"
+    ],
+    "下清": [
+      "schedule_reminder"
     ],
     "任何": [
       "calendar-lite"
@@ -43,7 +52,8 @@
       "weather"
     ],
     "彻底": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "彻底挂起引擎": [
       "calendar-lite"
@@ -64,7 +74,8 @@
       "weather"
     ],
     "画引": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "纯黑": [
       "calendar-lite"
@@ -72,8 +83,17 @@
     "缝切": [
       "weather"
     ],
+    "让下": [
+      "schedule_reminder"
+    ],
     "请根": [
       "weather"
+    ],
+    "过缩": [
+      "schedule_reminder"
+    ],
+    "零帧挂起": [
+      "schedule_reminder"
     ],
     "题部": [
       "business"

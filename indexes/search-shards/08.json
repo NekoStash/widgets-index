@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 18,
+  "tokenCount": 20,
   "tokens": {
     "save": [
       "music"
@@ -14,6 +14,7 @@
     "专为": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "偏左": [
@@ -38,8 +39,15 @@
     "浸感": [
       "weather"
     ],
+    "滑交": [
+      "schedule_reminder"
+    ],
     "用小": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
+    ],
+    "稳定": [
+      "schedule_reminder"
     ],
     "纯代码日历小部件": [
       "calendar-lite"
@@ -54,7 +62,8 @@
       "weather"
     ],
     "这是一个专为小米": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "雨量": [
       "weather"

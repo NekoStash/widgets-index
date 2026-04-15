@@ -1,12 +1,15 @@
 {
   "shard": "15",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "display": [
       "music"
     ],
     "is": [
       "music"
+    ],
+    "sub": [
+      "schedule_reminder"
     ],
     "下落": [
       "weather"
@@ -19,6 +22,7 @@
     ],
     "实时": [
       "business",
+      "schedule_reminder",
       "weather"
     ],
     "并放": [

@@ -1,12 +1,13 @@
 {
   "shard": "17",
-  "tokenCount": 16,
+  "tokenCount": 18,
   "tokens": {
     "controls": [
       "music"
     ],
     "全区": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "吸闪": [
       "weather"
@@ -19,6 +20,9 @@
     ],
     "基础": [
       "business"
+    ],
+    "幕保": [
+      "schedule_reminder"
     ],
     "无缝解析系统": [
       "business"
@@ -42,6 +46,9 @@
     "背屏日历": [
       "calendar-lite"
     ],
+    "能嗅": [
+      "schedule_reminder"
+    ],
     "行了": [
       "calendar-lite"
     ],
@@ -51,6 +58,7 @@
     "适用": [
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
     ]
   }

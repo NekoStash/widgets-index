@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 20,
+  "tokenCount": 24,
   "tokens": {
     "capabilities": [
       "music"
@@ -12,13 +12,20 @@
       "business",
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
     ],
     "从头": [
       "weather"
     ],
+    "原始": [
+      "schedule_reminder"
+    ],
     "右侧": [
       "calendar-lite"
+    ],
+    "同于": [
+      "schedule_reminder"
     ],
     "命名": [
       "business"
@@ -26,6 +33,7 @@
     "完美": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "完美兼顾了过渡动画的优雅与": [
@@ -40,11 +48,17 @@
     "据气": [
       "weather"
     ],
+    "比度": [
+      "schedule_reminder"
+    ],
     "气带": [
       "weather"
     ],
     "没有": [
       "calendar-lite"
+    ],
+    "直接抓取": [
+      "schedule_reminder"
     ],
     "视障": [
       "weather"
@@ -54,6 +68,7 @@
     ],
     "组件": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "致视": [
