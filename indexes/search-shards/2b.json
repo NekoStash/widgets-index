@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "云朵": [
       "weather"
@@ -20,6 +20,10 @@
     ],
     "帧率降至": [
       "weather"
+    ],
+    "并激": [
+      "pickup",
+      "schedule_reminder"
     ],
     "彩重": [
       "schedule_reminder"

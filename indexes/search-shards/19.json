@@ -9,7 +9,9 @@
       "weather"
     ],
     "压缩": [
-      "calendar-lite"
+      "calendar-lite",
+      "pickup",
+      "schedule_reminder"
     ],
     "发星": [
       "weather"

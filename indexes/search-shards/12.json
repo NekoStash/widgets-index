@@ -1,12 +1,16 @@
 {
   "shard": "12",
-  "tokenCount": 15,
+  "tokenCount": 16,
   "tokens": {
     "一点": [
       "business"
     ],
     "何外": [
       "calendar-lite"
+    ],
+    "使用": [
+      "pickup",
+      "schedule_reminder"
     ],
     "图标": [
       "business"

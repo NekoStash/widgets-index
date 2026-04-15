@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 22,
+  "tokenCount": 24,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -20,6 +20,10 @@
     "下方": [
       "schedule_reminder"
     ],
+    "作用": [
+      "pickup",
+      "schedule_reminder"
+    ],
     "划分": [
       "weather"
     ],
@@ -34,6 +38,10 @@
     ],
     "在此": [
       "business"
+    ],
+    "填写": [
+      "pickup",
+      "schedule_reminder"
     ],
     "心极": [
       "schedule_reminder"

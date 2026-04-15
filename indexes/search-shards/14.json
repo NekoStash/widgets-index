@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "210": [
       "weather"
@@ -37,6 +37,10 @@
       "calendar-lite"
     ],
     "历日": [
+      "schedule_reminder"
+    ],
+    "后重": [
+      "pickup",
       "schedule_reminder"
     ],
     "在手": [

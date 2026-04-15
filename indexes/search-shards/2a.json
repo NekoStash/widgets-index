@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "animations": [
       "music"
@@ -58,6 +58,10 @@
       "schedule_reminder"
     ],
     "现极": [
+      "schedule_reminder"
+    ],
+    "用方": [
+      "pickup",
       "schedule_reminder"
     ],
     "省电规范": [

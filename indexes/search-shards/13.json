@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "focus": [
       "business",
@@ -70,6 +70,10 @@
     ],
     "统环": [
       "weather"
+    ],
+    "缩包": [
+      "pickup",
+      "schedule_reminder"
     ],
     "迎提": [
       "weather"

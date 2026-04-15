@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 19,
+  "tokenCount": 20,
   "tokens": {
     "built": [
       "music"
@@ -35,6 +35,10 @@
     ],
     "整适": [
       "weather"
+    ],
+    "方法": [
+      "pickup",
+      "schedule_reminder"
     ],
     "期偏": [
       "calendar-lite"

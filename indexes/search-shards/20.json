@@ -1,12 +1,16 @@
 {
   "shard": "20",
-  "tokenCount": 23,
+  "tokenCount": 25,
   "tokens": {
     "folme": [
       "business",
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "id": [
+      "pickup",
+      "schedule_reminder"
     ],
     "licensed": [
       "music"
@@ -20,6 +24,10 @@
     ],
     "到小": [
       "pickup"
+    ],
+    "块并": [
+      "pickup",
+      "schedule_reminder"
     ],
     "对应": [
       "business",

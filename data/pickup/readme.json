@@ -3,10 +3,10 @@
   "readme": {
     "name": "README.md",
     "path": "README.md",
-    "sha": "4a072b24b72b00b348473b73ac24721932d52221",
-    "size": 335,
+    "sha": "3ea7bf722c6bec84a13434b9425253c8769466a5",
+    "size": 465,
     "htmlUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/README.md",
     "downloadUrl": "https://raw.githubusercontent.com/juzipaome/Xiaomi-RearScreen-StarIsland/main/README.md",
-    "content": "<h1 dir=\"auto\">Xiaomi-RearScreen-StarIsland</h1>\n<p dir=\"auto\">将StarIsland的超级岛同时转化到小米背屏的小组件</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/test1.png\"><img width=\"200\" height=\"430\" src=\"https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/test1.png\" style=\"max-width: 100%; height: auto; max-height: 430px;\"></a>   <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/test2.png\"><img width=\"200\" height=\"430\" src=\"https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/test2.png\" style=\"max-width: 100%; height: auto; max-height: 430px;\"></a></p>"
+    "content": "<h1 dir=\"auto\">Xiaomi-RearScreen-StarIsland</h1>\n<p dir=\"auto\">将StarIsland的超级岛同时转化到小米背屏的小组件。</p>\n<p dir=\"auto\">使用方法：下载REAREye模块并激活后，导入项目压缩包，id填写pickup_flow，之后重启作用域即可。</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/test1.png\"><img width=\"200\" height=\"430\" src=\"https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/test1.png\" style=\"max-width: 100%; height: auto; max-height: 430px;\"></a>   <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/test2.png\"><img width=\"200\" height=\"430\" src=\"https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/test2.png\" style=\"max-width: 100%; height: auto; max-height: 430px;\"></a></p>"
   }
 }

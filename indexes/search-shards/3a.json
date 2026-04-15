@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "no": [
       "calendar-lite"
@@ -32,6 +32,10 @@
       "business"
     ],
     "官方": [
+      "schedule_reminder"
+    ],
+    "导入": [
+      "pickup",
       "schedule_reminder"
     ],
     "度切": [

@@ -1,12 +1,16 @@
 {
   "shard": "17",
-  "tokenCount": 18,
+  "tokenCount": 19,
   "tokens": {
     "controls": [
       "music"
     ],
     "全区": [
       "calendar-lite",
+      "schedule_reminder"
+    ],
+    "即可": [
+      "pickup",
       "schedule_reminder"
     ],
     "吸闪": [

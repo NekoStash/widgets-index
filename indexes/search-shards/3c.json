@@ -1,9 +1,13 @@
 {
   "shard": "3c",
-  "tokenCount": 18,
+  "tokenCount": 20,
   "tokens": {
     "full": [
       "music"
+    ],
+    "reareye": [
+      "pickup",
+      "schedule_reminder"
     ],
     "track": [
       "music"
@@ -36,6 +40,10 @@
     ],
     "汉堡王": [
       "business"
+    ],
+    "活后": [
+      "pickup",
+      "schedule_reminder"
     ],
     "演算": [
       "weather"

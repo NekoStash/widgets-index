@@ -49,7 +49,9 @@
       "calendar-lite"
     ],
     "模块": [
-      "business"
+      "business",
+      "pickup",
+      "schedule_reminder"
     ],
     "滑过": [
       "business",

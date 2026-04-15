@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "30": [
       "calendar-lite"
@@ -69,6 +69,10 @@
       "weather"
     ],
     "机功": [
+      "schedule_reminder"
+    ],
+    "模块并激活后": [
+      "pickup",
       "schedule_reminder"
     ],
     "渐变回调": [

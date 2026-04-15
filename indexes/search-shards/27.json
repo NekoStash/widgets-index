@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "aod": [
       "business",
@@ -41,6 +41,10 @@
     ],
     "同时": [
       "pickup"
+    ],
+    "域即": [
+      "pickup",
+      "schedule_reminder"
     ],
     "境是": [
       "calendar-lite"

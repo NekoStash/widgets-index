@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 16,
+  "tokenCount": 17,
   "tokens": {
     "always": [
       "music"
@@ -19,6 +19,10 @@
     ],
     "安全": [
       "calendar-lite",
+      "schedule_reminder"
+    ],
+    "导入项目压缩包": [
+      "pickup",
       "schedule_reminder"
     ],
     "德基": [

@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "capabilities": [
       "music"
@@ -15,6 +15,10 @@
       "pickup",
       "schedule_reminder",
       "weather"
+    ],
+    "之后重启作用域即可": [
+      "pickup",
+      "schedule_reminder"
     ],
     "从头": [
       "weather"

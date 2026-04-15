@@ -1,9 +1,12 @@
 {
   "shard": "15",
-  "tokenCount": 21,
+  "tokenCount": 24,
   "tokens": {
     "display": [
       "music"
+    ],
+    "flow": [
+      "pickup"
     ],
     "is": [
       "music"
@@ -13,6 +16,10 @@
     ],
     "下落": [
       "weather"
+    ],
+    "下载": [
+      "pickup",
+      "schedule_reminder"
     ],
     "亮屏瞬间秒切": [
       "calendar-lite"
@@ -69,6 +76,10 @@
     ],
     "起省": [
       "calendar-lite"
+    ],
+    "重启": [
+      "pickup",
+      "schedule_reminder"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "120hz": [
       "weather"
@@ -75,6 +75,10 @@
     "状态": [
       "business",
       "weather"
+    ],
+    "用域": [
+      "pickup",
+      "schedule_reminder"
     ],
     "用生": [
       "weather"

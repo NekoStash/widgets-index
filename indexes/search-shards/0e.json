@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "deliver": [
       "music"
@@ -82,6 +82,10 @@
     ],
     "的天": [
       "weather"
+    ],
+    "目压": [
+      "pickup",
+      "schedule_reminder"
     ],
     "结合正弦函数": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -36,6 +36,10 @@
     ],
     "入对": [
       "weather"
+    ],
+    "入项": [
+      "pickup",
+      "schedule_reminder"
     ],
     "副标": [
       "business"
