@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -16,6 +16,9 @@
     ],
     "xiaomi-rearscreen-schedule": [
       "schedule_reminder"
+    ],
+    "xiaomi-rearscreen-starisland": [
+      "pickup"
     ],
     "上角": [
       "calendar-lite"

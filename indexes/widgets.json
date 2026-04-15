@@ -30,6 +30,16 @@
     "stars": 2
   },
   {
+    "id": "pickup",
+    "name": "取餐码[适配StarIsland]",
+    "authorName": "JUZI",
+    "authorId": "juzipaome",
+    "description": "将StarIsland的超级岛同时转化到小米背屏的小组件",
+    "latestReleaseTag": "beta",
+    "latestReleasePublishedAt": "2026-04-15T05:54:02.000Z",
+    "stars": 0
+  },
+  {
     "id": "schedule_reminder",
     "name": "日历日程",
     "authorName": "JUZI",

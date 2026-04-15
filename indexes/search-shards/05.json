@@ -1,9 +1,12 @@
 {
   "shard": "05",
-  "tokenCount": 23,
+  "tokenCount": 24,
   "tokens": {
     "kfc": [
       "business"
+    ],
+    "pickup": [
+      "pickup"
     ],
     "widget": [
       "music",

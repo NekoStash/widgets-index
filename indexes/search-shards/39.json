@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "coco": [
       "business"
@@ -35,6 +35,9 @@
     ],
     "完全依靠系统时间变量和纯数学表达式推导网格坐标": [
       "calendar-lite"
+    ],
+    "将": [
+      "pickup"
     ],
     "度定": [
       "business"

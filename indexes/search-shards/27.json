@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 25,
+  "tokenCount": 27,
   "tokens": {
     "aod": [
       "business",
@@ -38,6 +38,9 @@
     ],
     "取整": [
       "calendar-lite"
+    ],
+    "同时": [
+      "pickup"
     ],
     "境是": [
       "calendar-lite"
@@ -78,7 +81,11 @@
       "calendar-lite"
     ],
     "级岛": [
-      "business"
+      "business",
+      "pickup"
+    ],
+    "转化": [
+      "pickup"
     ],
     "需求": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "back": [
       "music"
@@ -60,6 +60,9 @@
     ],
     "的嗅": [
       "calendar-lite"
+    ],
+    "的超": [
+      "pickup"
     ],
     "间段": [
       "weather"

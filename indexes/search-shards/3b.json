@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "language": [
       "weather"
@@ -39,6 +39,9 @@
     ],
     "发者": [
       "business"
+    ],
+    "取餐": [
+      "pickup"
     ],
     "变回": [
       "calendar-lite"

@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "210": [
       "weather"
@@ -75,6 +75,9 @@
     ],
     "的偏": [
       "calendar-lite"
+    ],
+    "的小": [
+      "pickup"
     ],
     "的随": [
       "weather"

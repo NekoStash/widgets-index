@@ -95,6 +95,7 @@
     "适配": [
       "business",
       "calendar-lite",
+      "pickup",
       "schedule_reminder",
       "weather"
     ],

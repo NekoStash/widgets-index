@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "capabilities": [
       "music"
@@ -12,6 +12,7 @@
       "business",
       "calendar-lite",
       "music",
+      "pickup",
       "schedule_reminder",
       "weather"
     ],
@@ -48,6 +49,9 @@
     "据气": [
       "weather"
     ],
+    "时转": [
+      "pickup"
+    ],
     "比度": [
       "schedule_reminder"
     ],
@@ -68,6 +72,7 @@
     ],
     "组件": [
       "calendar-lite",
+      "pickup",
       "schedule_reminder",
       "weather"
     ],

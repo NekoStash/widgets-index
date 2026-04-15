@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 22,
+  "tokenCount": 23,
   "tokens": {
     "folme": [
       "business",
@@ -17,6 +17,9 @@
     "传统": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "到小": [
+      "pickup"
     ],
     "对应": [
       "business",

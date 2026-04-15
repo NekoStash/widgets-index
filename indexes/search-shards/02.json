@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 23,
+  "tokenCount": 24,
   "tokens": {
     "skip": [
       "music"
@@ -29,6 +29,9 @@
     "局缩": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "岛同": [
+      "pickup"
     ],
     "放算": [
       "business"

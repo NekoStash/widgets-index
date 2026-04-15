@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "devices": [
       "music"
@@ -19,6 +19,9 @@
     ],
     "smoothly": [
       "music"
+    ],
+    "starisland": [
+      "pickup"
     ],
     "与云": [
       "weather"

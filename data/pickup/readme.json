@@ -1,0 +1,12 @@
+{
+  "id": "pickup",
+  "readme": {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "3ec01ad3a41e5410e1529d0047245fd4df6eeec8",
+    "size": 96,
+    "htmlUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/blob/main/README.md",
+    "downloadUrl": "https://raw.githubusercontent.com/juzipaome/Xiaomi-RearScreen-StarIsland/main/README.md",
+    "content": "<h1 dir=\"auto\">Xiaomi-RearScreen-StarIsland</h1>\n<p dir=\"auto\">将StarIsland的超级岛同时转化到小米背屏的小组件</p>"
+  }
+}

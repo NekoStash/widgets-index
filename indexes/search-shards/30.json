@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "equipped": [
       "music"
@@ -61,6 +61,9 @@
     ],
     "此代": [
       "business"
+    ],
+    "的超级岛同时转化到小米背屏的小组件": [
+      "pickup"
     ],
     "监听": [
       "schedule_reminder"

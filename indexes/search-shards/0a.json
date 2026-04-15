@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "art": [
       "music"
@@ -59,6 +59,7 @@
     "米背": [
       "calendar-lite",
       "music",
+      "pickup",
       "schedule_reminder",
       "weather"
     ],
@@ -87,6 +88,9 @@
     ],
     "雅与": [
       "calendar-lite"
+    ],
+    "餐码": [
+      "pickup"
     ]
   }
 }

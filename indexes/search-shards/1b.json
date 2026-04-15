@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -39,6 +39,9 @@
     ],
     "副标": [
       "business"
+    ],
+    "化到": [
+      "pickup"
     ],
     "堆叠": [
       "calendar-lite"
