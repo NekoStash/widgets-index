@@ -1,12 +1,15 @@
 {
   "shard": "32",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "automatically": [
       "music"
     ],
     "calendar-lite": [
       "calendar-lite"
+    ],
+    "github": [
+      "course_schedule"
     ],
     "request": [
       "weather"

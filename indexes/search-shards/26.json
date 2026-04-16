@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 32,
+  "tokenCount": 33,
   "tokens": {
     "an": [
       "music"
@@ -23,6 +23,9 @@
     ],
     "xiaomi-rearscreen-calendar": [
       "calendar-lite"
+    ],
+    "不会": [
+      "mishare"
     ],
     "与专": [
       "business"
@@ -53,6 +56,7 @@
       "weather"
     ],
     "启作": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -10,6 +10,9 @@
     ],
     "云天": [
       "weather"
+    ],
+    "互传": [
+      "mishare"
     ],
     "光影": [
       "weather"

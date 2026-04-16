@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "devices": [
       "music"
@@ -44,6 +44,9 @@
     "屏显": [
       "business",
       "weather"
+    ],
+    "屏课": [
+      "course_schedule"
     ],
     "应布": [
       "business"

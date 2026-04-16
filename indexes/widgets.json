@@ -20,6 +20,26 @@
     "stars": 0
   },
   {
+    "id": "course_schedule",
+    "name": "背屏课程表Pro",
+    "authorName": "SiberiaApp",
+    "authorId": "SiberiaApp",
+    "description": "在小米17 Pro系列背屏上显示课程表",
+    "latestReleaseTag": "v1.0",
+    "latestReleasePublishedAt": "2026-04-16T09:30:04.000Z",
+    "stars": 0
+  },
+  {
+    "id": "mishare",
+    "name": "Mishare背屏通知",
+    "authorName": "JUZI",
+    "authorId": "juzipaome",
+    "description": "关于小米互传超级岛同时转化到小米背屏的小组件",
+    "latestReleaseTag": "beta-0.1",
+    "latestReleasePublishedAt": "2026-04-15T13:58:20.000Z",
+    "stars": 0
+  },
+  {
     "id": "music",
     "name": "音乐歌词",
     "authorName": "SiberiaApp",

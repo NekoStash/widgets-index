@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 17,
+  "tokenCount": 18,
   "tokens": {
     "lyrics": [
       "music"
@@ -35,6 +35,9 @@
       "schedule_reminder",
       "weather"
     ],
+    "背屏通知": [
+      "mishare"
+    ],
     "自定": [
       "calendar-lite"
     ],
@@ -49,6 +52,7 @@
     ],
     "超级": [
       "business",
+      "mishare",
       "pickup"
     ],
     "避让": [

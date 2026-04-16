@@ -28,6 +28,8 @@
     "小米": [
       "business",
       "calendar-lite",
+      "course_schedule",
+      "mishare",
       "music",
       "pickup",
       "schedule_reminder",
@@ -60,6 +62,7 @@
     "系列": [
       "business",
       "calendar-lite",
+      "course_schedule",
       "music",
       "schedule_reminder",
       "weather"

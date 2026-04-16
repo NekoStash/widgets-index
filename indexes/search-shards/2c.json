@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "album": [
       "music"
@@ -18,6 +18,7 @@
       "weather"
     ],
     "使用方法": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -41,6 +42,9 @@
       "schedule_reminder",
       "weather"
     ],
+    "屏通": [
+      "mishare"
+    ],
     "度白": [
       "schedule_reminder"
     ],
@@ -63,6 +67,7 @@
       "weather"
     ],
     "激活": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -76,6 +81,8 @@
     "背屏": [
       "business",
       "calendar-lite",
+      "course_schedule",
+      "mishare",
       "music",
       "pickup",
       "schedule_reminder",

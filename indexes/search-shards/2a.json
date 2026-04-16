@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "animations": [
       "music"
@@ -15,6 +15,9 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "modules": [
+      "course_schedule"
     ],
     "your": [
       "business"
@@ -61,6 +64,7 @@
       "schedule_reminder"
     ],
     "用方": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

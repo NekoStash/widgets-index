@@ -9,6 +9,7 @@
       "weather"
     ],
     "id": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -23,9 +24,11 @@
       "schedule_reminder"
     ],
     "到小": [
+      "mishare",
       "pickup"
     ],
     "块并": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

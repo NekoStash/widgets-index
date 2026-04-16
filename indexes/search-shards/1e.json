@@ -1,11 +1,12 @@
 {
   "shard": "1e",
-  "tokenCount": 34,
+  "tokenCount": 35,
   "tokens": {
     "artist": [
       "music"
     ],
     "com": [
+      "course_schedule",
       "schedule_reminder"
     ],
     "control": [
@@ -102,6 +103,9 @@
     "统的": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "课程": [
+      "course_schedule"
     ],
     "键进": [
       "business"

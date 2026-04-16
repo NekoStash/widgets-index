@@ -1,0 +1,24 @@
+{
+  "id": "course_schedule",
+  "name": "背屏课程表Pro",
+  "sourceMetadataPath": "repos/course_schedule/metadata.json",
+  "repository": {
+    "widgetName": "背屏课程表Pro",
+    "owner": "SiberiaApp",
+    "name": "Xiaomi-RearScreen-Xiaoai_Course_Schedule",
+    "fullName": "SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule",
+    "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule",
+    "description": "在小米17 Pro系列背屏上显示课程表",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-04-16T09:28:37Z",
+    "updatedAt": "2026-04-16T09:31:02Z",
+    "pushedAt": "2026-04-16T09:30:58Z"
+  }
+}

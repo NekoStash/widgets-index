@@ -1,0 +1,29 @@
+{
+  "id": "mishare",
+  "releases": [
+    {
+      "id": 309379386,
+      "tagName": "beta-0.1",
+      "name": "beta-0.1",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-04-15T13:57:05Z",
+      "publishedAt": "2026-04-15T13:58:20Z",
+      "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Mishare/releases/tag/beta-0.1",
+      "body": "<p dir=\"auto\">没有进度展示，仅测试通知</p>",
+      "assets": [
+        {
+          "id": 397038064,
+          "name": "mishare-beta0.1.zip",
+          "label": null,
+          "size": 210329,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 0,
+          "createdAt": "2026-04-15T13:58:14Z",
+          "updatedAt": "2026-04-15T13:58:18Z",
+          "downloadUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-Mishare/releases/download/beta-0.1/mishare-beta0.1.zip"
+        }
+      ]
+    }
+  ]
+}

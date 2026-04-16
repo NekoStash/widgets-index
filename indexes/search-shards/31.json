@@ -1,10 +1,11 @@
 {
   "shard": "31",
-  "tokenCount": 35,
+  "tokenCount": 36,
   "tokens": {
     "17": [
       "business",
       "calendar-lite",
+      "course_schedule",
       "schedule_reminder",
       "weather"
     ],
@@ -104,6 +105,9 @@
     ],
     "电逻": [
       "calendar-lite"
+    ],
+    "系列背屏上显示课程表": [
+      "course_schedule"
     ],
     "统内": [
       "weather"

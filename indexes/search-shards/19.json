@@ -1,15 +1,19 @@
 {
   "shard": "19",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "audio": [
       "music"
+    ],
+    "上显": [
+      "course_schedule"
     ],
     "丰富": [
       "weather"
     ],
     "压缩": [
       "calendar-lite",
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "equipped": [
       "music"
@@ -67,6 +67,9 @@
     ],
     "监听": [
       "schedule_reminder"
+    ],
+    "米互": [
+      "mishare"
     ],
     "致力于丰富小米": [
       "weather"

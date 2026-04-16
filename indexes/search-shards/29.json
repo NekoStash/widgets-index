@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 25,
+  "tokenCount": 27,
   "tokens": {
     "experience": [
       "music"
@@ -16,6 +16,9 @@
     ],
     "with": [
       "music"
+    ],
+    "xiaomi-rearscreen-xiaoai_course_schedule": [
+      "course_schedule"
     ],
     "也能": [
       "business"
@@ -75,6 +78,9 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "示课": [
+      "course_schedule"
     ],
     "等具": [
       "calendar-lite"

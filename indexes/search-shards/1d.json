@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 32,
+  "tokenCount": 34,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -10,6 +10,9 @@
     ],
     "background": [
       "music"
+    ],
+    "repo": [
+      "course_schedule"
     ],
     "tracks": [
       "music"
@@ -85,6 +88,9 @@
     ],
     "缝切": [
       "weather"
+    ],
+    "背屏课程表": [
+      "course_schedule"
     ],
     "让下": [
       "schedule_reminder"

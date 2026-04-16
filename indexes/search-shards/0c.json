@@ -1,17 +1,22 @@
 {
   "shard": "0c",
-  "tokenCount": 28,
+  "tokenCount": 29,
   "tokens": {
+    "course_schedule": [
+      "course_schedule"
+    ],
     "elements": [
       "music"
     ],
     "schedule": [
+      "course_schedule",
       "schedule_reminder"
     ],
     "tint": [
       "music"
     ],
     "之后": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

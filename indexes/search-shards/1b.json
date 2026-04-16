@@ -20,6 +20,7 @@
     "siberiaapp": [
       "business",
       "calendar-lite",
+      "course_schedule",
       "music",
       "weather"
     ],
@@ -38,6 +39,7 @@
       "weather"
     ],
     "入项": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -45,6 +47,7 @@
       "business"
     ],
     "化到": [
+      "mishare",
       "pickup"
     ],
     "堆叠": [

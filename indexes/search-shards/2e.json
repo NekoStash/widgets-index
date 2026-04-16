@@ -1,6 +1,6 @@
 {
   "shard": "2e",
-  "tokenCount": 22,
+  "tokenCount": 23,
   "tokens": {
     "custom": [
       "music"
@@ -14,6 +14,9 @@
     ],
     "兼顾美感与": [
       "schedule_reminder"
+    ],
+    "列背": [
+      "course_schedule"
     ],
     "在不": [
       "weather"
@@ -67,6 +70,7 @@
     ],
     "项目": [
       "calendar-lite",
+      "mishare",
       "pickup",
       "schedule_reminder",
       "weather"

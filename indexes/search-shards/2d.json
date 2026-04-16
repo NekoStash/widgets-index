@@ -1,7 +1,10 @@
 {
   "shard": "2d",
-  "tokenCount": 22,
+  "tokenCount": 24,
   "tokens": {
+    "不会写": [
+      "mishare"
+    ],
     "中文": [
       "music"
     ],
@@ -42,6 +45,9 @@
     ],
     "岛内": [
       "business"
+    ],
+    "有进": [
+      "mishare"
     ],
     "机倒": [
       "business"

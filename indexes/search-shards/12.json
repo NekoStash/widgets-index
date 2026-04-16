@@ -9,6 +9,8 @@
       "calendar-lite"
     ],
     "使用": [
+      "course_schedule",
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

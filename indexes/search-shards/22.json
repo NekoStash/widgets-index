@@ -1,9 +1,12 @@
 {
   "shard": "22",
-  "tokenCount": 21,
+  "tokenCount": 22,
   "tokens": {
     "back": [
       "music"
+    ],
+    "https": [
+      "course_schedule"
     ],
     "transition": [
       "music"

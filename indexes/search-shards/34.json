@@ -8,6 +8,8 @@
     "xiaomi": [
       "business",
       "calendar-lite",
+      "course_schedule",
+      "mishare",
       "music",
       "pickup",
       "schedule_reminder",
@@ -50,7 +52,8 @@
       "weather"
     ],
     "目前": [
-      "business"
+      "business",
+      "mishare"
     ],
     "色彩": [
       "schedule_reminder",

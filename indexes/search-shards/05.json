@@ -1,7 +1,10 @@
 {
   "shard": "05",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
+    "islandnotify": [
+      "course_schedule"
+    ],
     "kfc": [
       "business"
     ],

@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "15": [
       "weather"
@@ -37,6 +37,9 @@
     ],
     "并加": [
       "business"
+    ],
+    "必须搭配": [
+      "course_schedule"
     ],
     "持日": [
       "schedule_reminder"

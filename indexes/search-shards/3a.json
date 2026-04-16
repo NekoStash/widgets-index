@@ -17,6 +17,7 @@
     ],
     "于小": [
       "calendar-lite",
+      "mishare",
       "music",
       "schedule_reminder",
       "weather"
@@ -35,6 +36,7 @@
       "schedule_reminder"
     ],
     "导入": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

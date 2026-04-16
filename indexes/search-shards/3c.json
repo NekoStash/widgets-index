@@ -1,11 +1,12 @@
 {
   "shard": "3c",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "full": [
       "music"
     ],
     "reareye": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -16,6 +17,9 @@
       "business",
       "schedule_reminder",
       "weather"
+    ],
+    "会写": [
+      "mishare"
     ],
     "低待": [
       "schedule_reminder"
@@ -42,6 +46,7 @@
       "business"
     ],
     "活后": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

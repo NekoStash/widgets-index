@@ -1,0 +1,12 @@
+{
+  "id": "course_schedule",
+  "readme": {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "a38dfe5d0d221798db3903d7b95e6c55218a6436",
+    "size": 174,
+    "htmlUrl": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule/blob/main/README.md",
+    "downloadUrl": "https://raw.githubusercontent.com/SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule/main/README.md",
+    "content": "<h1 dir=\"auto\">Xiaomi-RearScreen-Xiaoai_Course_Schedule</h1>\n<p dir=\"auto\">在小米17 Pro系列背屏上显示课程表</p>\n<p dir=\"auto\">必须搭配 <a href=\"https://github.com/Xposed-Modules-Repo/com.xiaoai.islandnotify\">https://github.com/Xposed-Modules-Repo/com.xiaoai.islandnotify</a> 使用</p>"
+  }
+}

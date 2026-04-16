@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 30,
+  "tokenCount": 32,
   "tokens": {
     "120hz": [
       "weather"
@@ -8,14 +8,21 @@
     "color": [
       "music"
     ],
+    "course": [
+      "course_schedule"
+    ],
     "pro": [
       "business",
       "calendar-lite",
+      "course_schedule",
       "schedule_reminder",
       "weather"
     ],
     "safe": [
       "calendar-lite"
+    ],
+    "xiaoai": [
+      "course_schedule"
     ],
     "一列": [
       "calendar-lite"
@@ -77,6 +84,7 @@
       "weather"
     ],
     "用域": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

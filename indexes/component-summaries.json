@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 6,
+  "componentCount": 8,
   "components": {
     "business": {
       "id": "business",
@@ -24,6 +24,30 @@
         "name": "SiberiaApp",
         "url": "https://github.com/SiberiaApp",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "course_schedule": {
+      "id": "course_schedule",
+      "name": "背屏课程表Pro",
+      "description": "在小米17 Pro系列背屏上显示课程表",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "mishare": {
+      "id": "mishare",
+      "name": "Mishare背屏通知",
+      "description": "关于小米互传超级岛同时转化到小米背屏的小组件",
+      "author": {
+        "login": "juzipaome",
+        "name": "JUZI",
+        "url": "https://github.com/juzipaome",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
         "type": "User"
       }
     },

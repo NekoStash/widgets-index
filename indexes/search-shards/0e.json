@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "deliver": [
       "music"
@@ -17,6 +17,9 @@
     "交叉": [
       "schedule_reminder"
     ],
+    "传超": [
+      "mishare"
+    ],
     "取餐码": [
       "pickup"
     ],
@@ -28,12 +31,14 @@
     ],
     "小组": [
       "calendar-lite",
+      "mishare",
       "pickup",
       "schedule_reminder",
       "weather"
     ],
     "屏的": [
       "calendar-lite",
+      "mishare",
       "pickup",
       "schedule_reminder",
       "weather"
@@ -84,6 +89,7 @@
       "weather"
     ],
     "目压": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

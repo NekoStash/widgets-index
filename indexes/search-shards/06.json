@@ -1,12 +1,15 @@
 {
   "shard": "06",
-  "tokenCount": 32,
+  "tokenCount": 34,
   "tokens": {
     "power": [
       "music"
     ],
     "seamless": [
       "music"
+    ],
+    "xposed": [
+      "course_schedule"
     ],
     "上阿": [
       "business"
@@ -86,6 +89,9 @@
     ],
     "状态完美映射至背屏": [
       "business"
+    ],
+    "程表": [
+      "course_schedule"
     ],
     "立雨": [
       "weather"

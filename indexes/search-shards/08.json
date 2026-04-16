@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "save": [
       "music"
@@ -28,6 +28,9 @@
     ],
     "唤醒时通过": [
       "weather"
+    ],
+    "在小": [
+      "course_schedule"
     ],
     "标签": [
       "calendar-lite"

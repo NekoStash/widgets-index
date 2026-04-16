@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 16,
+  "tokenCount": 17,
   "tokens": {
     "active": [
       "music"
@@ -33,6 +33,9 @@
     ],
     "提示": [
       "business"
+    ],
+    "搭配": [
+      "course_schedule"
     ],
     "有云": [
       "weather"
