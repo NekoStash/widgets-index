@@ -14,10 +14,27 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
         "type": "User"
       },
-      "updatedAt": "2026-04-23T06:19:32.000Z",
+      "updatedAt": "2026-04-24T13:50:18.000Z",
       "repository": {
         "fullName": "SiberiaApp/Xiaomi-RearScreen-Calendar",
         "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Calendar"
+      }
+    },
+    {
+      "id": "course_schedule",
+      "name": "背屏课程表Pro",
+      "description": "在小米17 Pro系列背屏上显示课程表",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-24T13:50:17.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule",
+        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule"
       }
     },
     {
@@ -52,23 +69,6 @@
       "repository": {
         "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",
         "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music"
-      }
-    },
-    {
-      "id": "course_schedule",
-      "name": "背屏课程表Pro",
-      "description": "在小米17 Pro系列背屏上显示课程表",
-      "author": {
-        "login": "SiberiaApp",
-        "name": "SiberiaApp",
-        "url": "https://github.com/SiberiaApp",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-04-16T09:31:02.000Z",
-      "repository": {
-        "fullName": "SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule",
-        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule"
       }
     },
     {
