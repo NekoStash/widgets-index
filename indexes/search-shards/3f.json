@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "capabilities": [
       "music"
@@ -28,6 +28,9 @@
     ],
     "原始": [
       "schedule_reminder"
+    ],
+    "可任": [
+      "hyper-pick-up-code"
     ],
     "右侧": [
       "calendar-lite"
@@ -81,6 +84,7 @@
     ],
     "组件": [
       "calendar-lite",
+      "hyper-pick-up-code",
       "mishare",
       "pickup",
       "schedule_reminder",

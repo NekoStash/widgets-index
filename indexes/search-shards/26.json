@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "an": [
       "music"
@@ -82,6 +82,9 @@
     "极低": [
       "business",
       "schedule_reminder"
+    ],
+    "湃记": [
+      "hyper-pick-up-code"
     ],
     "物理": [
       "weather"

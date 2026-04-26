@@ -1,7 +1,10 @@
 {
   "shard": "2d",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
+    "上面": [
+      "hyper-pick-up-code"
+    ],
     "不会写": [
       "mishare"
     ],

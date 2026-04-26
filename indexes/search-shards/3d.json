@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 24,
+  "tokenCount": 27,
   "tokens": {
     "contributing": [
       "music"
@@ -24,6 +24,9 @@
     ],
     "与设": [
       "weather"
+    ],
+    "最新": [
+      "hyper-pick-up-code"
     ],
     "写死": [
       "calendar-lite"
@@ -49,6 +52,9 @@
     "智能调度": [
       "weather"
     ],
+    "板管": [
+      "hyper-pick-up-code"
+    ],
     "牌的": [
       "business"
     ],
@@ -67,6 +73,9 @@
     ],
     "落摇": [
       "weather"
+    ],
+    "路由": [
+      "hyper-pick-up-code"
     ],
     "音播": [
       "weather"

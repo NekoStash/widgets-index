@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "chagee": [
       "business"
@@ -76,6 +76,9 @@
     "资产": [
       "business",
       "weather"
+    ],
+    "驱动": [
+      "hyper-pick-up-code"
     ]
   }
 }

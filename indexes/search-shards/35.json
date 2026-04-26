@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 22,
+  "tokenCount": 23,
   "tokens": {
     "bug": [
       "weather"
@@ -55,6 +55,9 @@
     ],
     "的平滑过渡与透明度切换": [
       "business"
+    ],
+    "的组": [
+      "hyper-pick-up-code"
     ],
     "等关": [
       "business"

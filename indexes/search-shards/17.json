@@ -1,6 +1,6 @@
 {
   "shard": "17",
-  "tokenCount": 19,
+  "tokenCount": 20,
   "tokens": {
     "controls": [
       "music"
@@ -22,6 +22,9 @@
     ],
     "喜茶": [
       "business"
+    ],
+    "在": [
+      "hyper-pick-up-code"
     ],
     "基础": [
       "business"

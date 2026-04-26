@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 28,
+  "tokenCount": 29,
   "tokens": {
     "equipped": [
       "music"
@@ -19,6 +19,9 @@
     ],
     "依托": [
       "business"
+    ],
+    "写的": [
+      "hyper-pick-up-code"
     ],
     "副标题与进度信息": [
       "business"

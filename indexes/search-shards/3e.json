@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "about": [
       "music"
@@ -41,6 +41,9 @@
     ],
     "最底": [
       "calendar-lite"
+    ],
+    "安装前提": [
+      "hyper-pick-up-code"
     ],
     "小": [
       "weather"

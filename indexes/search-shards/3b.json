@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 32,
+  "tokenCount": 33,
   "tokens": {
     "language": [
       "weather"
@@ -25,6 +25,7 @@
     ],
     "内容": [
       "business",
+      "hyper-pick-up-code",
       "weather"
     ],
     "别当": [
@@ -97,6 +98,9 @@
     ],
     "经过": [
       "schedule_reminder"
+    ],
+    "装方": [
+      "hyper-pick-up-code"
     ],
     "进布": [
       "weather"

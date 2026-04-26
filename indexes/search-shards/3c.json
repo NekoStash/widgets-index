@@ -1,11 +1,12 @@
 {
   "shard": "3c",
-  "tokenCount": 21,
+  "tokenCount": 22,
   "tokens": {
     "full": [
       "music"
     ],
     "reareye": [
+      "hyper-pick-up-code",
       "mishare",
       "pickup",
       "schedule_reminder"
@@ -67,6 +68,9 @@
     ],
     "调度": [
       "weather"
+    ],
+    "重启背屏": [
+      "hyper-pick-up-code"
     ],
     "雪天": [
       "weather"

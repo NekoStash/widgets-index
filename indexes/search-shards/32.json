@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "automatically": [
       "music"
@@ -66,6 +66,9 @@
     ],
     "程同": [
       "schedule_reminder"
+    ],
+    "组件名称": [
+      "hyper-pick-up-code"
     ],
     "茶百道": [
       "business"

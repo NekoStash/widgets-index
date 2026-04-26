@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 15,
+  "tokenCount": 16,
   "tokens": {
     "check": [
       "music"
@@ -40,6 +40,9 @@
     ],
     "率进": [
       "weather"
+    ],
+    "由管": [
+      "hyper-pick-up-code"
     ],
     "纯代": [
       "calendar-lite"

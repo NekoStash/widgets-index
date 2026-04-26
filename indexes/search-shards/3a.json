@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "no": [
       "calendar-lite"
@@ -29,6 +29,9 @@
       "business",
       "weather"
     ],
+    "动安": [
+      "hyper-pick-up-code"
+    ],
     "及其他搭载背屏模块的": [
       "business"
     ],
@@ -36,6 +39,7 @@
       "schedule_reminder"
     ],
     "导入": [
+      "hyper-pick-up-code",
       "mishare",
       "pickup",
       "schedule_reminder"

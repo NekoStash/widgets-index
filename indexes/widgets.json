@@ -30,6 +30,16 @@
     "stars": 1
   },
   {
+    "id": "hyper-pick-up-code",
+    "name": "澎湃记-背屏组件",
+    "authorName": "SiberiaApp",
+    "authorId": "SiberiaApp",
+    "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",
+    "latestReleaseTag": "v0.1",
+    "latestReleasePublishedAt": "2026-04-26T11:55:53.000Z",
+    "stars": 0
+  },
+  {
     "id": "mishare",
     "name": "Mishare背屏通知",
     "authorName": "JUZI",

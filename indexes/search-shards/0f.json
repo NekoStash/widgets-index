@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 26,
+  "tokenCount": 28,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -13,6 +13,9 @@
     ],
     "互传": [
       "mishare"
+    ],
+    "任意": [
+      "hyper-pick-up-code"
     ],
     "光影": [
       "weather"
@@ -38,6 +41,9 @@
     "已支持的品牌库": [
       "business"
     ],
+    "意填": [
+      "hyper-pick-up-code"
+    ],
     "据此": [
       "weather"
     ],
@@ -59,6 +65,7 @@
     "自动": [
       "business",
       "calendar-lite",
+      "hyper-pick-up-code",
       "schedule_reminder",
       "weather"
     ],

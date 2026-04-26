@@ -1,0 +1,24 @@
+{
+  "id": "hyper-pick-up-code",
+  "name": "澎湃记-背屏组件",
+  "sourceMetadataPath": "repos/hyper-pick-up-code/metadata.json",
+  "repository": {
+    "widgetName": "澎湃记-背屏组件",
+    "owner": "SiberiaApp",
+    "name": "Hyper-Pick-up-Code-REAREye",
+    "fullName": "SiberiaApp/Hyper-Pick-up-Code-REAREye",
+    "url": "https://github.com/SiberiaApp/Hyper-Pick-up-Code-REAREye",
+    "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-04-26T11:49:01Z",
+    "updatedAt": "2026-04-26T11:54:23Z",
+    "pushedAt": "2026-04-26T11:55:53Z"
+  }
+}

@@ -1,7 +1,10 @@
 {
   "shard": "2b",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
+    "二": [
+      "hyper-pick-up-code"
+    ],
     "云朵": [
       "weather"
     ],

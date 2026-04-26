@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 21,
+  "tokenCount": 22,
   "tokens": {
     "save": [
       "music"
@@ -31,6 +31,9 @@
     ],
     "在小": [
       "course_schedule"
+    ],
+    "手动安装": [
+      "hyper-pick-up-code"
     ],
     "标签": [
       "calendar-lite"

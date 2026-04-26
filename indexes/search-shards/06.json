@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 34,
+  "tokenCount": 36,
   "tokens": {
     "power": [
       "music"
@@ -62,6 +62,9 @@
     "度逻": [
       "business"
     ],
+    "手动": [
+      "hyper-pick-up-code"
+    ],
     "打造的": [
       "schedule_reminder"
     ],
@@ -104,6 +107,9 @@
     ],
     "还内": [
       "weather"
+    ],
+    "适配澎湃记的小米背屏组件": [
+      "hyper-pick-up-code"
     ],
     "题包": [
       "business"

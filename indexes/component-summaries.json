@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 8,
+  "componentCount": 9,
   "components": {
     "business": {
       "id": "business",
@@ -31,6 +31,18 @@
       "id": "course_schedule",
       "name": "背屏课程表Pro",
       "description": "在小米17 Pro系列背屏上显示课程表",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "hyper-pick-up-code": {
+      "id": "hyper-pick-up-code",
+      "name": "澎湃记-背屏组件",
+      "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",
       "author": {
         "login": "SiberiaApp",
         "name": "SiberiaApp",

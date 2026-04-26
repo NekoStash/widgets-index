@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 32,
+  "tokenCount": 34,
   "tokens": {
     "deliver": [
       "music"
@@ -16,6 +16,9 @@
     ],
     "交叉": [
       "schedule_reminder"
+    ],
+    "件至": [
+      "hyper-pick-up-code"
     ],
     "传超": [
       "mishare"
@@ -42,6 +45,9 @@
       "pickup",
       "schedule_reminder",
       "weather"
+    ],
+    "屏组": [
+      "hyper-pick-up-code"
     ],
     "已支": [
       "business"

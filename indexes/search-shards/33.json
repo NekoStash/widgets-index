@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "built": [
       "music"
@@ -33,10 +33,14 @@
     "复刻官方级动效": [
       "schedule_reminder"
     ],
+    "安装": [
+      "hyper-pick-up-code"
+    ],
     "整适": [
       "weather"
     ],
     "方法": [
+      "hyper-pick-up-code",
       "mishare",
       "pickup",
       "schedule_reminder"

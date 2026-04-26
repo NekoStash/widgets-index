@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 25,
+  "tokenCount": 27,
   "tokens": {
     "display": [
       "music"
@@ -18,6 +18,7 @@
       "weather"
     ],
     "下载": [
+      "hyper-pick-up-code",
       "mishare",
       "pickup",
       "schedule_reminder"
@@ -32,6 +33,9 @@
       "business",
       "schedule_reminder",
       "weather"
+    ],
+    "导入组件至": [
+      "hyper-pick-up-code"
     ],
     "并放": [
       "business"
@@ -63,6 +67,9 @@
       "calendar-lite",
       "weather"
     ],
+    "自动安装": [
+      "hyper-pick-up-code"
+    ],
     "茶百": [
       "business"
     ],
@@ -79,6 +86,7 @@
       "calendar-lite"
     ],
     "重启": [
+      "hyper-pick-up-code",
       "mishare",
       "pickup",
       "schedule_reminder"

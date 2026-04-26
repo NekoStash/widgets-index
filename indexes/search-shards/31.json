@@ -1,6 +1,6 @@
 {
   "shard": "31",
-  "tokenCount": 36,
+  "tokenCount": 39,
   "tokens": {
     "17": [
       "business",
@@ -33,7 +33,11 @@
     ],
     "以下": [
       "business",
+      "hyper-pick-up-code",
       "weather"
+    ],
+    "最新测试版本": [
+      "hyper-pick-up-code"
     ],
     "准排": [
       "schedule_reminder"
@@ -53,6 +57,9 @@
     ],
     "基准": [
       "calendar-lite"
+    ],
+    "安装方法": [
+      "hyper-pick-up-code"
     ],
     "实时演算并渲染天空色彩的平滑过渡": [
       "weather"
@@ -117,6 +124,9 @@
     ],
     "能调": [
       "weather"
+    ],
+    "记的": [
+      "hyper-pick-up-code"
     ],
     "这是一个基于小米": [
       "weather"

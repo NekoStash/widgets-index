@@ -1,9 +1,12 @@
 {
   "shard": "37",
-  "tokenCount": 23,
+  "tokenCount": 25,
   "tokens": {
     "extracts": [
       "music"
+    ],
+    "hyper-pick-up-code-reareye": [
+      "hyper-pick-up-code"
     ],
     "oled": [
       "calendar-lite",
@@ -20,7 +23,8 @@
       "schedule_reminder"
     ],
     "包名": [
-      "business"
+      "business",
+      "hyper-pick-up-code"
     ],
     "如添加新品牌": [
       "business"
@@ -29,6 +33,7 @@
       "business",
       "calendar-lite",
       "course_schedule",
+      "hyper-pick-up-code",
       "mishare",
       "music",
       "pickup",
@@ -69,6 +74,9 @@
     ],
     "系统级日程同步": [
       "schedule_reminder"
+    ],
+    "装前": [
+      "hyper-pick-up-code"
     ],
     "资源目录结构": [
       "weather"

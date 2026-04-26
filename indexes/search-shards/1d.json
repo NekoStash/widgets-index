@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 34,
+  "tokenCount": 36,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -26,8 +26,14 @@
     "上角": [
       "calendar-lite"
     ],
+    "下内": [
+      "hyper-pick-up-code"
+    ],
     "下清": [
       "schedule_reminder"
+    ],
+    "件商": [
+      "hyper-pick-up-code"
     ],
     "任何": [
       "calendar-lite"

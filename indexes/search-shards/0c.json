@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -22,6 +22,9 @@
     ],
     "他搭": [
       "business"
+    ],
+    "件名": [
+      "hyper-pick-up-code"
     ],
     "切换": [
       "business",

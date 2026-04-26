@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 35,
+  "tokenCount": 36,
   "tokens": {
     "artist": [
       "music"
@@ -92,6 +92,9 @@
     ],
     "视觉重心极度稳定": [
       "schedule_reminder"
+    ],
+    "管理": [
+      "hyper-pick-up-code"
     ],
     "系数": [
       "calendar-lite",

@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -78,6 +78,9 @@
     ],
     "请根据此目录放入对应的图片资产": [
       "weather"
+    ],
+    "载组": [
+      "hyper-pick-up-code"
     ],
     "退至": [
       "business"

@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "focus": [
       "business",
@@ -11,6 +11,9 @@
     ],
     "requests": [
       "music"
+    ],
+    "scene": [
+      "hyper-pick-up-code"
     ],
     "weather": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 22,
+  "tokenCount": 23,
   "tokens": {
     "back": [
       "music"
@@ -66,6 +66,9 @@
     ],
     "的超": [
       "pickup"
+    ],
+    "配澎": [
+      "hyper-pick-up-code"
     ],
     "间段": [
       "weather"

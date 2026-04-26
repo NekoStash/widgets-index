@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 32,
+  "tokenCount": 34,
   "tokens": {
     "120hz": [
       "weather"
@@ -41,6 +41,9 @@
     ],
     "出日": [
       "weather"
+    ],
+    "前提": [
+      "hyper-pick-up-code"
     ],
     "前运": [
       "calendar-lite"
@@ -91,6 +94,9 @@
     "用生": [
       "weather"
     ],
+    "目标包名": [
+      "hyper-pick-up-code"
+    ],
     "目特": [
       "calendar-lite"
     ],
@@ -107,6 +113,7 @@
     "适配": [
       "business",
       "calendar-lite",
+      "hyper-pick-up-code",
       "pickup",
       "schedule_reminder",
       "weather"

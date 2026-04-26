@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "hyper-pick-up-code",
+      "name": "澎湃记-背屏组件",
+      "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-26T11:55:53.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Hyper-Pick-up-Code-REAREye",
+        "url": "https://github.com/SiberiaApp/Hyper-Pick-up-Code-REAREye"
+      }
+    },
+    {
       "id": "calendar-lite",
       "name": "背屏日历Lite",
       "description": "适用于小米背屏的日历小组件",

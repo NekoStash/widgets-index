@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "animations": [
       "music"
@@ -40,6 +40,9 @@
     ],
     "取标": [
       "business"
+    ],
+    "商店": [
+      "hyper-pick-up-code"
     ],
     "影渲": [
       "weather"

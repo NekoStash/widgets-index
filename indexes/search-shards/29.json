@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "experience": [
       "music"
@@ -66,6 +66,9 @@
     ],
     "时通": [
       "weather"
+    ],
+    "模板": [
+      "hyper-pick-up-code"
     ],
     "止状": [
       "weather"

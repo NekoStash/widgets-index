@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "30": [
       "calendar-lite"
@@ -90,6 +90,9 @@
     ],
     "系统将自动回退至默认样式": [
       "business"
+    ],
+    "组件商店安装": [
+      "hyper-pick-up-code"
     ],
     "缩并": [
       "calendar-lite"

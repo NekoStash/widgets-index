@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 16,
+  "tokenCount": 17,
   "tokens": {
     "一点": [
       "business"
@@ -43,6 +43,9 @@
     ],
     "歌词": [
       "music"
+    ],
+    "澎湃记": [
+      "hyper-pick-up-code"
     ],
     "现有": [
       "business"

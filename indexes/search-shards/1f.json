@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "calendar": [
       "calendar-lite",
@@ -11,6 +11,9 @@
     ],
     "states": [
       "music"
+    ],
+    "一": [
+      "hyper-pick-up-code"
     ],
     "不同于传统的静态插件": [
       "schedule_reminder"

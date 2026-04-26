@@ -1,7 +1,10 @@
 {
   "shard": "34",
-  "tokenCount": 18,
+  "tokenCount": 20,
   "tokens": {
+    "code": [
+      "hyper-pick-up-code"
+    ],
     "easily": [
       "music"
     ],
@@ -54,6 +57,9 @@
     "目前": [
       "business",
       "mishare"
+    ],
+    "组件模板管理器": [
+      "hyper-pick-up-code"
     ],
     "色彩": [
       "schedule_reminder",

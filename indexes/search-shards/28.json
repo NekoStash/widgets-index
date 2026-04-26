@@ -1,6 +1,6 @@
 {
   "shard": "28",
-  "tokenCount": 13,
+  "tokenCount": 14,
   "tokens": {
     "previous": [
       "music"
@@ -39,6 +39,9 @@
     ],
     "致力": [
       "weather"
+    ],
+    "试版": [
+      "hyper-pick-up-code"
     ],
     "进行了等比缩放与安全区避让适配": [
       "calendar-lite"

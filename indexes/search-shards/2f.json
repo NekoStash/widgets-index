@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 17,
+  "tokenCount": 18,
   "tokens": {
     "active": [
       "music"
@@ -18,6 +18,9 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "下载组件": [
+      "hyper-pick-up-code"
     ],
     "为高": [
       "schedule_reminder"

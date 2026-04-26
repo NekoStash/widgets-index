@@ -1,10 +1,13 @@
 {
   "shard": "38",
-  "tokenCount": 28,
+  "tokenCount": 32,
   "tokens": {
     "assets": [
       "business",
       "calendar-lite"
+    ],
+    "pick": [
+      "hyper-pick-up-code"
     ],
     "sine": [
       "weather"
@@ -15,6 +18,9 @@
     "一起": [
       "weather"
     ],
+    "上面填写的组件名称": [
+      "hyper-pick-up-code"
+    ],
     "专属背屏适配": [
       "weather"
     ],
@@ -23,6 +29,9 @@
     ],
     "仅在": [
       "weather"
+    ],
+    "件模": [
+      "hyper-pick-up-code"
     ],
     "优化性能或改进布局": [
       "weather"
@@ -47,6 +56,9 @@
     ],
     "变量": [
       "calendar-lite"
+    ],
+    "名称": [
+      "hyper-pick-up-code"
     ],
     "它通": [
       "schedule_reminder"

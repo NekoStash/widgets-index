@@ -1,0 +1,12 @@
+{
+  "id": "hyper-pick-up-code",
+  "readme": {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "dd2bca32fec052efe8af0333c7a6021546423bfb",
+    "size": 667,
+    "htmlUrl": "https://github.com/SiberiaApp/Hyper-Pick-up-Code-REAREye/blob/main/README.md",
+    "downloadUrl": "https://raw.githubusercontent.com/SiberiaApp/Hyper-Pick-up-Code-REAREye/main/README.md",
+    "content": "<h1 dir=\"auto\">Hyper Pick-up Code 澎湃记 背屏组件</h1>\n<blockquote>\n<p dir=\"auto\">适配澎湃记的小米背屏组件，基于 REAREye 驱动</p>\n</blockquote>\n<h2 dir=\"auto\">安装前提</h2>\n<ol dir=\"auto\">\n<li>下载<a href=\"https://github.com/badnng/Hyper-pick-up-code\">澎湃记</a></li>\n<li>下载<a href=\"https://updates.uwu.hk/\" rel=\"nofollow\">REAREye最新测试版本</a></li>\n</ol>\n<hr>\n<h2 dir=\"auto\">安装方法</h2>\n<h3 dir=\"auto\">一、自动安装</h3>\n<p dir=\"auto\">在 REAREye 组件商店安装</p>\n<h3 dir=\"auto\">二、手动安装</h3>\n<ol dir=\"auto\">\n<li>下载组件</li>\n<li>导入组件至<strong>组件模板管理器</strong>，组件名称可任意填写</li>\n<li>进入 <strong>Scene路由管理器</strong>，填写以下内容：\n<ul dir=\"auto\">\n<li><strong>目标包名</strong>：<code class=\"notranslate\">com.Badnng.moe</code></li>\n<li><strong>Scene</strong>：<code class=\"notranslate\">CH:promoted_live_update_channel</code></li>\n<li><strong>组件名称</strong>：上面填写的组件名称</li>\n</ul>\n</li>\n<li>重启背屏</li>\n</ol>"
+  }
+}

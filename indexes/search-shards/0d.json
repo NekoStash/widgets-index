@@ -1,9 +1,12 @@
 {
   "shard": "0d",
-  "tokenCount": 28,
+  "tokenCount": 31,
   "tokens": {
     "are": [
       "music"
+    ],
+    "hyper-pick-up-code": [
+      "hyper-pick-up-code"
     ],
     "pause": [
       "music"
@@ -46,6 +49,9 @@
     "底环": [
       "schedule_reminder"
     ],
+    "店安": [
+      "hyper-pick-up-code"
+    ],
     "度集": [
       "schedule_reminder"
     ],
@@ -72,6 +78,9 @@
     "有逻": [
       "business"
     ],
+    "测试": [
+      "hyper-pick-up-code"
+    ],
     "特别": [
       "calendar-lite"
     ],
@@ -87,6 +96,7 @@
       "weather"
     ],
     "进入": [
+      "hyper-pick-up-code",
       "schedule_reminder",
       "weather"
     ],

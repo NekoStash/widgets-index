@@ -1,9 +1,12 @@
 {
   "shard": "19",
-  "tokenCount": 25,
+  "tokenCount": 27,
   "tokens": {
     "audio": [
       "music"
+    ],
+    "hyper": [
+      "hyper-pick-up-code"
     ],
     "上显": [
       "course_schedule"
@@ -26,6 +29,7 @@
     "基于": [
       "business",
       "calendar-lite",
+      "hyper-pick-up-code",
       "weather"
     ],
     "复刻": [
@@ -49,6 +53,9 @@
     ],
     "时自": [
       "weather"
+    ],
+    "标包": [
+      "hyper-pick-up-code"
     ],
     "现背": [
       "schedule_reminder"
