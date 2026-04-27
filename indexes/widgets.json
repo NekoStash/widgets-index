@@ -25,8 +25,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "在小米17 Pro系列背屏上显示课程表",
-    "latestReleaseTag": "v1.0",
-    "latestReleasePublishedAt": "2026-04-16T09:30:04.000Z",
+    "latestReleaseTag": null,
+    "latestReleasePublishedAt": null,
     "stars": 1
   },
   {
@@ -35,8 +35,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v0.1",
+    "latestReleasePublishedAt": "2026-04-26T11:55:53.000Z",
     "stars": 0
   },
   {
@@ -45,8 +45,8 @@
     "authorName": "JUZI",
     "authorId": "juzipaome",
     "description": "关于小米互传超级岛同时转化到小米背屏的小组件",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "beta-0.1",
+    "latestReleasePublishedAt": "2026-04-15T13:58:20.000Z",
     "stars": 0
   },
   {
