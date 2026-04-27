@@ -1,29 +1,4 @@
 {
   "id": "business",
-  "releases": [
-    {
-      "id": 307325045,
-      "tagName": "Beta-0.2",
-      "name": "Beta-0.2",
-      "isDraft": false,
-      "isPrerelease": false,
-      "createdAt": "2026-04-10T00:05:33Z",
-      "publishedAt": "2026-04-10T00:08:58Z",
-      "url": "https://github.com/SiberiaApp/Super-RearScreen-Island-Todo/releases/tag/Beta-0.2",
-      "body": "<h1 dir=\"auto\">Super-RearScreen-Island-Todo (超级背屏岛Pro)</h1>\n<blockquote>\n<p dir=\"auto\">[适配Todo便签] 超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题。</p>\n</blockquote>\n<p dir=\"auto\">专为 <strong>小米 17 Pro 系列</strong>（背屏机型）深度定制的 HyperOS 背屏主题部件。本模块通过接管底层焦点通知（Focus Params），将前台的「灵动岛/超级岛」状态完美映射至背屏，让你在手机倒扣时也能实时掌握外卖、打车、待办等关键进度。</p>\n<hr>\n<h2 dir=\"auto\">✨ 核心特性</h2>\n<ul dir=\"auto\">\n<li><strong>🔄 完美映射超级岛</strong>：无缝解析系统 <code class=\"notranslate\">param_v2</code> 和 <code class=\"notranslate\">bigIslandArea</code> 数据，将主屏幕的焦点通知实时同步至背屏显示。</li>\n<li><strong>📝 深度适配 Todo便签</strong>：针对包名 <code class=\"notranslate\">com.farplace.todonote</code> 进行深度逻辑优化，精准提取标题、副标题与进度信息。</li>\n<li><strong>🍔 智能品牌识别系统</strong>：内置强大的关键词匹配引擎。自动识别外卖品牌并加载专属视觉资产（Logo 与背景）。</li>\n<li><strong>🌙 丝滑 AOD 息屏显示</strong>：依托小米底层 <strong>Folme 动画引擎</strong>，支持亮屏与 AOD 息屏状态（极低功耗，刷新率降至 0fps）的平滑过渡与透明度切换。</li>\n<li><strong>📐 动态自适应布局</strong>：内置基于 <code class=\"notranslate\">view_width</code> 和 <code class=\"notranslate\">view_height</code> 的自适应缩放算法（Scale），完美兼容不同比例的背屏尺寸。</li>\n</ul>\n<hr>\n<h2 dir=\"auto\">🏪 已支持的品牌库</h2>\n<p dir=\"auto\">目前代码已内置以下主流餐饮/茶饮品牌的关键词识别与专属图标映射：</p>\n<ul dir=\"auto\">\n<li><strong>茶饮/咖啡</strong>：古茗、瑞幸 (Luckin)、喜茶 (Heytea)、爷爷不泡茶、一点点、CoCo、霸王茶姬 (Chagee)、茶百道、沪上阿姨、蜜雪冰城、库迪 (Cotti)</li>\n<li><strong>快餐/汉堡</strong>：肯德基 (KFC)、麦当劳 (McDonald's)、汉堡王 (Burger King)、塔斯汀 (Tastien)</li>\n</ul>\n<blockquote>\n<p dir=\"auto\"><strong>💡 提示</strong>：若未匹配到已知品牌，系统将自动回退至默认样式（<code class=\"notranslate\">default_food</code>）。</p>\n</blockquote>",
-      "assets": [
-        {
-          "id": 392838808,
-          "name": "Super-RearScreen-Island-Todo_Beta0.2.zip",
-          "label": null,
-          "size": 515499,
-          "contentType": "application/zip",
-          "downloadCount": 269,
-          "createdAt": "2026-04-10T00:08:33Z",
-          "updatedAt": "2026-04-10T00:08:36Z",
-          "downloadUrl": "https://github.com/SiberiaApp/Super-RearScreen-Island-Todo/releases/download/Beta-0.2/Super-RearScreen-Island-Todo_Beta0.2.zip"
-        }
-      ]
-    }
-  ]
+  "releases": []
 }
