@@ -1,4 +1,29 @@
 {
   "id": "pickup",
-  "releases": []
+  "releases": [
+    {
+      "id": 309170526,
+      "tagName": "beta",
+      "name": "StarIsland背屏通知-beta0.1",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-04-15T04:35:30Z",
+      "publishedAt": "2026-04-15T05:54:02Z",
+      "url": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/releases/tag/beta",
+      "body": "<p dir=\"auto\">beta版，有什么建议或bug可提出</p>",
+      "assets": [
+        {
+          "id": 396868813,
+          "name": "StarIsland-beta0.1.zip",
+          "label": null,
+          "size": 517512,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 172,
+          "createdAt": "2026-04-15T08:46:01Z",
+          "updatedAt": "2026-04-15T08:46:02Z",
+          "downloadUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/releases/download/beta/StarIsland-beta0.1.zip"
+        }
+      ]
+    }
+  ]
 }

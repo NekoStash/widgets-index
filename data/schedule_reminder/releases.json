@@ -1,4 +1,53 @@
 {
   "id": "schedule_reminder",
-  "releases": []
+  "releases": [
+    {
+      "id": 309222655,
+      "tagName": "beta-0.2",
+      "name": "日程beta-0.2",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-04-15T02:12:08Z",
+      "publishedAt": "2026-04-15T08:27:54Z",
+      "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule/releases/tag/beta-0.2",
+      "body": "<p dir=\"auto\">修复息屏亮屏动画，调整长文件间距</p>",
+      "assets": [
+        {
+          "id": 396860360,
+          "name": "beta-0.2.zip",
+          "label": null,
+          "size": 346817,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 139,
+          "createdAt": "2026-04-15T08:27:47Z",
+          "updatedAt": "2026-04-15T08:27:50Z",
+          "downloadUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule/releases/download/beta-0.2/beta-0.2.zip"
+        }
+      ]
+    },
+    {
+      "id": 309124020,
+      "tagName": "beta-0.1",
+      "name": "日程背屏焦点beta-0.1",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-04-15T01:07:32Z",
+      "publishedAt": "2026-04-15T02:02:02Z",
+      "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule/releases/tag/beta-0.1",
+      "body": "<p dir=\"auto\">beta版，有什么建议或bug可提出</p>",
+      "assets": [
+        {
+          "id": 396663823,
+          "name": "beta-0.1.zip",
+          "label": null,
+          "size": 347482,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 36,
+          "createdAt": "2026-04-15T02:01:20Z",
+          "updatedAt": "2026-04-15T02:01:23Z",
+          "downloadUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule/releases/download/beta-0.1/beta-0.1.zip"
+        }
+      ]
+    }
+  ]
 }
