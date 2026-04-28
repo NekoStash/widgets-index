@@ -1,7 +1,10 @@
 {
   "shard": "3c",
-  "tokenCount": 22,
+  "tokenCount": 23,
   "tokens": {
+    "anserjim": [
+      "dragon_scales_clock"
+    ],
     "full": [
       "music"
     ],

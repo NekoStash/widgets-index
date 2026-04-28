@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "capabilities": [
       "music"
@@ -101,6 +101,9 @@
     ],
     "验与": [
       "weather"
+    ],
+    "鳞纤": [
+      "dragon_scales_clock"
     ]
   }
 }

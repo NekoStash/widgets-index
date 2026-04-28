@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 28,
+  "tokenCount": 29,
   "tokens": {
     "calendar": [
       "calendar-lite",
@@ -72,12 +72,16 @@
     "汉堡": [
       "business"
     ],
+    "版权归小米所有": [
+      "dragon_scales_clock"
+    ],
     "算当": [
       "calendar-lite"
     ],
     "系统": [
       "business",
       "calendar-lite",
+      "dragon_scales_clock",
       "schedule_reminder",
       "weather"
     ],

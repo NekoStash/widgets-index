@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 34,
+  "tokenCount": 35,
   "tokens": {
     "deliver": [
       "music"
@@ -54,6 +54,9 @@
     ],
     "并平": [
       "calendar-lite"
+    ],
+    "归小": [
+      "dragon_scales_clock"
     ],
     "待机": [
       "schedule_reminder"

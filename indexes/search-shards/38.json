@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 32,
+  "tokenCount": 33,
   "tokens": {
     "assets": [
       "business",
@@ -26,6 +26,9 @@
     ],
     "中": [
       "weather"
+    ],
+    "中提": [
+      "dragon_scales_clock"
     ],
     "仅在": [
       "weather"

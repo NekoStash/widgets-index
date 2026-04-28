@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 34,
+  "tokenCount": 37,
   "tokens": {
     "an": [
       "music"
@@ -8,6 +8,9 @@
     "and": [
       "music",
       "weather"
+    ],
+    "dragon-scales-clock-wallpaper": [
+      "dragon_scales_clock"
     ],
     "frame": [
       "calendar-lite"
@@ -17,6 +20,9 @@
     ],
     "name": [
       "business"
+    ],
+    "scales": [
+      "dragon_scales_clock"
     ],
     "slide": [
       "music"
@@ -94,6 +100,9 @@
     ],
     "的背屏": [
       "weather"
+    ],
+    "米所": [
+      "dragon_scales_clock"
     ],
     "级的": [
       "calendar-lite"

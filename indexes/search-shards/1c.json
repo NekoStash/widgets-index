@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 25,
+  "tokenCount": 27,
   "tokens": {
     "chagee": [
       "business"
@@ -28,6 +28,9 @@
     ],
     "在息屏时实现背景与文字的平滑交叉淡入淡出": [
       "schedule_reminder"
+    ],
+    "壁纸": [
+      "dragon_scales_clock"
     ],
     "天数": [
       "calendar-lite"
@@ -60,6 +63,9 @@
     ],
     "正弦": [
       "weather"
+    ],
+    "版权": [
+      "dragon_scales_clock"
     ],
     "统通": [
       "schedule_reminder"

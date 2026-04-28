@@ -1,6 +1,6 @@
 {
   "shard": "01",
-  "tokenCount": 13,
+  "tokenCount": 14,
   "tokens": {
     "this": [
       "music"
@@ -37,6 +37,9 @@
     ],
     "版本": [
       "hyper-pick-up-code"
+    ],
+    "米龙": [
+      "dragon_scales_clock"
     ],
     "背屏主题部件": [
       "business"

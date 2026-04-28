@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 32,
+  "tokenCount": 35,
   "tokens": {
     "album": [
       "music"
@@ -16,6 +16,9 @@
     ],
     "与副屏音乐": [
       "weather"
+    ],
+    "从官方提取": [
+      "dragon_scales_clock"
     ],
     "使用方法": [
       "mishare",
@@ -66,6 +69,9 @@
     "新测": [
       "hyper-pick-up-code"
     ],
+    "方提": [
+      "dragon_scales_clock"
+    ],
     "染视": [
       "weather"
     ],
@@ -112,6 +118,9 @@
     ],
     "间切": [
       "schedule_reminder"
+    ],
+    "龙鳞纤维时钟壁纸": [
+      "dragon_scales_clock"
     ]
   }
 }

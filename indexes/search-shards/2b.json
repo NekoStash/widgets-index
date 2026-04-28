@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 27,
+  "tokenCount": 29,
   "tokens": {
     "二": [
       "hyper-pick-up-code"
@@ -10,6 +10,9 @@
     ],
     "仅在状态切换或动画播放时拉升至": [
       "weather"
+    ],
+    "从官": [
+      "dragon_scales_clock"
     ],
     "停粒": [
       "weather"
@@ -68,6 +71,9 @@
     ],
     "素并": [
       "weather"
+    ],
+    "纸从": [
+      "dragon_scales_clock"
     ],
     "统级": [
       "calendar-lite",

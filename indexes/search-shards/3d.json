@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "contributing": [
       "music"
@@ -76,6 +76,9 @@
     ],
     "路由": [
       "hyper-pick-up-code"
+    ],
+    "钟壁": [
+      "dragon_scales_clock"
     ],
     "音播": [
       "weather"

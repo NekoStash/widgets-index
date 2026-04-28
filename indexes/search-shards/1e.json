@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 36,
+  "tokenCount": 38,
   "tokens": {
     "artist": [
       "music"
@@ -11,6 +11,9 @@
     ],
     "control": [
       "music"
+    ],
+    "dragon": [
+      "dragon_scales_clock"
     ],
     "elegantly": [
       "music"
@@ -26,6 +29,9 @@
     ],
     "于主": [
       "business"
+    ],
+    "从系": [
+      "dragon_scales_clock"
     ],
     "代码内置": [
       "schedule_reminder"

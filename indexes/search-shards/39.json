@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 28,
+  "tokenCount": 29,
   "tokens": {
     "coco": [
       "business"
@@ -73,6 +73,9 @@
       "business",
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "统中": [
+      "dragon_scales_clock"
     ],
     "资源": [
       "weather"

@@ -1,0 +1,24 @@
+{
+  "id": "dragon_scales_clock",
+  "name": "龙鳞纤维时钟壁纸-提取版",
+  "sourceMetadataPath": "repos/dragon_scales_clock/metadata.json",
+  "repository": {
+    "widgetName": "龙鳞纤维时钟壁纸-提取版",
+    "owner": "killerprojecte",
+    "name": "Dragon-Scales-Clock-Wallpaper",
+    "fullName": "killerprojecte/Dragon-Scales-Clock-Wallpaper",
+    "url": "https://github.com/killerprojecte/Dragon-Scales-Clock-Wallpaper",
+    "description": "小米龙鳞纤维时钟壁纸（从官方提取）",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-04-28T00:40:39Z",
+    "updatedAt": "2026-04-28T00:46:28Z",
+    "pushedAt": "2026-04-28T00:52:54Z"
+  }
+}

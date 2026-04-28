@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "folme": [
       "business",
@@ -57,6 +57,9 @@
     ],
     "时物": [
       "weather"
+    ],
+    "权归": [
+      "dragon_scales_clock"
     ],
     "焦点": [
       "business",

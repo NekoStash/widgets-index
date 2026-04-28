@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 36,
+  "tokenCount": 37,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -10,6 +10,9 @@
     ],
     "background": [
       "music"
+    ],
+    "clock": [
+      "dragon_scales_clock"
     ],
     "repo": [
       "course_schedule"

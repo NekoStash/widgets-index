@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "dragon_scales_clock",
+      "name": "龙鳞纤维时钟壁纸-提取版",
+      "description": "小米龙鳞纤维时钟壁纸（从官方提取）",
+      "author": {
+        "login": "killerprojecte",
+        "name": "AnserJim",
+        "url": "https://github.com/killerprojecte",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81072191?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-28T00:52:54.000Z",
+      "repository": {
+        "fullName": "killerprojecte/Dragon-Scales-Clock-Wallpaper",
+        "url": "https://github.com/killerprojecte/Dragon-Scales-Clock-Wallpaper"
+      }
+    },
+    {
       "id": "hyper-pick-up-code",
       "name": "澎湃记-背屏组件",
       "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",

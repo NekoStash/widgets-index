@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -69,6 +69,9 @@
     ],
     "空自": [
       "weather"
+    ],
+    "纤维": [
+      "dragon_scales_clock"
     ],
     "组件名称可任意填写": [
       "hyper-pick-up-code"

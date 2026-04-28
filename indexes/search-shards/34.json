@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "code": [
       "hyper-pick-up-code"
@@ -67,6 +67,9 @@
     ],
     "节点": [
       "business"
+    ],
+    "该壁纸从系统中提取": [
+      "dragon_scales_clock"
     ],
     "键词": [
       "business"
