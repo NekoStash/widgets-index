@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 34,
+  "tokenCount": 35,
   "tokens": {
     "120hz": [
       "weather"
@@ -82,6 +82,9 @@
       "calendar-lite",
       "weather"
     ],
+    "滥用": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "状态": [
       "business",
       "weather"
@@ -114,6 +117,7 @@
       "business",
       "calendar-lite",
       "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
       "pickup",
       "schedule_reminder",
       "weather"

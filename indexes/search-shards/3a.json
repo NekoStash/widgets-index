@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 32,
+  "tokenCount": 33,
   "tokens": {
     "no": [
       "calendar-lite"
@@ -17,6 +17,7 @@
     ],
     "于小": [
       "calendar-lite",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "music",
       "schedule_reminder",
@@ -76,6 +77,9 @@
     ],
     "滑恢": [
       "weather"
+    ],
+    "澎湃记的小米超级岛功能仅接入": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "画的": [
       "calendar-lite"

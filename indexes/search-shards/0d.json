@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "are": [
       "music"
@@ -94,6 +94,9 @@
     ],
     "空色": [
       "weather"
+    ],
+    "过方": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "进入": [
       "hyper-pick-up-code",

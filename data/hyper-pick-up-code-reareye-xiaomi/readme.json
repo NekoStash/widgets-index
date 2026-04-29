@@ -1,0 +1,12 @@
+{
+  "id": "hyper-pick-up-code-reareye-xiaomi",
+  "readme": {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "c46d0be21dbfeb901adf2bc1279f3296a1a61157",
+    "size": 293,
+    "htmlUrl": "https://github.com/SiberiaApp/Hyper-Pick-up-Code-REAREye-XIAOMI/blob/main/README.md",
+    "downloadUrl": "https://raw.githubusercontent.com/SiberiaApp/Hyper-Pick-up-Code-REAREye-XIAOMI/main/README.md",
+    "content": "<h1 dir=\"auto\">澎湃记-背屏组件-适配焦点通知</h1>\n<p dir=\"auto\">基于小米焦点通知,适配澎湃记的小米背屏组件,由REAREye驱动</p>\n<blockquote>\n<p dir=\"auto\">澎湃记的小米超级岛功能仅接入，无白名单。如被非法滥用，与此应用无关，开发者不承担任何责任，也不会提供绕过方法。</p>\n</blockquote>"
+  }
+}

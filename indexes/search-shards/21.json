@@ -1,6 +1,6 @@
 {
   "shard": "21",
-  "tokenCount": 28,
+  "tokenCount": 29,
   "tokens": {
     "visible": [
       "music"
@@ -42,6 +42,9 @@
     ],
     "性能": [
       "weather"
+    ],
+    "担任": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "映射": [
       "business"

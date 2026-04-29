@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "breathable": [
       "schedule_reminder"
@@ -40,6 +40,9 @@
     ],
     "完美兼容不同比例的背屏尺寸": [
       "business"
+    ],
+    "帮你": [
+      "back_screen_desktop"
     ],
     "并高": [
       "calendar-lite"

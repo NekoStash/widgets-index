@@ -1,16 +1,20 @@
 {
   "shard": "38",
-  "tokenCount": 33,
+  "tokenCount": 35,
   "tokens": {
     "assets": [
       "business",
       "calendar-lite"
     ],
     "pick": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "sine": [
       "weather"
+    ],
+    "skin": [
+      "back_screen_desktop"
     ],
     "super-rearscreen-island-todo": [
       "business"
@@ -88,6 +92,9 @@
     "的读": [
       "weather"
     ],
+    "知版": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "示超": [
       "business"
     ],
@@ -100,6 +107,7 @@
     ],
     "通知": [
       "business",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "schedule_reminder"
     ],

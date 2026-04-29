@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "210": [
       "weather"
@@ -83,6 +83,7 @@
     ],
     "的小": [
       "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "pickup"
     ],
@@ -104,6 +105,9 @@
     "进度": [
       "business",
       "mishare"
+    ],
+    "适配焦点通知": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "重构": [
       "schedule_reminder"

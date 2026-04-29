@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "language": [
       "weather"
@@ -42,7 +42,8 @@
       "business"
     ],
     "发者": [
-      "business"
+      "business",
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "取餐": [
       "pickup"
@@ -79,6 +80,9 @@
     ],
     "样式": [
       "business"
+    ],
+    "焦点通知版": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "瑞幸": [
       "business"

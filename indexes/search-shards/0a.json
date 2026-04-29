@@ -45,6 +45,7 @@
     ],
     "开发": [
       "business",
+      "hyper-pick-up-code-reareye-xiaomi",
       "weather"
     ],
     "录放": [
@@ -59,6 +60,7 @@
     "米背": [
       "calendar-lite",
       "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "music",
       "pickup",
@@ -69,7 +71,8 @@
       "schedule_reminder"
     ],
     "背屏组件": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "至背": [
       "business"

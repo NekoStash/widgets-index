@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 28,
+  "tokenCount": 30,
   "tokens": {
     "animations": [
       "music"
@@ -44,6 +44,12 @@
     "商店": [
       "hyper-pick-up-code"
     ],
+    "如被": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "开发者不承担任何责任": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "影渲": [
       "weather"
     ],
@@ -61,6 +67,7 @@
     ],
     "点通": [
       "business",
+      "hyper-pick-up-code-reareye-xiaomi",
       "schedule_reminder"
     ],
     "现极": [

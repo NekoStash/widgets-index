@@ -1,0 +1,24 @@
+{
+  "id": "hyper-pick-up-code-reareye-xiaomi",
+  "name": "[焦点通知版]澎湃记-背屏组件",
+  "sourceMetadataPath": "repos/hyper-pick-up-code-reareye-xiaomi/metadata.json",
+  "repository": {
+    "widgetName": "[焦点通知版]澎湃记-背屏组件",
+    "owner": "SiberiaApp",
+    "name": "Hyper-Pick-up-Code-REAREye-XIAOMI",
+    "fullName": "SiberiaApp/Hyper-Pick-up-Code-REAREye-XIAOMI",
+    "url": "https://github.com/SiberiaApp/Hyper-Pick-up-Code-REAREye-XIAOMI",
+    "description": "基于小米焦点通知,适配澎湃记的小米背屏组件,由REAREye驱动",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-04-29T11:26:32Z",
+    "updatedAt": "2026-04-29T11:28:30Z",
+    "pushedAt": "2026-04-29T11:29:08Z"
+  }
+}

@@ -1,8 +1,9 @@
 {
   "shard": "22",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "back": [
+      "back_screen_desktop",
       "music"
     ],
     "https": [
@@ -19,6 +20,9 @@
     ],
     "中修": [
       "calendar-lite"
+    ],
+    "也不会提供绕过方法": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "倒扣": [
       "business"
@@ -78,7 +82,8 @@
       "pickup"
     ],
     "配澎": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "间段": [
       "weather"

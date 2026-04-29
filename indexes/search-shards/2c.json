@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 35,
+  "tokenCount": 37,
   "tokens": {
     "album": [
       "music"
@@ -72,6 +72,9 @@
     "方提": [
       "dragon_scales_clock"
     ],
+    "无白名单": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "染视": [
       "weather"
     ],
@@ -90,11 +93,16 @@
     "等开": [
       "weather"
     ],
+    "米焦": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "背屏": [
+      "back_screen_desktop",
       "business",
       "calendar-lite",
       "course_schedule",
       "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "music",
       "pickup",

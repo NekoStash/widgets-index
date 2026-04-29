@@ -1,0 +1,24 @@
+{
+  "id": "back_screen_desktop",
+  "name": "背屏桌面",
+  "sourceMetadataPath": "repos/back_screen_desktop/metadata.json",
+  "repository": {
+    "widgetName": "背屏桌面",
+    "owner": "Pork-skin",
+    "name": "Back-screen-desktop",
+    "fullName": "Pork-skin/Back-screen-desktop",
+    "url": "https://github.com/Pork-skin/Back-screen-desktop",
+    "description": "一个能在背屏帮你启动flue桌面的卡片",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 1,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 1,
+    "createdAt": "2026-04-29T10:31:20Z",
+    "updatedAt": "2026-04-29T11:38:48Z",
+    "pushedAt": "2026-04-29T11:38:44Z"
+  }
+}

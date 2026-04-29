@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 30,
+  "tokenCount": 33,
   "tokens": {
     "15": [
       "weather"
@@ -10,6 +10,12 @@
     ],
     "go": [
       "music"
+    ],
+    "hyper-pick-up-code-reareye-xiaomi": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "pork-skin": [
+      "back_screen_desktop"
     ],
     "tastien": [
       "business"
@@ -77,6 +83,9 @@
     ],
     "觉重": [
       "schedule_reminder"
+    ],
+    "责任": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "部图": [
       "calendar-lite"

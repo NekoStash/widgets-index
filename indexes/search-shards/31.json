@@ -1,6 +1,6 @@
 {
   "shard": "31",
-  "tokenCount": 39,
+  "tokenCount": 40,
   "tokens": {
     "17": [
       "business",
@@ -45,6 +45,9 @@
     "包含": [
       "weather"
     ],
+    "卡片": [
+      "back_screen_desktop"
+    ],
     "及其": [
       "business",
       "weather"
@@ -73,6 +76,7 @@
     ],
     "应用": [
       "business",
+      "hyper-pick-up-code-reareye-xiaomi",
       "weather"
     ],
     "底抛": [
@@ -126,7 +130,8 @@
       "weather"
     ],
     "记的": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "这是一个基于小米": [
       "weather"

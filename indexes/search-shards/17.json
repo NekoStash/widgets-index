@@ -1,6 +1,6 @@
 {
   "shard": "17",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "controls": [
       "music"
@@ -53,6 +53,9 @@
     ],
     "背屏日历": [
       "calendar-lite"
+    ],
+    "能仅": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "能嗅": [
       "schedule_reminder"

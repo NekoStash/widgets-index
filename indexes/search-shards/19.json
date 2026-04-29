@@ -1,18 +1,22 @@
 {
   "shard": "19",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "audio": [
       "music"
     ],
     "hyper": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "上显": [
       "course_schedule"
     ],
     "丰富": [
       "weather"
+    ],
+    "也不": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "压缩": [
       "calendar-lite",
@@ -30,6 +34,7 @@
       "business",
       "calendar-lite",
       "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
       "weather"
     ],
     "复刻": [

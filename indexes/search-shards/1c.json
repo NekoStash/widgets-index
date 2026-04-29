@@ -1,7 +1,10 @@
 {
   "shard": "1c",
-  "tokenCount": 27,
+  "tokenCount": 30,
   "tokens": {
+    "back_screen_desktop": [
+      "back_screen_desktop"
+    ],
     "chagee": [
       "business"
     ],
@@ -67,6 +70,9 @@
     "版权": [
       "dragon_scales_clock"
     ],
+    "由": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "统通": [
       "schedule_reminder"
     ],
@@ -79,12 +85,16 @@
     "色计": [
       "weather"
     ],
+    "被非": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "资产": [
       "business",
       "weather"
     ],
     "驱动": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi"
     ]
   }
 }

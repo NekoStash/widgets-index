@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 36,
+  "tokenCount": 38,
   "tokens": {
     "power": [
       "music"
@@ -13,6 +13,9 @@
     ],
     "上阿": [
       "business"
+    ],
+    "与此应用无关": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "为小": [
       "calendar-lite",
@@ -55,6 +58,9 @@
     ],
     "大": [
       "weather"
+    ],
+    "如被非法滥用": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "帧": [
       "calendar-lite"
@@ -109,7 +115,8 @@
       "weather"
     ],
     "适配澎湃记的小米背屏组件": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "题包": [
       "business"

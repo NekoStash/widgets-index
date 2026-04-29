@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "二": [
       "hyper-pick-up-code"
@@ -55,6 +55,9 @@
     ],
     "架开": [
       "weather"
+    ],
+    "桌面": [
+      "back_screen_desktop"
     ],
     "殊比": [
       "calendar-lite"

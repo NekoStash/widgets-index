@@ -1,5 +1,15 @@
 [
   {
+    "id": "back_screen_desktop",
+    "name": "背屏桌面",
+    "authorName": "Pork-skin",
+    "authorId": "Pork-skin",
+    "description": "一个能在背屏帮你启动flue桌面的卡片",
+    "latestReleaseTag": "git",
+    "latestReleasePublishedAt": "2026-04-29T11:49:14.000Z",
+    "stars": 1
+  },
+  {
     "id": "business",
     "name": "[适配Todo便签]超级背屏岛Pro",
     "authorName": "SiberiaApp",
@@ -47,6 +57,16 @@
     "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",
     "latestReleaseTag": "v0.1",
     "latestReleasePublishedAt": "2026-04-26T11:55:53.000Z",
+    "stars": 0
+  },
+  {
+    "id": "hyper-pick-up-code-reareye-xiaomi",
+    "name": "[焦点通知版]澎湃记-背屏组件",
+    "authorName": "SiberiaApp",
+    "authorId": "SiberiaApp",
+    "description": "基于小米焦点通知,适配澎湃记的小米背屏组件,由REAREye驱动",
+    "latestReleaseTag": "v1.0",
+    "latestReleasePublishedAt": "2026-04-29T11:29:08.000Z",
     "stars": 0
   },
   {

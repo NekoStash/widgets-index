@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 29,
+  "tokenCount": 31,
   "tokens": {
     "devices": [
       "music"
@@ -25,6 +25,9 @@
     ],
     "与云": [
       "weather"
+    ],
+    "个能": [
+      "back_screen_desktop"
     ],
     "代码内置了基于真实宽高比": [
       "calendar-lite"
@@ -80,6 +83,9 @@
     ],
     "网格": [
       "calendar-lite"
+    ],
+    "能在": [
+      "back_screen_desktop"
     ],
     "让摄": [
       "calendar-lite"

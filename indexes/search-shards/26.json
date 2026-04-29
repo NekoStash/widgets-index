@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 37,
+  "tokenCount": 40,
   "tokens": {
     "an": [
       "music"
@@ -30,7 +30,11 @@
     "xiaomi-rearscreen-calendar": [
       "calendar-lite"
     ],
+    "一个能在背屏帮你启动": [
+      "back_screen_desktop"
+    ],
     "不会": [
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare"
     ],
     "与专": [
@@ -85,12 +89,16 @@
     "方时": [
       "schedule_reminder"
     ],
+    "无白": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "极低": [
       "business",
       "schedule_reminder"
     ],
     "湃记": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "物理": [
       "weather"
@@ -109,6 +117,9 @@
     ],
     "细腻": [
       "weather"
+    ],
+    "背屏桌面": [
+      "back_screen_desktop"
     ],
     "自动判定平": [
       "calendar-lite"

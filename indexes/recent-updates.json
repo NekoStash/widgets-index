@@ -4,6 +4,40 @@
   "limit": 20,
   "items": [
     {
+      "id": "back_screen_desktop",
+      "name": "背屏桌面",
+      "description": "一个能在背屏帮你启动flue桌面的卡片",
+      "author": {
+        "login": "Pork-skin",
+        "name": "Pork-skin",
+        "url": "https://github.com/Pork-skin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280333197?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-29T11:49:14.000Z",
+      "repository": {
+        "fullName": "Pork-skin/Back-screen-desktop",
+        "url": "https://github.com/Pork-skin/Back-screen-desktop"
+      }
+    },
+    {
+      "id": "hyper-pick-up-code-reareye-xiaomi",
+      "name": "[焦点通知版]澎湃记-背屏组件",
+      "description": "基于小米焦点通知,适配澎湃记的小米背屏组件,由REAREye驱动",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-29T11:29:08.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Hyper-Pick-up-Code-REAREye-XIAOMI",
+        "url": "https://github.com/SiberiaApp/Hyper-Pick-up-Code-REAREye-XIAOMI"
+      }
+    },
+    {
       "id": "dragon_scales_clock",
       "name": "龙鳞纤维时钟壁纸-提取版",
       "description": "小米龙鳞纤维时钟壁纸（从官方提取）",

@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 29,
+  "tokenCount": 32,
   "tokens": {
     "experience": [
       "music"
@@ -27,6 +27,12 @@
       "business",
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "何责": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "功能": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "动处": [
       "calendar-lite"
@@ -69,6 +75,9 @@
     ],
     "时通": [
       "weather"
+    ],
+    "桌面的卡片": [
+      "back_screen_desktop"
     ],
     "模板": [
       "hyper-pick-up-code"

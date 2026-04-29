@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -52,6 +52,9 @@
     ],
     "时间切换为透亮浅蓝": [
       "schedule_reminder"
+    ],
+    "法滥": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "础上": [
       "business"

@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 27,
+  "tokenCount": 29,
   "tokens": {
     "display": [
       "music"
@@ -57,11 +57,17 @@
     "爷爷不泡茶": [
       "business"
     ],
+    "用无": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "画播": [
       "weather"
     ],
     "碍支": [
       "weather"
+    ],
+    "绕过": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "置了": [
       "calendar-lite",

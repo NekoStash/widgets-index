@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "current": [
       "music"
@@ -92,6 +92,9 @@
     ],
     "路由管理器": [
       "hyper-pick-up-code"
+    ],
+    "配焦": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "雨天": [
       "weather"

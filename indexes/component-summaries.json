@@ -1,8 +1,20 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 10,
+  "componentCount": 12,
   "components": {
+    "back_screen_desktop": {
+      "id": "back_screen_desktop",
+      "name": "背屏桌面",
+      "description": "一个能在背屏帮你启动flue桌面的卡片",
+      "author": {
+        "login": "Pork-skin",
+        "name": "Pork-skin",
+        "url": "https://github.com/Pork-skin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280333197?v=4",
+        "type": "User"
+      }
+    },
     "business": {
       "id": "business",
       "name": "[适配Todo便签]超级背屏岛Pro",
@@ -55,6 +67,18 @@
       "id": "hyper-pick-up-code",
       "name": "澎湃记-背屏组件",
       "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "hyper-pick-up-code-reareye-xiaomi": {
+      "id": "hyper-pick-up-code-reareye-xiaomi",
+      "name": "[焦点通知版]澎湃记-背屏组件",
+      "description": "基于小米焦点通知,适配澎湃记的小米背屏组件,由REAREye驱动",
       "author": {
         "login": "SiberiaApp",
         "name": "SiberiaApp",

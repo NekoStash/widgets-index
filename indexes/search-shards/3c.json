@@ -1,15 +1,19 @@
 {
   "shard": "3c",
-  "tokenCount": 23,
+  "tokenCount": 25,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
+    ],
+    "back-screen-desktop": [
+      "back_screen_desktop"
     ],
     "full": [
       "music"
     ],
     "reareye": [
       "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "pickup",
       "schedule_reminder"
@@ -41,6 +45,7 @@
       "schedule_reminder"
     ],
     "提供": [
+      "hyper-pick-up-code-reareye-xiaomi",
       "weather"
     ],
     "星空": [
@@ -77,6 +82,9 @@
     ],
     "雪天": [
       "weather"
+    ],
+    "非法": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 25,
+  "tokenCount": 27,
   "tokens": {
     "extracts": [
       "music"
@@ -26,6 +26,9 @@
       "business",
       "hyper-pick-up-code"
     ],
+    "名单": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "如添加新品牌": [
       "business"
     ],
@@ -35,6 +38,7 @@
       "course_schedule",
       "dragon_scales_clock",
       "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "music",
       "pickup",
@@ -75,6 +79,9 @@
     ],
     "系统级日程同步": [
       "schedule_reminder"
+    ],
+    "者不": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "装前": [
       "hyper-pick-up-code"

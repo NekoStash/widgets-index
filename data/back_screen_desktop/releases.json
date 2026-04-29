@@ -1,0 +1,29 @@
+{
+  "id": "back_screen_desktop",
+  "releases": [
+    {
+      "id": 315153840,
+      "tagName": "git",
+      "name": "1.0.0",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-04-29T11:01:07Z",
+      "publishedAt": "2026-04-29T11:49:14Z",
+      "url": "https://github.com/Pork-skin/Back-screen-desktop/releases/tag/git",
+      "body": "<p dir=\"auto\">初代版本</p>",
+      "assets": [
+        {
+          "id": 408173652,
+          "name": "default.zip",
+          "label": null,
+          "size": 595492,
+          "contentType": "application/zip",
+          "downloadCount": 1,
+          "createdAt": "2026-04-29T11:48:30Z",
+          "updatedAt": "2026-04-29T11:48:34Z",
+          "downloadUrl": "https://github.com/Pork-skin/Back-screen-desktop/releases/download/git/default.zip"
+        }
+      ]
+    }
+  ]
+}

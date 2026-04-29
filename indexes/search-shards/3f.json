@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 28,
+  "tokenCount": 31,
   "tokens": {
     "capabilities": [
       "music"
@@ -22,6 +22,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "仅接": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "从头": [
       "weather"
@@ -53,6 +56,9 @@
     "屏岛": [
       "business"
     ],
+    "岛功": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "态天": [
       "weather"
     ],
@@ -73,6 +79,9 @@
       "calendar-lite",
       "mishare"
     ],
+    "白名": [
+      "hyper-pick-up-code-reareye-xiaomi"
+    ],
     "直接抓取": [
       "schedule_reminder"
     ],
@@ -85,6 +94,7 @@
     "组件": [
       "calendar-lite",
       "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "pickup",
       "schedule_reminder",

@@ -1,0 +1,12 @@
+{
+  "id": "hyper-pick-up-code-reareye-xiaomi",
+  "type": "notification",
+  "widgetInfo": {
+    "name": "[焦点通知版]澎湃记-背屏组件",
+    "business_setup": {
+      "id": "pickup",
+      "renameable": false
+    },
+    "type": "widget"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "calendar": [
       "calendar-lite",
@@ -59,6 +59,9 @@
     ],
     "引擎处理息屏过渡动画": [
       "calendar-lite"
+    ],
+    "接入": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "搭载": [
       "business"

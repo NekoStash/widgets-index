@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "skip": [
       "music"
@@ -19,6 +19,9 @@
     ],
     "参照现有逻辑添加新的": [
       "business"
+    ],
+    "启动": [
+      "back_screen_desktop"
     ],
     "地写": [
       "calendar-lite"

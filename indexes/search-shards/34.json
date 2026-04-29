@@ -3,7 +3,8 @@
   "tokenCount": 21,
   "tokens": {
     "code": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "easily": [
       "music"
@@ -12,6 +13,7 @@
       "business",
       "calendar-lite",
       "course_schedule",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "music",
       "pickup",

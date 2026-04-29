@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 28,
+  "tokenCount": 31,
   "tokens": {
     "aod": [
       "business",
@@ -21,6 +21,9 @@
     "p2": [
       "schedule_reminder"
     ],
+    "pork": [
+      "back_screen_desktop"
+    ],
     "rate": [
       "schedule_reminder"
     ],
@@ -29,6 +32,9 @@
     ],
     "与背": [
       "business"
+    ],
+    "会提": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "候光": [
       "weather"
@@ -47,6 +53,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "基于小米焦点通知": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "境是": [
       "calendar-lite"
@@ -88,6 +97,7 @@
     ],
     "级岛": [
       "business",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "pickup"
     ],

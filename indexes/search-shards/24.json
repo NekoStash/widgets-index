@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 19,
+  "tokenCount": 20,
   "tokens": {
     "always": [
       "music"
@@ -37,6 +37,9 @@
     ],
     "擎丝": [
       "weather"
+    ],
+    "无关": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "气小": [
       "weather"

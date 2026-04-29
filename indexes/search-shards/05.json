@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -69,6 +69,9 @@
     ],
     "空自": [
       "weather"
+    ],
+    "米超": [
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "纤维": [
       "dragon_scales_clock"

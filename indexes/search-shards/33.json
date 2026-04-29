@@ -1,12 +1,15 @@
 {
   "shard": "33",
-  "tokenCount": 23,
+  "tokenCount": 25,
   "tokens": {
     "built": [
       "music"
     ],
     "compatible": [
       "music"
+    ],
+    "desktop": [
+      "back_screen_desktop"
     ],
     "rearranging": [
       "music"
@@ -44,6 +47,7 @@
     ],
     "方法": [
       "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "pickup",
       "schedule_reminder"
@@ -73,6 +77,9 @@
       "business",
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "面的": [
+      "back_screen_desktop"
     ],
     "餐饮": [
       "business"
