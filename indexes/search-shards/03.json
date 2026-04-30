@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "breathable": [
       "schedule_reminder"
@@ -58,6 +58,9 @@
     ],
     "成回": [
       "schedule_reminder"
+    ],
+    "找到": [
+      "back_screen_desktop"
     ],
     "摆轨": [
       "weather"

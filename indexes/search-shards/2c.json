@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 37,
+  "tokenCount": 38,
   "tokens": {
     "album": [
       "music"
@@ -80,6 +80,9 @@
     ],
     "根据气象数据动态拼接天气语音播报": [
       "weather"
+    ],
+    "桌面可在": [
+      "back_screen_desktop"
     ],
     "激活": [
       "mishare",

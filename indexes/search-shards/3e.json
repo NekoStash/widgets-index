@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "about": [
       "music"
@@ -87,6 +87,9 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "面可": [
+      "back_screen_desktop"
     ],
     "麦当": [
       "business"
