@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 33,
+  "tokenCount": 35,
   "tokens": {
     "15": [
       "weather"
@@ -31,6 +31,9 @@
     ],
     "到了": [
       "calendar-lite"
+    ],
+    "到识": [
+      "kingxv"
     ],
     "号星": [
       "calendar-lite"
@@ -92,6 +95,9 @@
     ],
     "集成": [
       "schedule_reminder"
+    ],
+    "雨图": [
+      "kingxv"
     ],
     "题与": [
       "business"

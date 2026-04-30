@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 12,
+  "componentCount": 13,
   "components": {
     "back_screen_desktop": {
       "id": "back_screen_desktop",
@@ -84,6 +84,18 @@
         "name": "SiberiaApp",
         "url": "https://github.com/SiberiaApp",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "kingxv": {
+      "id": "kingxv",
+      "name": "kingxv桌面",
+      "description": "17pro背屏桌面",
+      "author": {
+        "login": "w15wangyaowu-coder",
+        "name": "w15wangyaowu-coder",
+        "url": "https://github.com/w15wangyaowu-coder",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/229916231?v=4",
         "type": "User"
       }
     },

@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 35,
+  "tokenCount": 39,
   "tokens": {
     "120hz": [
       "weather"
@@ -37,7 +37,8 @@
       "business"
     ],
     "修改": [
-      "calendar-lite"
+      "calendar-lite",
+      "kingxv"
     ],
     "出日": [
       "weather"
@@ -70,6 +71,12 @@
     ],
     "持的": [
       "business"
+    ],
+    "是竖": [
+      "kingxv"
+    ],
+    "果打": [
+      "kingxv"
     ],
     "核心特性": [
       "business",
@@ -106,9 +113,15 @@
     "绝杀": [
       "calendar-lite"
     ],
+    "背屏原生桌面": [
+      "kingxv"
+    ],
     "触发": [
       "calendar-lite",
       "weather"
+    ],
+    "轻雨图标包": [
+      "kingxv"
     ],
     "还是": [
       "calendar-lite"

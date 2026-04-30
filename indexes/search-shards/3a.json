@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 33,
+  "tokenCount": 36,
   "tokens": {
     "no": [
       "calendar-lite"
@@ -36,6 +36,12 @@
     "及其他搭载背屏模块的": [
       "business"
     ],
+    "各位": [
+      "kingxv"
+    ],
+    "如果打开应用是横屏的": [
+      "kingxv"
+    ],
     "官方": [
       "dragon_scales_clock",
       "schedule_reminder"
@@ -45,6 +51,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "已内置": [
+      "kingxv"
     ],
     "度切": [
       "business"

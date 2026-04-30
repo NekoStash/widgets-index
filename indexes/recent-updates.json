@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "kingxv",
+      "name": "kingxv桌面",
+      "description": "17pro背屏桌面",
+      "author": {
+        "login": "w15wangyaowu-coder",
+        "name": "w15wangyaowu-coder",
+        "url": "https://github.com/w15wangyaowu-coder",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/229916231?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-30T07:09:37.000Z",
+      "repository": {
+        "fullName": "w15wangyaowu-coder/17pro-",
+        "url": "https://github.com/w15wangyaowu-coder/17pro-"
+      }
+    },
+    {
       "id": "back_screen_desktop",
       "name": "背屏桌面",
       "description": "一个能在背屏帮你启动flue桌面的卡片",

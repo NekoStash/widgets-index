@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 29,
+  "tokenCount": 31,
   "tokens": {
     "contributing": [
       "music"
@@ -43,6 +43,9 @@
     "完整适配视障用户的读屏需求": [
       "weather"
     ],
+    "常用": [
+      "kingxv"
+    ],
     "当前": [
       "calendar-lite"
     ],
@@ -82,6 +85,9 @@
     ],
     "钟壁": [
       "dragon_scales_clock"
+    ],
+    "限无": [
+      "kingxv"
     ],
     "音播": [
       "weather"

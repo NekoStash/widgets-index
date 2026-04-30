@@ -1,6 +1,6 @@
 {
   "shard": "28",
-  "tokenCount": 14,
+  "tokenCount": 15,
   "tokens": {
     "previous": [
       "music"
@@ -33,6 +33,9 @@
     ],
     "牌库": [
       "business"
+    ],
+    "用是": [
+      "kingxv"
     ],
     "系统要求": [
       "business"

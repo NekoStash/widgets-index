@@ -1,12 +1,15 @@
 {
   "shard": "24",
-  "tokenCount": 20,
+  "tokenCount": 22,
   "tokens": {
     "always": [
       "music"
     ],
     "to": [
       "music"
+    ],
+    "上滑": [
+      "kingxv"
     ],
     "关于": [
       "mishare"
@@ -40,6 +43,9 @@
     ],
     "无关": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "有": [
+      "kingxv"
     ],
     "气小": [
       "weather"

@@ -1,0 +1,24 @@
+{
+  "id": "kingxv",
+  "name": "kingxv桌面",
+  "sourceMetadataPath": "repos/kingxv/metadata.json",
+  "repository": {
+    "widgetName": "kingxv桌面",
+    "owner": "w15wangyaowu-coder",
+    "name": "17pro-",
+    "fullName": "w15wangyaowu-coder/17pro-",
+    "url": "https://github.com/w15wangyaowu-coder/17pro-",
+    "description": "17pro背屏桌面",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-04-30T06:30:30Z",
+    "updatedAt": "2026-04-30T07:09:37Z",
+    "pushedAt": "2026-04-30T07:09:33Z"
+  }
+}

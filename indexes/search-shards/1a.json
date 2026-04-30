@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 30,
+  "tokenCount": 32,
   "tokens": {
     "current": [
       "music"
@@ -29,6 +29,12 @@
     ],
     "内置基于": [
       "business"
+    ],
+    "列表": [
+      "kingxv"
+    ],
+    "别应": [
+      "kingxv"
     ],
     "参与贡献": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -52,12 +52,16 @@
       "mishare",
       "pickup"
     ],
+    "可切": [
+      "kingxv"
+    ],
     "堆叠": [
       "calendar-lite"
     ],
     "如果": [
       "business",
       "calendar-lite",
+      "kingxv",
       "weather"
     ],
     "将主屏幕的焦点通知实时同步至背屏显示": [

@@ -1,0 +1,12 @@
+{
+  "id": "kingxv",
+  "readme": {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "e663813042f9b4278a07853ca5683dd75c7d1cd1",
+    "size": 292,
+    "htmlUrl": "https://github.com/w15wangyaowu-coder/17pro-/blob/main/README.md",
+    "downloadUrl": "https://raw.githubusercontent.com/w15wangyaowu-coder/17pro-/main/README.md",
+    "content": "<h1 dir=\"auto\">17pro-</h1>\n<p dir=\"auto\">17pro背屏原生桌面，有aod时钟，能力有限无法做到识别应用列表，只做了一些常用app，欢迎各位大佬修改，已内置pure轻雨图标包。如果打开应用是横屏的，可以上滑返回或侧滑返回，如果是竖屏，双击可切换回桌面</p>"
+  }
+}

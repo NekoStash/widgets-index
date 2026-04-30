@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 19,
+  "tokenCount": 20,
   "tokens": {
     "active": [
       "music"
@@ -28,6 +28,9 @@
     ],
     "为高": [
       "schedule_reminder"
+    ],
+    "击可": [
+      "kingxv"
     ],
     "刷新率降至": [
       "business"

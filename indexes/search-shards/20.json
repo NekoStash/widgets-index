@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "folme": [
       "business",
@@ -61,6 +61,9 @@
     ],
     "权归": [
       "dragon_scales_clock"
+    ],
+    "欢迎各位大佬修改": [
+      "kingxv"
     ],
     "焦点": [
       "business",

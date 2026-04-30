@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 16,
+  "tokenCount": 17,
   "tokens": {
     "check": [
       "music"
@@ -10,6 +10,9 @@
     ],
     "中包": [
       "weather"
+    ],
+    "做到": [
+      "kingxv"
     ],
     "准的": [
       "weather"

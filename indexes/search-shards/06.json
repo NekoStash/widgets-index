@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 38,
+  "tokenCount": 40,
   "tokens": {
     "power": [
       "music"
@@ -71,6 +71,9 @@
     "手动": [
       "hyper-pick-up-code"
     ],
+    "打开": [
+      "kingxv"
+    ],
     "打造的": [
       "schedule_reminder"
     ],
@@ -98,6 +101,9 @@
     ],
     "状态完美映射至背屏": [
       "business"
+    ],
+    "生桌": [
+      "kingxv"
     ],
     "程表": [
       "course_schedule"

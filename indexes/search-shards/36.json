@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 34,
+  "tokenCount": 36,
   "tokens": {
     "30": [
       "calendar-lite"
@@ -37,7 +37,8 @@
       "weather"
     ],
     "屏桌": [
-      "back_screen_desktop"
+      "back_screen_desktop",
+      "kingxv"
     ],
     "布局": [
       "business",
@@ -79,6 +80,9 @@
       "pickup",
       "schedule_reminder"
     ],
+    "横屏": [
+      "kingxv"
+    ],
     "渐变回调": [
       "calendar-lite"
     ],
@@ -102,6 +106,9 @@
     ],
     "缩并": [
       "calendar-lite"
+    ],
+    "轻雨": [
+      "kingxv"
     ],
     "量和": [
       "calendar-lite"

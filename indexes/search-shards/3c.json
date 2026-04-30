@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
@@ -34,6 +34,9 @@
     ],
     "内置强大的关键词匹配引擎": [
       "business"
+    ],
+    "双击可切换回桌面": [
+      "kingxv"
     ],
     "合正": [
       "weather"

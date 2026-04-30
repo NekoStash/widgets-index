@@ -1,12 +1,15 @@
 {
   "shard": "2c",
-  "tokenCount": 38,
+  "tokenCount": 39,
   "tokens": {
     "album": [
       "music"
     ],
     "android": [
       "schedule_reminder"
+    ],
+    "app": [
+      "kingxv"
     ],
     "island": [
       "business"
@@ -106,6 +109,7 @@
       "course_schedule",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
+      "kingxv",
       "mishare",
       "music",
       "pickup",

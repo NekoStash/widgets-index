@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -86,6 +86,9 @@
     ],
     "读屏": [
       "weather"
+    ],
+    "迎各": [
+      "kingxv"
     ],
     "量身": [
       "weather"

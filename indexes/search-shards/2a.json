@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "animations": [
       "music"
@@ -19,6 +19,9 @@
     "modules": [
       "course_schedule"
     ],
+    "w15wangyaowu-coder": [
+      "kingxv"
+    ],
     "your": [
       "business"
     ],
@@ -35,6 +38,7 @@
     "内置": [
       "business",
       "calendar-lite",
+      "kingxv",
       "schedule_reminder",
       "weather"
     ],

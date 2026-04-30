@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 17,
+  "tokenCount": 18,
   "tokens": {
     "一点": [
       "business"
@@ -15,7 +15,8 @@
       "schedule_reminder"
     ],
     "图标": [
-      "business"
+      "business",
+      "kingxv"
     ],
     "图片": [
       "calendar-lite",
@@ -50,6 +51,9 @@
     ],
     "现有": [
       "business"
+    ],
+    "竖屏": [
+      "kingxv"
     ],
     "结构": [
       "weather"

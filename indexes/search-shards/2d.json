@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -13,6 +13,9 @@
     ],
     "中文": [
       "music"
+    ],
+    "位大": [
+      "kingxv"
     ],
     "你需": [
       "business",

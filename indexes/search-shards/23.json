@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 38,
+  "tokenCount": 41,
   "tokens": {
     "feeling": [
       "music"
@@ -13,6 +13,9 @@
     ],
     "play": [
       "music"
+    ],
+    "pure": [
+      "kingxv"
     ],
     "without": [
       "music"
@@ -49,8 +52,14 @@
     "动触": [
       "weather"
     ],
+    "原生": [
+      "kingxv"
+    ],
     "填写以下内容": [
       "hyper-pick-up-code"
+    ],
+    "如果是竖屏": [
+      "kingxv"
     ],
     "学推": [
       "calendar-lite"

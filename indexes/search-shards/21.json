@@ -1,6 +1,6 @@
 {
   "shard": "21",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "visible": [
       "music"
@@ -18,7 +18,8 @@
       "schedule_reminder"
     ],
     "可以": [
-      "business"
+      "business",
+      "kingxv"
     ],
     "在小米": [
       "course_schedule"
@@ -45,6 +46,9 @@
     ],
     "担任": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "换回": [
+      "kingxv"
     ],
     "映射": [
       "business"

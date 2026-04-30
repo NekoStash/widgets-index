@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "capabilities": [
       "music"
@@ -28,6 +28,9 @@
     ],
     "从头": [
       "weather"
+    ],
+    "佬修": [
+      "kingxv"
     ],
     "原始": [
       "schedule_reminder"

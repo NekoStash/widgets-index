@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 27,
+  "tokenCount": 29,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -14,6 +14,9 @@
     ],
     "transition": [
       "music"
+    ],
+    "w15wangyaowu": [
+      "kingxv"
     ],
     "与文": [
       "schedule_reminder"
@@ -35,6 +38,9 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "可以上滑返回或侧滑返回": [
+      "kingxv"
     ],
     "天划": [
       "weather"
@@ -63,7 +69,8 @@
       "business"
     ],
     "时钟": [
-      "dragon_scales_clock"
+      "dragon_scales_clock",
+      "kingxv"
     ],
     "淡出": [
       "schedule_reminder"

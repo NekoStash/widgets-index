@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 35,
+  "tokenCount": 36,
   "tokens": {
     "assets": [
       "business",
@@ -88,6 +88,9 @@
     ],
     "模拟真实的随风飘落摇摆轨迹": [
       "weather"
+    ],
+    "滑返": [
+      "kingxv"
     ],
     "的读": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 28,
+  "tokenCount": 29,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -81,6 +81,9 @@
     ],
     "缓入": [
       "weather"
+    ],
+    "能力有限无法做到识别应用列表": [
+      "kingxv"
     ],
     "辑添": [
       "business"

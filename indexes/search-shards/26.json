@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 40,
+  "tokenCount": 41,
   "tokens": {
     "an": [
       "music"
@@ -46,6 +46,9 @@
     ],
     "了系": [
       "calendar-lite"
+    ],
+    "些常": [
+      "kingxv"
     ],
     "依赖应用": [
       "business"
@@ -119,7 +122,8 @@
       "weather"
     ],
     "背屏桌面": [
-      "back_screen_desktop"
+      "back_screen_desktop",
+      "kingxv"
     ],
     "自动判定平": [
       "calendar-lite"

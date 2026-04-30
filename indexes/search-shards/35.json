@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 23,
+  "tokenCount": 25,
   "tokens": {
     "bug": [
       "weather"
@@ -20,6 +20,9 @@
     "你在": [
       "business"
     ],
+    "侧滑": [
+      "kingxv"
+    ],
     "全局": [
       "calendar-lite",
       "schedule_reminder"
@@ -29,6 +32,9 @@
     ],
     "周一": [
       "calendar-lite"
+    ],
+    "回或": [
+      "kingxv"
     ],
     "屏天": [
       "weather"

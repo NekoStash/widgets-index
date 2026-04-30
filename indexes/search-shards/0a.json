@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "art": [
       "music"
@@ -50,6 +50,9 @@
     ],
     "录放": [
       "weather"
+    ],
+    "或侧": [
+      "kingxv"
     ],
     "支持日程标题自动换行": [
       "schedule_reminder"

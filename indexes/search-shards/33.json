@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "built": [
       "music"
@@ -41,6 +41,9 @@
     ],
     "安装": [
       "hyper-pick-up-code"
+    ],
+    "屏原": [
+      "kingxv"
     ],
     "整适": [
       "weather"

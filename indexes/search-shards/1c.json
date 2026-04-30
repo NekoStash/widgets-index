@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 30,
+  "tokenCount": 33,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -60,9 +60,18 @@
     "抓取": [
       "schedule_reminder"
     ],
+    "是横": [
+      "kingxv"
+    ],
+    "有限": [
+      "kingxv"
+    ],
     "析系": [
       "business",
       "schedule_reminder"
+    ],
+    "果是": [
+      "kingxv"
     ],
     "正弦": [
       "weather"

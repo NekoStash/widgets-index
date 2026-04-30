@@ -1,12 +1,15 @@
 {
   "shard": "32",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "automatically": [
       "music"
     ],
     "calendar-lite": [
       "calendar-lite"
+    ],
+    "coder": [
+      "kingxv"
     ],
     "github": [
       "course_schedule"

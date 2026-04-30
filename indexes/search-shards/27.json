@@ -1,10 +1,11 @@
 {
   "shard": "27",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "aod": [
       "business",
       "calendar-lite",
+      "kingxv",
       "music",
       "schedule_reminder",
       "weather"
@@ -104,6 +105,9 @@
     "转化": [
       "mishare",
       "pickup"
+    ],
+    "返回": [
+      "kingxv"
     ],
     "需求": [
       "weather"

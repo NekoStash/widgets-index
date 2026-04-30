@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -15,6 +15,9 @@
     "tint": [
       "music"
     ],
+    "一些": [
+      "kingxv"
+    ],
     "之后": [
       "mishare",
       "pickup",
@@ -28,6 +31,7 @@
     ],
     "切换": [
       "business",
+      "kingxv",
       "schedule_reminder",
       "weather"
     ],

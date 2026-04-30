@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "equipped": [
       "music"
@@ -32,6 +32,9 @@
     "动画接口": [
       "business"
     ],
+    "双击": [
+      "kingxv"
+    ],
     "坐标的数值": [
       "calendar-lite"
     ],
@@ -42,7 +45,8 @@
       "back_screen_desktop"
     ],
     "已内": [
-      "business"
+      "business",
+      "kingxv"
     ],
     "带有": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 25,
+  "tokenCount": 27,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -30,6 +30,9 @@
     ],
     "划分": [
       "weather"
+    ],
+    "力有": [
+      "kingxv"
     ],
     "动判": [
       "calendar-lite"
@@ -73,6 +76,9 @@
     "目标设备": [
       "business",
       "weather"
+    ],
+    "能力": [
+      "kingxv"
     ],
     "藏复": [
       "weather"
