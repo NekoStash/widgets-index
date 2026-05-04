@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "music",
+      "name": "音乐歌词",
+      "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-05-04T06:40:25.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",
+        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music"
+      }
+    },
+    {
       "id": "kingxv",
       "name": "kingxv桌面",
       "description": "17pro背屏桌面",
@@ -137,23 +154,6 @@
       "repository": {
         "fullName": "juzipaome/Xiaomi-RearScreen-StarIsland",
         "url": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland"
-      }
-    },
-    {
-      "id": "music",
-      "name": "音乐歌词",
-      "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
-      "author": {
-        "login": "SiberiaApp",
-        "name": "SiberiaApp",
-        "url": "https://github.com/SiberiaApp",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-04-16T12:43:32.000Z",
-      "repository": {
-        "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",
-        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music"
       }
     },
     {
