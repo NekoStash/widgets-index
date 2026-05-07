@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 31,
+  "tokenCount": 35,
   "tokens": {
     "contributing": [
       "music"
@@ -10,6 +10,9 @@
     ],
     "feel": [
       "music"
+    ],
+    "generality": [
+      "uriroute_deviceinfo"
     ],
     "juzi": [
       "mishare",
@@ -25,6 +28,9 @@
     "与设": [
       "weather"
     ],
+    "中设置缓存时间为": [
+      "uriroute_deviceinfo"
+    ],
     "供绕": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -36,6 +42,12 @@
     ],
     "利用小米系统级": [
       "calendar-lite"
+    ],
+    "地址": [
+      "uriroute_deviceinfo"
+    ],
+    "块特": [
+      "uriroute_deviceinfo"
     ],
     "如果你需要微调它的位置": [
       "calendar-lite"
@@ -87,7 +99,8 @@
       "dragon_scales_clock"
     ],
     "限无": [
-      "kingxv"
+      "kingxv",
+      "uriroute_deviceinfo"
     ],
     "音播": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 41,
+  "tokenCount": 43,
   "tokens": {
     "feeling": [
       "music"
@@ -40,6 +40,7 @@
     ],
     "优化": [
       "business",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "具备": [
@@ -89,6 +90,9 @@
     "星期": [
       "calendar-lite"
     ],
+    "模块特点": [
+      "uriroute_deviceinfo"
+    ],
     "滴粒": [
       "weather"
     ],
@@ -130,6 +134,9 @@
     ],
     "间秒": [
       "calendar-lite"
+    ],
+    "需确": [
+      "uriroute_deviceinfo"
     ]
   }
 }

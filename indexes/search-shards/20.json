@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 27,
+  "tokenCount": 32,
   "tokens": {
     "folme": [
       "business",
@@ -21,6 +21,9 @@
       "hyper-pick-up-code-reareye-xiaomi",
       "music"
     ],
+    "不小于该版本": [
+      "uriroute_deviceinfo"
+    ],
     "传统": [
       "calendar-lite",
       "schedule_reminder"
@@ -29,10 +32,16 @@
       "mishare",
       "pickup"
     ],
+    "可显": [
+      "uriroute_deviceinfo"
+    ],
     "块并": [
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "安装后默认在背屏显示": [
+      "uriroute_deviceinfo"
     ],
     "对应": [
       "business",
@@ -62,6 +71,9 @@
     "权归": [
       "dragon_scales_clock"
     ],
+    "权限无法显示电压电流相关内容": [
+      "uriroute_deviceinfo"
+    ],
     "欢迎各位大佬修改": [
       "kingxv"
     ],
@@ -79,6 +91,7 @@
     "的平": [
       "business",
       "schedule_reminder",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "的音": [
@@ -92,6 +105,9 @@
     ],
     "精准避让摄像头": [
       "calendar-lite"
+    ],
+    "若": [
+      "uriroute_deviceinfo"
     ],
     "觉资": [
       "business"

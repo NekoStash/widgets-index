@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 31,
+  "tokenCount": 33,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -67,6 +67,9 @@
     "放入": [
       "weather"
     ],
+    "是通": [
+      "uriroute_deviceinfo"
+    ],
     "未匹": [
       "business"
     ],
@@ -81,6 +84,9 @@
     ],
     "正常渲染视觉效果": [
       "weather"
+    ],
+    "步骤": [
+      "uriroute_deviceinfo"
     ],
     "渡动": [
       "calendar-lite"

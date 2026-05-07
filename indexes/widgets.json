@@ -120,6 +120,16 @@
     "stars": 0
   },
   {
+    "id": "uriroute_deviceinfo",
+    "name": "设备资讯",
+    "authorName": "Jawiiki",
+    "authorId": "Jawiiki",
+    "description": "基于REAREye、UriRoute驱动的设备资讯模块",
+    "latestReleaseTag": "v1.1",
+    "latestReleasePublishedAt": "2026-05-07T14:32:59.000Z",
+    "stars": 0
+  },
+  {
     "id": "weather",
     "name": "背屏天气",
     "authorName": "SiberiaApp",

@@ -1,6 +1,6 @@
 {
   "shard": "21",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "visible": [
       "music"
@@ -36,7 +36,8 @@
       "weather"
     ],
     "录下": [
-      "business"
+      "business",
+      "uriroute_deviceinfo"
     ],
     "必须": [
       "course_schedule"
@@ -68,7 +69,8 @@
       "business",
       "mishare",
       "pickup",
-      "schedule_reminder"
+      "schedule_reminder",
+      "uriroute_deviceinfo"
     ],
     "滑过": [
       "business",
@@ -76,6 +78,9 @@
     ],
     "爷不": [
       "business"
+    ],
+    "电压电流功率信息": [
+      "uriroute_deviceinfo"
     ],
     "的动": [
       "calendar-lite",
@@ -90,6 +95,7 @@
     "计算": [
       "calendar-lite",
       "schedule_reminder",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "载专": [

@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 26,
+  "tokenCount": 28,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
@@ -16,7 +16,8 @@
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "pickup",
-      "schedule_reminder"
+      "schedule_reminder",
+      "uriroute_deviceinfo"
     ],
     "track": [
       "music"
@@ -34,6 +35,9 @@
     ],
     "内置强大的关键词匹配引擎": [
       "business"
+    ],
+    "则需": [
+      "uriroute_deviceinfo"
     ],
     "双击可切换回桌面": [
       "kingxv"
@@ -79,6 +83,9 @@
     ],
     "调度": [
       "weather"
+    ],
+    "载值": [
+      "uriroute_deviceinfo"
     ],
     "重启背屏": [
       "hyper-pick-up-code"

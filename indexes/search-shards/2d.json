@@ -1,12 +1,15 @@
 {
   "shard": "2d",
-  "tokenCount": 27,
+  "tokenCount": 30,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
     ],
     "上面": [
       "hyper-pick-up-code"
+    ],
+    "下载地址": [
+      "uriroute_deviceinfo"
     ],
     "不会写": [
       "mishare"
@@ -32,6 +35,9 @@
     ],
     "动态生成全局缩放系数": [
       "calendar-lite"
+    ],
+    "压电": [
+      "uriroute_deviceinfo"
     ],
     "同比": [
       "business"
@@ -82,6 +88,9 @@
     ],
     "色彩重构": [
       "schedule_reminder"
+    ],
+    "讯模": [
+      "uriroute_deviceinfo"
     ],
     "齐到": [
       "calendar-lite"

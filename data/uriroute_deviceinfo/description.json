@@ -1,0 +1,24 @@
+{
+  "id": "uriroute_deviceinfo",
+  "name": "设备资讯",
+  "sourceMetadataPath": "repos/uriroute_deviceinfo/metadata.json",
+  "repository": {
+    "widgetName": "设备资讯",
+    "owner": "Jawiiki",
+    "name": "Deviceinfo-REAREye",
+    "fullName": "Jawiiki/Deviceinfo-REAREye",
+    "url": "https://github.com/Jawiiki/Deviceinfo-REAREye",
+    "description": "基于REAREye、UriRoute驱动的设备资讯模块",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": "JavaScript",
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-05-06T06:52:22Z",
+    "updatedAt": "2026-05-07T14:43:13Z",
+    "pushedAt": "2026-05-07T14:33:43Z"
+  }
+}

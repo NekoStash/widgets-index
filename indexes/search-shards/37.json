@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 28,
+  "tokenCount": 30,
   "tokens": {
     "extracts": [
       "music"
@@ -69,6 +69,9 @@
     "点点": [
       "business"
     ],
+    "特点": [
+      "uriroute_deviceinfo"
+    ],
     "程标": [
       "schedule_reminder"
     ],
@@ -87,7 +90,11 @@
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "装前": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "uriroute_deviceinfo"
+    ],
+    "设备资讯": [
+      "uriroute_deviceinfo"
     ],
     "资源目录结构": [
       "weather"

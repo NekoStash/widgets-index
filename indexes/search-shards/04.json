@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 26,
+  "tokenCount": 30,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -16,6 +16,9 @@
     ],
     "为禁": [
       "calendar-lite"
+    ],
+    "他内": [
+      "uriroute_deviceinfo"
     ],
     "保护": [
       "schedule_reminder"
@@ -51,6 +54,9 @@
     "支持亮屏与": [
       "business"
     ],
+    "文件便可显示其他内容": [
+      "uriroute_deviceinfo"
+    ],
     "极低功耗": [
       "business"
     ],
@@ -59,6 +65,7 @@
     ],
     "确保": [
       "schedule_reminder",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "简体中文": [
@@ -76,8 +83,14 @@
     "觉效": [
       "weather"
     ],
+    "该背": [
+      "uriroute_deviceinfo"
+    ],
     "请根据此目录放入对应的图片资产": [
       "weather"
+    ],
+    "载的": [
+      "uriroute_deviceinfo"
     ],
     "载组": [
       "hyper-pick-up-code"

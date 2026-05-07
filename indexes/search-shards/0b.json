@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 35,
+  "tokenCount": 37,
   "tokens": {
     "15": [
       "weather"
@@ -35,6 +35,9 @@
     "到识": [
       "kingxv"
     ],
+    "功率": [
+      "uriroute_deviceinfo"
+    ],
     "号星": [
       "calendar-lite"
     ],
@@ -49,6 +52,9 @@
     ],
     "必须搭配": [
       "course_schedule"
+    ],
+    "拥有": [
+      "uriroute_deviceinfo"
     ],
     "持日": [
       "schedule_reminder"

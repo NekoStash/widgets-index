@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "devices": [
       "music"
@@ -35,6 +35,9 @@
     "只做了一些常用": [
       "kingxv"
     ],
+    "否则": [
+      "uriroute_deviceinfo"
+    ],
     "品牌": [
       "business"
     ],
@@ -49,6 +52,7 @@
     ],
     "屏显": [
       "business",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "屏课": [

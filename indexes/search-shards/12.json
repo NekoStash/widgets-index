@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 18,
+  "tokenCount": 20,
   "tokens": {
     "一点": [
       "business"
@@ -12,7 +12,8 @@
       "course_schedule",
       "mishare",
       "pickup",
-      "schedule_reminder"
+      "schedule_reminder",
+      "uriroute_deviceinfo"
     ],
     "图标": [
       "business",
@@ -31,6 +32,9 @@
     ],
     "搓的": [
       "calendar-lite"
+    ],
+    "新安": [
+      "uriroute_deviceinfo"
     ],
     "日历": [
       "calendar-lite",
@@ -52,6 +56,9 @@
     "现有": [
       "business"
     ],
+    "的内容复制到": [
+      "uriroute_deviceinfo"
+    ],
     "竖屏": [
       "kingxv"
     ],
@@ -63,6 +70,7 @@
     ],
     "设备": [
       "business",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "阿姨": [

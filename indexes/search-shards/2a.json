@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 32,
+  "tokenCount": 34,
   "tokens": {
     "animations": [
       "music"
@@ -29,6 +29,9 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "仅修": [
+      "uriroute_deviceinfo"
+    ],
     "体验": [
       "weather"
     ],
@@ -47,6 +50,9 @@
     ],
     "商店": [
       "hyper-pick-up-code"
+    ],
+    "复制": [
+      "uriroute_deviceinfo"
     ],
     "如被": [
       "hyper-pick-up-code-reareye-xiaomi"

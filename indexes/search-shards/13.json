@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 26,
+  "tokenCount": 28,
   "tokens": {
     "focus": [
       "business",
@@ -45,6 +45,9 @@
     "层的": [
       "schedule_reminder"
     ],
+    "屏使": [
+      "uriroute_deviceinfo"
+    ],
     "帧率": [
       "weather"
     ],
@@ -78,6 +81,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "装要": [
+      "uriroute_deviceinfo"
     ],
     "迎提": [
       "weather"

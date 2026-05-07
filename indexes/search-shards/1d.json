@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 37,
+  "tokenCount": 39,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -61,6 +61,9 @@
     "含以": [
       "weather"
     ],
+    "存储": [
+      "uriroute_deviceinfo"
+    ],
     "库中": [
       "weather"
     ],
@@ -104,6 +107,9 @@
     ],
     "让下": [
       "schedule_reminder"
+    ],
+    "设置": [
+      "uriroute_deviceinfo"
     ],
     "请根": [
       "weather"

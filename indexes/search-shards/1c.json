@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 33,
+  "tokenCount": 37,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -16,6 +16,9 @@
     ],
     "the": [
       "music"
+    ],
+    "于该": [
+      "uriroute_deviceinfo"
     ],
     "亮浅": [
       "schedule_reminder"
@@ -37,6 +40,9 @@
     ],
     "天数": [
       "calendar-lite"
+    ],
+    "安装要求": [
+      "uriroute_deviceinfo"
     ],
     "将前": [
       "business"
@@ -76,11 +82,17 @@
     "正弦": [
       "weather"
     ],
+    "流相": [
+      "uriroute_deviceinfo"
+    ],
     "版权": [
       "dragon_scales_clock"
     ],
     "由": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "相关": [
+      "uriroute_deviceinfo"
     ],
     "统通": [
       "schedule_reminder"
@@ -103,7 +115,8 @@
     ],
     "驱动": [
       "hyper-pick-up-code",
-      "hyper-pick-up-code-reareye-xiaomi"
+      "hyper-pick-up-code-reareye-xiaomi",
+      "uriroute_deviceinfo"
     ]
   }
 }

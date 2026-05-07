@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -81,6 +81,9 @@
     "画完": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "的内": [
+      "uriroute_deviceinfo"
     ],
     "的嗅": [
       "calendar-lite"

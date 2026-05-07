@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "uriroute_deviceinfo",
+      "name": "设备资讯",
+      "description": "基于REAREye、UriRoute驱动的设备资讯模块",
+      "author": {
+        "login": "Jawiiki",
+        "name": "Jawiiki",
+        "url": "https://github.com/Jawiiki",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113051618?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-05-07T14:43:13.000Z",
+      "repository": {
+        "fullName": "Jawiiki/Deviceinfo-REAREye",
+        "url": "https://github.com/Jawiiki/Deviceinfo-REAREye"
+      }
+    },
+    {
       "id": "music",
       "name": "音乐歌词",
       "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",

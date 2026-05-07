@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 36,
+  "tokenCount": 38,
   "tokens": {
     "assets": [
       "business",
@@ -108,6 +108,9 @@
       "schedule_reminder",
       "weather"
     ],
+    "该版": [
+      "uriroute_deviceinfo"
+    ],
     "通知": [
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
@@ -116,6 +119,9 @@
     ],
     "配到": [
       "business"
+    ],
+    "重新": [
+      "uriroute_deviceinfo"
     ]
   }
 }

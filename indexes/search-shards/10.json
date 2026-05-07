@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 31,
+  "tokenCount": 33,
   "tokens": {
     "burger": [
       "business"
@@ -20,6 +20,9 @@
     "了等": [
       "calendar-lite"
     ],
+    "使用该背屏模块": [
+      "uriroute_deviceinfo"
+    ],
     "便签": [
       "business"
     ],
@@ -35,6 +38,9 @@
     "宽高": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "小于": [
+      "uriroute_deviceinfo"
     ],
     "屏与": [
       "business"

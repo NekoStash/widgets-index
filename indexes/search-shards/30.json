@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 32,
+  "tokenCount": 35,
   "tokens": {
     "equipped": [
       "music"
@@ -22,6 +22,9 @@
     ],
     "依托": [
       "business"
+    ],
+    "内存占用": [
+      "uriroute_deviceinfo"
     ],
     "写的": [
       "hyper-pick-up-code"
@@ -54,6 +57,9 @@
     "或改": [
       "weather"
     ],
+    "文件": [
+      "uriroute_deviceinfo"
+    ],
     "星空与云朵": [
       "weather"
     ],
@@ -83,6 +89,9 @@
     ],
     "米互": [
       "mishare"
+    ],
+    "背屏使用的是通用模块": [
+      "uriroute_deviceinfo"
     ],
     "致力于丰富小米": [
       "weather"

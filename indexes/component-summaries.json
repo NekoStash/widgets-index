@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 13,
+  "componentCount": 14,
   "components": {
     "back_screen_desktop": {
       "id": "back_screen_desktop",
@@ -144,6 +144,18 @@
         "name": "JUZI",
         "url": "https://github.com/juzipaome",
         "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
+        "type": "User"
+      }
+    },
+    "uriroute_deviceinfo": {
+      "id": "uriroute_deviceinfo",
+      "name": "设备资讯",
+      "description": "基于REAREye、UriRoute驱动的设备资讯模块",
+      "author": {
+        "login": "Jawiiki",
+        "name": "Jawiiki",
+        "url": "https://github.com/Jawiiki",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113051618?v=4",
         "type": "User"
       }
     },

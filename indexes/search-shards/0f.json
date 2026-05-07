@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -86,6 +86,9 @@
     ],
     "读屏": [
       "weather"
+    ],
+    "负载的计算": [
+      "uriroute_deviceinfo"
     ],
     "迎各": [
       "kingxv"

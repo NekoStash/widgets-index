@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 21,
+  "tokenCount": 24,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -8,6 +8,9 @@
     ],
     "easily": [
       "music"
+    ],
+    "shizuku": [
+      "uriroute_deviceinfo"
     ],
     "xiaomi": [
       "business",
@@ -25,7 +28,8 @@
       "weather"
     ],
     "中的": [
-      "business"
+      "business",
+      "uriroute_deviceinfo"
     ],
     "供了": [
       "weather"
@@ -53,6 +57,9 @@
     "的可": [
       "weather"
     ],
+    "的是": [
+      "uriroute_deviceinfo"
+    ],
     "目不": [
       "weather"
     ],
@@ -72,6 +79,9 @@
     ],
     "该壁纸从系统中提取": [
       "dragon_scales_clock"
+    ],
+    "资讯": [
+      "uriroute_deviceinfo"
     ],
     "键词": [
       "business"

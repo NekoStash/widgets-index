@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 32,
+  "tokenCount": 34,
   "tokens": {
     "aod": [
       "business",
@@ -64,11 +64,17 @@
     "天候": [
       "weather"
     ],
+    "安装前需确保": [
+      "uriroute_deviceinfo"
+    ],
     "提醒": [
       "schedule_reminder"
     ],
     "播报": [
       "weather"
+    ],
+    "文件中": [
+      "uriroute_deviceinfo"
     ],
     "日落": [
       "weather"

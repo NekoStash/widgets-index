@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 32,
+  "tokenCount": 35,
   "tokens": {
     "capabilities": [
       "music"
@@ -109,8 +109,17 @@
     "茶姬": [
       "business"
     ],
+    "装步": [
+      "uriroute_deviceinfo"
+    ],
+    "装该": [
+      "uriroute_deviceinfo"
+    ],
     "让你在手机倒扣时也能实时掌握外卖": [
       "business"
+    ],
+    "通用": [
+      "uriroute_deviceinfo"
     ],
     "验与": [
       "weather"

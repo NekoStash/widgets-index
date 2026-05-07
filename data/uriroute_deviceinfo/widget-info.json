@@ -1,0 +1,28 @@
+{
+  "id": "uriroute_deviceinfo",
+  "type": "card",
+  "widgetInfo": {
+    "minVersion": 157,
+    "name": "设备资讯",
+    "business_setup": {
+      "id": "uriroute_deviceinfo",
+      "renameable": true
+    },
+    "card_setup": {
+      "name": "设备资讯",
+      "package": "hk.uwu.reareye",
+      "priority": 500,
+      "sticky": true,
+      "renameable": true
+    },
+    "requirements": {
+      "packages": [
+        "com.uriroute"
+      ]
+    },
+    "postinstall": {
+      "uri": "content://uriroute/install?group=REAREye&name=generality&version=1.0&reareyeUri={'mode':'store_id','id':'{id}','entry':'uriRoute.js'}"
+    },
+    "type": "widget"
+  }
+}

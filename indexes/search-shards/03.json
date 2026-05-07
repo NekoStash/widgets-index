@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 26,
+  "tokenCount": 29,
   "tokens": {
     "breathable": [
       "schedule_reminder"
@@ -38,6 +38,12 @@
     "动识": [
       "business"
     ],
+    "存储空间": [
+      "uriroute_deviceinfo"
+    ],
+    "存时": [
+      "uriroute_deviceinfo"
+    ],
     "完美兼容不同比例的背屏尺寸": [
       "business"
     ],
@@ -70,6 +76,9 @@
     ],
     "理器": [
       "hyper-pick-up-code"
+    ],
+    "电流": [
+      "uriroute_deviceinfo"
     ],
     "的偏左侧": [
       "calendar-lite"

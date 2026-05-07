@@ -1,9 +1,12 @@
 {
   "shard": "07",
-  "tokenCount": 17,
+  "tokenCount": 18,
   "tokens": {
     "check": [
       "music"
+    ],
+    "deviceinfo": [
+      "uriroute_deviceinfo"
     ],
     "严谨遵循": [
       "schedule_reminder"
@@ -33,6 +36,7 @@
     "时间": [
       "calendar-lite",
       "schedule_reminder",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "本项目深度集成系统通知监听逻辑": [

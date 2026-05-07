@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 26,
+  "tokenCount": 28,
   "tokens": {
     "built": [
       "music"
@@ -23,6 +23,9 @@
     "交互": [
       "weather"
     ],
+    "便可": [
+      "uriroute_deviceinfo"
+    ],
     "冰城": [
       "business"
     ],
@@ -40,7 +43,8 @@
       "schedule_reminder"
     ],
     "安装": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "uriroute_deviceinfo"
     ],
     "屏原": [
       "kingxv"
@@ -63,6 +67,9 @@
     ],
     "源目": [
       "weather"
+    ],
+    "目录下的": [
+      "uriroute_deviceinfo"
     ],
     "知品": [
       "business"

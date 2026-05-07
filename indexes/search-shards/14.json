@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 36,
+  "tokenCount": 38,
   "tokens": {
     "210": [
       "weather"
@@ -35,6 +35,9 @@
     ],
     "全天候光影引擎": [
       "weather"
+    ],
+    "则": [
+      "uriroute_deviceinfo"
     ],
     "刻了": [
       "calendar-lite"
@@ -83,6 +86,9 @@
     ],
     "流餐": [
       "business"
+    ],
+    "用下": [
+      "uriroute_deviceinfo"
     ],
     "的偏": [
       "calendar-lite"

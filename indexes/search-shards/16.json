@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 24,
+  "tokenCount": 27,
   "tokens": {
     "450": [
       "weather"
@@ -10,6 +10,9 @@
     ],
     "king": [
       "business"
+    ],
+    "uriroute": [
+      "uriroute_deviceinfo"
     ],
     "元素": [
       "weather"
@@ -73,8 +76,14 @@
       "kingxv",
       "schedule_reminder"
     ],
+    "载为": [
+      "uriroute_deviceinfo"
+    ],
     "需支持底层焦点通知与": [
       "business"
+    ],
+    "需重": [
+      "uriroute_deviceinfo"
     ],
     "音乐": [
       "music",

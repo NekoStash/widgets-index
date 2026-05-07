@@ -18,7 +18,8 @@
       "calendar-lite"
     ],
     "信息": [
-      "business"
+      "business",
+      "uriroute_deviceinfo"
     ],
     "分为": [
       "weather"
@@ -37,7 +38,8 @@
       "calendar-lite"
     ],
     "将": [
-      "pickup"
+      "pickup",
+      "uriroute_deviceinfo"
     ],
     "度定": [
       "business"
@@ -92,7 +94,8 @@
     ],
     "默认": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "uriroute_deviceinfo"
     ]
   }
 }

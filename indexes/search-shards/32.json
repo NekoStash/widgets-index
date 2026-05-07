@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 27,
+  "tokenCount": 29,
   "tokens": {
     "automatically": [
       "music"
@@ -22,6 +22,9 @@
     ],
     "下完": [
       "weather"
+    ],
+    "中设": [
+      "uriroute_deviceinfo"
     ],
     "了使": [
       "weather"
@@ -85,6 +88,9 @@
     ],
     "适用于小米背屏系列的天气小组件": [
       "weather"
+    ],
+    "驱动的设备资讯模块": [
+      "uriroute_deviceinfo"
     ]
   }
 }

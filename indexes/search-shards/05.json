@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 29,
+  "tokenCount": 34,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -10,6 +10,9 @@
     ],
     "pickup": [
       "pickup"
+    ],
+    "root": [
+      "uriroute_deviceinfo"
     ],
     "widget": [
       "music",
@@ -24,6 +27,9 @@
     "了精": [
       "weather"
     ],
+    "关内": [
+      "uriroute_deviceinfo"
+    ],
     "动隐": [
       "weather"
     ],
@@ -32,6 +38,9 @@
     ],
     "如": [
       "calendar-lite"
+    ],
+    "存占": [
+      "uriroute_deviceinfo"
     ],
     "将对应的品牌": [
       "business"
@@ -64,6 +73,9 @@
     "演的": [
       "calendar-lite"
     ],
+    "率信": [
+      "uriroute_deviceinfo"
+    ],
     "现在": [
       "schedule_reminder"
     ],
@@ -92,6 +104,9 @@
       "business",
       "calendar-lite",
       "weather"
+    ],
+    "需拥有": [
+      "uriroute_deviceinfo"
     ]
   }
 }

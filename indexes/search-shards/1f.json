@@ -1,7 +1,10 @@
 {
   "shard": "1f",
-  "tokenCount": 30,
+  "tokenCount": 32,
   "tokens": {
+    "30s": [
+      "uriroute_deviceinfo"
+    ],
     "calendar": [
       "calendar-lite",
       "schedule_reminder"
@@ -47,6 +50,9 @@
     "屏系": [
       "music",
       "weather"
+    ],
+    "平均": [
+      "uriroute_deviceinfo"
     ],
     "并完": [
       "calendar-lite"

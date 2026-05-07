@@ -1,6 +1,6 @@
 {
   "shard": "19",
-  "tokenCount": 28,
+  "tokenCount": 29,
   "tokens": {
     "audio": [
       "music"
@@ -8,6 +8,9 @@
     "hyper": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "uriroute_deviceinfo": [
+      "uriroute_deviceinfo"
     ],
     "上显": [
       "course_schedule"
@@ -35,6 +38,7 @@
       "calendar-lite",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "复刻": [

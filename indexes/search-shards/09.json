@@ -1,9 +1,15 @@
 {
   "shard": "09",
-  "tokenCount": 27,
+  "tokenCount": 30,
   "tokens": {
     "31": [
       "calendar-lite"
+    ],
+    "cpu": [
+      "uriroute_deviceinfo"
+    ],
+    "deviceinfo-reareye": [
+      "uriroute_deviceinfo"
     ],
     "issues": [
       "music"
@@ -54,6 +60,9 @@
     ],
     "心极": [
       "schedule_reminder"
+    ],
+    "手动安装步骤": [
+      "uriroute_deviceinfo"
     ],
     "换或": [
       "weather"

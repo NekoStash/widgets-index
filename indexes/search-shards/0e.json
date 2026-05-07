@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 35,
+  "tokenCount": 37,
   "tokens": {
     "deliver": [
       "music"
@@ -107,6 +107,9 @@
     "结合正弦函数": [
       "weather"
     ],
+    "缓存": [
+      "uriroute_deviceinfo"
+    ],
     "缩放": [
       "business",
       "calendar-lite",
@@ -120,6 +123,9 @@
     ],
     "醒小": [
       "schedule_reminder"
+    ],
+    "需拥": [
+      "uriroute_deviceinfo"
     ],
     "霸王茶姬": [
       "business"

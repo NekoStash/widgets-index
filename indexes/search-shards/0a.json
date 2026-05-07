@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 30,
+  "tokenCount": 33,
   "tokens": {
     "art": [
       "music"
@@ -11,6 +11,9 @@
     ],
     "native": [
       "music"
+    ],
+    "下的": [
+      "uriroute_deviceinfo"
     ],
     "为了使": [
       "weather"
@@ -60,6 +63,9 @@
     "没有任何外部图片素材": [
       "calendar-lite"
     ],
+    "法显": [
+      "uriroute_deviceinfo"
+    ],
     "米背": [
       "calendar-lite",
       "hyper-pick-up-code",
@@ -83,8 +89,12 @@
     "花粒": [
       "weather"
     ],
+    "装后": [
+      "uriroute_deviceinfo"
+    ],
     "要求": [
-      "business"
+      "business",
+      "uriroute_deviceinfo"
     ],
     "设备兼容性": [
       "business"

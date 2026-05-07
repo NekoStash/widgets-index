@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 22,
+  "tokenCount": 26,
   "tokens": {
     "save": [
       "music"
@@ -20,11 +20,17 @@
     "偏左": [
       "calendar-lite"
     ],
+    "内存": [
+      "uriroute_deviceinfo"
+    ],
     "内置极其细腻的渐变色计算逻辑": [
       "weather"
     ],
     "函数": [
       "weather"
+    ],
+    "前需": [
+      "uriroute_deviceinfo"
     ],
     "唤醒时通过": [
       "weather"
@@ -52,6 +58,9 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "示电": [
+      "uriroute_deviceinfo"
+    ],
     "稳定": [
       "schedule_reminder"
     ],
@@ -66,6 +75,9 @@
     ],
     "请确": [
       "weather"
+    ],
+    "载地": [
+      "uriroute_deviceinfo"
     ],
     "这是一个专为小米": [
       "calendar-lite",

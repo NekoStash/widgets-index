@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 40,
+  "tokenCount": 43,
   "tokens": {
     "power": [
       "music"
@@ -56,6 +56,9 @@
     "在动画完成的瞬间": [
       "calendar-lite"
     ],
+    "备资": [
+      "uriroute_deviceinfo"
+    ],
     "大": [
       "weather"
     ],
@@ -69,7 +72,8 @@
       "business"
     ],
     "手动": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "uriroute_deviceinfo"
     ],
     "打开": [
       "kingxv"
@@ -83,6 +87,9 @@
     "无缝": [
       "business",
       "weather"
+    ],
+    "权限": [
+      "uriroute_deviceinfo"
     ],
     "标的": [
       "calendar-lite"
@@ -110,6 +117,9 @@
     ],
     "立雨": [
       "weather"
+    ],
+    "置缓": [
+      "uriroute_deviceinfo"
     ],
     "要微": [
       "calendar-lite"

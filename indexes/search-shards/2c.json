@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 39,
+  "tokenCount": 40,
   "tokens": {
     "album": [
       "music"
@@ -22,6 +22,9 @@
     ],
     "从官方提取": [
       "dragon_scales_clock"
+    ],
+    "件中": [
+      "uriroute_deviceinfo"
     ],
     "使用方法": [
       "mishare",
@@ -94,6 +97,7 @@
     ],
     "目录": [
       "business",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "等开": [
@@ -114,6 +118,7 @@
       "music",
       "pickup",
       "schedule_reminder",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "背屏级动态响应与安全区避让": [

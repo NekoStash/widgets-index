@@ -19,6 +19,7 @@
     ],
     "其他": [
       "business",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "列等": [
@@ -44,7 +45,8 @@
       "calendar-lite"
     ],
     "屏模": [
-      "business"
+      "business",
+      "uriroute_deviceinfo"
     ],
     "底环": [
       "schedule_reminder"
@@ -90,6 +92,7 @@
     ],
     "的背": [
       "business",
+      "uriroute_deviceinfo",
       "weather"
     ],
     "空色": [

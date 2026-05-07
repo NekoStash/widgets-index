@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 27,
+  "tokenCount": 30,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -16,6 +16,9 @@
     ],
     "free": [
       "music"
+    ],
+    "jawiiki": [
+      "uriroute_deviceinfo"
     ],
     "siberiaapp": [
       "business",
@@ -100,6 +103,12 @@
       "music",
       "schedule_reminder",
       "weather"
+    ],
+    "空间": [
+      "uriroute_deviceinfo"
+    ],
+    "间为": [
+      "uriroute_deviceinfo"
     ]
   }
 }

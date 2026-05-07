@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 25,
+  "tokenCount": 27,
   "tokens": {
     "bug": [
       "weather"
@@ -14,6 +14,9 @@
     "todonote": [
       "business"
     ],
+    "不小": [
+      "uriroute_deviceinfo"
+    ],
     "个雪": [
       "weather"
     ],
@@ -26,6 +29,9 @@
     "全局": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "占用": [
+      "uriroute_deviceinfo"
     ],
     "吸渐": [
       "schedule_reminder"

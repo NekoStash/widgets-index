@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "active": [
       "music"
@@ -55,6 +55,9 @@
     ],
     "气状": [
       "weather"
+    ],
+    "的平均负载值": [
+      "uriroute_deviceinfo"
     ],
     "的焦": [
       "business"

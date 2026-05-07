@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "二": [
       "hyper-pick-up-code"
@@ -19,6 +19,9 @@
     ],
     "动回": [
       "business"
+    ],
+    "后默": [
+      "uriroute_deviceinfo"
     ],
     "和": [
       "business",

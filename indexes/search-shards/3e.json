@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "about": [
       "music"
@@ -54,6 +54,9 @@
     ],
     "并非生硬地写死": [
       "calendar-lite"
+    ],
+    "应用下的": [
+      "uriroute_deviceinfo"
     ],
     "强大": [
       "business"
