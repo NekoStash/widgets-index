@@ -23,7 +23,19 @@
           "updatedAt": "2026-04-26T11:55:47Z",
           "downloadUrl": "https://github.com/SiberiaApp/Hyper-Pick-up-Code-REAREye/releases/download/v0.1/Hyper-Pick-up-Code-v0.1.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "name": "澎湃记-背屏组件",
+        "business_setup": {
+          "id": "Hyper-Pick-up-Code",
+          "renameable": false
+        },
+        "scene_setup": {
+          "scene": "CH:promoted_live_update_channel",
+          "pkg": "com.Badnng.moe"
+        },
+        "type": "widget"
+      }
     }
   ]
 }

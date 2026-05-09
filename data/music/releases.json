@@ -23,7 +23,15 @@
           "updatedAt": "2026-04-07T00:38:39Z",
           "downloadUrl": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music/releases/download/v2.0/Xiaomi-RearScreen-Music_v2.0.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "name": "音乐歌词",
+        "business_setup": {
+          "id": "music",
+          "renameable": false
+        },
+        "type": "widget"
+      }
     }
   ]
 }

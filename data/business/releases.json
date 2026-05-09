@@ -23,7 +23,15 @@
           "updatedAt": "2026-04-10T00:08:36Z",
           "downloadUrl": "https://github.com/SiberiaApp/Super-RearScreen-Island-Todo/releases/download/Beta-0.2/Super-RearScreen-Island-Todo_Beta0.2.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "name": "[适配Todo便签]超级背屏岛Pro",
+        "business_setup": {
+          "id": "business",
+          "renameable": false
+        },
+        "type": "widget"
+      }
     }
   ]
 }

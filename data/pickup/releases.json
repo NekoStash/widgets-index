@@ -18,12 +18,20 @@
           "label": null,
           "size": 517512,
           "contentType": "application/x-zip-compressed",
-          "downloadCount": 196,
+          "downloadCount": 197,
           "createdAt": "2026-04-15T08:46:01Z",
           "updatedAt": "2026-04-15T08:46:02Z",
           "downloadUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland/releases/download/beta/StarIsland-beta0.1.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "type": "widget",
+        "name": "取餐码[适配StarIsland]",
+        "business_setup": {
+          "id": "pickup_flow",
+          "renameable": false
+        }
+      }
     }
   ]
 }

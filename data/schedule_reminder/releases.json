@@ -23,7 +23,15 @@
           "updatedAt": "2026-04-15T08:27:50Z",
           "downloadUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule/releases/download/beta-0.2/beta-0.2.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "type": "widget",
+        "name": "日历日程",
+        "business_setup": {
+          "id": "schedule_reminder",
+          "renameable": false
+        }
+      }
     },
     {
       "id": 309124020,
@@ -47,7 +55,15 @@
           "updatedAt": "2026-04-15T02:01:23Z",
           "downloadUrl": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule/releases/download/beta-0.1/beta-0.1.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "type": "widget",
+        "name": "日历日程",
+        "business_setup": {
+          "id": "schedule_reminder",
+          "renameable": false
+        }
+      }
     }
   ]
 }

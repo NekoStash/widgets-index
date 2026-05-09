@@ -23,7 +23,15 @@
           "updatedAt": "2026-04-29T11:29:06Z",
           "downloadUrl": "https://github.com/SiberiaApp/Hyper-Pick-up-Code-REAREye-XIAOMI/releases/download/v1.0/Hyper-Pick-up-Code-REAREye-XIAOMI-v1.0.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "name": "[焦点通知版]澎湃记-背屏组件",
+        "business_setup": {
+          "id": "pickup",
+          "renameable": false
+        },
+        "type": "widget"
+      }
     }
   ]
 }

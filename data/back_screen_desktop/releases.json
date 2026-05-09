@@ -23,7 +23,22 @@
           "updatedAt": "2026-04-29T11:48:34Z",
           "downloadUrl": "https://github.com/Pork-skin/Back-screen-desktop/releases/download/git/default.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "name": "背屏桌面",
+        "business_setup": {
+          "id": "back_screen_desktop",
+          "renameable": true
+        },
+        "card_setup": {
+          "name": "背屏桌面",
+          "package": "hk.uwu.reareye",
+          "priority": 500,
+          "sticky": true,
+          "renameable": true
+        },
+        "type": "widget"
+      }
     }
   ]
 }

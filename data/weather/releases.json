@@ -23,7 +23,22 @@
           "updatedAt": "2026-04-13T09:29:02Z",
           "downloadUrl": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather/releases/download/v2.0/Xiaomi-RearScreen-Weather_v2.0.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "name": "背屏天气",
+        "business_setup": {
+          "id": "weather",
+          "renameable": true
+        },
+        "card_setup": {
+          "name": "背屏天气",
+          "package": "hk.uwu.reareye",
+          "priority": 500,
+          "sticky": true,
+          "renameable": true
+        },
+        "type": "widget"
+      }
     },
     {
       "id": 307500354,
@@ -47,7 +62,22 @@
           "updatedAt": "2026-04-10T11:19:27Z",
           "downloadUrl": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather/releases/download/v1.1/Xiaomi-RearScreen-Weather_v1.1.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "name": "背屏天气",
+        "business_setup": {
+          "id": "weather",
+          "renameable": true
+        },
+        "card_setup": {
+          "name": "背屏天气",
+          "package": "hk.uwu.reareye",
+          "priority": 500,
+          "sticky": true,
+          "renameable": true
+        },
+        "type": "widget"
+      }
     },
     {
       "id": 306990268,
@@ -71,7 +101,22 @@
           "updatedAt": "2026-04-09T09:58:35Z",
           "downloadUrl": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather/releases/download/v1.0/Xiaomi-RearScreen-Weather_v1.0.zip"
         }
-      ]
+      ],
+      "widgetInfo": {
+        "name": "背屏天气",
+        "business_setup": {
+          "id": "weather",
+          "renameable": true
+        },
+        "card_setup": {
+          "name": "背屏天气",
+          "package": "hk.uwu.reareye",
+          "priority": 500,
+          "sticky": true,
+          "renameable": true
+        },
+        "type": "widget"
+      }
     }
   ]
 }
