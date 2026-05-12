@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "pickup",
+      "name": "取餐码[适配StarIsland]",
+      "description": "将StarIsland的超级岛同时转化到小米背屏的小组件",
+      "author": {
+        "login": "juzipaome",
+        "name": "JUZI",
+        "url": "https://github.com/juzipaome",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-05-12T03:55:40.000Z",
+      "repository": {
+        "fullName": "juzipaome/Xiaomi-RearScreen-StarIsland",
+        "url": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland"
+      }
+    },
+    {
       "id": "uriroute_deviceinfo",
       "name": "设备资讯",
       "description": "基于REAREye、UriRoute驱动的设备资讯模块",
@@ -154,23 +171,6 @@
       "repository": {
         "fullName": "SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule",
         "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule"
-      }
-    },
-    {
-      "id": "pickup",
-      "name": "取餐码[适配StarIsland]",
-      "description": "将StarIsland的超级岛同时转化到小米背屏的小组件",
-      "author": {
-        "login": "juzipaome",
-        "name": "JUZI",
-        "url": "https://github.com/juzipaome",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-04-20T14:16:55.000Z",
-      "repository": {
-        "fullName": "juzipaome/Xiaomi-RearScreen-StarIsland",
-        "url": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland"
       }
     },
     {
