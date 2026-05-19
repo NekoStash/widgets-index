@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 43,
+  "tokenCount": 45,
   "tokens": {
     "power": [
       "music"
@@ -26,6 +26,9 @@
     ],
     "乐播": [
       "music"
+    ],
+    "了进": [
+      "disordered-clock"
     ],
     "亮打": [
       "calendar-lite"
@@ -70,6 +73,9 @@
     ],
     "度逻": [
       "business"
+    ],
+    "我进行了进一步修改美化": [
+      "disordered-clock"
     ],
     "手动": [
       "hyper-pick-up-code",

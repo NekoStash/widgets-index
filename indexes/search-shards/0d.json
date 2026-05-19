@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 32,
+  "tokenCount": 35,
   "tokens": {
     "are": [
       "music"
@@ -16,6 +16,9 @@
     ],
     "上层": [
       "calendar-lite"
+    ],
+    "作的": [
+      "disordered-clock"
     ],
     "其他": [
       "business",
@@ -90,6 +93,9 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "的桌": [
+      "disordered-clock"
+    ],
     "的背": [
       "business",
       "uriroute_deviceinfo",
@@ -105,6 +111,9 @@
       "hyper-pick-up-code",
       "schedule_reminder",
       "weather"
+    ],
+    "进行了背屏移植": [
+      "disordered-clock"
     ],
     "适用于小米背屏的日程提醒小组件": [
       "schedule_reminder"

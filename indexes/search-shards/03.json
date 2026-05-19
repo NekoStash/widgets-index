@@ -1,9 +1,12 @@
 {
   "shard": "03",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "breathable": [
       "schedule_reminder"
+    ],
+    "disordered-clock": [
+      "disordered-clock"
     ],
     "leverages": [
       "music"

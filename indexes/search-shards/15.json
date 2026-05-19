@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "display": [
       "music"
@@ -63,6 +63,9 @@
     ],
     "画播": [
       "weather"
+    ],
+    "的群": [
+      "disordered-clock"
     ],
     "碍支": [
       "weather"

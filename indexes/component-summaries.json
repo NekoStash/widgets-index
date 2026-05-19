@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 14,
+  "componentCount": 15,
   "components": {
     "back_screen_desktop": {
       "id": "back_screen_desktop",
@@ -48,6 +48,18 @@
         "name": "SiberiaApp",
         "url": "https://github.com/SiberiaApp",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "disordered-clock": {
+      "id": "disordered-clock",
+      "name": "乱序时钟",
+      "description": "基于墨飞大佬制作的桌面主题，janus的群友GeniesouL进行了背屏移植，我进行了进一步修改美化",
+      "author": {
+        "login": "w15wangyaowu-coder",
+        "name": "w15wangyaowu-coder",
+        "url": "https://github.com/w15wangyaowu-coder",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/229916231?v=4",
         "type": "User"
       }
     },

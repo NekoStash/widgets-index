@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "bug": [
       "weather"
@@ -70,6 +70,9 @@
     ],
     "的组": [
       "hyper-pick-up-code"
+    ],
+    "移植": [
+      "disordered-clock"
     ],
     "等关": [
       "business"

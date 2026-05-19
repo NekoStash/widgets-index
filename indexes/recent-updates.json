@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "disordered-clock",
+      "name": "乱序时钟",
+      "description": "基于墨飞大佬制作的桌面主题，janus的群友GeniesouL进行了背屏移植，我进行了进一步修改美化",
+      "author": {
+        "login": "w15wangyaowu-coder",
+        "name": "w15wangyaowu-coder",
+        "url": "https://github.com/w15wangyaowu-coder",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/229916231?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-05-19T08:40:01.000Z",
+      "repository": {
+        "fullName": "w15wangyaowu-coder/-17pro-",
+        "url": "https://github.com/w15wangyaowu-coder/-17pro-"
+      }
+    },
+    {
       "id": "pickup",
       "name": "取餐码[适配StarIsland]",
       "description": "将StarIsland的超级岛同时转化到小米背屏的小组件",

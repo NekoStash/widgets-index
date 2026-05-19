@@ -40,6 +40,16 @@
     "stars": 1
   },
   {
+    "id": "disordered-clock",
+    "name": "乱序时钟",
+    "authorName": "w15wangyaowu-coder",
+    "authorId": "w15wangyaowu-coder",
+    "description": "基于墨飞大佬制作的桌面主题，janus的群友GeniesouL进行了背屏移植，我进行了进一步修改美化",
+    "latestReleaseTag": "乱序时钟背屏壁纸",
+    "latestReleasePublishedAt": "2026-05-19T08:40:01.000Z",
+    "stars": 0
+  },
+  {
     "id": "dragon_scales_clock",
     "name": "龙鳞纤维时钟壁纸-提取版",
     "authorName": "AnserJim",

@@ -1,9 +1,12 @@
 {
   "shard": "10",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "burger": [
       "business"
+    ],
+    "disordered": [
+      "disordered-clock"
     ],
     "for": [
       "music"

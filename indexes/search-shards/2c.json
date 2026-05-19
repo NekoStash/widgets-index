@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 40,
+  "tokenCount": 41,
   "tokens": {
     "album": [
       "music"
@@ -10,6 +10,9 @@
     ],
     "app": [
       "kingxv"
+    ],
+    "geniesoul": [
+      "disordered-clock"
     ],
     "island": [
       "business"
@@ -111,6 +114,7 @@
       "business",
       "calendar-lite",
       "course_schedule",
+      "disordered-clock",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "kingxv",

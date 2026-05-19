@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 32,
+  "tokenCount": 33,
   "tokens": {
     "30s": [
       "uriroute_deviceinfo"
@@ -46,6 +46,9 @@
     ],
     "屏主": [
       "business"
+    ],
+    "屏移": [
+      "disordered-clock"
     ],
     "屏系": [
       "music",

@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 20,
+  "tokenCount": 21,
   "tokens": {
     "一点": [
       "business"
@@ -75,6 +75,9 @@
     ],
     "阿姨": [
       "business"
+    ],
+    "飞大": [
+      "disordered-clock"
     ]
   }
 }

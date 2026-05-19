@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 39,
+  "tokenCount": 40,
   "tokens": {
     "120hz": [
       "weather"
@@ -38,6 +38,7 @@
     ],
     "修改": [
       "calendar-lite",
+      "disordered-clock",
       "kingxv",
       "uriroute_deviceinfo"
     ],
@@ -66,6 +67,9 @@
     ],
     "屏状": [
       "business"
+    ],
+    "序时": [
+      "disordered-clock"
     ],
     "库迪": [
       "business"
