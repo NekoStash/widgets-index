@@ -14,14 +14,14 @@
       "assets": [
         {
           "id": 424214017,
-          "name": "Disordered.clock2.0.zip",
+          "name": "Disorderedclock2.0.zip",
           "label": null,
           "size": 8315,
           "contentType": "application/zip",
-          "downloadCount": 13,
+          "downloadCount": 14,
           "createdAt": "2026-05-19T13:24:04Z",
-          "updatedAt": "2026-05-20T00:35:36Z",
-          "downloadUrl": "https://github.com/w15wangyaowu-coder/-17pro-/releases/download/%E4%B9%B1%E5%BA%8F%E6%97%B6%E9%92%9F%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8%E5%A2%9E%E5%8A%A0%E5%8A%A8%E7%94%BB/Disordered.clock2.0.zip"
+          "updatedAt": "2026-05-20T11:27:30Z",
+          "downloadUrl": "https://github.com/w15wangyaowu-coder/-17pro-/releases/download/%E4%B9%B1%E5%BA%8F%E6%97%B6%E9%92%9F%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8%E5%A2%9E%E5%8A%A0%E5%8A%A8%E7%94%BB/Disorderedclock2.0.zip"
         }
       ],
       "widgetInfo": {
@@ -42,14 +42,42 @@
       "assets": [
         {
           "id": 424029475,
-          "name": "Disordered.clock.zip",
+          "name": "Disorderedclock.zip",
           "label": null,
           "size": 53658,
           "contentType": "application/zip",
           "downloadCount": 27,
           "createdAt": "2026-05-19T08:39:46Z",
-          "updatedAt": "2026-05-19T08:41:55Z",
-          "downloadUrl": "https://github.com/w15wangyaowu-coder/-17pro-/releases/download/%E4%B9%B1%E5%BA%8F%E6%97%B6%E9%92%9F%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8/Disordered.clock.zip"
+          "updatedAt": "2026-05-20T11:27:53Z",
+          "downloadUrl": "https://github.com/w15wangyaowu-coder/-17pro-/releases/download/%E4%B9%B1%E5%BA%8F%E6%97%B6%E9%92%9F%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8/Disorderedclock.zip"
+        }
+      ],
+      "widgetInfo": {
+        "type": "wallpaper",
+        "name": "乱序时钟"
+      }
+    },
+    {
+      "id": 325895736,
+      "tagName": "Backscreendisorderedclockwallpaper3.0",
+      "name": "乱序时钟背屏壁纸",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-05-19T08:33:57Z",
+      "publishedAt": "2026-05-20T11:21:14Z",
+      "url": "https://github.com/w15wangyaowu-coder/-17pro-/releases/tag/Backscreendisorderedclockwallpaper3.0",
+      "body": "<p dir=\"auto\">优化帧率<br>\n（时钟帧率为1，切换动画帧率120，aod帧率0）</p>",
+      "assets": [
+        {
+          "id": 425150418,
+          "name": "Disorderedclock3.0.zip",
+          "label": null,
+          "size": 8314,
+          "contentType": "application/zip",
+          "downloadCount": 0,
+          "createdAt": "2026-05-20T11:21:29Z",
+          "updatedAt": "2026-05-20T11:22:18Z",
+          "downloadUrl": "https://github.com/w15wangyaowu-coder/-17pro-/releases/download/Backscreendisorderedclockwallpaper3.0/Disorderedclock3.0.zip"
         }
       ],
       "widgetInfo": {
