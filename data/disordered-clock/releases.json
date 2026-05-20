@@ -11,7 +11,19 @@
       "publishedAt": "2026-05-19T13:26:12Z",
       "url": "https://github.com/w15wangyaowu-coder/-17pro-/releases/tag/%E4%B9%B1%E5%BA%8F%E6%97%B6%E9%92%9F%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8%E5%A2%9E%E5%8A%A0%E5%8A%A8%E7%94%BB",
       "body": "<p dir=\"auto\">增加切换aod动画</p>\n<details open=\"\" class=\"details-reset border rounded-2\">\n  <summary class=\"tmp-px-3 py-2\">\n    <svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-device-camera-video\">\n    <path d=\"M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z\"></path>\n</svg>\n    <span class=\"m-1\">Video_1779197109501_951.mp4</span>\n    <span class=\"dropdown-caret\"></span>\n  </summary>\n\n  <video src=\"https://github.com/user-attachments/assets/e878d8c6-b910-4b2e-896c-3d07182928ec\" data-canonical-src=\"https://github.com/user-attachments/assets/e878d8c6-b910-4b2e-896c-3d07182928ec\" controls=\"controls\" muted=\"muted\" class=\"d-block rounded-bottom-2 border-top width-fit\" style=\"max-height:640px; min-height: 200px\">\n\n  </video>\n</details>\n",
-      "assets": [],
+      "assets": [
+        {
+          "id": 424214017,
+          "name": "Disordered.clock2.0.zip",
+          "label": null,
+          "size": 8315,
+          "contentType": "application/zip",
+          "downloadCount": 4,
+          "createdAt": "2026-05-19T13:24:04Z",
+          "updatedAt": "2026-05-20T00:35:36Z",
+          "downloadUrl": "https://github.com/w15wangyaowu-coder/-17pro-/releases/download/%E4%B9%B1%E5%BA%8F%E6%97%B6%E9%92%9F%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8%E5%A2%9E%E5%8A%A0%E5%8A%A8%E7%94%BB/Disordered.clock2.0.zip"
+        }
+      ],
       "widgetInfo": {
         "type": "wallpaper",
         "name": "乱序时钟"
@@ -34,7 +46,7 @@
           "label": null,
           "size": 53658,
           "contentType": "application/zip",
-          "downloadCount": 18,
+          "downloadCount": 23,
           "createdAt": "2026-05-19T08:39:46Z",
           "updatedAt": "2026-05-19T08:41:55Z",
           "downloadUrl": "https://github.com/w15wangyaowu-coder/-17pro-/releases/download/%E4%B9%B1%E5%BA%8F%E6%97%B6%E9%92%9F%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8/Disordered.clock.zip"
