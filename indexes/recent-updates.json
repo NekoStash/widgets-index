@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "mishare",
+      "name": "Mishare背屏通知",
+      "description": "小米互传超级岛同时转化到小米背屏的小组件",
+      "author": {
+        "login": "juzipaome",
+        "name": "JUZI",
+        "url": "https://github.com/juzipaome",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-06-08T05:19:40.000Z",
+      "repository": {
+        "fullName": "juzipaome/Xiaomi-RearScreen-Mishare",
+        "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Mishare"
+      }
+    },
+    {
       "id": "disordered-clock",
       "name": "乱序时钟",
       "description": "基于墨飞大佬制作的桌面主题，janus的群友GeniesouL进行了背屏移植，我进行了进一步修改美化",
@@ -188,23 +205,6 @@
       "repository": {
         "fullName": "SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule",
         "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule"
-      }
-    },
-    {
-      "id": "mishare",
-      "name": "Mishare背屏通知",
-      "description": "关于小米互传超级岛同时转化到小米背屏的小组件",
-      "author": {
-        "login": "juzipaome",
-        "name": "JUZI",
-        "url": "https://github.com/juzipaome",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-04-15T13:58:20.000Z",
-      "repository": {
-        "fullName": "juzipaome/Xiaomi-RearScreen-Mishare",
-        "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Mishare"
       }
     },
     {

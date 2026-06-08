@@ -324,7 +324,7 @@
     {
       "shard": "3e",
       "path": "indexes/search-shards/3e.json",
-      "tokenCount": 31
+      "tokenCount": 32
     },
     {
       "shard": "3f",
