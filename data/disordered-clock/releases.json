@@ -2,6 +2,34 @@
   "id": "disordered-clock",
   "releases": [
     {
+      "id": 339159937,
+      "tagName": "1.1",
+      "name": "乱序时钟背屏壁纸1.1",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-05-19T08:33:57Z",
+      "publishedAt": "2026-06-14T11:51:45Z",
+      "url": "https://github.com/w15wangyaowu-coder/-17pro-/releases/tag/1.1",
+      "body": "<p dir=\"auto\">无任何显示修改，仅增加可通过替换壁纸文件实现效果，文件解压后可看到替换文件和教程（不影响在reareye使用）</p>",
+      "assets": [
+        {
+          "id": 447248501,
+          "name": "DisorderedClockWallpaper1.1.zip",
+          "label": null,
+          "size": 212584,
+          "contentType": "application/zip",
+          "downloadCount": 0,
+          "createdAt": "2026-06-14T11:50:50Z",
+          "updatedAt": "2026-06-14T11:51:45Z",
+          "downloadUrl": "https://github.com/w15wangyaowu-coder/-17pro-/releases/download/1.1/DisorderedClockWallpaper1.1.zip"
+        }
+      ],
+      "widgetInfo": {
+        "type": "wallpaper",
+        "name": "乱序时钟"
+      }
+    },
+    {
       "id": 326035900,
       "tagName": "1.0",
       "name": "乱序时钟背屏壁纸",
@@ -18,7 +46,7 @@
           "label": null,
           "size": 8314,
           "contentType": "application/zip",
-          "downloadCount": 231,
+          "downloadCount": 232,
           "createdAt": "2026-05-20T14:42:55Z",
           "updatedAt": "2026-05-20T14:43:59Z",
           "downloadUrl": "https://github.com/w15wangyaowu-coder/-17pro-/releases/download/1.0/DisorderedClockWallpaper.zip"

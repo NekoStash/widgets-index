@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "disordered-clock",
+      "name": "乱序时钟",
+      "description": "基于墨飞大佬制作的桌面主题，janus的群友GeniesouL进行了背屏移植，我进行了进一步修改美化",
+      "author": {
+        "login": "w15wangyaowu-coder",
+        "name": "w15wangyaowu-coder",
+        "url": "https://github.com/w15wangyaowu-coder",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/229916231?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-06-14T11:51:45.000Z",
+      "repository": {
+        "fullName": "w15wangyaowu-coder/-17pro-",
+        "url": "https://github.com/w15wangyaowu-coder/-17pro-"
+      }
+    },
+    {
       "id": "mishare",
       "name": "Mishare背屏通知",
       "description": "小米互传超级岛同时转化到小米背屏的小组件",
@@ -18,23 +35,6 @@
       "repository": {
         "fullName": "juzipaome/Xiaomi-RearScreen-Mishare",
         "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Mishare"
-      }
-    },
-    {
-      "id": "disordered-clock",
-      "name": "乱序时钟",
-      "description": "基于墨飞大佬制作的桌面主题，janus的群友GeniesouL进行了背屏移植，我进行了进一步修改美化",
-      "author": {
-        "login": "w15wangyaowu-coder",
-        "name": "w15wangyaowu-coder",
-        "url": "https://github.com/w15wangyaowu-coder",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/229916231?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-05-20T14:43:59.000Z",
-      "repository": {
-        "fullName": "w15wangyaowu-coder/-17pro-",
-        "url": "https://github.com/w15wangyaowu-coder/-17pro-"
       }
     },
     {
