@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "music",
+      "name": "音乐歌词",
+      "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-06-15T15:43:52.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",
+        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music"
+      }
+    },
+    {
       "id": "disordered-clock",
       "name": "乱序时钟",
       "description": "基于墨飞大佬制作的桌面主题，janus的群友GeniesouL进行了背屏移植，我进行了进一步修改美化",
@@ -86,23 +103,6 @@
       "repository": {
         "fullName": "Jawiiki/Deviceinfo-REAREye",
         "url": "https://github.com/Jawiiki/Deviceinfo-REAREye"
-      }
-    },
-    {
-      "id": "music",
-      "name": "音乐歌词",
-      "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
-      "author": {
-        "login": "SiberiaApp",
-        "name": "SiberiaApp",
-        "url": "https://github.com/SiberiaApp",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-05-04T06:40:25.000Z",
-      "repository": {
-        "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",
-        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music"
       }
     },
     {
