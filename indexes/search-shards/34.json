@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 23,
+  "tokenCount": 24,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -20,6 +20,7 @@
       "mishare",
       "music",
       "pickup",
+      "schedule_reminder",
       "weather"
     ],
     "专属": [
@@ -37,10 +38,15 @@
       "business"
     ],
     "实宽": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "屏适": [
+      "schedule_reminder",
       "weather"
+    ],
+    "点版": [
+      "schedule_reminder"
     ],
     "王茶": [
       "business"
@@ -65,6 +71,7 @@
       "hyper-pick-up-code"
     ],
     "色彩": [
+      "schedule_reminder",
       "weather"
     ],
     "节点": [

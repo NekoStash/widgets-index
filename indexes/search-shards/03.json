@@ -1,7 +1,10 @@
 {
   "shard": "03",
-  "tokenCount": 27,
+  "tokenCount": 30,
   "tokens": {
+    "breathable": [
+      "schedule_reminder"
+    ],
     "disordered-clock": [
       "disordered-clock"
     ],
@@ -28,6 +31,9 @@
     ],
     "别系": [
       "business"
+    ],
+    "别逻": [
+      "schedule_reminder"
     ],
     "副屏": [
       "weather"
@@ -56,7 +62,11 @@
     "息屏": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
+    ],
+    "成回": [
+      "schedule_reminder"
     ],
     "找到": [
       "back_screen_desktop"

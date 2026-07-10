@@ -1,7 +1,10 @@
 {
   "shard": "0f",
-  "tokenCount": 30,
+  "tokenCount": 33,
   "tokens": {
+    "reminder": [
+      "schedule_reminder"
+    ],
     "主屏": [
       "business"
     ],
@@ -50,6 +53,9 @@
     "擎处": [
       "calendar-lite"
     ],
+    "时间切换为透亮浅蓝": [
+      "schedule_reminder"
+    ],
     "法滥": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -69,6 +75,7 @@
       "business",
       "calendar-lite",
       "hyper-pick-up-code",
+      "schedule_reminder",
       "weather"
     ],
     "自动识别外卖品牌并加载专属视觉资产": [
@@ -94,6 +101,9 @@
     ],
     "零帧绝杀": [
       "calendar-lite"
+    ],
+    "静态": [
+      "schedule_reminder"
     ]
   }
 }

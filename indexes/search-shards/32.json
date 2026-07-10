@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 26,
+  "tokenCount": 29,
   "tokens": {
     "automatically": [
       "music"
@@ -43,6 +43,9 @@
       "business",
       "weather"
     ],
+    "幅识": [
+      "schedule_reminder"
+    ],
     "播放": [
       "music",
       "weather"
@@ -64,6 +67,12 @@
     ],
     "片素": [
       "calendar-lite"
+    ],
+    "直接": [
+      "schedule_reminder"
+    ],
+    "程同": [
+      "schedule_reminder"
     ],
     "组件名称": [
       "hyper-pick-up-code"

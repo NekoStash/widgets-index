@@ -1,6 +1,6 @@
 {
   "shard": "11",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "flue": [
       "back_screen_desktop"
@@ -10,11 +10,13 @@
     ],
     "juzipaome": [
       "mishare",
-      "pickup"
+      "pickup",
+      "schedule_reminder"
     ],
     "screen": [
       "back_screen_desktop",
-      "music"
+      "music",
+      "schedule_reminder"
     ],
     "whenever": [
       "music"
@@ -31,6 +33,9 @@
     "参与": [
       "weather"
     ],
+    "后": [
+      "schedule_reminder"
+    ],
     "备续": [
       "weather"
     ],
@@ -43,6 +48,7 @@
     "心特": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "态切": [
@@ -81,6 +87,7 @@
     "逻辑": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "闰年及": [

@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 37,
+  "tokenCount": 40,
   "tokens": {
     "17pro-": [
       "disordered-clock",
@@ -12,9 +12,13 @@
     "margin": [
       "weather"
     ],
+    "schedule_reminder": [
+      "schedule_reminder"
+    ],
     "ui": [
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
     ],
     "不泡": [
@@ -45,7 +49,8 @@
       "mishare"
     ],
     "功耗": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "匹配": [
       "business"
@@ -65,6 +70,9 @@
     ],
     "均负": [
       "uriroute_deviceinfo"
+    ],
+    "境下": [
+      "schedule_reminder"
     ],
     "容不": [
       "business"
@@ -103,13 +111,17 @@
       "business"
     ],
     "省电": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "管底": [
       "business"
     ],
     "米系": [
       "calendar-lite"
+    ],
+    "经过": [
+      "schedule_reminder"
     ],
     "装方": [
       "hyper-pick-up-code"

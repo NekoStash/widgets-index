@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -20,6 +20,9 @@
     "他内": [
       "uriroute_deviceinfo"
     ],
+    "保护": [
+      "schedule_reminder"
+    ],
     "关键": [
       "business"
     ],
@@ -27,11 +30,13 @@
       "calendar-lite"
     ],
     "利用": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "动画": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "塔斯": [
@@ -59,6 +64,7 @@
       "business"
     ],
     "确保": [
+      "schedule_reminder",
       "uriroute_deviceinfo",
       "weather"
     ],

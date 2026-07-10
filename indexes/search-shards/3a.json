@@ -1,9 +1,12 @@
 {
   "shard": "3a",
-  "tokenCount": 34,
+  "tokenCount": 38,
   "tokens": {
     "no": [
       "calendar-lite"
+    ],
+    "q200": [
+      "schedule_reminder"
     ],
     "stuttering": [
       "music"
@@ -17,6 +20,7 @@
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "music",
+      "schedule_reminder",
       "weather"
     ],
     "他具": [
@@ -40,12 +44,14 @@
       "kingxv"
     ],
     "官方": [
-      "dragon_scales_clock"
+      "dragon_scales_clock",
+      "schedule_reminder"
     ],
     "导入": [
       "hyper-pick-up-code",
       "mishare",
-      "pickup"
+      "pickup",
+      "schedule_reminder"
     ],
     "已内置": [
       "kingxv"
@@ -56,6 +62,9 @@
     "待办": [
       "business"
     ],
+    "态插": [
+      "schedule_reminder"
+    ],
     "拼接": [
       "weather"
     ],
@@ -65,8 +74,12 @@
     "斯汀": [
       "business"
     ],
+    "日历日程": [
+      "schedule_reminder"
+    ],
     "是一": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "月天": [
@@ -114,6 +127,9 @@
     ],
     "面主": [
       "disordered-clock"
+    ],
+    "高对": [
+      "schedule_reminder"
     ]
   }
 }

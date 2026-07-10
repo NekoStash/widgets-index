@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 40,
+  "tokenCount": 45,
   "tokens": {
     "power": [
       "music"
@@ -18,7 +18,11 @@
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "为小": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
+    ],
+    "为透": [
+      "schedule_reminder"
     ],
     "乐播": [
       "music"
@@ -30,7 +34,11 @@
       "calendar-lite"
     ],
     "优雅": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
+    ],
+    "利用小米": [
+      "schedule_reminder"
     ],
     "别针": [
       "calendar-lite"
@@ -45,7 +53,8 @@
       "business"
     ],
     "嗅探": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "在动画完成的瞬间": [
       "calendar-lite"
@@ -75,6 +84,9 @@
     "打开": [
       "kingxv"
     ],
+    "打造的": [
+      "schedule_reminder"
+    ],
     "持亮": [
       "business"
     ],
@@ -87,6 +99,9 @@
     ],
     "标的": [
       "calendar-lite"
+    ],
+    "比计": [
+      "schedule_reminder"
     ],
     "气象": [
       "weather"
@@ -114,6 +129,9 @@
     ],
     "要微": [
       "calendar-lite"
+    ],
+    "谨遵": [
+      "schedule_reminder"
     ],
     "还内": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 31,
+  "tokenCount": 37,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -11,11 +11,17 @@
     "png": [
       "business"
     ],
+    "system": [
+      "schedule_reminder"
+    ],
     "the": [
       "music"
     ],
     "于该": [
       "uriroute_deviceinfo"
+    ],
+    "亮浅": [
+      "schedule_reminder"
     ],
     "今天": [
       "calendar-lite"
@@ -25,6 +31,9 @@
     ],
     "力于": [
       "weather"
+    ],
+    "在息屏时实现背景与文字的平滑交叉淡入淡出": [
+      "schedule_reminder"
     ],
     "壁纸": [
       "dragon_scales_clock"
@@ -39,7 +48,8 @@
       "business"
     ],
     "屏上": [
-      "course_schedule"
+      "course_schedule",
+      "schedule_reminder"
     ],
     "幕的": [
       "business"
@@ -50,6 +60,12 @@
     "弃了": [
       "calendar-lite"
     ],
+    "成系": [
+      "schedule_reminder"
+    ],
+    "抓取": [
+      "schedule_reminder"
+    ],
     "是横": [
       "kingxv"
     ],
@@ -57,7 +73,8 @@
       "kingxv"
     ],
     "析系": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "果是": [
       "kingxv"
@@ -76,6 +93,9 @@
     ],
     "相关": [
       "uriroute_deviceinfo"
+    ],
+    "统通": [
+      "schedule_reminder"
     ],
     "者说": [
       "business"

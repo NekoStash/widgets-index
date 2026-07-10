@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 31,
+  "tokenCount": 35,
   "tokens": {
     "equipped": [
       "music"
@@ -66,9 +66,13 @@
     "是从": [
       "weather"
     ],
+    "景与": [
+      "schedule_reminder"
+    ],
     "智能": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "标并": [
@@ -80,6 +84,9 @@
     "的超级岛同时转化到小米背屏的小组件": [
       "pickup"
     ],
+    "监听": [
+      "schedule_reminder"
+    ],
     "米互": [
       "mishare"
     ],
@@ -89,8 +96,14 @@
     "致力于丰富小米": [
       "weather"
     ],
+    "规范": [
+      "schedule_reminder"
+    ],
     "辨率": [
       "weather"
+    ],
+    "透亮": [
+      "schedule_reminder"
     ],
     "配合": [
       "calendar-lite"

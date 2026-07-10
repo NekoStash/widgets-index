@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 25,
+  "tokenCount": 30,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -26,9 +26,13 @@
     "yyyy": [
       "calendar-lite"
     ],
+    "下方": [
+      "schedule_reminder"
+    ],
     "作用": [
       "mishare",
-      "pickup"
+      "pickup",
+      "schedule_reminder"
     ],
     "划分": [
       "weather"
@@ -39,19 +43,32 @@
     "动判": [
       "calendar-lite"
     ],
+    "后彻底挂起引擎": [
+      "schedule_reminder"
+    ],
+    "在动画完成回调": [
+      "schedule_reminder"
+    ],
     "在此": [
       "business"
     ],
     "填写": [
       "hyper-pick-up-code",
       "mishare",
-      "pickup"
+      "pickup",
+      "schedule_reminder"
+    ],
+    "心极": [
+      "schedule_reminder"
     ],
     "手动安装步骤": [
       "uriroute_deviceinfo"
     ],
     "换或": [
       "weather"
+    ],
+    "接抓": [
+      "schedule_reminder"
     ],
     "模拟": [
       "weather"
@@ -79,7 +96,8 @@
       "weather"
     ],
     "高比": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ]
   }
 }

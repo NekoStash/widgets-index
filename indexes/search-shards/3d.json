@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 34,
+  "tokenCount": 35,
   "tokens": {
     "contributing": [
       "music"
@@ -16,7 +16,8 @@
     ],
     "juzi": [
       "mishare",
-      "pickup"
+      "pickup",
+      "schedule_reminder"
     ],
     "todo": [
       "business"
@@ -103,6 +104,9 @@
     ],
     "音播": [
       "weather"
+    ],
+    "顾美": [
+      "schedule_reminder"
     ],
     "黑打": [
       "calendar-lite"

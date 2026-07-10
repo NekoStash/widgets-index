@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 36,
+  "tokenCount": 38,
   "tokens": {
     "assets": [
       "business",
@@ -52,6 +52,9 @@
     "前台": [
       "business"
     ],
+    "动避": [
+      "schedule_reminder"
+    ],
     "卖品": [
       "business"
     ],
@@ -63,6 +66,9 @@
     ],
     "名称": [
       "hyper-pick-up-code"
+    ],
+    "它通": [
+      "schedule_reminder"
     ],
     "恢复": [
       "weather"
@@ -99,6 +105,7 @@
       "business"
     ],
     "美对": [
+      "schedule_reminder",
       "weather"
     ],
     "该版": [
@@ -107,7 +114,8 @@
     "通知": [
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
-      "mishare"
+      "mishare",
+      "schedule_reminder"
     ],
     "配到": [
       "business"

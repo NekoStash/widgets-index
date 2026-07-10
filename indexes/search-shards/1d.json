@@ -1,7 +1,10 @@
 {
   "shard": "1d",
-  "tokenCount": 33,
+  "tokenCount": 39,
   "tokens": {
+    "90caf9": [
+      "schedule_reminder"
+    ],
     "animation": [
       "weather"
     ],
@@ -18,6 +21,9 @@
     "tracks": [
       "music"
     ],
+    "xiaomi-rearscreen-schedule": [
+      "schedule_reminder"
+    ],
     "xiaomi-rearscreen-starisland": [
       "pickup"
     ],
@@ -26,6 +32,9 @@
     ],
     "下内": [
       "hyper-pick-up-code"
+    ],
+    "下清": [
+      "schedule_reminder"
     ],
     "件商": [
       "hyper-pick-up-code"
@@ -63,7 +72,8 @@
       "weather"
     ],
     "彻底": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "彻底挂起引擎": [
       "calendar-lite"
@@ -84,7 +94,8 @@
       "weather"
     ],
     "画引": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "纯黑": [
       "calendar-lite"
@@ -95,11 +106,20 @@
     "背屏课程表": [
       "course_schedule"
     ],
+    "让下": [
+      "schedule_reminder"
+    ],
     "设置": [
       "uriroute_deviceinfo"
     ],
     "请根": [
       "weather"
+    ],
+    "过缩": [
+      "schedule_reminder"
+    ],
+    "零帧挂起": [
+      "schedule_reminder"
     ],
     "题部": [
       "business"

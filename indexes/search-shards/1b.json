@@ -1,7 +1,10 @@
 {
   "shard": "1b",
-  "tokenCount": 27,
+  "tokenCount": 30,
   "tokens": {
+    "adaption": [
+      "schedule_reminder"
+    ],
     "adaptive": [
       "music"
     ],
@@ -28,17 +31,22 @@
     ],
     "丝滑": [
       "business",
+      "schedule_reminder",
       "weather"
     ],
     "了传": [
       "calendar-lite"
+    ],
+    "保黑": [
+      "schedule_reminder"
     ],
     "入对": [
       "weather"
     ],
     "入项": [
       "mishare",
-      "pickup"
+      "pickup",
+      "schedule_reminder"
     ],
     "副标": [
       "business"
@@ -61,6 +69,9 @@
     ],
     "将主屏幕的焦点通知实时同步至背屏显示": [
       "business"
+    ],
+    "将你": [
+      "schedule_reminder"
     ],
     "屏级": [
       "calendar-lite"
@@ -90,6 +101,7 @@
     "用于": [
       "calendar-lite",
       "music",
+      "schedule_reminder",
       "weather"
     ],
     "空间": [

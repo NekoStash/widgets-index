@@ -1,6 +1,6 @@
 {
   "shard": "21",
-  "tokenCount": 27,
+  "tokenCount": 31,
   "tokens": {
     "visible": [
       "music"
@@ -8,8 +8,14 @@
     "xiaomi-rearscreen-mishare": [
       "mishare"
     ],
+    "你的": [
+      "schedule_reminder"
+    ],
     "前代": [
       "business"
+    ],
+    "动转": [
+      "schedule_reminder"
     ],
     "可以": [
       "business",
@@ -19,7 +25,8 @@
       "course_schedule"
     ],
     "完成": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "定制": [
       "business",
@@ -62,6 +69,7 @@
       "business",
       "mishare",
       "pickup",
+      "schedule_reminder",
       "uriroute_deviceinfo"
     ],
     "滑过": [
@@ -81,8 +89,12 @@
     "硬地": [
       "calendar-lite"
     ],
+    "统底": [
+      "schedule_reminder"
+    ],
     "计算": [
       "calendar-lite",
+      "schedule_reminder",
       "uriroute_deviceinfo",
       "weather"
     ],
@@ -91,7 +103,11 @@
     ],
     "这是": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
+    ],
+    "造的": [
+      "schedule_reminder"
     ],
     "间变": [
       "calendar-lite"

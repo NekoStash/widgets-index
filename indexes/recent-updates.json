@@ -107,7 +107,7 @@
     },
     {
       "id": "kingxv",
-      "name": "17pro-",
+      "name": "kingxv桌面",
       "description": "17pro背屏桌面",
       "author": {
         "login": "w15wangyaowu-coder",
@@ -205,6 +205,23 @@
       "repository": {
         "fullName": "SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule",
         "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Xiaoai_Course_Schedule"
+      }
+    },
+    {
+      "id": "schedule_reminder",
+      "name": "日历日程",
+      "description": "适用于小米背屏的日程提醒小组件",
+      "author": {
+        "login": "juzipaome",
+        "name": "JUZI",
+        "url": "https://github.com/juzipaome",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-04-15T13:35:38.000Z",
+      "repository": {
+        "fullName": "juzipaome/Xiaomi-RearScreen-Schedule",
+        "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule"
       }
     },
     {

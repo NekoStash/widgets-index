@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 29,
+  "tokenCount": 37,
   "tokens": {
     "15": [
       "weather"
@@ -20,6 +20,9 @@
     "tastien": [
       "business"
     ],
+    "优雅地呈现在背屏上": [
+      "schedule_reminder"
+    ],
     "准提": [
       "business"
     ],
@@ -38,6 +41,9 @@
     "号星": [
       "calendar-lite"
     ],
+    "均经": [
+      "schedule_reminder"
+    ],
     "年及": [
       "calendar-lite"
     ],
@@ -49,6 +55,12 @@
     ],
     "拥有": [
       "uriroute_deviceinfo"
+    ],
+    "持日": [
+      "schedule_reminder"
+    ],
+    "换行": [
+      "schedule_reminder"
     ],
     "构建": [
       "weather"
@@ -69,7 +81,8 @@
       "business"
     ],
     "背屏机型": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "能品": [
       "business"
@@ -77,17 +90,29 @@
     "表达": [
       "calendar-lite"
     ],
+    "觉重": [
+      "schedule_reminder"
+    ],
     "责任": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "部图": [
       "calendar-lite"
     ],
+    "集成": [
+      "schedule_reminder"
+    ],
     "雨图": [
       "kingxv"
     ],
     "题与": [
       "business"
+    ],
+    "黑底": [
+      "schedule_reminder"
+    ],
+    "齐左": [
+      "schedule_reminder"
     ]
   }
 }

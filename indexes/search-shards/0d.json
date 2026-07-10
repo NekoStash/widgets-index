@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 29,
+  "tokenCount": 35,
   "tokens": {
     "are": [
       "music"
@@ -29,7 +29,14 @@
       "calendar-lite"
     ],
     "动效": [
+      "schedule_reminder",
       "weather"
+    ],
+    "历焦": [
+      "schedule_reminder"
+    ],
+    "可见": [
+      "schedule_reminder"
     ],
     "备特": [
       "calendar-lite"
@@ -44,14 +51,24 @@
       "business",
       "uriroute_deviceinfo"
     ],
+    "底环": [
+      "schedule_reminder"
+    ],
     "店安": [
       "hyper-pick-up-code"
+    ],
+    "度集": [
+      "schedule_reminder"
     ],
     "手搓的": [
       "calendar-lite"
     ],
+    "换为": [
+      "schedule_reminder"
+    ],
     "支持": [
       "business",
+      "schedule_reminder",
       "weather"
     ],
     "无素": [
@@ -73,7 +90,8 @@
       "calendar-lite"
     ],
     "画幅": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "的桌": [
       "disordered-clock"
@@ -91,10 +109,14 @@
     ],
     "进入": [
       "hyper-pick-up-code",
+      "schedule_reminder",
       "weather"
     ],
     "进行了背屏移植": [
       "disordered-clock"
+    ],
+    "适用于小米背屏的日程提醒小组件": [
+      "schedule_reminder"
     ]
   }
 }

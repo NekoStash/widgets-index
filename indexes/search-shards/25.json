@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 20,
+  "tokenCount": 22,
   "tokens": {
     "lyrics": [
       "music"
@@ -14,6 +14,9 @@
     "只做": [
       "kingxv"
     ],
+    "地呈": [
+      "schedule_reminder"
+    ],
     "堡王": [
       "business"
     ],
@@ -22,6 +25,9 @@
     ],
     "子动": [
       "weather"
+    ],
+    "并利用动态高度算法自动避让下方时间": [
+      "schedule_reminder"
     ],
     "成全": [
       "calendar-lite"
@@ -38,6 +44,7 @@
     "精准": [
       "business",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "背屏通知": [
@@ -62,7 +69,8 @@
       "pickup"
     ],
     "避让": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "顾了": [
       "calendar-lite"

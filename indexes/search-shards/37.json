@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 27,
+  "tokenCount": 31,
   "tokens": {
     "extracts": [
       "music"
@@ -9,7 +9,8 @@
       "hyper-pick-up-code"
     ],
     "oled": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "制的": [
       "business"
@@ -18,7 +19,8 @@
       "weather"
     ],
     "动画引擎": [
-      "business"
+      "business",
+      "schedule_reminder"
     ],
     "包名": [
       "business",
@@ -46,6 +48,7 @@
       "mishare",
       "music",
       "pickup",
+      "schedule_reminder",
       "weather"
     ],
     "屏音": [
@@ -56,6 +59,9 @@
     ],
     "应与": [
       "calendar-lite"
+    ],
+    "智能嗅探": [
+      "schedule_reminder"
     ],
     "月": [
       "calendar-lite"
@@ -69,12 +75,19 @@
     "特点": [
       "uriroute_deviceinfo"
     ],
+    "程标": [
+      "schedule_reminder"
+    ],
     "系列": [
       "business",
       "calendar-lite",
       "course_schedule",
       "music",
+      "schedule_reminder",
       "weather"
+    ],
+    "系统级日程同步": [
+      "schedule_reminder"
     ],
     "者不": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -94,6 +107,9 @@
     ],
     "雪冰": [
       "business"
+    ],
+    "题自": [
+      "schedule_reminder"
     ],
     "麦当劳": [
       "business"

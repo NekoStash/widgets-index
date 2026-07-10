@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 20,
+  "tokenCount": 22,
   "tokens": {
     "active": [
       "music"
@@ -17,6 +17,7 @@
     "一个": [
       "back_screen_desktop",
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "下载组件": [
@@ -24,6 +25,9 @@
     ],
     "与此": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "为高": [
+      "schedule_reminder"
     ],
     "了背": [
       "disordered-clock"
@@ -33,6 +37,9 @@
     ],
     "刷新率降至": [
       "business"
+    ],
+    "动换": [
+      "schedule_reminder"
     ],
     "常渲": [
       "weather"

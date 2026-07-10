@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "display": [
       "music"
@@ -11,6 +11,9 @@
     "is": [
       "music"
     ],
+    "sub": [
+      "schedule_reminder"
+    ],
     "下落": [
       "weather"
     ],
@@ -18,6 +21,7 @@
       "hyper-pick-up-code",
       "mishare",
       "pickup",
+      "schedule_reminder",
       "uriroute_deviceinfo"
     ],
     "亮屏瞬间秒切": [
@@ -28,6 +32,7 @@
     ],
     "实时": [
       "business",
+      "schedule_reminder",
       "weather"
     ],
     "导入组件至": [
@@ -93,7 +98,8 @@
     "重启": [
       "hyper-pick-up-code",
       "mishare",
-      "pickup"
+      "pickup",
+      "schedule_reminder"
     ],
     "须搭": [
       "course_schedule"

@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 31,
+  "tokenCount": 34,
   "tokens": {
     "animations": [
       "music"
@@ -13,6 +13,7 @@
     ],
     "maml": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "modules": [
@@ -26,7 +27,8 @@
       "business"
     ],
     "个专": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "仅修": [
       "uriroute_deviceinfo"
@@ -41,6 +43,7 @@
       "business",
       "calendar-lite",
       "kingxv",
+      "schedule_reminder",
       "weather"
     ],
     "取标": [
@@ -64,6 +67,9 @@
     "息屏状态": [
       "business"
     ],
+    "据真": [
+      "schedule_reminder"
+    ],
     "新品": [
       "business"
     ],
@@ -72,11 +78,19 @@
     ],
     "点通": [
       "business",
-      "hyper-pick-up-code-reareye-xiaomi"
+      "hyper-pick-up-code-reareye-xiaomi",
+      "schedule_reminder"
+    ],
+    "现极": [
+      "schedule_reminder"
     ],
     "用方": [
       "mishare",
-      "pickup"
+      "pickup",
+      "schedule_reminder"
+    ],
+    "省电规范": [
+      "schedule_reminder"
     ],
     "知与": [
       "business"
@@ -85,7 +99,8 @@
       "back_screen_desktop"
     ],
     "级动": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "纯数": [
       "calendar-lite"
@@ -100,7 +115,8 @@
       "calendar-lite"
     ],
     "零帧": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ]
   }
 }

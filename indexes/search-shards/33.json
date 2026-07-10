@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 26,
+  "tokenCount": 28,
   "tokens": {
     "built": [
       "music"
@@ -39,6 +39,9 @@
     "在状": [
       "weather"
     ],
+    "复刻官方级动效": [
+      "schedule_reminder"
+    ],
     "安装": [
       "hyper-pick-up-code",
       "uriroute_deviceinfo"
@@ -53,10 +56,14 @@
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
-      "pickup"
+      "pickup",
+      "schedule_reminder"
     ],
     "期偏": [
       "calendar-lite"
+    ],
+    "标均": [
+      "schedule_reminder"
     ],
     "源目": [
       "weather"
@@ -78,7 +85,8 @@
     ],
     "部件": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "面的": [
       "back_screen_desktop"

@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 30,
+  "tokenCount": 34,
   "tokens": {
     "burger": [
       "business"
@@ -29,6 +29,9 @@
     "便签": [
       "business"
     ],
+    "听逻": [
+      "schedule_reminder"
+    ],
     "定位到": [
       "business"
     ],
@@ -36,7 +39,8 @@
       "business"
     ],
     "宽高": [
-      "calendar-lite"
+      "calendar-lite",
+      "schedule_reminder"
     ],
     "小于": [
       "uriroute_deviceinfo"
@@ -53,18 +57,26 @@
     "手机": [
       "business"
     ],
+    "据流": [
+      "schedule_reminder"
+    ],
     "控制": [
       "weather"
+    ],
+    "清晰": [
+      "schedule_reminder"
     ],
     "的嗅探逻辑": [
       "calendar-lite"
     ],
     "真实": [
       "calendar-lite",
+      "schedule_reminder",
       "weather"
     ],
     "视觉": [
       "business",
+      "schedule_reminder",
       "weather"
     ],
     "等比": [
@@ -86,6 +98,9 @@
     ],
     "随风": [
       "weather"
+    ],
+    "雅地": [
+      "schedule_reminder"
     ],
     "需支": [
       "business"

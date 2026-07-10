@@ -1,5 +1,8 @@
 {
   "id": "kingxv",
   "type": "wallpaper",
-  "widgetInfo": null
+  "widgetInfo": {
+    "type": "wallpaper",
+    "name": "kingxv桌面"
+  }
 }
