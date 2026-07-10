@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 38,
+  "tokenCount": 36,
   "tokens": {
     "210": [
       "weather"
@@ -46,13 +46,9 @@
     "动压": [
       "calendar-lite"
     ],
-    "历日": [
-      "schedule_reminder"
-    ],
     "后重": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "在手": [
       "business"
@@ -67,8 +63,7 @@
       "calendar-lite"
     ],
     "摄像": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "数据依赖": [
       "weather"
@@ -121,9 +116,6 @@
     ],
     "适配焦点通知": [
       "hyper-pick-up-code-reareye-xiaomi"
-    ],
-    "重构": [
-      "schedule_reminder"
     ]
   }
 }

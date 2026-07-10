@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 29,
+  "tokenCount": 24,
   "tokens": {
     "450": [
       "weather"
@@ -42,26 +42,11 @@
     "块的": [
       "business"
     ],
-    "字的": [
-      "schedule_reminder"
-    ],
-    "实时解析": [
-      "schedule_reminder"
-    ],
-    "将你的日历日程实时": [
-      "schedule_reminder"
-    ],
     "屏瞬": [
       "calendar-lite"
     ],
     "彻底抛弃了传统的": [
       "calendar-lite"
-    ],
-    "数据流": [
-      "schedule_reminder"
-    ],
-    "根据真实宽高比计算全局缩放系数": [
-      "schedule_reminder"
     ],
     "澎湃": [
       "hyper-pick-up-code",
@@ -79,8 +64,7 @@
     "识别": [
       "business",
       "calendar-lite",
-      "kingxv",
-      "schedule_reminder"
+      "kingxv"
     ],
     "载为": [
       "uriroute_deviceinfo"

@@ -1,13 +1,12 @@
 {
   "shard": "27",
-  "tokenCount": 34,
+  "tokenCount": 28,
   "tokens": {
     "aod": [
       "business",
       "calendar-lite",
       "kingxv",
       "music",
-      "schedule_reminder",
       "weather"
     ],
     "maker": [
@@ -16,17 +15,8 @@
     "me": [
       "music"
     ],
-    "oncomplete": [
-      "schedule_reminder"
-    ],
-    "p2": [
-      "schedule_reminder"
-    ],
     "pork": [
       "back_screen_desktop"
-    ],
-    "rate": [
-      "schedule_reminder"
     ],
     "不仅": [
       "weather"
@@ -52,8 +42,7 @@
     ],
     "域即": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "基于小米焦点通知": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -66,9 +55,6 @@
     ],
     "安装前需确保": [
       "uriroute_deviceinfo"
-    ],
-    "提醒": [
-      "schedule_reminder"
     ],
     "播报": [
       "weather"
@@ -85,19 +71,12 @@
     "此目": [
       "weather"
     ],
-    "浅蓝": [
-      "schedule_reminder"
-    ],
     "牌并": [
       "business"
     ],
     "环境": [
       "calendar-lite",
-      "schedule_reminder",
       "weather"
-    ],
-    "精准排版": [
-      "schedule_reminder"
     ],
     "系列等具备特殊比例背屏": [
       "calendar-lite"

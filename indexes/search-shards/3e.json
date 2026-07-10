@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 32,
+  "tokenCount": 30,
   "tokens": {
     "about": [
       "music"
@@ -33,8 +33,7 @@
       "calendar-lite"
     ],
     "像头": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "全依": [
       "calendar-lite"
@@ -73,14 +72,8 @@
     "掌握": [
       "business"
     ],
-    "文本": [
-      "schedule_reminder"
-    ],
     "月天数": [
       "calendar-lite"
-    ],
-    "的静": [
-      "schedule_reminder"
     ],
     "级背": [
       "business"
@@ -91,7 +84,6 @@
     "通过": [
       "business",
       "calendar-lite",
-      "schedule_reminder",
       "weather"
     ],
     "面可": [

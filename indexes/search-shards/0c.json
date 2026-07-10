@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 33,
+  "tokenCount": 32,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -9,8 +9,7 @@
       "music"
     ],
     "schedule": [
-      "course_schedule",
-      "schedule_reminder"
+      "course_schedule"
     ],
     "tint": [
       "music"
@@ -20,8 +19,7 @@
     ],
     "之后": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "他搭": [
       "business"
@@ -32,7 +30,6 @@
     "切换": [
       "business",
       "kingxv",
-      "schedule_reminder",
       "weather"
     ],
     "包的": [
@@ -54,12 +51,10 @@
       "business"
     ],
     "屏机": [
-      "business",
-      "schedule_reminder"
+      "business"
     ],
     "帧挂": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "打车": [
       "business"
@@ -73,13 +68,9 @@
     "未匹": [
       "business"
     ],
-    "标题自动转为高对比度白色": [
-      "schedule_reminder"
-    ],
     "核心": [
       "business",
       "calendar-lite",
-      "schedule_reminder",
       "weather"
     ],
     "正常渲染视觉效果": [
@@ -93,8 +84,7 @@
     ],
     "背景": [
       "business",
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "自适应刷新率控制": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 32,
+  "tokenCount": 27,
   "tokens": {
     "二": [
       "hyper-pick-up-code"
@@ -32,11 +32,7 @@
     ],
     "并激": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
-    ],
-    "彩重": [
-      "schedule_reminder"
+      "pickup"
     ],
     "影引": [
       "weather"
@@ -49,9 +45,6 @@
     ],
     "数学": [
       "calendar-lite"
-    ],
-    "本适": [
-      "schedule_reminder"
     ],
     "本项目特别针对": [
       "calendar-lite"
@@ -67,15 +60,11 @@
     "殊比": [
       "calendar-lite"
     ],
-    "淡入": [
-      "schedule_reminder"
-    ],
     "烧屏": [
       "calendar-lite"
     ],
     "码内": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "素并": [
       "weather"
@@ -84,14 +73,7 @@
       "dragon_scales_clock"
     ],
     "统级": [
-      "calendar-lite",
-      "schedule_reminder"
-    ],
-    "行": [
-      "schedule_reminder"
-    ],
-    "长文": [
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "零帧挂起省电逻辑": [
       "calendar-lite"

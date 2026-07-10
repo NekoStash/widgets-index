@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 38,
+  "tokenCount": 36,
   "tokens": {
     "30": [
       "calendar-lite"
@@ -46,12 +46,10 @@
     ],
     "底层": [
       "business",
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "底挂": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "微调": [
       "calendar-lite"
@@ -61,24 +59,15 @@
     ],
     "挂起": [
       "calendar-lite",
-      "schedule_reminder",
       "weather"
-    ],
-    "换算": [
-      "schedule_reminder"
     ],
     "本项": [
       "calendar-lite",
-      "schedule_reminder",
       "weather"
-    ],
-    "机功": [
-      "schedule_reminder"
     ],
     "模块并激活后": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "横屏": [
       "kingxv"

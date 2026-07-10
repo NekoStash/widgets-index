@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 40,
+  "tokenCount": 38,
   "tokens": {
     "120hz": [
       "weather"
@@ -15,7 +15,6 @@
       "business",
       "calendar-lite",
       "course_schedule",
-      "schedule_reminder",
       "weather"
     ],
     "safe": [
@@ -29,9 +28,6 @@
     ],
     "与背景": [
       "business"
-    ],
-    "严谨": [
-      "schedule_reminder"
     ],
     "以在": [
       "business"
@@ -58,12 +54,10 @@
       "business"
     ],
     "坐标": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "屏时": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "屏状": [
       "business"
@@ -86,7 +80,6 @@
     "核心特性": [
       "business",
       "calendar-lite",
-      "schedule_reminder",
       "weather"
     ],
     "比例": [
@@ -103,8 +96,7 @@
     ],
     "用域": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "用生": [
       "weather"
@@ -137,14 +129,10 @@
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "pickup",
-      "schedule_reminder",
       "weather"
     ],
     "速度": [
       "weather"
-    ],
-    "长文本适配": [
-      "schedule_reminder"
     ]
   }
 }

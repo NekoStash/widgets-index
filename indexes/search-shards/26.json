@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 41,
+  "tokenCount": 37,
   "tokens": {
     "an": [
       "music"
@@ -54,14 +54,8 @@
     "依赖应用": [
       "business"
     ],
-    "侧摄": [
-      "schedule_reminder"
-    ],
     "兼容": [
       "business"
-    ],
-    "刻官": [
-      "schedule_reminder"
     ],
     "加载": [
       "business"
@@ -71,12 +65,10 @@
     ],
     "启作": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "回调": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "大的": [
       "business"
@@ -87,18 +79,11 @@
     "底防": [
       "calendar-lite"
     ],
-    "打造": [
-      "schedule_reminder"
-    ],
-    "方时": [
-      "schedule_reminder"
-    ],
     "无白": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "极低": [
-      "business",
-      "schedule_reminder"
+      "business"
     ],
     "湃记": [
       "hyper-pick-up-code",
@@ -130,8 +115,7 @@
       "calendar-lite"
     ],
     "解析": [
-      "business",
-      "schedule_reminder"
+      "business"
     ],
     "贡献": [
       "weather"

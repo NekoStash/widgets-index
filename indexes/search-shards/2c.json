@@ -1,12 +1,9 @@
 {
   "shard": "2c",
-  "tokenCount": 41,
+  "tokenCount": 38,
   "tokens": {
     "album": [
       "music"
-    ],
-    "android": [
-      "schedule_reminder"
     ],
     "app": [
       "kingxv"
@@ -31,8 +28,7 @@
     ],
     "使用方法": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "入组": [
       "hyper-pick-up-code"
@@ -54,14 +50,10 @@
     ],
     "对齐": [
       "calendar-lite",
-      "schedule_reminder",
       "weather"
     ],
     "屏通": [
       "mishare"
-    ],
-    "度白": [
-      "schedule_reminder"
     ],
     "弦函": [
       "weather"
@@ -95,8 +87,7 @@
     ],
     "激活": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "目录": [
       "business",
@@ -121,7 +112,6 @@
       "mishare",
       "music",
       "pickup",
-      "schedule_reminder",
       "uriroute_deviceinfo",
       "weather"
     ],
@@ -139,9 +129,6 @@
     ],
     "辑优": [
       "business"
-    ],
-    "间切": [
-      "schedule_reminder"
     ],
     "龙鳞纤维时钟壁纸": [
       "dragon_scales_clock"

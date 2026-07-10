@@ -1,6 +1,6 @@
 {
   "shard": "17",
-  "tokenCount": 24,
+  "tokenCount": 22,
   "tokens": {
     "controls": [
       "music"
@@ -9,13 +9,11 @@
       "uriroute_deviceinfo"
     ],
     "全区": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "即可": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "否则需重新安装该背屏模块": [
       "uriroute_deviceinfo"
@@ -34,9 +32,6 @@
     ],
     "基础": [
       "business"
-    ],
-    "幕保": [
-      "schedule_reminder"
     ],
     "无缝解析系统": [
       "business"
@@ -66,9 +61,6 @@
     "能仅": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
-    "能嗅": [
-      "schedule_reminder"
-    ],
     "行了": [
       "calendar-lite",
       "disordered-clock"
@@ -79,7 +71,6 @@
     "适用": [
       "calendar-lite",
       "music",
-      "schedule_reminder",
       "weather"
     ]
   }

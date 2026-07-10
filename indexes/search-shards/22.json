@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 30,
+  "tokenCount": 28,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -19,9 +19,6 @@
       "disordered-clock",
       "kingxv"
     ],
-    "与文": [
-      "schedule_reminder"
-    ],
     "中修": [
       "calendar-lite"
     ],
@@ -37,7 +34,6 @@
     "动态": [
       "business",
       "calendar-lite",
-      "schedule_reminder",
       "weather"
     ],
     "可以上滑返回或侧滑返回": [
@@ -53,8 +49,7 @@
       "dragon_scales_clock"
     ],
     "小部": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "屏动": [
       "weather"
@@ -63,8 +58,7 @@
       "calendar-lite"
     ],
     "所有": [
-      "dragon_scales_clock",
-      "schedule_reminder"
+      "dragon_scales_clock"
     ],
     "时也": [
       "business"
@@ -74,15 +68,11 @@
       "dragon_scales_clock",
       "kingxv"
     ],
-    "淡出": [
-      "schedule_reminder"
-    ],
     "理息": [
       "calendar-lite"
     ],
     "画完": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "的内": [
       "uriroute_deviceinfo"

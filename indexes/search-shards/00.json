@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 34,
+  "tokenCount": 32,
   "tokens": {
     "devices": [
       "music"
@@ -73,9 +73,6 @@
     "时拉": [
       "weather"
     ],
-    "晰可": [
-      "schedule_reminder"
-    ],
     "智能品牌识别系统": [
       "business"
     ],
@@ -84,9 +81,6 @@
     ],
     "用列": [
       "kingxv"
-    ],
-    "目深": [
-      "schedule_reminder"
     ],
     "称可": [
       "hyper-pick-up-code"

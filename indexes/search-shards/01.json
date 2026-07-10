@@ -1,6 +1,6 @@
 {
   "shard": "01",
-  "tokenCount": 18,
+  "tokenCount": 16,
   "tokens": {
     "this": [
       "music"
@@ -14,18 +14,13 @@
     "保仓": [
       "weather"
     ],
-    "动态小部件": [
-      "schedule_reminder"
-    ],
     "在背": [
       "back_screen_desktop",
       "business",
-      "schedule_reminder",
       "uriroute_deviceinfo"
     ],
     "屏日": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "帧绝": [
       "calendar-lite"
@@ -59,9 +54,6 @@
     ],
     "认在": [
       "uriroute_deviceinfo"
-    ],
-    "重心": [
-      "schedule_reminder"
     ],
     "闰年": [
       "calendar-lite"

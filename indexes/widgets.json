@@ -81,7 +81,7 @@
   },
   {
     "id": "kingxv",
-    "name": "kingxv桌面",
+    "name": "17pro-",
     "authorName": "w15wangyaowu-coder",
     "authorId": "w15wangyaowu-coder",
     "description": "17pro背屏桌面",
@@ -118,16 +118,6 @@
     "latestReleaseTag": "beta",
     "latestReleasePublishedAt": "2026-04-15T05:54:02.000Z",
     "stars": 2
-  },
-  {
-    "id": "schedule_reminder",
-    "name": "日历日程",
-    "authorName": "JUZI",
-    "authorId": "juzipaome",
-    "description": "适用于小米背屏的日程提醒小组件",
-    "latestReleaseTag": "beta-0.2",
-    "latestReleasePublishedAt": "2026-04-15T08:27:54.000Z",
-    "stars": 0
   },
   {
     "id": "uriroute_deviceinfo",

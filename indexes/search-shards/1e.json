@@ -1,13 +1,12 @@
 {
   "shard": "1e",
-  "tokenCount": 43,
+  "tokenCount": 36,
   "tokens": {
     "artist": [
       "music"
     ],
     "com": [
-      "course_schedule",
-      "schedule_reminder"
+      "course_schedule"
     ],
     "control": [
       "music"
@@ -33,17 +32,11 @@
     "从系": [
       "dragon_scales_clock"
     ],
-    "代码内置": [
-      "schedule_reminder"
-    ],
     "以上": [
       "kingxv"
     ],
     "叠法": [
       "calendar-lite"
-    ],
-    "后彻": [
-      "schedule_reminder"
     ],
     "备背": [
       "weather"
@@ -51,9 +44,6 @@
     "大佬": [
       "disordered-clock",
       "kingxv"
-    ],
-    "头安": [
-      "schedule_reminder"
     ],
     "导网": [
       "calendar-lite"
@@ -70,9 +60,6 @@
     "应缩": [
       "business"
     ],
-    "度稳": [
-      "schedule_reminder"
-    ],
     "当月": [
       "calendar-lite"
     ],
@@ -86,9 +73,6 @@
       "kingxv",
       "uriroute_deviceinfo"
     ],
-    "时解": [
-      "schedule_reminder"
-    ],
     "智能识别当前运行环境是": [
       "calendar-lite"
     ],
@@ -97,9 +81,6 @@
     ],
     "材日": [
       "calendar-lite"
-    ],
-    "极度": [
-      "schedule_reminder"
     ],
     "正常": [
       "weather"
@@ -110,9 +91,6 @@
     "法做": [
       "kingxv"
     ],
-    "视觉重心极度稳定": [
-      "schedule_reminder"
-    ],
     "站找": [
       "back_screen_desktop"
     ],
@@ -120,15 +98,13 @@
       "hyper-pick-up-code"
     ],
     "系数": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "结合": [
       "weather"
     ],
     "统的": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "课程": [
       "course_schedule"

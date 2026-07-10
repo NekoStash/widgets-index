@@ -1,13 +1,12 @@
 {
   "shard": "1f",
-  "tokenCount": 33,
+  "tokenCount": 29,
   "tokens": {
     "30s": [
       "uriroute_deviceinfo"
     ],
     "calendar": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "history": [
       "music"
@@ -18,22 +17,12 @@
     "一": [
       "hyper-pick-up-code"
     ],
-    "不同于传统的静态插件": [
-      "schedule_reminder"
-    ],
     "偏移": [
       "calendar-lite"
     ],
     "兼顾": [
       "calendar-lite",
-      "schedule_reminder",
       "weather"
-    ],
-    "最多": [
-      "schedule_reminder"
-    ],
-    "叉淡": [
-      "schedule_reminder"
     ],
     "命名为": [
       "business"
@@ -94,11 +83,7 @@
       "business",
       "calendar-lite",
       "dragon_scales_clock",
-      "schedule_reminder",
       "weather"
-    ],
-    "过解": [
-      "schedule_reminder"
     ],
     "还内置了极具沉浸感的粒子动效与全天候光影渲染": [
       "weather"

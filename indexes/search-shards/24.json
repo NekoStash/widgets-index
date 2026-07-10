@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 22,
+  "tokenCount": 21,
   "tokens": {
     "always": [
       "music"
@@ -24,13 +24,11 @@
       "business"
     ],
     "安全": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "导入项目压缩包": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "度展": [
       "mishare"
@@ -49,9 +47,6 @@
     ],
     "气小": [
       "weather"
-    ],
-    "的原": [
-      "schedule_reminder"
     ],
     "等": [
       "calendar-lite"

@@ -1,12 +1,11 @@
 {
   "shard": "31",
-  "tokenCount": 40,
+  "tokenCount": 37,
   "tokens": {
     "17": [
       "business",
       "calendar-lite",
       "course_schedule",
-      "schedule_reminder",
       "weather"
     ],
     "colors": [
@@ -19,7 +18,6 @@
     ],
     "scale": [
       "business",
-      "schedule_reminder",
       "weather"
     ],
     "star": [
@@ -38,9 +36,6 @@
     ],
     "最新测试版本": [
       "hyper-pick-up-code"
-    ],
-    "准排": [
-      "schedule_reminder"
     ],
     "包含": [
       "weather"
@@ -68,8 +63,7 @@
       "weather"
     ],
     "屏幕": [
-      "business",
-      "schedule_reminder"
+      "business"
     ],
     "年月": [
       "calendar-lite"
@@ -97,18 +91,12 @@
       "business",
       "weather"
     ],
-    "日程": [
-      "schedule_reminder"
-    ],
     "格坐": [
       "calendar-lite"
     ],
     "欢迎": [
       "kingxv",
       "weather"
-    ],
-    "焦点通知": [
-      "schedule_reminder"
     ],
     "率降": [
       "business",

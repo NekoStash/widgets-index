@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 28,
+  "tokenCount": 24,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
@@ -16,7 +16,6 @@
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "pickup",
-      "schedule_reminder",
       "uriroute_deviceinfo"
     ],
     "track": [
@@ -24,14 +23,10 @@
     ],
     "不同": [
       "business",
-      "schedule_reminder",
       "weather"
     ],
     "会写": [
       "mishare"
-    ],
-    "低待": [
-      "schedule_reminder"
     ],
     "内置强大的关键词匹配引擎": [
       "business"
@@ -48,9 +43,6 @@
     "度降": [
       "calendar-lite"
     ],
-    "态高": [
-      "schedule_reminder"
-    ],
     "提供": [
       "hyper-pick-up-code-reareye-xiaomi",
       "weather"
@@ -63,20 +55,13 @@
     ],
     "活后": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "演算": [
       "weather"
     ],
-    "电规": [
-      "schedule_reminder"
-    ],
     "码默": [
       "calendar-lite"
-    ],
-    "程实": [
-      "schedule_reminder"
     ],
     "置以": [
       "business"

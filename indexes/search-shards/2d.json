@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 30,
+  "tokenCount": 27,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -43,14 +43,10 @@
       "business"
     ],
     "在动": [
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "外卖": [
       "business"
-    ],
-    "实现极低待机功耗": [
-      "schedule_reminder"
     ],
     "层铺": [
       "calendar-lite"
@@ -67,9 +63,6 @@
     "机倒": [
       "business"
     ],
-    "用动": [
-      "schedule_reminder"
-    ],
     "画接": [
       "business"
     ],
@@ -85,9 +78,6 @@
     "自适": [
       "business",
       "weather"
-    ],
-    "色彩重构": [
-      "schedule_reminder"
     ],
     "讯模": [
       "uriroute_deviceinfo"

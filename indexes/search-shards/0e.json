@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 40,
+  "tokenCount": 34,
   "tokens": {
     "deliver": [
       "music"
@@ -17,9 +17,6 @@
     "一步": [
       "disordered-clock"
     ],
-    "交叉": [
-      "schedule_reminder"
-    ],
     "件至": [
       "hyper-pick-up-code"
     ],
@@ -32,14 +29,10 @@
     "号的动态隐藏与显示": [
       "calendar-lite"
     ],
-    "始数": [
-      "schedule_reminder"
-    ],
     "小组": [
       "calendar-lite",
       "mishare",
       "pickup",
-      "schedule_reminder",
       "weather"
     ],
     "屏的": [
@@ -47,7 +40,6 @@
       "kingxv",
       "mishare",
       "pickup",
-      "schedule_reminder",
       "weather"
     ],
     "屏组": [
@@ -62,9 +54,6 @@
     ],
     "归小": [
       "dragon_scales_clock"
-    ],
-    "待机": [
-      "schedule_reminder"
     ],
     "快餐": [
       "business"
@@ -89,7 +78,6 @@
     ],
     "深度": [
       "business",
-      "schedule_reminder",
       "weather"
     ],
     "深度定制的": [
@@ -99,16 +87,12 @@
       "business",
       "weather"
     ],
-    "灵动外屏适配": [
-      "schedule_reminder"
-    ],
     "的天": [
       "weather"
     ],
     "目压": [
       "mishare",
-      "pickup",
-      "schedule_reminder"
+      "pickup"
     ],
     "结合正弦函数": [
       "weather"
@@ -118,20 +102,13 @@
     ],
     "缩放": [
       "business",
-      "calendar-lite",
-      "schedule_reminder"
+      "calendar-lite"
     ],
     "背屏动态天气微件": [
       "weather"
     ],
     "进一": [
       "disordered-clock"
-    ],
-    "遵循": [
-      "schedule_reminder"
-    ],
-    "醒小": [
-      "schedule_reminder"
     ],
     "需拥": [
       "uriroute_deviceinfo"
