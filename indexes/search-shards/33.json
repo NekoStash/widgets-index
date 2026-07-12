@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 28,
+  "tokenCount": 27,
   "tokens": {
     "built": [
       "music"
@@ -28,9 +28,6 @@
     ],
     "冰城": [
       "business"
-    ],
-    "取版": [
-      "dragon_scales_clock"
     ],
     "唤醒": [
       "calendar-lite",

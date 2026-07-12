@@ -219,7 +219,7 @@
     {
       "shard": "29",
       "path": "indexes/search-shards/29.json",
-      "tokenCount": 39
+      "tokenCount": 38
     },
     {
       "shard": "2a",
@@ -269,7 +269,7 @@
     {
       "shard": "33",
       "path": "indexes/search-shards/33.json",
-      "tokenCount": 28
+      "tokenCount": 27
     },
     {
       "shard": "34",
