@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 38,
+  "tokenCount": 39,
   "tokens": {
     "experience": [
       "music"
@@ -72,6 +72,9 @@
     ],
     "态生": [
       "calendar-lite"
+    ],
+    "提取版": [
+      "dragon_scales_clock"
     ],
     "数值": [
       "calendar-lite"
