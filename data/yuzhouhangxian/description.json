@@ -1,0 +1,24 @@
+{
+  "id": "yuzhouhangxian",
+  "name": "宇宙航线：REAREye独家",
+  "sourceMetadataPath": "repos/yuzhouhangxian/metadata.json",
+  "repository": {
+    "widgetName": "宇宙航线：REAREye独家",
+    "owner": "SiberiaApp",
+    "name": "yuzhouhangxian",
+    "fullName": "SiberiaApp/yuzhouhangxian",
+    "url": "https://github.com/SiberiaApp/yuzhouhangxian",
+    "description": "宇宙航线：REAREye独家",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-07-17T02:25:27Z",
+    "updatedAt": "2026-07-17T02:59:10Z",
+    "pushedAt": "2026-07-17T02:59:06Z"
+  }
+}

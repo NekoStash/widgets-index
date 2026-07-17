@@ -39,11 +39,13 @@
       "calendar-lite",
       "course_schedule",
       "uriroute_deviceinfo",
-      "weather"
+      "weather",
+      "yuzhouhangxian"
     ],
     "版本": [
       "hyper-pick-up-code",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yuzhouhangxian"
     ],
     "电压": [
       "uriroute_deviceinfo"

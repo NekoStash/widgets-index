@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 35,
+  "tokenCount": 36,
   "tokens": {
     "equipped": [
       "music"
@@ -59,6 +59,9 @@
     ],
     "文件": [
       "uriroute_deviceinfo"
+    ],
+    "星图": [
+      "yuzhouhangxian"
     ],
     "星空与云朵": [
       "weather"

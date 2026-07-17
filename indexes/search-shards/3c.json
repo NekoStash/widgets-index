@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 28,
+  "tokenCount": 30,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
@@ -17,7 +17,8 @@
       "mishare",
       "pickup",
       "schedule_reminder",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yuzhouhangxian"
     ],
     "track": [
       "music"
@@ -27,11 +28,17 @@
       "schedule_reminder",
       "weather"
     ],
+    "从此刻的坐标出发": [
+      "yuzhouhangxian"
+    ],
     "会写": [
       "mishare"
     ],
     "低待": [
       "schedule_reminder"
+    ],
+    "入围": [
+      "yuzhouhangxian"
     ],
     "内置强大的关键词匹配引擎": [
       "business"

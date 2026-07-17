@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 26,
+  "tokenCount": 29,
   "tokens": {
     "save": [
       "music"
@@ -16,6 +16,9 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "为灵": [
+      "yuzhouhangxian"
     ],
     "偏左": [
       "calendar-lite"
@@ -40,6 +43,9 @@
     ],
     "手动安装": [
       "hyper-pick-up-code"
+    ],
+    "未知": [
+      "yuzhouhangxian"
     ],
     "标签": [
       "calendar-lite"
@@ -82,6 +88,9 @@
     "这是一个专为小米": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "道为": [
+      "yuzhouhangxian"
     ],
     "雨量": [
       "weather"

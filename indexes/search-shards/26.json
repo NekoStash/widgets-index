@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 41,
+  "tokenCount": 42,
   "tokens": {
     "an": [
       "music"
@@ -128,6 +128,9 @@
     ],
     "自动判定平": [
       "calendar-lite"
+    ],
+    "航线": [
+      "yuzhouhangxian"
     ],
     "解析": [
       "business",

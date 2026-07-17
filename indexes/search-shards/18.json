@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 40,
+  "tokenCount": 44,
   "tokens": {
     "120hz": [
       "weather"
@@ -59,7 +59,8 @@
     ],
     "坐标": [
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "yuzhouhangxian"
     ],
     "屏时": [
       "calendar-lite",
@@ -89,6 +90,9 @@
       "schedule_reminder",
       "weather"
     ],
+    "此刻": [
+      "yuzhouhangxian"
+    ],
     "比例": [
       "business",
       "calendar-lite",
@@ -100,6 +104,9 @@
     "状态": [
       "business",
       "weather"
+    ],
+    "独家上线": [
+      "yuzhouhangxian"
     ],
     "用域": [
       "mishare",
@@ -120,6 +127,9 @@
     ],
     "背屏原生桌面": [
       "kingxv"
+    ],
+    "营造简洁而富有秩序感的画面": [
+      "yuzhouhangxian"
     ],
     "触发": [
       "calendar-lite",
@@ -145,6 +155,9 @@
     ],
     "长文本适配": [
       "schedule_reminder"
+    ],
+    "首次": [
+      "yuzhouhangxian"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 40,
+  "tokenCount": 41,
   "tokens": {
     "deliver": [
       "music"
@@ -34,6 +34,9 @@
     ],
     "始数": [
       "schedule_reminder"
+    ],
+    "宇宙航线": [
+      "yuzhouhangxian"
     ],
     "小组": [
       "calendar-lite",

@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "extracts": [
       "music"
@@ -49,7 +49,8 @@
       "music",
       "pickup",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "yuzhouhangxian"
     ],
     "屏音": [
       "weather"
@@ -65,6 +66,9 @@
     ],
     "月": [
       "calendar-lite"
+    ],
+    "有秩": [
+      "yuzhouhangxian"
     ],
     "极省": [
       "calendar-lite"

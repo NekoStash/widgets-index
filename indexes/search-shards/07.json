@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 19,
+  "tokenCount": 21,
   "tokens": {
     "check": [
       "music"
@@ -48,11 +48,17 @@
     "根据雨量": [
       "weather"
     ],
+    "独家": [
+      "yuzhouhangxian"
+    ],
     "率进": [
       "weather"
     ],
     "由管": [
       "hyper-pick-up-code"
+    ],
+    "界面下显示深色版本": [
+      "yuzhouhangxian"
     ],
     "纯代": [
       "calendar-lite"

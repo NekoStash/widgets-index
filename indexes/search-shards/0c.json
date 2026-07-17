@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 33,
+  "tokenCount": 35,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -40,6 +40,9 @@
     ],
     "和纯": [
       "calendar-lite"
+    ],
+    "域航": [
+      "yuzhouhangxian"
     ],
     "塔斯汀": [
       "business"
@@ -111,6 +114,9 @@
     ],
     "起渲": [
       "weather"
+    ],
+    "轨道": [
+      "yuzhouhangxian"
     ],
     "靠系": [
       "calendar-lite"

@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 28,
+  "tokenCount": 30,
   "tokens": {
     "focus": [
       "business",
@@ -42,6 +42,9 @@
     "夜晚": [
       "weather"
     ],
+    "家合": [
+      "yuzhouhangxian"
+    ],
     "层的": [
       "schedule_reminder"
     ],
@@ -67,6 +70,9 @@
     ],
     "爷爷": [
       "business"
+    ],
+    "独家合作": [
+      "yuzhouhangxian"
     ],
     "率控": [
       "weather"

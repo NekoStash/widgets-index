@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -42,6 +42,9 @@
     ],
     "可以上滑返回或侧滑返回": [
       "kingxv"
+    ],
+    "向未": [
+      "yuzhouhangxian"
     ],
     "天划": [
       "weather"

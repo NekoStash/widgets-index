@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 22,
+  "tokenCount": 24,
   "tokens": {
     "lyrics": [
       "music"
@@ -47,6 +47,9 @@
       "schedule_reminder",
       "weather"
     ],
+    "而富": [
+      "yuzhouhangxian"
+    ],
     "背屏通知": [
       "mishare"
     ],
@@ -71,6 +74,9 @@
     "避让": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "间的": [
+      "yuzhouhangxian"
     ],
     "顾了": [
       "calendar-lite"

@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 30,
+  "tokenCount": 35,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -16,6 +16,9 @@
     ],
     "中文": [
       "music"
+    ],
+    "以星": [
+      "yuzhouhangxian"
     ],
     "位大": [
       "kingxv"
@@ -42,12 +45,18 @@
     "同比": [
       "business"
     ],
+    "围作": [
+      "yuzhouhangxian"
+    ],
     "在动": [
       "calendar-lite",
       "schedule_reminder"
     ],
     "外卖": [
       "business"
+    ],
+    "宇宙": [
+      "yuzhouhangxian"
     ],
     "实现极低待机功耗": [
       "schedule_reminder"
@@ -91,6 +100,12 @@
     ],
     "讯模": [
       "uriroute_deviceinfo"
+    ],
+    "过留": [
+      "yuzhouhangxian"
+    ],
+    "造简": [
+      "yuzhouhangxian"
     ],
     "齐到": [
       "calendar-lite"

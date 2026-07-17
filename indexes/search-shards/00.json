@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 34,
+  "tokenCount": 38,
   "tokens": {
     "devices": [
       "music"
@@ -67,6 +67,9 @@
     "态完": [
       "business"
     ],
+    "意设": [
+      "yuzhouhangxian"
+    ],
     "探索更多背屏交互的可能": [
       "weather"
     ],
@@ -78,6 +81,9 @@
     ],
     "智能品牌识别系统": [
       "business"
+    ],
+    "洁而": [
+      "yuzhouhangxian"
     ],
     "独立": [
       "weather"
@@ -97,8 +103,14 @@
     "能在": [
       "back_screen_desktop"
     ],
+    "营造": [
+      "yuzhouhangxian"
+    ],
     "让摄": [
       "calendar-lite"
+    ],
+    "设计": [
+      "yuzhouhangxian"
     ],
     "隐藏": [
       "calendar-lite",

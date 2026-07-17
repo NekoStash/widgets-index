@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 39,
+  "tokenCount": 41,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -14,6 +14,9 @@
     "clock": [
       "disordered-clock",
       "dragon_scales_clock"
+    ],
+    "hrsthrt74": [
+      "yuzhouhangxian"
     ],
     "repo": [
       "course_schedule"
@@ -89,6 +92,9 @@
     ],
     "深度适配系统": [
       "weather"
+    ],
+    "灵感": [
+      "yuzhouhangxian"
     ],
     "理状": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -33,6 +33,9 @@
     ],
     "供了": [
       "weather"
+    ],
+    "出发": [
+      "yuzhouhangxian"
     ],
     "别外": [
       "business"

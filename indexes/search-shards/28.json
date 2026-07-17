@@ -1,6 +1,6 @@
 {
   "shard": "28",
-  "tokenCount": 16,
+  "tokenCount": 18,
   "tokens": {
     "previous": [
       "music"
@@ -36,6 +36,12 @@
     ],
     "用是": [
       "kingxv"
+    ],
+    "电动": [
+      "yuzhouhangxian"
+    ],
+    "画面": [
+      "yuzhouhangxian"
     ],
     "系统要求": [
       "business"

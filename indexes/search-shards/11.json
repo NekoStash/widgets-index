@@ -1,6 +1,6 @@
 {
   "shard": "11",
-  "tokenCount": 27,
+  "tokenCount": 29,
   "tokens": {
     "flue": [
       "back_screen_desktop"
@@ -66,6 +66,9 @@
     "的优": [
       "calendar-lite"
     ],
+    "秩序": [
+      "yuzhouhangxian"
+    ],
     "第一": [
       "calendar-lite"
     ],
@@ -80,6 +83,9 @@
     ],
     "背屏天气": [
       "weather"
+    ],
+    "计大": [
+      "yuzhouhangxian"
     ],
     "语音": [
       "weather"

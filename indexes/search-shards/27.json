@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 34,
+  "tokenCount": 37,
   "tokens": {
     "aod": [
       "business",
@@ -8,7 +8,8 @@
       "kingxv",
       "music",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "yuzhouhangxian"
     ],
     "maker": [
       "weather"
@@ -48,7 +49,11 @@
     ],
     "同时": [
       "mishare",
-      "pickup"
+      "pickup",
+      "yuzhouhangxian"
+    ],
+    "向未知的星域航行": [
+      "yuzhouhangxian"
     ],
     "域即": [
       "mishare",
@@ -60,6 +65,9 @@
     ],
     "境是": [
       "calendar-lite"
+    ],
+    "大赛": [
+      "yuzhouhangxian"
     ],
     "天候": [
       "weather"
@@ -107,6 +115,9 @@
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
       "pickup"
+    ],
+    "色版": [
+      "yuzhouhangxian"
     ],
     "转化": [
       "mishare",

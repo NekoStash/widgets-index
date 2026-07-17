@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 41,
+  "tokenCount": 42,
   "tokens": {
     "album": [
       "music"
@@ -103,6 +103,9 @@
       "uriroute_deviceinfo",
       "weather"
     ],
+    "知的": [
+      "yuzhouhangxian"
+    ],
     "等开": [
       "weather"
     ],
@@ -123,7 +126,8 @@
       "pickup",
       "schedule_reminder",
       "uriroute_deviceinfo",
-      "weather"
+      "weather",
+      "yuzhouhangxian"
     ],
     "背屏级动态响应与安全区避让": [
       "calendar-lite"

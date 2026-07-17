@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "yuzhouhangxian",
+      "name": "宇宙航线：REAREye独家",
+      "description": "宇宙航线：REAREye独家",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "SiberiaApp",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-07-17T02:59:10.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/yuzhouhangxian",
+        "url": "https://github.com/SiberiaApp/yuzhouhangxian"
+      }
+    },
+    {
       "id": "music",
       "name": "音乐歌词",
       "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",

@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 22,
+  "tokenCount": 23,
   "tokens": {
     "always": [
       "music"
@@ -52,6 +52,9 @@
     ],
     "的原": [
       "schedule_reminder"
+    ],
+    "的星": [
+      "yuzhouhangxian"
     ],
     "等": [
       "calendar-lite"
