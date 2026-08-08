@@ -4,7 +4,6 @@
   "widgetInfo": {
     "type": "widget",
     "minVersion": 99,
-    "maxVersion": 104,
     "name": "雅迪车控",
     "business_setup": {
       "id": "yadea_car_control",
