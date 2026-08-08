@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 39,
+  "tokenCount": 42,
   "tokens": {
     "15": [
       "weather"
@@ -36,7 +36,8 @@
       "kingxv"
     ],
     "功率": [
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yadea_car_control"
     ],
     "号星": [
       "calendar-lite"
@@ -53,6 +54,9 @@
     "必须搭配": [
       "course_schedule"
     ],
+    "总里程": [
+      "yadea_car_control"
+    ],
     "拥有": [
       "uriroute_deviceinfo"
     ],
@@ -61,6 +65,9 @@
     ],
     "换行": [
       "schedule_reminder"
+    ],
+    "显示雅迪电动车实时信息": [
+      "yadea_car_control"
     ],
     "构建": [
       "weather",
@@ -80,6 +87,9 @@
     ],
     "码日": [
       "calendar-lite"
+    ],
+    "示的": [
+      "yadea_car_control"
     ],
     "移至": [
       "calendar-lite"

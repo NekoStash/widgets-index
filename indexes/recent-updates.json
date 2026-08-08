@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "yadea_car_control",
+      "name": "雅迪车控",
+      "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
+      "author": {
+        "login": "ghhccghk",
+        "name": "李太白",
+        "url": "https://github.com/ghhccghk",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36808766?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-08-08T11:34:02.000Z",
+      "repository": {
+        "fullName": "ghhccghk/Yadea_SubSceen_Card",
+        "url": "https://github.com/ghhccghk/Yadea_SubSceen_Card"
+      }
+    },
+    {
       "id": "music",
       "name": "音乐歌词",
       "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",

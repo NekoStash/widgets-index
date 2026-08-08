@@ -1,0 +1,20 @@
+{
+  "id": "yadea_car_control",
+  "type": "card",
+  "widgetInfo": {
+    "type": "widget",
+    "minVersion": 99,
+    "maxVersion": 104,
+    "name": "雅迪车控",
+    "business_setup": {
+      "id": "yadea_car_control",
+      "renameable": false
+    },
+    "requirements": {
+      "packages": [
+        "com.ghhccghk.yadeahook",
+        "com.yadea.smartmoto"
+      ]
+    }
+  }
+}

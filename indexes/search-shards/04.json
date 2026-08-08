@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 30,
+  "tokenCount": 34,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -40,11 +40,17 @@
       "weather",
       "yuzhouhangxian"
     ],
+    "取雅": [
+      "yadea_car_control"
+    ],
     "塔斯": [
       "business"
     ],
     "完美映射超级岛": [
       "business"
+    ],
+    "开关": [
+      "yadea_car_control"
     ],
     "或者": [
       "weather"
@@ -57,6 +63,9 @@
     ],
     "文件便可显示其他内容": [
       "uriroute_deviceinfo"
+    ],
+    "机锁": [
+      "yadea_car_control"
     ],
     "极低功耗": [
       "business"
@@ -98,6 +107,9 @@
     ],
     "退至": [
       "business"
+    ],
+    "通信": [
+      "yadea_car_control"
     ]
   }
 }

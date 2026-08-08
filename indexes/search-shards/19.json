@@ -1,6 +1,6 @@
 {
   "shard": "19",
-  "tokenCount": 29,
+  "tokenCount": 32,
   "tokens": {
     "audio": [
       "music"
@@ -30,6 +30,9 @@
     "发星": [
       "weather"
     ],
+    "发送此广播后": [
+      "yadea_car_control"
+    ],
     "可能": [
       "weather"
     ],
@@ -40,17 +43,24 @@
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "uriroute_deviceinfo",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "复刻": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "字段": [
+      "yadea_car_control"
     ],
     "完美对齐左侧摄像头安全区": [
       "schedule_reminder"
     ],
     "层焦": [
       "business"
+    ],
+    "广播": [
+      "yadea_car_control"
     ],
     "录结": [
       "weather"

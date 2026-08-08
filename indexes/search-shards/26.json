@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 42,
+  "tokenCount": 43,
   "tokens": {
     "an": [
       "music"
@@ -56,6 +56,9 @@
     ],
     "侧摄": [
       "schedule_reminder"
+    ],
+    "值对": [
+      "yadea_car_control"
     ],
     "兼容": [
       "business"

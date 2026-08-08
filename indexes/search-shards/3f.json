@@ -1,7 +1,10 @@
 {
   "shard": "3f",
-  "tokenCount": 37,
+  "tokenCount": 40,
   "tokens": {
+    "action": [
+      "yadea_car_control"
+    ],
     "capabilities": [
       "music"
     ],
@@ -28,6 +31,9 @@
     ],
     "从头": [
       "weather"
+    ],
+    "会回复一条": [
+      "yadea_car_control"
     ],
     "佬修": [
       "kingxv"
@@ -68,6 +74,9 @@
     "岛功": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "开机": [
+      "yadea_car_control"
+    ],
     "态天": [
       "weather"
     ],
@@ -107,7 +116,8 @@
       "mishare",
       "pickup",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "致视": [
       "weather"

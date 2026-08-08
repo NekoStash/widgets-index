@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 31,
+  "tokenCount": 34,
   "tokens": {
     "built": [
       "music"
@@ -44,16 +44,26 @@
     ],
     "安装": [
       "hyper-pick-up-code",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yadea_car_control"
     ],
     "屏原": [
       "kingxv"
     ],
+    "并在": [
+      "yadea_car_control"
+    ],
     "并首次以": [
       "yuzhouhangxian"
     ],
+    "广播包含最新数据": [
+      "yadea_car_control"
+    ],
     "序感": [
       "yuzhouhangxian"
+    ],
+    "支持车控操作": [
+      "yadea_car_control"
     ],
     "整适": [
       "weather"

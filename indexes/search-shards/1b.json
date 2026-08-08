@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 30,
+  "tokenCount": 32,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -93,6 +93,9 @@
       "business",
       "dragon_scales_clock"
     ],
+    "新时": [
+      "yadea_car_control"
+    ],
     "晴空": [
       "weather"
     ],
@@ -108,6 +111,9 @@
     "空间": [
       "uriroute_deviceinfo",
       "yuzhouhangxian"
+    ],
+    "过广": [
+      "yadea_car_control"
     ],
     "间为": [
       "uriroute_deviceinfo"

@@ -1,9 +1,12 @@
 {
   "shard": "29",
-  "tokenCount": 40,
+  "tokenCount": 46,
   "tokens": {
     "experience": [
       "music"
+    ],
+    "extra": [
+      "yadea_car_control"
     ],
     "lite": [
       "calendar-lite"
@@ -34,11 +37,15 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "会回": [
+      "yadea_car_control"
+    ],
     "何责": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "功能": [
-      "hyper-pick-up-code-reareye-xiaomi"
+      "hyper-pick-up-code-reareye-xiaomi",
+      "yadea_car_control"
     ],
     "动处": [
       "calendar-lite"
@@ -48,6 +55,9 @@
     ],
     "区显": [
       "calendar-lite"
+    ],
+    "右滑": [
+      "yadea_car_control"
     ],
     "呼吸渐变": [
       "schedule_reminder"
@@ -88,6 +98,9 @@
     "时通": [
       "weather"
     ],
+    "更新": [
+      "yadea_car_control"
+    ],
     "桌面的卡片": [
       "back_screen_desktop"
     ],
@@ -121,6 +134,9 @@
     "系统环境": [
       "weather"
     ],
+    "解锁": [
+      "yadea_car_control"
+    ],
     "负载": [
       "uriroute_deviceinfo"
     ],
@@ -129,6 +145,9 @@
     ],
     "铺设": [
       "calendar-lite"
+    ],
+    "骑行状态": [
+      "yadea_car_control"
     ]
   }
 }

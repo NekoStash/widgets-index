@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 21,
+  "tokenCount": 25,
   "tokens": {
     "check": [
       "music"
@@ -26,6 +26,12 @@
     "单位": [
       "calendar-lite"
     ],
+    "发送": [
+      "yadea_car_control"
+    ],
+    "开后备箱": [
+      "yadea_car_control"
+    ],
     "息屏显示": [
       "business",
       "weather"
@@ -36,11 +42,15 @@
     "排版": [
       "schedule_reminder"
     ],
+    "播包": [
+      "yadea_car_control"
+    ],
     "时间": [
       "calendar-lite",
       "schedule_reminder",
       "uriroute_deviceinfo",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "本项目深度集成系统通知监听逻辑": [
       "schedule_reminder"
@@ -68,6 +78,9 @@
     ],
     "赖应": [
       "business"
+    ],
+    "车控目前只支持开关机锁车": [
+      "yadea_car_control"
     ]
   }
 }

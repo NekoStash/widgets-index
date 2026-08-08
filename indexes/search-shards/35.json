@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "bug": [
       "weather"
@@ -42,6 +42,9 @@
     "回或": [
       "kingxv"
     ],
+    "备箱": [
+      "yadea_car_control"
+    ],
     "屏天": [
       "weather"
     ],
@@ -69,7 +72,8 @@
       "business"
     ],
     "的组": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "yadea_car_control"
     ],
     "示空": [
       "yuzhouhangxian"

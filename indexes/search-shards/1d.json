@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 41,
+  "tokenCount": 43,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -51,6 +51,9 @@
     ],
     "侧安": [
       "calendar-lite"
+    ],
+    "信息卡片": [
+      "yadea_car_control"
     ],
     "其细": [
       "weather"
@@ -123,6 +126,9 @@
     ],
     "过缩": [
       "schedule_reminder"
+    ],
+    "雅迪车控": [
+      "yadea_car_control"
     ],
     "零帧挂起": [
       "schedule_reminder"

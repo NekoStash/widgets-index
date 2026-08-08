@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 44,
+  "tokenCount": 47,
   "tokens": {
     "120hz": [
       "weather"
@@ -40,7 +40,8 @@
       "calendar-lite",
       "disordered-clock",
       "kingxv",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yadea_car_control"
     ],
     "出日": [
       "weather"
@@ -68,6 +69,9 @@
     ],
     "屏状": [
       "business"
+    ],
+    "左滑": [
+      "yadea_car_control"
     ],
     "序时": [
       "disordered-clock"
@@ -103,7 +107,8 @@
     ],
     "状态": [
       "business",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "独家上线": [
       "yuzhouhangxian"
@@ -135,11 +140,17 @@
       "calendar-lite",
       "weather"
     ],
+    "请求更新": [
+      "yadea_car_control"
+    ],
     "轻雨图标包": [
       "kingxv"
     ],
     "还是": [
       "calendar-lite"
+    ],
+    "迪电": [
+      "yadea_car_control"
     ],
     "适配": [
       "business",

@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 33,
+  "tokenCount": 35,
   "tokens": {
     "30s": [
       "uriroute_deviceinfo"
@@ -9,11 +9,17 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "card": [
+      "yadea_car_control"
+    ],
     "history": [
       "music"
     ],
     "states": [
       "music"
+    ],
+    "yadea_subsceen_card": [
+      "yadea_car_control"
     ],
     "一": [
       "hyper-pick-up-code"

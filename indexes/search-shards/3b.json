@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 41,
+  "tokenCount": 45,
   "tokens": {
     "17pro-": [
       "disordered-clock",
@@ -35,6 +35,9 @@
     ],
     "于墨": [
       "disordered-clock"
+    ],
+    "停止": [
+      "yadea_car_control"
     ],
     "内容": [
       "business",
@@ -92,6 +95,9 @@
     "抛弃": [
       "calendar-lite"
     ],
+    "收数": [
+      "yadea_car_control"
+    ],
     "效与": [
       "weather"
     ],
@@ -101,8 +107,14 @@
     "更多": [
       "weather"
     ],
+    "更新时间": [
+      "yadea_car_control"
+    ],
     "样式": [
       "business"
+    ],
+    "源状": [
+      "yadea_car_control"
     ],
     "焦点通知版": [
       "hyper-pick-up-code-reareye-xiaomi"

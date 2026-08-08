@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 38,
+  "tokenCount": 41,
   "tokens": {
     "devices": [
       "music"
@@ -40,6 +40,9 @@
     ],
     "品牌": [
       "business"
+    ],
+    "太白": [
+      "yadea_car_control"
     ],
     "定位": [
       "business"
@@ -91,6 +94,9 @@
     "用列": [
       "kingxv"
     ],
+    "电源": [
+      "yadea_car_control"
+    ],
     "目深": [
       "schedule_reminder"
     ],
@@ -111,6 +117,9 @@
     ],
     "设计": [
       "yuzhouhangxian"
+    ],
+    "量百": [
+      "yadea_car_control"
     ],
     "隐藏": [
       "calendar-lite",

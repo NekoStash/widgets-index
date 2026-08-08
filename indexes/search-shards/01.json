@@ -1,7 +1,10 @@
 {
   "shard": "01",
-  "tokenCount": 18,
+  "tokenCount": 20,
   "tokens": {
+    "subsceen": [
+      "yadea_car_control"
+    ],
     "this": [
       "music"
     ],
@@ -40,6 +43,7 @@
       "course_schedule",
       "uriroute_deviceinfo",
       "weather",
+      "yadea_car_control",
       "yuzhouhangxian"
     ],
     "版本": [
@@ -48,7 +52,8 @@
       "yuzhouhangxian"
     ],
     "电压": [
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yadea_car_control"
     ],
     "示其": [
       "uriroute_deviceinfo"
@@ -61,6 +66,9 @@
     ],
     "认在": [
       "uriroute_deviceinfo"
+    ],
+    "迪车": [
+      "yadea_car_control"
     ],
     "重心": [
       "schedule_reminder"

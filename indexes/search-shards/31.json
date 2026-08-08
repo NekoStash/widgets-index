@@ -1,6 +1,6 @@
 {
   "shard": "31",
-  "tokenCount": 41,
+  "tokenCount": 45,
   "tokens": {
     "17": [
       "business",
@@ -43,10 +43,12 @@
       "schedule_reminder"
     ],
     "包含": [
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "卡片": [
-      "back_screen_desktop"
+      "back_screen_desktop",
+      "yadea_car_control"
     ],
     "及其": [
       "business",
@@ -70,12 +72,18 @@
     "实时演算并渲染天空色彩的平滑过渡": [
       "weather"
     ],
+    "屏展": [
+      "yadea_car_control"
+    ],
     "屏幕": [
       "business",
       "schedule_reminder"
     ],
     "年月": [
       "calendar-lite"
+    ],
+    "库安": [
+      "yadea_car_control"
     ],
     "应用": [
       "business",
@@ -86,6 +94,9 @@
     ],
     "底抛": [
       "calendar-lite"
+    ],
+    "据通": [
+      "yadea_car_control"
     ],
     "推导": [
       "calendar-lite"
@@ -122,6 +133,9 @@
     ],
     "电逻": [
       "calendar-lite"
+    ],
+    "符串": [
+      "yadea_car_control"
     ],
     "系列背屏上显示课程表": [
       "course_schedule"

@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 35,
+  "tokenCount": 39,
   "tokens": {
     "folme": [
       "business",
@@ -32,8 +32,14 @@
       "mishare",
       "pickup"
     ],
+    "动刷": [
+      "yadea_car_control"
+    ],
     "可显": [
       "uriroute_deviceinfo"
+    ],
+    "回信": [
+      "yadea_car_control"
     ],
     "块并": [
       "mishare",
@@ -115,11 +121,17 @@
     "若": [
       "uriroute_deviceinfo"
     ],
+    "获取": [
+      "yadea_car_control"
+    ],
     "觉资": [
       "business"
     ],
     "通过留白与轨道元素的呼应": [
       "yuzhouhangxian"
+    ],
+    "里程": [
+      "yadea_car_control"
     ],
     "顾极": [
       "weather"

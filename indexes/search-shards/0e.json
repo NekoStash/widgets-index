@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 41,
+  "tokenCount": 42,
   "tokens": {
     "deliver": [
       "music"
@@ -25,6 +25,9 @@
     ],
     "传超": [
       "mishare"
+    ],
+    "剩余里程": [
+      "yadea_car_control"
     ],
     "取餐码": [
       "pickup"
@@ -55,7 +58,8 @@
     ],
     "屏组": [
       "hyper-pick-up-code",
-      "hyper-pick-up-code-reareye-xiaomi"
+      "hyper-pick-up-code-reareye-xiaomi",
+      "yadea_car_control"
     ],
     "已支": [
       "business"

@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 28,
+  "tokenCount": 30,
   "tokens": {
     "skip": [
       "music"
@@ -27,7 +27,8 @@
       "back_screen_desktop"
     ],
     "启动": [
-      "back_screen_desktop"
+      "back_screen_desktop",
+      "yadea_car_control"
     ],
     "地写": [
       "calendar-lite"
@@ -42,6 +43,12 @@
     "岛同": [
       "mishare",
       "pickup"
+    ],
+    "已解": [
+      "yadea_car_control"
+    ],
+    "播后": [
+      "yadea_car_control"
     ],
     "放算": [
       "business"

@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 45,
+  "tokenCount": 49,
   "tokens": {
     "artist": [
       "music"
@@ -10,7 +10,8 @@
       "schedule_reminder"
     ],
     "control": [
-      "music"
+      "music",
+      "yadea_car_control"
     ],
     "dragon": [
       "dragon_scales_clock"
@@ -47,6 +48,9 @@
     ],
     "后彻": [
       "schedule_reminder"
+    ],
+    "含最": [
+      "yadea_car_control"
     ],
     "备背": [
       "weather"
@@ -88,6 +92,9 @@
     ],
     "报告": [
       "weather"
+    ],
+    "持车": [
+      "yadea_car_control"
     ],
     "无法": [
       "kingxv",
@@ -140,8 +147,14 @@
     "课程": [
       "course_schedule"
     ],
+    "锁车": [
+      "yadea_car_control"
+    ],
     "键进": [
       "business"
+    ],
+    "雅迪": [
+      "yadea_car_control"
     ]
   }
 }

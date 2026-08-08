@@ -33,7 +33,8 @@
     "实时": [
       "business",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "导入组件至": [
       "hyper-pick-up-code"

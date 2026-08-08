@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 38,
+  "tokenCount": 42,
   "tokens": {
     "are": [
       "music"
@@ -69,10 +69,17 @@
     "换为": [
       "schedule_reminder"
     ],
+    "据键": [
+      "yadea_car_control"
+    ],
     "支持": [
       "business",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "yadea_car_control"
+    ],
+    "新数": [
+      "yadea_car_control"
     ],
     "无素": [
       "calendar-lite"
@@ -91,6 +98,9 @@
     ],
     "特别": [
       "calendar-lite"
+    ],
+    "电量": [
+      "yadea_car_control"
     ],
     "画幅": [
       "calendar-lite",
@@ -112,6 +122,9 @@
     ],
     "赛入": [
       "yuzhouhangxian"
+    ],
+    "车辆": [
+      "yadea_car_control"
     ],
     "过方": [
       "hyper-pick-up-code-reareye-xiaomi"

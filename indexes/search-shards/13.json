@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "focus": [
       "business",
@@ -66,7 +66,8 @@
     "数据": [
       "business",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "爷爷": [
       "business"
@@ -90,6 +91,9 @@
     ],
     "装要": [
       "uriroute_deviceinfo"
+    ],
+    "车控命令": [
+      "yadea_car_control"
     ],
     "迎提": [
       "weather"

@@ -1,12 +1,15 @@
 {
   "shard": "03",
-  "tokenCount": 31,
+  "tokenCount": 34,
   "tokens": {
     "breathable": [
       "schedule_reminder"
     ],
     "disordered-clock": [
       "disordered-clock"
+    ],
+    "json": [
+      "yadea_car_control"
     ],
     "leverages": [
       "music"
@@ -44,6 +47,9 @@
     "动识": [
       "business"
     ],
+    "右滑返回信息卡片": [
+      "yadea_car_control"
+    ],
     "存储空间": [
       "uriroute_deviceinfo"
     ],
@@ -58,6 +64,9 @@
     ],
     "并高": [
       "calendar-lite"
+    ],
+    "开后": [
+      "yadea_car_control"
     ],
     "当劳": [
       "business"
@@ -84,7 +93,8 @@
       "hyper-pick-up-code"
     ],
     "电流": [
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yadea_car_control"
     ],
     "的偏左侧": [
       "calendar-lite"

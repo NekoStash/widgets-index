@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 35,
+  "tokenCount": 37,
   "tokens": {
     "与小米": [
       "yuzhouhangxian"
@@ -19,6 +19,9 @@
     ],
     "停粒": [
       "weather"
+    ],
+    "到车": [
+      "yadea_car_control"
     ],
     "动回": [
       "business"
@@ -78,6 +81,9 @@
     ],
     "烧屏": [
       "calendar-lite"
+    ],
+    "电量百分比": [
+      "yadea_car_control"
     ],
     "界面": [
       "yuzhouhangxian"

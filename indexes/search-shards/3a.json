@@ -41,7 +41,8 @@
     ],
     "动安": [
       "hyper-pick-up-code",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yadea_car_control"
     ],
     "及其他搭载背屏模块的": [
       "business"

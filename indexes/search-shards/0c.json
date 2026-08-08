@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 35,
+  "tokenCount": 37,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -14,6 +14,9 @@
     ],
     "tint": [
       "music"
+    ],
+    "yadea_car_control": [
+      "yadea_car_control"
     ],
     "一些": [
       "kingxv"
@@ -33,7 +36,8 @@
       "business",
       "kingxv",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "包的": [
       "business"
@@ -66,6 +70,9 @@
     ],
     "打车": [
       "business"
+    ],
+    "操作": [
+      "yadea_car_control"
     ],
     "放入": [
       "weather"

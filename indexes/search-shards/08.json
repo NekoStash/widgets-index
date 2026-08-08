@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 29,
+  "tokenCount": 34,
   "tokens": {
     "save": [
       "music"
@@ -19,6 +19,9 @@
     ],
     "为灵": [
       "yuzhouhangxian"
+    ],
+    "余里": [
+      "yadea_car_control"
     ],
     "偏左": [
       "calendar-lite"
@@ -39,10 +42,18 @@
       "weather"
     ],
     "在小": [
-      "course_schedule"
+      "course_schedule",
+      "yadea_car_control"
+    ],
+    "复一": [
+      "yadea_car_control"
     ],
     "手动安装": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "yadea_car_control"
+    ],
+    "数据键值对": [
+      "yadea_car_control"
     ],
     "未知": [
       "yuzhouhangxian"
@@ -79,11 +90,17 @@
     "置天": [
       "weather"
     ],
+    "自动刷新": [
+      "yadea_car_control"
+    ],
     "请确": [
       "weather"
     ],
     "载地": [
       "uriroute_deviceinfo"
+    ],
+    "辆信": [
+      "yadea_car_control"
     ],
     "这是一个专为小米": [
       "calendar-lite",

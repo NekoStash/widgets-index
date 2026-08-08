@@ -1,6 +1,6 @@
 {
   "shard": "2e",
-  "tokenCount": 24,
+  "tokenCount": 27,
   "tokens": {
     "custom": [
       "music"
@@ -8,6 +8,12 @@
     "dynamic": [
       "calendar-lite",
       "music"
+    ],
+    "件仓": [
+      "yadea_car_control"
+    ],
+    "件结": [
+      "yadea_car_control"
     ],
     "作品": [
       "yuzhouhangxian"
@@ -32,6 +38,9 @@
     ],
     "屏交": [
       "weather"
+    ],
+    "已锁车": [
+      "yadea_car_control"
     ],
     "放系": [
       "calendar-lite",

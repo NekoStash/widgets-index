@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -60,6 +60,9 @@
     ],
     "心极": [
       "schedule_reminder"
+    ],
+    "或通": [
+      "yadea_car_control"
     ],
     "手动安装步骤": [
       "uriroute_deviceinfo"

@@ -1,7 +1,10 @@
 {
   "shard": "28",
-  "tokenCount": 18,
+  "tokenCount": 21,
   "tokens": {
+    "ghhccghk": [
+      "yadea_car_control"
+    ],
     "previous": [
       "music"
     ],
@@ -10,6 +13,9 @@
     ],
     "了极": [
       "weather"
+    ],
+    "关机": [
+      "yadea_car_control"
     ],
     "发的": [
       "weather"
@@ -23,6 +29,9 @@
     ],
     "度信": [
       "business"
+    ],
+    "接收数据": [
+      "yadea_car_control"
     ],
     "极致": [
       "weather"
@@ -38,6 +47,7 @@
       "kingxv"
     ],
     "电动": [
+      "yadea_car_control",
       "yuzhouhangxian"
     ],
     "画面": [

@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "automatically": [
       "music"
@@ -41,7 +41,8 @@
     ],
     "刷新": [
       "business",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "幅识": [
       "schedule_reminder"
@@ -86,6 +87,9 @@
     "调整": [
       "calendar-lite",
       "weather"
+    ],
+    "车速": [
+      "yadea_car_control"
     ],
     "适用于小米背屏系列的天气小组件": [
       "weather"

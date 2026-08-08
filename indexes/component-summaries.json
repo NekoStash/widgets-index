@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 16,
+  "componentCount": 17,
   "components": {
     "back_screen_desktop": {
       "id": "back_screen_desktop",
@@ -180,6 +180,18 @@
         "name": "SiberiaApp",
         "url": "https://github.com/SiberiaApp",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "yadea_car_control": {
+      "id": "yadea_car_control",
+      "name": "雅迪车控",
+      "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
+      "author": {
+        "login": "ghhccghk",
+        "name": "李太白",
+        "url": "https://github.com/ghhccghk",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36808766?v=4",
         "type": "User"
       }
     },

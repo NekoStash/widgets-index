@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 33,
+  "tokenCount": 35,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -41,11 +41,17 @@
     "尺寸": [
       "business"
     ],
+    "已开": [
+      "yadea_car_control"
+    ],
     "已支持的品牌库": [
       "business"
     ],
     "意填": [
       "hyper-pick-up-code"
+    ],
+    "换到": [
+      "yadea_car_control"
     ],
     "据此": [
       "weather"
@@ -76,7 +82,8 @@
       "calendar-lite",
       "hyper-pick-up-code",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "自动识别外卖品牌并加载专属视觉资产": [
       "business"

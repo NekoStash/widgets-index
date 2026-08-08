@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 37,
+  "tokenCount": 42,
   "tokens": {
     "aod": [
       "business",
@@ -29,6 +29,9 @@
     "rate": [
       "schedule_reminder"
     ],
+    "yadea": [
+      "yadea_car_control"
+    ],
     "不仅": [
       "weather"
     ],
@@ -43,6 +46,9 @@
     ],
     "到已": [
       "business"
+    ],
+    "剩余": [
+      "yadea_car_control"
     ],
     "取整": [
       "calendar-lite"
@@ -81,8 +87,14 @@
     "播报": [
       "weather"
     ],
+    "播接": [
+      "yadea_car_control"
+    ],
     "文件中": [
       "uriroute_deviceinfo"
+    ],
+    "文件结构": [
+      "yadea_car_control"
     ],
     "日落": [
       "weather"
@@ -119,12 +131,16 @@
     "色版": [
       "yuzhouhangxian"
     ],
+    "行状": [
+      "yadea_car_control"
+    ],
     "转化": [
       "mishare",
       "pickup"
     ],
     "返回": [
-      "kingxv"
+      "kingxv",
+      "yadea_car_control"
     ],
     "需求": [
       "weather"

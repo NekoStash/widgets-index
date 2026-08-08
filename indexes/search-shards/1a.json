@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 33,
+  "tokenCount": 35,
   "tokens": {
     "current": [
       "music"
@@ -13,6 +13,9 @@
     ],
     "sync": [
       "schedule_reminder"
+    ],
+    "一条": [
+      "yadea_car_control"
     ],
     "与副": [
       "weather"
@@ -73,7 +76,8 @@
     "标题": [
       "business",
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "yadea_car_control"
     ],
     "特殊": [
       "calendar-lite"
@@ -101,6 +105,9 @@
     ],
     "路由管理器": [
       "hyper-pick-up-code"
+    ],
+    "车控": [
+      "yadea_car_control"
     ],
     "配焦": [
       "hyper-pick-up-code-reareye-xiaomi"

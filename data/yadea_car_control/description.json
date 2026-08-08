@@ -1,0 +1,24 @@
+{
+  "id": "yadea_car_control",
+  "name": "雅迪车控",
+  "sourceMetadataPath": "repos/yadea_car_control/metadata.json",
+  "repository": {
+    "widgetName": "雅迪车控",
+    "owner": "ghhccghk",
+    "name": "Yadea_SubSceen_Card",
+    "fullName": "ghhccghk/Yadea_SubSceen_Card",
+    "url": "https://github.com/ghhccghk/Yadea_SubSceen_Card",
+    "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
+    "homepage": null,
+    "defaultBranch": "master",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 1,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-08-06T14:20:46Z",
+    "updatedAt": "2026-08-08T11:14:50Z",
+    "pushedAt": "2026-08-08T11:34:02Z"
+  }
+}

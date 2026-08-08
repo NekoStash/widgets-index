@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 32,
+  "tokenCount": 34,
   "tokens": {
     "extracts": [
       "music"
@@ -50,6 +50,7 @@
       "pickup",
       "schedule_reminder",
       "weather",
+      "yadea_car_control",
       "yuzhouhangxian"
     ],
     "屏音": [
@@ -106,8 +107,14 @@
     "资源目录结构": [
       "weather"
     ],
+    "通过广播接收数据": [
+      "yadea_car_control"
+    ],
     "配引": [
       "business"
+    ],
+    "键值": [
+      "yadea_car_control"
     ],
     "雪冰": [
       "business"

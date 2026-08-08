@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 47,
+  "tokenCount": 49,
   "tokens": {
     "power": [
       "music"
@@ -40,6 +40,9 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "修改获取雅迪车辆信息并在小米背屏展示的组件": [
+      "yadea_car_control"
+    ],
     "利用小米": [
       "schedule_reminder"
     ],
@@ -71,6 +74,9 @@
     "如被非法滥用": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "字符串": [
+      "yadea_car_control"
+    ],
     "富有": [
       "yuzhouhangxian"
     ],
@@ -85,7 +91,8 @@
     ],
     "手动": [
       "hyper-pick-up-code",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yadea_car_control"
     ],
     "打开": [
       "kingxv"

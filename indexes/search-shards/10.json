@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 34,
+  "tokenCount": 37,
   "tokens": {
     "burger": [
       "business"
@@ -32,6 +32,9 @@
     "听逻": [
       "schedule_reminder"
     ],
+    "字符": [
+      "yadea_car_control"
+    ],
     "定位到": [
       "business"
     ],
@@ -47,6 +50,9 @@
     ],
     "屏与": [
       "business"
+    ],
+    "左滑切换到车控卡片": [
+      "yadea_car_control"
     ],
     "已知": [
       "business"
@@ -107,6 +113,9 @@
     ],
     "饮品": [
       "business"
+    ],
+    "骑行": [
+      "yadea_car_control"
     ],
     "黑背": [
       "calendar-lite"

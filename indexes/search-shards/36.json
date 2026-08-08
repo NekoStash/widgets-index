@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 38,
+  "tokenCount": 39,
   "tokens": {
     "30": [
       "calendar-lite"
@@ -26,6 +26,9 @@
     ],
     "件添": [
       "weather"
+    ],
+    "前只": [
+      "yadea_car_control"
     ],
     "号的": [
       "calendar-lite"

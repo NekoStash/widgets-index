@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "450": [
       "weather"
@@ -15,7 +15,8 @@
       "business"
     ],
     "uriroute": [
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yadea_car_control"
     ],
     "乱序时钟": [
       "disordered-clock"
@@ -33,6 +34,9 @@
     ],
     "及其他具备背屏的": [
       "weather"
+    ],
+    "只支": [
+      "yadea_car_control"
     ],
     "启背": [
       "hyper-pick-up-code"

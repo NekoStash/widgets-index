@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 46,
+  "tokenCount": 50,
   "tokens": {
     "feeling": [
       "music"
@@ -33,7 +33,8 @@
       "weather"
     ],
     "仓库": [
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "代码默认将左上角的": [
       "calendar-lite"
@@ -52,6 +53,9 @@
     ],
     "动触": [
       "weather"
+    ],
+    "动车": [
+      "yadea_car_control"
     ],
     "原生": [
       "kingxv"
@@ -97,6 +101,9 @@
     "模块特点": [
       "uriroute_deviceinfo"
     ],
+    "求更": [
+      "yadea_car_control"
+    ],
     "滴粒": [
       "weather"
     ],
@@ -111,6 +118,9 @@
     ],
     "纯黑打底防烧屏": [
       "calendar-lite"
+    ],
+    "组件仓库安装": [
+      "yadea_car_control"
     ],
     "缓缓": [
       "weather"
@@ -141,6 +151,9 @@
     ],
     "转为": [
       "schedule_reminder"
+    ],
+    "锁屏组件": [
+      "yadea_car_control"
     ],
     "间秒": [
       "calendar-lite"

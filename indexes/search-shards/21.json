@@ -1,7 +1,10 @@
 {
   "shard": "21",
-  "tokenCount": 34,
+  "tokenCount": 38,
   "tokens": {
+    "car": [
+      "yadea_car_control"
+    ],
     "visible": [
       "music"
     ],
@@ -54,11 +57,17 @@
     "换回": [
       "kingxv"
     ],
+    "控命": [
+      "yadea_car_control"
+    ],
     "映射": [
       "business"
     ],
     "月背": [
       "yuzhouhangxian"
+    ],
+    "李太": [
+      "yadea_car_control"
     ],
     "极具": [
       "weather"
@@ -77,6 +86,9 @@
       "pickup",
       "schedule_reminder",
       "uriroute_deviceinfo"
+    ],
+    "滑切": [
+      "yadea_car_control"
     ],
     "滑过": [
       "business",

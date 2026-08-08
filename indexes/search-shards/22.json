@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 31,
+  "tokenCount": 35,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -43,6 +43,9 @@
     "可以上滑返回或侧滑返回": [
       "kingxv"
     ],
+    "后备": [
+      "yadea_car_control"
+    ],
     "向未": [
       "yuzhouhangxian"
     ],
@@ -65,9 +68,15 @@
     "式推": [
       "calendar-lite"
     ],
+    "总里": [
+      "yadea_car_control"
+    ],
     "所有": [
       "dragon_scales_clock",
       "schedule_reminder"
+    ],
+    "接收": [
+      "yadea_car_control"
     ],
     "时也": [
       "business"
@@ -99,6 +108,9 @@
     "配澎": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "锁定": [
+      "yadea_car_control"
     ],
     "间段": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 38,
+  "tokenCount": 40,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -10,6 +10,9 @@
     ],
     "png": [
       "business"
+    ],
+    "soc": [
+      "yadea_car_control"
     ],
     "system": [
       "schedule_reminder"
@@ -111,6 +114,9 @@
     ],
     "被非": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "请求": [
+      "yadea_car_control"
     ],
     "资产": [
       "business",

@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 31,
+  "tokenCount": 35,
   "tokens": {
     "coco": [
       "business"
@@ -23,6 +23,7 @@
     "信息": [
       "business",
       "uriroute_deviceinfo",
+      "yadea_car_control",
       "yuzhouhangxian"
     ],
     "分为": [
@@ -48,6 +49,9 @@
       "pickup",
       "uriroute_deviceinfo"
     ],
+    "已解锁": [
+      "yadea_car_control"
+    ],
     "度定": [
       "business"
     ],
@@ -63,6 +67,9 @@
     "插件": [
       "schedule_reminder"
     ],
+    "改获": [
+      "yadea_car_control"
+    ],
     "放换": [
       "schedule_reminder"
     ],
@@ -71,6 +78,9 @@
     ],
     "朵缓": [
       "weather"
+    ],
+    "电源状态": [
+      "yadea_car_control"
     ],
     "的坐": [
       "calendar-lite",
@@ -99,6 +109,9 @@
     ],
     "醒时": [
       "weather"
+    ],
+    "锁屏": [
+      "yadea_car_control"
     ],
     "默认": [
       "business",

@@ -1,6 +1,6 @@
 {
   "shard": "11",
-  "tokenCount": 29,
+  "tokenCount": 30,
   "tokens": {
     "flue": [
       "back_screen_desktop"
@@ -59,6 +59,9 @@
     ],
     "承担": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "控操": [
+      "yadea_car_control"
     ],
     "染天": [
       "weather"

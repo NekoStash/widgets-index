@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 23,
+  "tokenCount": 27,
   "tokens": {
     "always": [
       "music"
@@ -17,8 +17,14 @@
     "动岛": [
       "business"
     ],
+    "命令": [
+      "yadea_car_control"
+    ],
     "响应": [
       "calendar-lite"
+    ],
+    "回复": [
+      "yadea_car_control"
     ],
     "块通": [
       "business"
@@ -38,6 +44,9 @@
     "德基": [
       "business"
     ],
+    "持开": [
+      "yadea_car_control"
+    ],
     "擎丝": [
       "weather"
     ],
@@ -46,6 +55,9 @@
     ],
     "有": [
       "kingxv"
+    ],
+    "此广": [
+      "yadea_car_control"
     ],
     "气小": [
       "weather"

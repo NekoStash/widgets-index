@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 25,
+  "tokenCount": 26,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -44,6 +44,9 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "寻车": [
+      "yadea_car_control"
+    ],
     "屏适": [
       "schedule_reminder",
       "weather"
@@ -68,7 +71,8 @@
     ],
     "目前": [
       "business",
-      "mishare"
+      "mishare",
+      "yadea_car_control"
     ],
     "组件模板管理器": [
       "hyper-pick-up-code"

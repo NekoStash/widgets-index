@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 22,
+  "tokenCount": 23,
   "tokens": {
     "一点": [
       "business"
@@ -66,7 +66,8 @@
       "kingxv"
     ],
     "结构": [
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "背屏日历焦点版": [
       "schedule_reminder"
@@ -75,6 +76,9 @@
       "business",
       "uriroute_deviceinfo",
       "weather"
+    ],
+    "车控卡片": [
+      "yadea_car_control"
     ],
     "阿姨": [
       "business"

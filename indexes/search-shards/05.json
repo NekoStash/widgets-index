@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 36,
+  "tokenCount": 37,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -102,6 +102,9 @@
     ],
     "能力有限无法做到识别应用列表": [
       "kingxv"
+    ],
+    "车实": [
+      "yadea_car_control"
     ],
     "辑添": [
       "business"

@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "about": [
       "music"
@@ -56,7 +56,8 @@
     ],
     "展示": [
       "mishare",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "并非生硬地写死": [
       "calendar-lite"
@@ -75,6 +76,9 @@
     ],
     "掌握": [
       "business"
+    ],
+    "数据通信": [
+      "yadea_car_control"
     ],
     "文本": [
       "schedule_reminder"
@@ -96,6 +100,7 @@
       "calendar-lite",
       "schedule_reminder",
       "weather",
+      "yadea_car_control",
       "yuzhouhangxian"
     ],
     "面可": [

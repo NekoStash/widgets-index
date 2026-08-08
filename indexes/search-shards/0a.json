@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 34,
+  "tokenCount": 35,
   "tokens": {
     "art": [
       "music"
@@ -57,6 +57,9 @@
     "或侧": [
       "kingxv"
     ],
+    "或通过": [
+      "yadea_car_control"
+    ],
     "支持日程标题自动换行": [
       "schedule_reminder"
     ],
@@ -77,7 +80,8 @@
       "music",
       "pickup",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "yadea_car_control"
     ],
     "美感": [
       "schedule_reminder"

@@ -150,6 +150,16 @@
     "stars": 0
   },
   {
+    "id": "yadea_car_control",
+    "name": "雅迪车控",
+    "authorName": "李太白",
+    "authorId": "ghhccghk",
+    "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
+    "latestReleaseTag": "0.1",
+    "latestReleasePublishedAt": "2026-08-08T11:34:02.000Z",
+    "stars": 1
+  },
+  {
     "id": "yuzhouhangxian",
     "name": "宇宙航线：REAREye独家",
     "authorName": "SiberiaApp",

@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 40,
+  "tokenCount": 41,
   "tokens": {
     "210": [
       "weather"
@@ -72,6 +72,9 @@
     ],
     "数据依赖": [
       "weather"
+    ],
+    "李太白": [
+      "yadea_car_control"
     ],
     "材结": [
       "weather"

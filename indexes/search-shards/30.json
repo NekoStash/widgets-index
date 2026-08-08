@@ -58,7 +58,8 @@
       "weather"
     ],
     "文件": [
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "yadea_car_control"
     ],
     "星图": [
       "yuzhouhangxian"

@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 24,
+  "tokenCount": 26,
   "tokens": {
     "lyrics": [
       "music"
@@ -35,8 +35,14 @@
     "我进": [
       "disordered-clock"
     ],
+    "控卡": [
+      "yadea_car_control"
+    ],
     "此应": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "百分": [
+      "yadea_car_control"
     ],
     "目录下": [
       "business"
