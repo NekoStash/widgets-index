@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "pickup",
+      "name": "取餐码[适配StarIsland]",
+      "description": "将StarIsland的超级岛同时转化到小米背屏的小组件",
+      "author": {
+        "login": "juzipaome",
+        "name": "JUZI",
+        "url": "https://github.com/juzipaome",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-08-09T13:42:26.000Z",
+      "repository": {
+        "fullName": "juzipaome/Xiaomi-RearScreen-StarIsland",
+        "url": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland"
+      }
+    },
+    {
       "id": "yadea_car_control",
       "name": "雅迪车控",
       "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
@@ -103,23 +120,6 @@
       "repository": {
         "fullName": "juzipaome/Xiaomi-RearScreen-Mishare",
         "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Mishare"
-      }
-    },
-    {
-      "id": "pickup",
-      "name": "取餐码[适配StarIsland]",
-      "description": "将StarIsland的超级岛同时转化到小米背屏的小组件",
-      "author": {
-        "login": "juzipaome",
-        "name": "JUZI",
-        "url": "https://github.com/juzipaome",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-05-12T03:55:40.000Z",
-      "repository": {
-        "fullName": "juzipaome/Xiaomi-RearScreen-StarIsland",
-        "url": "https://github.com/juzipaome/Xiaomi-RearScreen-StarIsland"
       }
     },
     {
