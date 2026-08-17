@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 33,
+  "tokenCount": 42,
   "tokens": {
     "aod": [
       "business",
@@ -8,7 +8,11 @@
       "kingxv",
       "music",
       "schedule_reminder",
+      "weather",
       "yuzhouhangxian"
+    ],
+    "maker": [
+      "weather"
     ],
     "me": [
       "music"
@@ -28,11 +32,17 @@
     "yadea": [
       "yadea_car_control"
     ],
+    "不仅": [
+      "weather"
+    ],
     "与背": [
       "business"
     ],
     "会提": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "候光": [
+      "weather"
     ],
     "到已": [
       "business"
@@ -65,11 +75,17 @@
     "大赛": [
       "yuzhouhangxian"
     ],
+    "天候": [
+      "weather"
+    ],
     "安装前需确保": [
       "uriroute_deviceinfo"
     ],
     "提醒": [
       "schedule_reminder"
+    ],
+    "播报": [
+      "weather"
     ],
     "播接": [
       "yadea_car_control"
@@ -80,6 +96,15 @@
     "文件结构": [
       "yadea_car_control"
     ],
+    "日落": [
+      "weather"
+    ],
+    "时演": [
+      "weather"
+    ],
+    "此目": [
+      "weather"
+    ],
     "浅蓝": [
       "schedule_reminder"
     ],
@@ -88,7 +113,8 @@
     ],
     "环境": [
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "精准排版": [
       "schedule_reminder"
@@ -115,6 +141,9 @@
     "返回": [
       "kingxv",
       "yadea_car_control"
+    ],
+    "需求": [
+      "weather"
     ]
   }
 }

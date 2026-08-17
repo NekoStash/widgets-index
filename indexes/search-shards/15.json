@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 24,
+  "tokenCount": 30,
   "tokens": {
     "display": [
       "music"
@@ -13,6 +13,9 @@
     ],
     "sub": [
       "schedule_reminder"
+    ],
+    "下落": [
+      "weather"
     ],
     "下载": [
       "hyper-pick-up-code",
@@ -30,6 +33,7 @@
     "实时": [
       "business",
       "schedule_reminder",
+      "weather",
       "yadea_car_control"
     ],
     "导入组件至": [
@@ -38,12 +42,16 @@
     "并放": [
       "business"
     ],
+    "引擎丝滑恢复": [
+      "weather"
+    ],
     "打底": [
       "calendar-lite"
     ],
     "明度": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
     ],
     "沪上": [
       "business"
@@ -54,14 +62,21 @@
     "用无": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "画播": [
+      "weather"
+    ],
     "的群": [
       "disordered-clock"
+    ],
+    "碍支": [
+      "weather"
     ],
     "绕过": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "置了": [
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
     ],
     "自动安装": [
       "hyper-pick-up-code"
@@ -71,6 +86,12 @@
     ],
     "茶饮品牌的关键词识别与专属图标映射": [
       "business"
+    ],
+    "落速": [
+      "weather"
+    ],
+    "觉体": [
+      "weather"
     ],
     "起省": [
       "calendar-lite"

@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 28,
+  "tokenCount": 35,
   "tokens": {
     "coco": [
       "business"
@@ -10,6 +10,9 @@
     ],
     "yuzhouhangxian": [
       "yuzhouhangxian"
+    ],
+    "为微": [
+      "weather"
     ],
     "乐歌": [
       "music"
@@ -23,8 +26,12 @@
       "yadea_car_control",
       "yuzhouhangxian"
     ],
+    "分为": [
+      "weather"
+    ],
     "呼吸": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "它通过解析系统底层的": [
       "schedule_reminder"
@@ -66,12 +73,21 @@
     "放换": [
       "schedule_reminder"
     ],
+    "本项目不仅提供了精准的天气数据展示": [
+      "weather"
+    ],
+    "朵缓": [
+      "weather"
+    ],
     "电源状态": [
       "yadea_car_control"
     ],
     "的坐": [
       "calendar-lite",
       "yuzhouhangxian"
+    ],
+    "的渐": [
+      "weather"
     ],
     "算法": [
       "business",
@@ -81,11 +97,18 @@
     "统中": [
       "dragon_scales_clock"
     ],
+    "资源": [
+      "weather"
+    ],
     "过接": [
       "business"
     ],
     "运行": [
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
+    ],
+    "醒时": [
+      "weather"
     ],
     "锁屏": [
       "yadea_car_control"

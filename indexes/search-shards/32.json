@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 23,
+  "tokenCount": 30,
   "tokens": {
     "automatically": [
       "music"
@@ -15,11 +15,23 @@
     "github": [
       "course_schedule"
     ],
+    "request": [
+      "weather"
+    ],
     "上进": [
       "business"
     ],
+    "下完": [
+      "weather"
+    ],
     "中设": [
       "uriroute_deviceinfo"
+    ],
+    "了使": [
+      "weather"
+    ],
+    "例和": [
+      "weather"
     ],
     "例背": [
       "calendar-lite"
@@ -29,19 +41,30 @@
     ],
     "刷新": [
       "business",
+      "weather",
       "yadea_car_control"
     ],
     "幅识": [
       "schedule_reminder"
     ],
     "播放": [
-      "music"
+      "music",
+      "weather"
     ],
     "时透": [
       "calendar-lite"
     ],
+    "杂元": [
+      "weather"
+    ],
     "标映": [
       "business"
+    ],
+    "气内": [
+      "weather"
+    ],
+    "渲染": [
+      "weather"
     ],
     "片素": [
       "calendar-lite"
@@ -62,7 +85,8 @@
       "calendar-lite"
     ],
     "调整": [
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
     ],
     "车速": [
       "yadea_car_control"

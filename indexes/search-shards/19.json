@@ -1,6 +1,6 @@
 {
   "shard": "19",
-  "tokenCount": 21,
+  "tokenCount": 32,
   "tokens": {
     "audio": [
       "music"
@@ -15,6 +15,9 @@
     "上显": [
       "course_schedule"
     ],
+    "丰富": [
+      "weather"
+    ],
     "也不": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -24,8 +27,14 @@
       "pickup",
       "schedule_reminder"
     ],
+    "发星": [
+      "weather"
+    ],
     "发送此广播后": [
       "yadea_car_control"
+    ],
+    "可能": [
+      "weather"
     ],
     "基于": [
       "business",
@@ -34,6 +43,7 @@
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "uriroute_deviceinfo",
+      "weather",
       "yadea_car_control"
     ],
     "复刻": [
@@ -52,6 +62,18 @@
     "广播": [
       "yadea_car_control"
     ],
+    "录结": [
+      "weather"
+    ],
+    "拉升": [
+      "weather"
+    ],
+    "无障": [
+      "weather"
+    ],
+    "时自": [
+      "weather"
+    ],
     "标包": [
       "hyper-pick-up-code",
       "kingxv"
@@ -62,6 +84,12 @@
     "的数": [
       "calendar-lite"
     ],
+    "空与": [
+      "weather"
+    ],
+    "系统内置天气内容提供者": [
+      "weather"
+    ],
     "级日": [
       "schedule_reminder"
     ],
@@ -71,6 +99,12 @@
     "起引": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "配系": [
+      "weather"
+    ],
+    "雨滴": [
+      "weather"
     ],
     "音乐歌词": [
       "music"

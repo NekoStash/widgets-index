@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 28,
+  "tokenCount": 34,
   "tokens": {
     "built": [
       "music"
@@ -17,6 +17,12 @@
     "welcome": [
       "music"
     ],
+    "于丰": [
+      "weather"
+    ],
+    "交互": [
+      "weather"
+    ],
     "便可": [
       "uriroute_deviceinfo"
     ],
@@ -27,7 +33,11 @@
       "dragon_scales_clock"
     ],
     "唤醒": [
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
+    ],
+    "在状": [
+      "weather"
     ],
     "复刻官方级动效": [
       "schedule_reminder"
@@ -55,6 +65,9 @@
     "支持车控操作": [
       "yadea_car_control"
     ],
+    "整适": [
+      "weather"
+    ],
     "方法": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
@@ -68,6 +81,9 @@
     "标均": [
       "schedule_reminder"
     ],
+    "源目": [
+      "weather"
+    ],
     "目录下的": [
       "uriroute_deviceinfo"
     ],
@@ -79,6 +95,9 @@
     ],
     "该壁": [
       "dragon_scales_clock"
+    ],
+    "运行环境": [
+      "weather"
     ],
     "道元": [
       "yuzhouhangxian"

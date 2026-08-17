@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 31,
+  "tokenCount": 35,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -37,7 +37,8 @@
     "动态": [
       "business",
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "可以上滑返回或侧滑返回": [
       "kingxv"
@@ -48,6 +49,9 @@
     "向未": [
       "yuzhouhangxian"
     ],
+    "天划": [
+      "weather"
+    ],
     "射超": [
       "business"
     ],
@@ -57,6 +61,9 @@
     "小部": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "屏动": [
+      "weather"
     ],
     "式推": [
       "calendar-lite"
@@ -104,6 +111,12 @@
     ],
     "锁定": [
       "yadea_car_control"
+    ],
+    "间段": [
+      "weather"
+    ],
+    "障碍": [
+      "weather"
     ]
   }
 }

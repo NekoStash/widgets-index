@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 21,
+  "tokenCount": 26,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -24,11 +24,15 @@
       "weather"
     ],
     "专属": [
-      "business"
+      "business",
+      "weather"
     ],
     "中的": [
       "business",
       "uriroute_deviceinfo"
+    ],
+    "供了": [
+      "weather"
     ],
     "出发": [
       "yuzhouhangxian"
@@ -44,7 +48,8 @@
       "yadea_car_control"
     ],
     "屏适": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "点版": [
       "schedule_reminder"
@@ -52,8 +57,17 @@
     "王茶": [
       "business"
     ],
+    "的副": [
+      "weather"
+    ],
+    "的可": [
+      "weather"
+    ],
     "的是": [
       "uriroute_deviceinfo"
+    ],
+    "目不": [
+      "weather"
     ],
     "目前": [
       "business",
@@ -64,7 +78,8 @@
       "hyper-pick-up-code"
     ],
     "色彩": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "节点": [
       "business"
@@ -77,6 +92,9 @@
     ],
     "键词": [
       "business"
+    ],
+    "闪烁": [
+      "weather"
     ]
   }
 }

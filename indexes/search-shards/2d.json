@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 34,
+  "tokenCount": 36,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -27,8 +27,14 @@
       "business",
       "calendar-lite"
     ],
+    "供者": [
+      "weather"
+    ],
     "依托小米底层": [
       "business"
+    ],
+    "具沉": [
+      "weather"
     ],
     "动态生成全局缩放系数": [
       "calendar-lite"
@@ -89,7 +95,8 @@
       "business"
     ],
     "自适": [
-      "business"
+      "business",
+      "weather"
     ],
     "色彩重构": [
       "schedule_reminder"

@@ -1,11 +1,12 @@
 {
   "shard": "20",
-  "tokenCount": 34,
+  "tokenCount": 39,
   "tokens": {
     "folme": [
       "business",
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "id": [
       "mishare",
@@ -49,7 +50,8 @@
       "uriroute_deviceinfo"
     ],
     "对应": [
-      "business"
+      "business",
+      "weather"
     ],
     "对比": [
       "schedule_reminder"
@@ -72,6 +74,12 @@
     "感与": [
       "schedule_reminder"
     ],
+    "摇摆": [
+      "weather"
+    ],
+    "时物": [
+      "weather"
+    ],
     "权归": [
       "dragon_scales_clock"
     ],
@@ -86,19 +94,26 @@
       "hyper-pick-up-code-reareye-xiaomi",
       "schedule_reminder"
     ],
+    "用户": [
+      "weather"
+    ],
     "的关": [
       "business"
     ],
     "的平": [
       "business",
       "schedule_reminder",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "weather"
     ],
     "的音": [
       "music"
     ],
     "确保黑底环境下清晰可见": [
       "schedule_reminder"
+    ],
+    "算并": [
+      "weather"
     ],
     "精准避让摄像头": [
       "calendar-lite"
@@ -117,6 +132,9 @@
     ],
     "里程": [
       "yadea_car_control"
+    ],
+    "顾极": [
+      "weather"
     ]
   }
 }

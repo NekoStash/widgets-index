@@ -1,12 +1,15 @@
 {
   "shard": "00",
-  "tokenCount": 35,
+  "tokenCount": 41,
   "tokens": {
     "devices": [
       "music"
     ],
     "immersive": [
       "music"
+    ],
+    "issue": [
+      "weather"
     ],
     "keeping": [
       "music"
@@ -19,6 +22,9 @@
     ],
     "starisland": [
       "pickup"
+    ],
+    "与云": [
+      "weather"
     ],
     "个能": [
       "back_screen_desktop"
@@ -49,7 +55,8 @@
     ],
     "屏显": [
       "business",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "weather"
     ],
     "屏课": [
       "course_schedule"
@@ -57,11 +64,20 @@
     "应布": [
       "business"
     ],
+    "彩的": [
+      "weather"
+    ],
     "态完": [
       "business"
     ],
     "意设": [
       "yuzhouhangxian"
+    ],
+    "探索更多背屏交互的可能": [
+      "weather"
+    ],
+    "时拉": [
+      "weather"
     ],
     "晰可": [
       "schedule_reminder"
@@ -71,6 +87,9 @@
     ],
     "洁而": [
       "yuzhouhangxian"
+    ],
+    "独立": [
+      "weather"
     ],
     "用列": [
       "kingxv"
@@ -103,7 +122,8 @@
       "yadea_car_control"
     ],
     "隐藏": [
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
     ],
     "高级": [
       "calendar-lite"

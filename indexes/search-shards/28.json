@@ -1,6 +1,6 @@
 {
   "shard": "28",
-  "tokenCount": 16,
+  "tokenCount": 21,
   "tokens": {
     "ghhccghk": [
       "yadea_car_control"
@@ -11,18 +11,30 @@
     "support": [
       "music"
     ],
+    "了极": [
+      "weather"
+    ],
     "关机": [
       "yadea_car_control"
+    ],
+    "发的": [
+      "weather"
     ],
     "在息": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "对背": [
+      "weather"
     ],
     "度信": [
       "business"
     ],
     "接收数据": [
       "yadea_car_control"
+    ],
+    "极致": [
+      "weather"
     ],
     "灵动": [
       "business",
@@ -46,6 +58,9 @@
     ],
     "群友": [
       "disordered-clock"
+    ],
+    "致力": [
+      "weather"
     ],
     "试版": [
       "hyper-pick-up-code"

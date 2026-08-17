@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 36,
+  "tokenCount": 40,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -35,6 +35,9 @@
     "最底层铺设": [
       "calendar-lite"
     ],
+    "力于": [
+      "weather"
+    ],
     "在息屏时实现背景与文字的平滑交叉淡入淡出": [
       "schedule_reminder"
     ],
@@ -56,6 +59,9 @@
     ],
     "幕的": [
       "business"
+    ],
+    "应刷": [
+      "weather"
     ],
     "弃了": [
       "calendar-lite"
@@ -79,6 +85,9 @@
     "果是": [
       "kingxv"
     ],
+    "正弦": [
+      "weather"
+    ],
     "流相": [
       "uriroute_deviceinfo"
     ],
@@ -100,6 +109,9 @@
     "自动计算当月": [
       "calendar-lite"
     ],
+    "色计": [
+      "weather"
+    ],
     "被非": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -107,7 +119,8 @@
       "yadea_car_control"
     ],
     "资产": [
-      "business"
+      "business",
+      "weather"
     ],
     "驱动": [
       "hyper-pick-up-code",

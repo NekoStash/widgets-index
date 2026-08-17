@@ -1,7 +1,10 @@
 {
   "shard": "18",
-  "tokenCount": 43,
+  "tokenCount": 47,
   "tokens": {
+    "120hz": [
+      "weather"
+    ],
     "color": [
       "music"
     ],
@@ -12,7 +15,8 @@
       "business",
       "calendar-lite",
       "course_schedule",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "safe": [
       "calendar-lite"
@@ -38,6 +42,9 @@
       "kingxv",
       "uriroute_deviceinfo",
       "yadea_car_control"
+    ],
+    "出日": [
+      "weather"
     ],
     "前提": [
       "hyper-pick-up-code"
@@ -84,20 +91,23 @@
     "核心特性": [
       "business",
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "此刻": [
       "yuzhouhangxian"
     ],
     "比例": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
     ],
     "滥用": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "状态": [
       "business",
+      "weather",
       "yadea_car_control"
     ],
     "独家上线": [
@@ -107,6 +117,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "用生": [
+      "weather"
     ],
     "目标包名": [
       "hyper-pick-up-code"
@@ -124,7 +137,8 @@
       "yuzhouhangxian"
     ],
     "触发": [
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
     ],
     "请求更新": [
       "yadea_car_control"
@@ -144,7 +158,11 @@
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "pickup",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
+    ],
+    "速度": [
+      "weather"
     ],
     "长文本适配": [
       "schedule_reminder"

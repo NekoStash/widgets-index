@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 23,
+  "tokenCount": 31,
   "tokens": {
     "focus": [
       "business",
@@ -36,6 +36,12 @@
     "外部": [
       "calendar-lite"
     ],
+    "多背": [
+      "weather"
+    ],
+    "夜晚": [
+      "weather"
+    ],
     "家合": [
       "yuzhouhangxian"
     ],
@@ -45,8 +51,14 @@
     "屏使": [
       "uriroute_deviceinfo"
     ],
+    "帧率": [
+      "weather"
+    ],
     "态响": [
       "calendar-lite"
+    ],
+    "或动": [
+      "weather"
     ],
     "接管": [
       "business"
@@ -54,6 +66,7 @@
     "数据": [
       "business",
       "schedule_reminder",
+      "weather",
       "yadea_car_control"
     ],
     "爷爷": [
@@ -61,6 +74,15 @@
     ],
     "独家合作": [
       "yuzhouhangxian"
+    ],
+    "率控": [
+      "weather"
+    ],
+    "的粒": [
+      "weather"
+    ],
+    "统环": [
+      "weather"
     ],
     "缩包": [
       "mishare",
@@ -72,6 +94,9 @@
     ],
     "车控命令": [
       "yadea_car_control"
+    ],
+    "迎提": [
+      "weather"
     ],
     "高度": [
       "schedule_reminder"

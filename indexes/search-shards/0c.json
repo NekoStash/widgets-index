@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 32,
+  "tokenCount": 37,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -36,6 +36,7 @@
       "business",
       "kingxv",
       "schedule_reminder",
+      "weather",
       "yadea_car_control"
     ],
     "包的": [
@@ -52,6 +53,9 @@
     ],
     "定义": [
       "calendar-lite"
+    ],
+    "将一天划分为": [
+      "weather"
     ],
     "屏尺": [
       "business"
@@ -70,6 +74,9 @@
     "操作": [
       "yadea_car_control"
     ],
+    "放入": [
+      "weather"
+    ],
     "是通": [
       "uriroute_deviceinfo"
     ],
@@ -82,7 +89,11 @@
     "核心": [
       "business",
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
+    ],
+    "正常渲染视觉效果": [
+      "weather"
     ],
     "步骤": [
       "uriroute_deviceinfo"
@@ -95,14 +106,21 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "自适应刷新率控制": [
+      "weather"
+    ],
     "行环": [
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
     ],
     "表达式": [
       "calendar-lite"
     ],
     "认样": [
       "business"
+    ],
+    "起渲": [
+      "weather"
     ],
     "轨道": [
       "yuzhouhangxian"

@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 32,
+  "tokenCount": 35,
   "tokens": {
     "30s": [
       "uriroute_deviceinfo"
@@ -32,7 +32,8 @@
     ],
     "兼顾": [
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "最多": [
       "schedule_reminder"
@@ -42,6 +43,12 @@
     ],
     "命名为": [
       "business"
+    ],
+    "场动": [
+      "weather"
+    ],
+    "实的": [
+      "weather"
     ],
     "屏主": [
       "business"
@@ -93,10 +100,14 @@
       "business",
       "calendar-lite",
       "dragon_scales_clock",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "过解": [
       "schedule_reminder"
+    ],
+    "还内置了极具沉浸感的粒子动效与全天候光影渲染": [
+      "weather"
     ],
     "进行深度逻辑优化": [
       "business"

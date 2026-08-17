@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 20,
+  "tokenCount": 25,
   "tokens": {
     "check": [
       "music"
@@ -11,11 +11,17 @@
     "严谨遵循": [
       "schedule_reminder"
     ],
+    "中包": [
+      "weather"
+    ],
     "佬制": [
       "disordered-clock"
     ],
     "做到": [
       "kingxv"
+    ],
+    "准的": [
+      "weather"
     ],
     "单位": [
       "calendar-lite"
@@ -27,7 +33,11 @@
       "yadea_car_control"
     ],
     "息屏显示": [
-      "business"
+      "business",
+      "weather"
+    ],
+    "或者通过": [
+      "weather"
     ],
     "排版": [
       "schedule_reminder"
@@ -39,13 +49,20 @@
       "calendar-lite",
       "schedule_reminder",
       "uriroute_deviceinfo",
+      "weather",
       "yadea_car_control"
     ],
     "本项目深度集成系统通知监听逻辑": [
       "schedule_reminder"
     ],
+    "根据雨量": [
+      "weather"
+    ],
     "独家": [
       "yuzhouhangxian"
+    ],
+    "率进": [
+      "weather"
     ],
     "由管": [
       "hyper-pick-up-code"

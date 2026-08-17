@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 31,
+  "tokenCount": 37,
   "tokens": {
     "burger": [
       "business"
@@ -16,6 +16,9 @@
     ],
     "on": [
       "music"
+    ],
+    "与贡": [
+      "weather"
     ],
     "了等": [
       "calendar-lite"
@@ -54,11 +57,17 @@
     "已知": [
       "business"
     ],
+    "态拼": [
+      "weather"
+    ],
     "手机": [
       "business"
     ],
     "据流": [
       "schedule_reminder"
+    ],
+    "控制": [
+      "weather"
     ],
     "清晰": [
       "schedule_reminder"
@@ -68,21 +77,33 @@
     ],
     "真实": [
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "视觉": [
       "business",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "等比": [
       "calendar-lite"
     ],
+    "置极": [
+      "weather"
+    ],
     "藏与": [
       "calendar-lite"
     ],
+    "身定": [
+      "weather"
+    ],
     "透明": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
+    ],
+    "随风": [
+      "weather"
     ],
     "雅地": [
       "schedule_reminder"

@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 25,
+  "tokenCount": 27,
   "tokens": {
     "always": [
       "music"
@@ -47,6 +47,9 @@
     "持开": [
       "yadea_car_control"
     ],
+    "擎丝": [
+      "weather"
+    ],
     "无关": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -76,6 +79,9 @@
     ],
     "若未匹配到已知品牌": [
       "business"
+    ],
+    "雪花": [
+      "weather"
     ],
     "霸王": [
       "business"

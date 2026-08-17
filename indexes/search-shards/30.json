@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 28,
+  "tokenCount": 36,
   "tokens": {
     "equipped": [
       "music"
@@ -11,8 +11,14 @@
     "series": [
       "music"
     ],
+    "仅提": [
+      "weather"
+    ],
     "你启": [
       "back_screen_desktop"
+    ],
+    "你是": [
+      "weather"
     ],
     "依托": [
       "business"
@@ -45,6 +51,12 @@
       "business",
       "kingxv"
     ],
+    "带有": [
+      "weather"
+    ],
+    "或改": [
+      "weather"
+    ],
     "文件": [
       "uriroute_deviceinfo",
       "yadea_car_control"
@@ -52,13 +64,20 @@
     "星图": [
       "yuzhouhangxian"
     ],
+    "星空与云朵": [
+      "weather"
+    ],
+    "是从": [
+      "weather"
+    ],
     "景与": [
       "schedule_reminder"
     ],
     "智能": [
       "business",
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "标并": [
       "calendar-lite"
@@ -78,8 +97,14 @@
     "背屏使用的是通用模块": [
       "uriroute_deviceinfo"
     ],
+    "致力于丰富小米": [
+      "weather"
+    ],
     "规范": [
       "schedule_reminder"
+    ],
+    "辨率": [
+      "weather"
     ],
     "透亮": [
       "schedule_reminder"

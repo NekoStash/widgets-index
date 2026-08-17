@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 27,
+  "tokenCount": 32,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -32,13 +32,17 @@
     ],
     "丝滑": [
       "business",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "了传": [
       "calendar-lite"
     ],
     "保黑": [
       "schedule_reminder"
+    ],
+    "入对": [
+      "weather"
     ],
     "入项": [
       "mishare",
@@ -61,7 +65,8 @@
     "如果": [
       "business",
       "calendar-lite",
-      "kingxv"
+      "kingxv",
+      "weather"
     ],
     "将主屏幕的焦点通知实时同步至背屏显示": [
       "business"
@@ -78,12 +83,24 @@
     "持底": [
       "business"
     ],
+    "据动": [
+      "weather"
+    ],
+    "据雨": [
+      "weather"
+    ],
     "提取": [
       "business",
       "dragon_scales_clock"
     ],
     "新时": [
       "yadea_car_control"
+    ],
+    "晴空": [
+      "weather"
+    ],
+    "暂停": [
+      "weather"
     ],
     "用于": [
       "calendar-lite",

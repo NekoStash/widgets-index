@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 29,
+  "tokenCount": 37,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -15,13 +15,23 @@
       "uriroute_deviceinfo"
     ],
     "widget": [
-      "music"
+      "music",
+      "weather"
+    ],
+    "个基": [
+      "weather"
     ],
     "主题引擎": [
       "calendar-lite"
     ],
+    "了精": [
+      "weather"
+    ],
     "关内": [
       "uriroute_deviceinfo"
+    ],
+    "动隐": [
+      "weather"
     ],
     "呈现": [
       "schedule_reminder"
@@ -39,10 +49,20 @@
       "business"
     ],
     "应的": [
-      "business"
+      "business",
+      "weather"
     ],
     "待办等关键进度": [
       "business"
+    ],
+    "微件": [
+      "weather"
+    ],
+    "态下": [
+      "weather"
+    ],
+    "探索": [
+      "weather"
     ],
     "月背屏创意设计大赛入围作品": [
       "yuzhouhangxian"
@@ -62,6 +82,9 @@
     "现在": [
       "schedule_reminder"
     ],
+    "空自": [
+      "weather"
+    ],
     "米超": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -70,6 +93,9 @@
     ],
     "组件名称可任意填写": [
       "hyper-pick-up-code"
+    ],
+    "缓入": [
+      "weather"
     ],
     "美化": [
       "disordered-clock"
@@ -85,7 +111,8 @@
     ],
     "过渡": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
     ],
     "需拥有": [
       "uriroute_deviceinfo"

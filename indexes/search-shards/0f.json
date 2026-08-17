@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 25,
+  "tokenCount": 35,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -8,17 +8,32 @@
     "主屏": [
       "business"
     ],
+    "云天": [
+      "weather"
+    ],
     "互传": [
       "mishare"
     ],
     "任意": [
       "hyper-pick-up-code"
     ],
+    "光影": [
+      "weather"
+    ],
     "制作": [
       "disordered-clock"
     ],
+    "动挂": [
+      "weather"
+    ],
+    "升至": [
+      "weather"
+    ],
     "历第": [
       "calendar-lite"
+    ],
+    "变色": [
+      "weather"
     ],
     "处理": [
       "calendar-lite"
@@ -37,6 +52,9 @@
     ],
     "换到": [
       "yadea_car_control"
+    ],
+    "据此": [
+      "weather"
     ],
     "擎处": [
       "calendar-lite"
@@ -64,16 +82,29 @@
       "calendar-lite",
       "hyper-pick-up-code",
       "schedule_reminder",
+      "weather",
       "yadea_car_control"
     ],
     "自动识别外卖品牌并加载专属视觉资产": [
       "business"
+    ],
+    "行精": [
+      "weather"
+    ],
+    "请确保仓库中包含以下素材结构": [
+      "weather"
+    ],
+    "读屏": [
+      "weather"
     ],
     "负载的计算": [
       "uriroute_deviceinfo"
     ],
     "迎各": [
       "kingxv"
+    ],
+    "量身": [
+      "weather"
     ],
     "零帧绝杀": [
       "calendar-lite"

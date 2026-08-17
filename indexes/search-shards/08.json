@@ -1,9 +1,12 @@
 {
   "shard": "08",
-  "tokenCount": 26,
+  "tokenCount": 34,
   "tokens": {
     "save": [
       "music"
+    ],
+    "talkback": [
+      "weather"
     ],
     "与安": [
       "calendar-lite"
@@ -11,7 +14,8 @@
     "专为": [
       "business",
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "为灵": [
       "yuzhouhangxian"
@@ -25,8 +29,17 @@
     "内存": [
       "uriroute_deviceinfo"
     ],
+    "内置极其细腻的渐变色计算逻辑": [
+      "weather"
+    ],
+    "函数": [
+      "weather"
+    ],
     "前需": [
       "uriroute_deviceinfo"
+    ],
+    "唤醒时通过": [
+      "weather"
     ],
     "在小": [
       "course_schedule",
@@ -49,7 +62,11 @@
       "calendar-lite"
     ],
     "标设": [
-      "business"
+      "business",
+      "weather"
+    ],
+    "浸感": [
+      "weather"
     ],
     "滑交": [
       "schedule_reminder"
@@ -70,8 +87,14 @@
     "统时": [
       "calendar-lite"
     ],
+    "置天": [
+      "weather"
+    ],
     "自动刷新": [
       "yadea_car_control"
+    ],
+    "请确": [
+      "weather"
     ],
     "载地": [
       "uriroute_deviceinfo"
@@ -85,6 +108,9 @@
     ],
     "道为": [
       "yuzhouhangxian"
+    ],
+    "雨量": [
+      "weather"
     ]
   }
 }

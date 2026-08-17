@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 26,
+  "tokenCount": 31,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
@@ -26,7 +26,8 @@
     ],
     "不同": [
       "business",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "从此刻的坐标出发": [
       "yuzhouhangxian"
@@ -49,6 +50,9 @@
     "双击可切换回桌面": [
       "kingxv"
     ],
+    "合正": [
+      "weather"
+    ],
     "已锁": [
       "yadea_car_control"
     ],
@@ -59,7 +63,11 @@
       "schedule_reminder"
     ],
     "提供": [
-      "hyper-pick-up-code-reareye-xiaomi"
+      "hyper-pick-up-code-reareye-xiaomi",
+      "weather"
+    ],
+    "星空": [
+      "weather"
     ],
     "汉堡王": [
       "business"
@@ -68,6 +76,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "演算": [
+      "weather"
     ],
     "电规": [
       "schedule_reminder"
@@ -81,11 +92,17 @@
     "置以": [
       "business"
     ],
+    "调度": [
+      "weather"
+    ],
     "载值": [
       "uriroute_deviceinfo"
     ],
     "重启背屏": [
       "hyper-pick-up-code"
+    ],
+    "雪天": [
+      "weather"
     ],
     "非法": [
       "hyper-pick-up-code-reareye-xiaomi"

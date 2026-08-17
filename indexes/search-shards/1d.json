@@ -1,9 +1,12 @@
 {
   "shard": "1d",
-  "tokenCount": 32,
+  "tokenCount": 43,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
+    ],
+    "animation": [
+      "weather"
     ],
     "background": [
       "music"
@@ -52,14 +55,27 @@
     "信息卡片": [
       "yadea_car_control"
     ],
+    "其细": [
+      "weather"
+    ],
     "划为": [
       "calendar-lite"
     ],
     "加新": [
-      "business"
+      "business",
+      "weather"
+    ],
+    "含以": [
+      "weather"
     ],
     "存储": [
       "uriroute_deviceinfo"
+    ],
+    "库中": [
+      "weather"
+    ],
+    "开源": [
+      "weather"
     ],
     "彻底": [
       "calendar-lite",
@@ -68,11 +84,23 @@
     "彻底挂起引擎": [
       "calendar-lite"
     ],
+    "态调": [
+      "weather"
+    ],
     "放置": [
       "business"
     ],
+    "框架": [
+      "weather"
+    ],
+    "深度适配系统": [
+      "weather"
+    ],
     "灵感": [
       "yuzhouhangxian"
+    ],
+    "理状": [
+      "weather"
     ],
     "画引": [
       "business",
@@ -80,6 +108,9 @@
     ],
     "纯黑": [
       "calendar-lite"
+    ],
+    "缝切": [
+      "weather"
     ],
     "背屏课程表": [
       "course_schedule"
@@ -89,6 +120,9 @@
     ],
     "设置": [
       "uriroute_deviceinfo"
+    ],
+    "请根": [
+      "weather"
     ],
     "过缩": [
       "schedule_reminder"

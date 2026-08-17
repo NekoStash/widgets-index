@@ -1,9 +1,12 @@
 {
   "shard": "02",
-  "tokenCount": 26,
+  "tokenCount": 30,
   "tokens": {
     "skip": [
       "music"
+    ],
+    "一天": [
+      "weather"
     ],
     "件便": [
       "uriroute_deviceinfo"
@@ -53,6 +56,9 @@
     "沪上阿姨": [
       "business"
     ],
+    "源项": [
+      "weather"
+    ],
     "照现": [
       "business"
     ],
@@ -68,13 +74,17 @@
     ],
     "目标": [
       "business",
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "weather"
     ],
     "码基": [
       "business"
     ],
     "禁区": [
       "calendar-lite"
+    ],
+    "等开源项目一起": [
+      "weather"
     ],
     "终极": [
       "calendar-lite"
@@ -85,7 +95,11 @@
     "进行": [
       "business",
       "calendar-lite",
-      "disordered-clock"
+      "disordered-clock",
+      "weather"
+    ],
+    "静止": [
+      "weather"
     ]
   }
 }

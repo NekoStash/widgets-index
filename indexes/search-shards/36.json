@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 34,
+  "tokenCount": 39,
   "tokens": {
     "30": [
       "calendar-lite"
@@ -24,18 +24,28 @@
       "business",
       "calendar-lite"
     ],
+    "件添": [
+      "weather"
+    ],
     "前只": [
       "yadea_car_control"
     ],
     "号的": [
       "calendar-lite"
     ],
+    "在不同物理状态下完美对齐": [
+      "weather"
+    ],
+    "多云天气带有云朵缓缓入场动画": [
+      "weather"
+    ],
     "屏桌": [
       "back_screen_desktop",
       "kingxv"
     ],
     "布局": [
-      "business"
+      "business",
+      "weather"
     ],
     "底层": [
       "business",
@@ -49,16 +59,21 @@
     "微调": [
       "calendar-lite"
     ],
+    "户的": [
+      "weather"
+    ],
     "挂起": [
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "换算": [
       "schedule_reminder"
     ],
     "本项": [
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "weather"
     ],
     "机功": [
       "schedule_reminder"
@@ -106,6 +121,9 @@
     ],
     "量和": [
       "calendar-lite"
+    ],
+    "针对背屏比例和分辨率进行精准的": [
+      "weather"
     ],
     "防烧": [
       "calendar-lite"

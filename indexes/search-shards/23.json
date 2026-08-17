@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 43,
+  "tokenCount": 50,
   "tokens": {
     "feeling": [
       "music"
@@ -8,7 +8,8 @@
     "hyperos": [
       "business",
       "calendar-lite",
-      "music"
+      "music",
+      "weather"
     ],
     "play": [
       "music"
@@ -28,7 +29,11 @@
     "于传": [
       "schedule_reminder"
     ],
+    "互的": [
+      "weather"
+    ],
     "仓库": [
+      "weather",
       "yadea_car_control"
     ],
     "代码默认将左上角的": [
@@ -36,13 +41,18 @@
     ],
     "优化": [
       "business",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "weather"
     ],
     "具备": [
-      "calendar-lite"
+      "calendar-lite",
+      "weather"
     ],
     "写以": [
       "hyper-pick-up-code"
+    ],
+    "动触": [
+      "weather"
     ],
     "动车": [
       "yadea_car_control"
@@ -73,8 +83,14 @@
     "年": [
       "calendar-lite"
     ],
+    "拟真": [
+      "weather"
+    ],
     "文字": [
       "schedule_reminder"
+    ],
+    "无缝切换": [
+      "weather"
     ],
     "星域": [
       "yuzhouhangxian"
@@ -88,8 +104,14 @@
     "求更": [
       "yadea_car_control"
     ],
+    "滴粒": [
+      "weather"
+    ],
     "的形": [
       "yuzhouhangxian"
+    ],
+    "目一": [
+      "weather"
     ],
     "知监": [
       "schedule_reminder"
@@ -99,6 +121,9 @@
     ],
     "组件仓库安装": [
       "yadea_car_control"
+    ],
+    "缓缓": [
+      "weather"
     ],
     "美映": [
       "business"
