@@ -1,4 +1,72 @@
 {
   "id": "yadea_car_control",
-  "releases": []
+  "releases": [
+    {
+      "id": 367214243,
+      "tagName": "0.1.1",
+      "name": "0.1.1",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-08-08T13:55:52Z",
+      "publishedAt": "2026-08-08T13:57:17Z",
+      "url": "https://github.com/ghhccghk/Yadea_SubSceen_Card/releases/tag/0.1.1",
+      "body": "<p dir=\"auto\"><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/ghhccghk/Yadea_SubSceen_Card/compare/0.1...0.1.1\"><tt>0.1...0.1.1</tt></a></p>",
+      "assets": [
+        {
+          "id": 506433551,
+          "name": "Yadea_SubSceen_Card.zip",
+          "label": null,
+          "size": 4092,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 1,
+          "createdAt": "2026-08-08T13:58:19Z",
+          "updatedAt": "2026-08-08T13:58:20Z",
+          "downloadUrl": "https://github.com/ghhccghk/Yadea_SubSceen_Card/releases/download/0.1.1/Yadea_SubSceen_Card.zip"
+        }
+      ],
+      "widgetInfo": {
+        "type": "widget",
+        "minVersion": 99,
+        "name": "雅迪车控",
+        "business_setup": {
+          "id": "yadea_car_control",
+          "renameable": false
+        },
+        "requirements": {
+          "packages": [
+            "com.ghhccghk.yadeahook",
+            "com.yadea.smartmoto"
+          ]
+        }
+      }
+    },
+    {
+      "id": 367186506,
+      "tagName": "0.1",
+      "name": "0.1",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-08-08T11:14:31Z",
+      "publishedAt": "2026-08-08T11:34:02Z",
+      "url": "https://github.com/ghhccghk/Yadea_SubSceen_Card/releases/tag/0.1",
+      "body": "<p dir=\"auto\">目前只能给<a href=\"https://github.com/ghhccghk/Yadea_SubSceen_Card\">https://github.com/ghhccghk/Yadea_SubSceen_Card</a> 使用</p>\n<p dir=\"auto\"><strong>Full Changelog</strong>: <a href=\"https://github.com/ghhccghk/Yadea_Hook/commits/0.1\">https://github.com/ghhccghk/Yadea_Hook/commits/0.1</a></p>",
+      "assets": [],
+      "widgetInfo": {
+        "type": "widget",
+        "minVersion": 99,
+        "maxVersion": 104,
+        "name": "雅迪车控",
+        "business_setup": {
+          "id": "yadea_car_control",
+          "renameable": false
+        },
+        "requirements": {
+          "packages": [
+            "com.ghhccghk.yadeahook",
+            "com.yadea.smartmoto"
+          ]
+        }
+      }
+    }
+  ]
 }

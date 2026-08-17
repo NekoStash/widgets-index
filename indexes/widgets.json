@@ -5,8 +5,8 @@
     "authorName": "Pork-skin",
     "authorId": "Pork-skin",
     "description": "一个能在背屏帮你启动flue桌面的卡片",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "git",
+    "latestReleasePublishedAt": "2026-04-29T11:49:14.000Z",
     "stars": 2
   },
   {
@@ -15,8 +15,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "Beta-0.2",
+    "latestReleasePublishedAt": "2026-04-10T00:08:58.000Z",
     "stars": 0
   },
   {
@@ -25,8 +25,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "适用于小米背屏的日历小组件",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v2.1",
+    "latestReleasePublishedAt": "2026-04-23T06:19:32.000Z",
     "stars": 1
   },
   {
@@ -35,8 +35,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "在小米17 Pro系列背屏上显示课程表",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v1.0",
+    "latestReleasePublishedAt": "2026-04-16T09:30:04.000Z",
     "stars": 1
   },
   {
@@ -45,8 +45,8 @@
     "authorName": "w15wangyaowu-coder",
     "authorId": "w15wangyaowu-coder",
     "description": "基于墨飞大佬制作的桌面主题，janus的群友GeniesouL进行了背屏移植，我进行了进一步修改美化",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "2.0",
+    "latestReleasePublishedAt": "2026-06-15T12:06:09.000Z",
     "stars": 1
   },
   {
@@ -55,8 +55,8 @@
     "authorName": "AnserJim",
     "authorId": "killerprojecte",
     "description": "小米龙鳞纤维时钟壁纸（从官方提取）",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v1.0",
+    "latestReleasePublishedAt": "2026-04-28T00:52:54.000Z",
     "stars": 0
   },
   {
@@ -65,8 +65,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v0.1",
+    "latestReleasePublishedAt": "2026-04-26T11:55:53.000Z",
     "stars": 0
   },
   {
@@ -75,8 +75,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "基于小米焦点通知,适配澎湃记的小米背屏组件,由REAREye驱动",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v1.0",
+    "latestReleasePublishedAt": "2026-04-29T11:29:08.000Z",
     "stars": 0
   },
   {
@@ -85,8 +85,8 @@
     "authorName": "w15wangyaowu-coder",
     "authorId": "w15wangyaowu-coder",
     "description": "17pro背屏桌面",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "kingxv桌面",
+    "latestReleasePublishedAt": "2026-04-30T06:40:23.000Z",
     "stars": 0
   },
   {
@@ -95,8 +95,8 @@
     "authorName": "JUZI",
     "authorId": "juzipaome",
     "description": "小米互传超级岛同时转化到小米背屏的小组件",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "beta-0.1",
+    "latestReleasePublishedAt": "2026-04-15T13:58:20.000Z",
     "stars": 0
   },
   {
@@ -105,8 +105,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v2.0",
+    "latestReleasePublishedAt": "2026-04-07T00:38:59.000Z",
     "stars": 7
   },
   {
@@ -115,8 +115,8 @@
     "authorName": "JUZI",
     "authorId": "juzipaome",
     "description": "将StarIsland的超级岛同时转化到小米背屏的小组件",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "beta",
+    "latestReleasePublishedAt": "2026-04-15T05:54:02.000Z",
     "stars": 3
   },
   {
@@ -125,8 +125,8 @@
     "authorName": "JUZI",
     "authorId": "juzipaome",
     "description": "适用于小米背屏的日程提醒小组件",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "beta-0.2",
+    "latestReleasePublishedAt": "2026-04-15T08:27:54.000Z",
     "stars": 0
   },
   {
@@ -135,8 +135,8 @@
     "authorName": "Jawiiki",
     "authorId": "Jawiiki",
     "description": "基于REAREye、UriRoute驱动的设备资讯模块",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v1.1",
+    "latestReleasePublishedAt": "2026-05-07T14:32:59.000Z",
     "stars": 1
   },
   {
@@ -145,8 +145,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "适用于小米背屏系列的天气小组件。",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v2.0",
+    "latestReleasePublishedAt": "2026-04-13T09:29:04.000Z",
     "stars": 0
   },
   {
@@ -155,8 +155,8 @@
     "authorName": "李太白",
     "authorId": "ghhccghk",
     "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "0.1.1",
+    "latestReleasePublishedAt": "2026-08-08T13:57:17.000Z",
     "stars": 1
   },
   {
@@ -165,8 +165,8 @@
     "authorName": "SiberiaApp",
     "authorId": "SiberiaApp",
     "description": "宇宙航线：REAREye独家",
-    "latestReleaseTag": null,
-    "latestReleasePublishedAt": null,
+    "latestReleaseTag": "v1.0",
+    "latestReleasePublishedAt": "2026-07-17T02:26:12.000Z",
     "stars": 0
   }
 ]
