@@ -1,10 +1,7 @@
 {
   "shard": "35",
-  "tokenCount": 30,
+  "tokenCount": 24,
   "tokens": {
-    "bug": [
-      "weather"
-    ],
     "from": [
       "music"
     ],
@@ -16,9 +13,6 @@
     ],
     "不小": [
       "uriroute_deviceinfo"
-    ],
-    "个雪": [
-      "weather"
     ],
     "你在": [
       "business"
@@ -51,22 +45,12 @@
     "并非": [
       "calendar-lite"
     ],
-    "度与": [
-      "weather"
-    ],
-    "放时": [
-      "weather"
-    ],
     "时实": [
       "schedule_reminder"
     ],
-    "欢迎提交": [
-      "weather"
-    ],
     "渐变": [
       "calendar-lite",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "的平滑过渡与透明度切换": [
       "business"
@@ -92,9 +76,6 @@
     ],
     "超级背屏岛": [
       "business"
-    ],
-    "静止状态自动挂起渲染": [
-      "weather"
     ]
   }
 }

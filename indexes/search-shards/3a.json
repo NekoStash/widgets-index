@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 43,
+  "tokenCount": 37,
   "tokens": {
     "no": [
       "calendar-lite"
@@ -15,8 +15,7 @@
       "yuzhouhangxian"
     ],
     "与透": [
-      "business",
-      "weather"
+      "business"
     ],
     "于小": [
       "calendar-lite",
@@ -26,15 +25,11 @@
       "schedule_reminder",
       "weather"
     ],
-    "他具": [
-      "weather"
-    ],
     "作者": [
       "yuzhouhangxian"
     ],
     "依赖": [
-      "business",
-      "weather"
+      "business"
     ],
     "刻的": [
       "yuzhouhangxian"
@@ -75,9 +70,6 @@
     "态插": [
       "schedule_reminder"
     ],
-    "拼接": [
-      "weather"
-    ],
     "探逻": [
       "calendar-lite"
     ],
@@ -89,14 +81,10 @@
     ],
     "是一": [
       "calendar-lite",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "月天": [
       "calendar-lite"
-    ],
-    "滑恢": [
-      "weather"
     ],
     "澎湃记的小米超级岛功能仅接入": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -116,12 +104,6 @@
     "简洁": [
       "yuzhouhangxian"
     ],
-    "腻的": [
-      "weather"
-    ],
-    "落时": [
-      "weather"
-    ],
     "词识": [
       "business"
     ],
@@ -130,9 +112,6 @@
     ],
     "适用于小米背屏的日历小组件": [
       "calendar-lite"
-    ],
-    "配视": [
-      "weather"
     ],
     "需要": [
       "business",

@@ -1,26 +1,23 @@
 {
   "shard": "31",
-  "tokenCount": 45,
+  "tokenCount": 37,
   "tokens": {
     "17": [
       "business",
       "calendar-lite",
       "course_schedule",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "colors": [
       "music"
     ],
     "miui": [
       "calendar-lite",
-      "music",
-      "weather"
+      "music"
     ],
     "scale": [
       "business",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "star": [
       "music"
@@ -28,13 +25,9 @@
     "一点点": [
       "business"
     ],
-    "为了": [
-      "weather"
-    ],
     "以下": [
       "business",
-      "hyper-pick-up-code",
-      "weather"
+      "hyper-pick-up-code"
     ],
     "最新测试版本": [
       "hyper-pick-up-code"
@@ -43,7 +36,6 @@
       "schedule_reminder"
     ],
     "包含": [
-      "weather",
       "yadea_car_control"
     ],
     "卡片": [
@@ -51,8 +43,7 @@
       "yadea_car_control"
     ],
     "及其": [
-      "business",
-      "weather"
+      "business"
     ],
     "可以在背屏显示超级岛内容的背屏主题": [
       "business"
@@ -68,9 +59,6 @@
     ],
     "安装方法": [
       "hyper-pick-up-code"
-    ],
-    "实时演算并渲染天空色彩的平滑过渡": [
-      "weather"
     ],
     "屏展": [
       "yadea_car_control"
@@ -89,8 +77,7 @@
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
       "kingxv",
-      "uriroute_deviceinfo",
-      "weather"
+      "uriroute_deviceinfo"
     ],
     "底抛": [
       "calendar-lite"
@@ -101,15 +88,8 @@
     "推导": [
       "calendar-lite"
     ],
-    "提交": [
-      "weather"
-    ],
-    "效果": [
-      "weather"
-    ],
     "新的": [
-      "business",
-      "weather"
+      "business"
     ],
     "日程": [
       "schedule_reminder"
@@ -118,18 +98,13 @@
       "calendar-lite"
     ],
     "欢迎": [
-      "kingxv",
-      "weather"
+      "kingxv"
     ],
     "焦点通知": [
       "schedule_reminder"
     ],
     "率降": [
-      "business",
-      "weather"
-    ],
-    "理粒": [
-      "weather"
+      "business"
     ],
     "电逻": [
       "calendar-lite"
@@ -140,26 +115,16 @@
     "系列背屏上显示课程表": [
       "course_schedule"
     ],
-    "统内": [
-      "weather"
-    ],
     "缝解": [
       "business"
-    ],
-    "能调": [
-      "weather"
     ],
     "记的": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
     ],
-    "这是一个基于小米": [
-      "weather"
-    ],
     "降至": [
       "business",
-      "calendar-lite",
-      "weather"
+      "calendar-lite"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 49,
+  "tokenCount": 44,
   "tokens": {
     "power": [
       "music"
@@ -68,9 +68,6 @@
     "备资": [
       "uriroute_deviceinfo"
     ],
-    "大": [
-      "weather"
-    ],
     "如被非法滥用": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -104,8 +101,7 @@
       "business"
     ],
     "无缝": [
-      "business",
-      "weather"
+      "business"
     ],
     "权限": [
       "uriroute_deviceinfo"
@@ -116,14 +112,8 @@
     "比计": [
       "schedule_reminder"
     ],
-    "气象": [
-      "weather"
-    ],
     "渡与": [
       "business"
-    ],
-    "片资": [
-      "weather"
     ],
     "状态完美映射至背屏": [
       "business"
@@ -134,9 +124,6 @@
     "程表": [
       "course_schedule"
     ],
-    "立雨": [
-      "weather"
-    ],
     "置缓": [
       "uriroute_deviceinfo"
     ],
@@ -145,9 +132,6 @@
     ],
     "谨遵": [
       "schedule_reminder"
-    ],
-    "还内": [
-      "weather"
     ],
     "适配澎湃记的小米背屏组件": [
       "hyper-pick-up-code",

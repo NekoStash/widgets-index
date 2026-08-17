@@ -1,6 +1,6 @@
 {
   "shard": "17",
-  "tokenCount": 26,
+  "tokenCount": 21,
   "tokens": {
     "controls": [
       "music"
@@ -23,12 +23,6 @@
     "否则需重新安装该背屏模块": [
       "uriroute_deviceinfo"
     ],
-    "吸闪": [
-      "weather"
-    ],
-    "和分": [
-      "weather"
-    ],
     "喜茶": [
       "business"
     ],
@@ -48,20 +42,11 @@
     "无缝解析系统": [
       "business"
     ],
-    "气微": [
-      "weather"
-    ],
     "牌识": [
       "business"
     ],
-    "的图": [
-      "weather"
-    ],
     "的设": [
       "uriroute_deviceinfo"
-    ],
-    "算逻": [
-      "weather"
     ],
     "美兼": [
       "business",

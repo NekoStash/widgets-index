@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 46,
+  "tokenCount": 43,
   "tokens": {
     "experience": [
       "music"
@@ -80,8 +80,7 @@
     "平滑": [
       "business",
       "calendar-lite",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "态生": [
       "calendar-lite"
@@ -95,9 +94,6 @@
     "方级": [
       "schedule_reminder"
     ],
-    "时通": [
-      "weather"
-    ],
     "更新": [
       "yadea_car_control"
     ],
@@ -106,9 +102,6 @@
     ],
     "模板": [
       "hyper-pick-up-code"
-    ],
-    "止状": [
-      "weather"
     ],
     "步至": [
       "business"
@@ -119,8 +112,7 @@
     "特性": [
       "business",
       "calendar-lite",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "用的": [
       "uriroute_deviceinfo"
@@ -130,9 +122,6 @@
     ],
     "等具": [
       "calendar-lite"
-    ],
-    "系统环境": [
-      "weather"
     ],
     "解锁": [
       "yadea_car_control"

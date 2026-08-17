@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 34,
+  "tokenCount": 30,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -37,7 +37,6 @@
       "business",
       "calendar-lite",
       "schedule_reminder",
-      "weather",
       "yuzhouhangxian"
     ],
     "取雅": [
@@ -51,12 +50,6 @@
     ],
     "开关": [
       "yadea_car_control"
-    ],
-    "或者": [
-      "weather"
-    ],
-    "据依": [
-      "weather"
     ],
     "支持亮屏与": [
       "business"
@@ -75,8 +68,7 @@
     ],
     "确保": [
       "schedule_reminder",
-      "uriroute_deviceinfo",
-      "weather"
+      "uriroute_deviceinfo"
     ],
     "简体中文": [
       "music"
@@ -90,14 +82,8 @@
     "纯黑背景": [
       "calendar-lite"
     ],
-    "觉效": [
-      "weather"
-    ],
     "该背": [
       "uriroute_deviceinfo"
-    ],
-    "请根据此目录放入对应的图片资产": [
-      "weather"
     ],
     "载的": [
       "uriroute_deviceinfo"

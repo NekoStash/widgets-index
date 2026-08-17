@@ -1,6 +1,6 @@
 {
   "shard": "01",
-  "tokenCount": 20,
+  "tokenCount": 19,
   "tokens": {
     "subsceen": [
       "yadea_car_control"
@@ -13,9 +13,6 @@
     ],
     "主流": [
       "business"
-    ],
-    "保仓": [
-      "weather"
     ],
     "动态小部件": [
       "schedule_reminder"
@@ -34,15 +31,13 @@
       "calendar-lite"
     ],
     "度适": [
-      "business",
-      "weather"
+      "business"
     ],
     "显示": [
       "business",
       "calendar-lite",
       "course_schedule",
       "uriroute_deviceinfo",
-      "weather",
       "yadea_car_control",
       "yuzhouhangxian"
     ],

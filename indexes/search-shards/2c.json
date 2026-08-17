@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 42,
+  "tokenCount": 33,
   "tokens": {
     "album": [
       "music"
@@ -19,9 +19,6 @@
       "business"
     ],
     "xiaomi-rearscreen-weather": [
-      "weather"
-    ],
-    "与副屏音乐": [
       "weather"
     ],
     "从官方提取": [
@@ -47,16 +44,9 @@
     "基准单位划为禁区": [
       "calendar-lite"
     ],
-    "容提": [
-      "weather"
-    ],
-    "富小": [
-      "weather"
-    ],
     "对齐": [
       "calendar-lite",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "屏通": [
       "mishare"
@@ -64,17 +54,8 @@
     "度白": [
       "schedule_reminder"
     ],
-    "弦函": [
-      "weather"
-    ],
-    "态动": [
-      "weather"
-    ],
     "扣时": [
       "business"
-    ],
-    "据展": [
-      "weather"
     ],
     "新测": [
       "hyper-pick-up-code"
@@ -84,12 +65,6 @@
     ],
     "无白名单": [
       "hyper-pick-up-code-reareye-xiaomi"
-    ],
-    "染视": [
-      "weather"
-    ],
-    "根据气象数据动态拼接天气语音播报": [
-      "weather"
     ],
     "桌面可在": [
       "back_screen_desktop"
@@ -101,14 +76,10 @@
     ],
     "目录": [
       "business",
-      "uriroute_deviceinfo",
-      "weather"
+      "uriroute_deviceinfo"
     ],
     "知的": [
       "yuzhouhangxian"
-    ],
-    "等开": [
-      "weather"
     ],
     "米焦": [
       "hyper-pick-up-code-reareye-xiaomi"

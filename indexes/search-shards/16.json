@@ -1,10 +1,7 @@
 {
   "shard": "16",
-  "tokenCount": 31,
+  "tokenCount": 28,
   "tokens": {
-    "450": [
-      "weather"
-    ],
     "creating": [
       "music"
     ],
@@ -22,7 +19,6 @@
       "disordered-clock"
     ],
     "元素": [
-      "weather",
       "yuzhouhangxian"
     ],
     "列的": [
@@ -31,9 +27,6 @@
     ],
     "区避": [
       "calendar-lite"
-    ],
-    "及其他具备背屏的": [
-      "weather"
     ],
     "只支": [
       "yadea_car_control"
@@ -81,9 +74,6 @@
     "线作": [
       "yuzhouhangxian"
     ],
-    "续航": [
-      "weather"
-    ],
     "识别": [
       "business",
       "calendar-lite",
@@ -100,8 +90,7 @@
       "uriroute_deviceinfo"
     ],
     "音乐": [
-      "music",
-      "weather"
+      "music"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 34,
+  "tokenCount": 30,
   "tokens": {
     "extracts": [
       "music"
@@ -14,9 +14,6 @@
     ],
     "制的": [
       "business"
-    ],
-    "动态调整下落速度与透明度": [
-      "weather"
     ],
     "动画引擎": [
       "business",
@@ -52,12 +49,6 @@
       "weather",
       "yadea_car_control",
       "yuzhouhangxian"
-    ],
-    "屏音": [
-      "weather"
-    ],
-    "属背": [
-      "weather"
     ],
     "应与": [
       "calendar-lite"
@@ -103,9 +94,6 @@
     ],
     "设备资讯": [
       "uriroute_deviceinfo"
-    ],
-    "资源目录结构": [
-      "weather"
     ],
     "通过广播接收数据": [
       "yadea_car_control"

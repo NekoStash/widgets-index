@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 42,
+  "tokenCount": 39,
   "tokens": {
     "are": [
       "music"
@@ -22,15 +22,13 @@
     ],
     "其他": [
       "business",
-      "uriroute_deviceinfo",
-      "weather"
+      "uriroute_deviceinfo"
     ],
     "列等": [
       "calendar-lite"
     ],
     "动效": [
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "历焦": [
       "schedule_reminder"
@@ -40,9 +38,6 @@
     ],
     "备特": [
       "calendar-lite"
-    ],
-    "完整": [
-      "weather"
     ],
     "将左": [
       "calendar-lite"
@@ -75,7 +70,6 @@
     "支持": [
       "business",
       "schedule_reminder",
-      "weather",
       "yadea_car_control"
     ],
     "新数": [
@@ -83,9 +77,6 @@
     ],
     "无素": [
       "calendar-lite"
-    ],
-    "时自动隐藏复杂元素并暂停粒子动画": [
-      "weather"
     ],
     "有任": [
       "calendar-lite"
@@ -114,11 +105,7 @@
     ],
     "的背": [
       "business",
-      "uriroute_deviceinfo",
-      "weather"
-    ],
-    "空色": [
-      "weather"
+      "uriroute_deviceinfo"
     ],
     "赛入": [
       "yuzhouhangxian"
@@ -131,8 +118,7 @@
     ],
     "进入": [
       "hyper-pick-up-code",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "进行了背屏移植": [
       "disordered-clock"

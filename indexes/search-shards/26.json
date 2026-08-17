@@ -1,13 +1,12 @@
 {
   "shard": "26",
-  "tokenCount": 43,
+  "tokenCount": 38,
   "tokens": {
     "an": [
       "music"
     ],
     "and": [
-      "music",
-      "weather"
+      "music"
     ],
     "dragon-scales-clock-wallpaper": [
       "dragon_scales_clock"
@@ -69,9 +68,6 @@
     "加载": [
       "business"
     ],
-    "同物": [
-      "weather"
-    ],
     "启作": [
       "mishare",
       "pickup",
@@ -107,23 +103,14 @@
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
     ],
-    "物理": [
-      "weather"
-    ],
     "生硬": [
       "calendar-lite"
-    ],
-    "的背屏": [
-      "weather"
     ],
     "米所": [
       "dragon_scales_clock"
     ],
     "级的": [
       "calendar-lite"
-    ],
-    "细腻": [
-      "weather"
     ],
     "背屏桌面": [
       "back_screen_desktop",
@@ -138,9 +125,6 @@
     "解析": [
       "business",
       "schedule_reminder"
-    ],
-    "贡献": [
-      "weather"
     ]
   }
 }

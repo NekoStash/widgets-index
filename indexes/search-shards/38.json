@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 44,
+  "tokenCount": 34,
   "tokens": {
     "assets": [
       "business",
@@ -10,39 +10,23 @@
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
     ],
-    "sine": [
-      "weather"
-    ],
     "skin": [
       "back_screen_desktop"
     ],
     "super-rearscreen-island-todo": [
       "business"
     ],
-    "一起": [
-      "weather"
-    ],
     "上面填写的组件名称": [
       "hyper-pick-up-code"
-    ],
-    "专属背屏适配": [
-      "weather"
-    ],
-    "中": [
-      "weather"
     ],
     "中提": [
       "dragon_scales_clock"
     ],
     "仅在": [
-      "weather",
       "yuzhouhangxian"
     ],
     "件模": [
       "hyper-pick-up-code"
-    ],
-    "优化性能或改进布局": [
-      "weather"
     ],
     "位到": [
       "business"
@@ -71,9 +55,6 @@
     "它通": [
       "schedule_reminder"
     ],
-    "恢复": [
-      "weather"
-    ],
     "息并": [
       "yadea_car_control"
     ],
@@ -83,21 +64,11 @@
     "控目": [
       "yadea_car_control"
     ],
-    "整下": [
-      "weather"
-    ],
     "新率": [
-      "business",
-      "weather"
-    ],
-    "无障碍支持": [
-      "weather"
+      "business"
     ],
     "时信": [
       "yadea_car_control"
-    ],
-    "模拟真实的随风飘落摇摆轨迹": [
-      "weather"
     ],
     "滑返": [
       "kingxv",
@@ -105,9 +76,6 @@
     ],
     "的画": [
       "yuzhouhangxian"
-    ],
-    "的读": [
-      "weather"
     ],
     "知版": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -122,8 +90,7 @@
       "business"
     ],
     "美对": [
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "该版": [
       "uriroute_deviceinfo"

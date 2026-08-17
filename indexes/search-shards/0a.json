@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 35,
+  "tokenCount": 31,
   "tokens": {
     "art": [
       "music"
@@ -15,9 +15,6 @@
     "下的": [
       "uriroute_deviceinfo"
     ],
-    "为了使": [
-      "weather"
-    ],
     "于真": [
       "calendar-lite"
     ],
@@ -26,9 +23,6 @@
     ],
     "例的": [
       "business"
-    ],
-    "化性": [
-      "weather"
     ],
     "同步": [
       "business",
@@ -48,11 +42,7 @@
     ],
     "开发": [
       "business",
-      "hyper-pick-up-code-reareye-xiaomi",
-      "weather"
-    ],
-    "录放": [
-      "weather"
+      "hyper-pick-up-code-reareye-xiaomi"
     ],
     "或侧": [
       "kingxv"
@@ -93,9 +83,6 @@
     "至背": [
       "business"
     ],
-    "花粒": [
-      "weather"
-    ],
     "装后": [
       "uriroute_deviceinfo"
     ],
@@ -108,8 +95,7 @@
     ],
     "针对": [
       "business",
-      "calendar-lite",
-      "weather"
+      "calendar-lite"
     ],
     "限省": [
       "calendar-lite"

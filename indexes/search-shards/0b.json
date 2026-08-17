@@ -1,10 +1,7 @@
 {
   "shard": "0b",
-  "tokenCount": 42,
+  "tokenCount": 40,
   "tokens": {
-    "15": [
-      "weather"
-    ],
     "business": [
       "business"
     ],
@@ -70,11 +67,7 @@
       "yadea_car_control"
     ],
     "构建": [
-      "weather",
       "yuzhouhangxian"
-    ],
-    "根据系统日出日落时间": [
-      "weather"
     ],
     "深度适配": [
       "business"

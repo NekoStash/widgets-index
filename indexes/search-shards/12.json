@@ -20,15 +20,13 @@
       "kingxv"
     ],
     "图片": [
-      "calendar-lite",
-      "weather"
+      "calendar-lite"
     ],
     "外屏": [
       "schedule_reminder"
     ],
     "态自": [
-      "business",
-      "weather"
+      "business"
     ],
     "搓的": [
       "calendar-lite"
@@ -43,8 +41,7 @@
     "机型": [
       "business",
       "calendar-lite",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "歌词": [
       "music"
@@ -66,7 +63,6 @@
       "kingxv"
     ],
     "结构": [
-      "weather",
       "yadea_car_control"
     ],
     "背屏日历焦点版": [
@@ -74,8 +70,7 @@
     ],
     "设备": [
       "business",
-      "uriroute_deviceinfo",
-      "weather"
+      "uriroute_deviceinfo"
     ],
     "车控卡片": [
       "yadea_car_control"

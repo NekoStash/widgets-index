@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 35,
+  "tokenCount": 26,
   "tokens": {
     "current": [
       "music"
@@ -17,18 +17,12 @@
     "一条": [
       "yadea_car_control"
     ],
-    "与副": [
-      "weather"
-    ],
     "了过": [
       "calendar-lite"
     ],
     "亮屏": [
       "business",
       "calendar-lite"
-    ],
-    "全天": [
-      "weather"
     ],
     "内置基于": [
       "business"
@@ -39,18 +33,6 @@
     "别应": [
       "kingxv"
     ],
-    "参与贡献": [
-      "weather"
-    ],
-    "夜晚晴空自动触发星空呼吸闪烁": [
-      "weather"
-    ],
-    "天空": [
-      "weather"
-    ],
-    "如果你是从头构建": [
-      "weather"
-    ],
     "如添": [
       "business"
     ],
@@ -60,9 +42,6 @@
     "定平": [
       "calendar-lite"
     ],
-    "屏需": [
-      "weather"
-    ],
     "左侧": [
       "calendar-lite",
       "schedule_reminder"
@@ -70,8 +49,7 @@
     "引擎": [
       "business",
       "calendar-lite",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "标题": [
       "business",
@@ -97,9 +75,6 @@
     "算全": [
       "schedule_reminder"
     ],
-    "能或": [
-      "weather"
-    ],
     "超级岛": [
       "business"
     ],
@@ -111,9 +86,6 @@
     ],
     "配焦": [
       "hyper-pick-up-code-reareye-xiaomi"
-    ],
-    "雨天": [
-      "weather"
     ]
   }
 }

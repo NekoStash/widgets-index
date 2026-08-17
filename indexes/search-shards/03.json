@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 34,
+  "tokenCount": 28,
   "tokens": {
     "breathable": [
       "schedule_reminder"
@@ -23,26 +23,17 @@
     "transitions": [
       "music"
     ],
-    "个独": [
-      "weather"
-    ],
     "保留": [
       "yuzhouhangxian"
     ],
     "关于小米互传超级岛同时转化到小米背屏的小组件": [
       "mishare"
     ],
-    "分辨": [
-      "weather"
-    ],
     "别系": [
       "business"
     ],
     "别逻": [
       "schedule_reminder"
-    ],
-    "副屏": [
-      "weather"
     ],
     "动识": [
       "business"
@@ -74,17 +65,13 @@
     "息屏": [
       "business",
       "calendar-lite",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "成回": [
       "schedule_reminder"
     ],
     "找到": [
       "back_screen_desktop"
-    ],
-    "摆轨": [
-      "weather"
     ],
     "格自": [
       "calendar-lite"
@@ -99,15 +86,8 @@
     "的偏左侧": [
       "calendar-lite"
     ],
-    "空呼": [
-      "weather"
-    ],
-    "索更": [
-      "weather"
-    ],
     "适应": [
-      "business",
-      "weather"
+      "business"
     ]
   }
 }

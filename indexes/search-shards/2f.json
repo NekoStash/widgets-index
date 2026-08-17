@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 27,
+  "tokenCount": 23,
   "tokens": {
     "active": [
       "music"
@@ -17,8 +17,7 @@
     "一个": [
       "back_screen_desktop",
       "calendar-lite",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "下载组件": [
       "hyper-pick-up-code"
@@ -54,23 +53,11 @@
     "已开机": [
       "yadea_car_control"
     ],
-    "常渲": [
-      "weather"
-    ],
     "提示": [
       "business"
     ],
     "搭配": [
       "course_schedule"
-    ],
-    "有云": [
-      "weather"
-    ],
-    "框架开发的动态天气小组件": [
-      "weather"
-    ],
-    "气状": [
-      "weather"
     ],
     "留信": [
       "yuzhouhangxian"

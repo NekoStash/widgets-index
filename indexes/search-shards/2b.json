@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 37,
+  "tokenCount": 28,
   "tokens": {
     "与小米": [
       "yuzhouhangxian"
@@ -8,17 +8,8 @@
     "二": [
       "hyper-pick-up-code"
     ],
-    "云朵": [
-      "weather"
-    ],
-    "仅在状态切换或动画播放时拉升至": [
-      "weather"
-    ],
     "从官": [
       "dragon_scales_clock"
-    ],
-    "停粒": [
-      "weather"
     ],
     "到车": [
       "yadea_car_control"
@@ -33,9 +24,6 @@
       "business",
       "calendar-lite"
     ],
-    "帧率降至": [
-      "weather"
-    ],
     "并激": [
       "mishare",
       "pickup",
@@ -43,12 +31,6 @@
     ],
     "彩重": [
       "schedule_reminder"
-    ],
-    "影引": [
-      "weather"
-    ],
-    "接天": [
-      "weather"
     ],
     "放器": [
       "music"
@@ -61,9 +43,6 @@
     ],
     "本项目特别针对": [
       "calendar-lite"
-    ],
-    "架开": [
-      "weather"
     ],
     "桌面": [
       "back_screen_desktop",
@@ -92,9 +71,6 @@
       "calendar-lite",
       "schedule_reminder"
     ],
-    "素并": [
-      "weather"
-    ],
     "纸从": [
       "dragon_scales_clock"
     ],
@@ -110,9 +86,6 @@
     ],
     "零帧挂起省电逻辑": [
       "calendar-lite"
-    ],
-    "风飘": [
-      "weather"
     ],
     "高亮": [
       "calendar-lite"

@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 36,
+  "tokenCount": 31,
   "tokens": {
     "animations": [
       "music"
@@ -14,7 +14,6 @@
     "maml": [
       "calendar-lite",
       "schedule_reminder",
-      "weather",
       "yuzhouhangxian"
     ],
     "modules": [
@@ -34,18 +33,11 @@
     "仅修": [
       "uriroute_deviceinfo"
     ],
-    "体验": [
-      "weather"
-    ],
-    "兼顾极致视觉体验与设备续航": [
-      "weather"
-    ],
     "内置": [
       "business",
       "calendar-lite",
       "kingxv",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "取标": [
       "business"
@@ -62,9 +54,6 @@
     "开发者不承担任何责任": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
-    "影渲": [
-      "weather"
-    ],
     "息屏状态": [
       "business"
     ],
@@ -73,9 +62,6 @@
     ],
     "新品": [
       "business"
-    ],
-    "气语": [
-      "weather"
     ],
     "深色": [
       "yuzhouhangxian"
@@ -111,9 +97,6 @@
     ],
     "能识": [
       "calendar-lite"
-    ],
-    "轨迹": [
-      "weather"
     ],
     "达式": [
       "calendar-lite"

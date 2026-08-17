@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 42,
+  "tokenCount": 39,
   "tokens": {
     "deliver": [
       "music"
@@ -53,8 +53,7 @@
       "kingxv",
       "mishare",
       "pickup",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "屏组": [
       "hyper-pick-up-code",
@@ -88,23 +87,18 @@
     "日历网格自动压缩并平滑移至右侧安全区显示": [
       "calendar-lite"
     ],
-    "极其": [
-      "weather"
-    ],
     "标签中修改": [
       "calendar-lite"
     ],
     "深度": [
       "business",
-      "schedule_reminder",
-      "weather"
+      "schedule_reminder"
     ],
     "深度定制的": [
       "business"
     ],
     "添加": [
-      "business",
-      "weather"
+      "business"
     ],
     "灵动外屏适配": [
       "schedule_reminder"
@@ -117,9 +111,6 @@
       "pickup",
       "schedule_reminder"
     ],
-    "结合正弦函数": [
-      "weather"
-    ],
     "缓存": [
       "uriroute_deviceinfo"
     ],
@@ -127,9 +118,6 @@
       "business",
       "calendar-lite",
       "schedule_reminder"
-    ],
-    "背屏动态天气微件": [
-      "weather"
     ],
     "进一": [
       "disordered-clock"
