@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 49,
+  "tokenCount": 50,
   "tokens": {
     "artist": [
       "music"
@@ -123,6 +123,9 @@
     ],
     "法做": [
       "kingxv"
+    ],
+    "烈祝": [
+      "yuzhouhangxian"
     ],
     "视觉重心极度稳定": [
       "schedule_reminder"

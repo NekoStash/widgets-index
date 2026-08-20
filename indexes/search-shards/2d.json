@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 36,
+  "tokenCount": 35,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -44,9 +44,6 @@
     ],
     "同比": [
       "business"
-    ],
-    "围作": [
-      "yuzhouhangxian"
     ],
     "在动": [
       "calendar-lite",

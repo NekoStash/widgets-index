@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 39,
+  "tokenCount": 40,
   "tokens": {
     "30": [
       "calendar-lite"
@@ -103,6 +103,9 @@
     ],
     "的计": [
       "uriroute_deviceinfo"
+    ],
+    "祝贺": [
+      "yuzhouhangxian"
     ],
     "秒切": [
       "calendar-lite"

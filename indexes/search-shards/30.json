@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 36,
+  "tokenCount": 37,
   "tokens": {
     "equipped": [
       "music"
@@ -43,6 +43,9 @@
     ],
     "天气": [
       "weather"
+    ],
+    "奖项": [
+      "yuzhouhangxian"
     ],
     "屏帮": [
       "back_screen_desktop"

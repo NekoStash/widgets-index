@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 32,
+  "tokenCount": 33,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -110,6 +110,9 @@
     ],
     "空间": [
       "uriroute_deviceinfo",
+      "yuzhouhangxian"
+    ],
+    "赛荣": [
       "yuzhouhangxian"
     ],
     "过广": [

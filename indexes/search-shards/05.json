@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 37,
+  "tokenCount": 36,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -63,9 +63,6 @@
     ],
     "探索": [
       "weather"
-    ],
-    "月背屏创意设计大赛入围作品": [
-      "yuzhouhangxian"
     ],
     "本模块通过接管底层焦点通知": [
       "business"

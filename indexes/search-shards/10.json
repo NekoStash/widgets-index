@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 37,
+  "tokenCount": 38,
   "tokens": {
     "burger": [
       "business"
@@ -71,6 +71,9 @@
     ],
     "清晰": [
       "schedule_reminder"
+    ],
+    "热烈": [
+      "yuzhouhangxian"
     ],
     "的嗅探逻辑": [
       "calendar-lite"

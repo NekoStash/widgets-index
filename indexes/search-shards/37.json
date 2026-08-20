@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 34,
+  "tokenCount": 36,
   "tokens": {
     "extracts": [
       "music"
@@ -77,6 +77,9 @@
     "点点": [
       "business"
     ],
+    "热烈祝贺": [
+      "yuzhouhangxian"
+    ],
     "特点": [
       "uriroute_deviceinfo"
     ],
@@ -106,6 +109,9 @@
     ],
     "资源目录结构": [
       "weather"
+    ],
+    "赛获": [
+      "yuzhouhangxian"
     ],
     "通过广播接收数据": [
       "yadea_car_control"

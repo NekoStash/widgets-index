@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 39,
+  "tokenCount": 40,
   "tokens": {
     "folme": [
       "business",
@@ -123,6 +123,9 @@
     ],
     "获取": [
       "yadea_car_control"
+    ],
+    "获奖": [
+      "yuzhouhangxian"
     ],
     "觉资": [
       "business"

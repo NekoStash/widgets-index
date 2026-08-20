@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 42,
+  "tokenCount": 41,
   "tokens": {
     "are": [
       "music"
@@ -119,9 +119,6 @@
     ],
     "空色": [
       "weather"
-    ],
-    "赛入": [
-      "yuzhouhangxian"
     ],
     "车辆": [
       "yadea_car_control"

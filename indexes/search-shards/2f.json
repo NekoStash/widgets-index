@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 27,
+  "tokenCount": 28,
   "tokens": {
     "active": [
       "music"
@@ -50,6 +50,9 @@
     ],
     "动换": [
       "schedule_reminder"
+    ],
+    "奖作": [
+      "yuzhouhangxian"
     ],
     "已开机": [
       "yadea_car_control"
