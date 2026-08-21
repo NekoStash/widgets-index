@@ -1,11 +1,23 @@
 {
   "shard": "17",
-  "tokenCount": 26,
+  "tokenCount": 34,
   "tokens": {
+    "11": [
+      "ecotag_root"
+    ],
     "controls": [
       "music"
     ],
+    "version": [
+      "ecotag",
+      "ecotag_root"
+    ],
+    "个槽位对应的参数编号": [
+      "ecotag_root"
+    ],
     "储空": [
+      "ecotag",
+      "ecotag_root",
       "uriroute_deviceinfo"
     ],
     "全区": [
@@ -13,6 +25,7 @@
       "schedule_reminder"
     ],
     "分比": [
+      "ecotag_root",
       "yadea_car_control"
     ],
     "即可": [
@@ -33,6 +46,8 @@
       "business"
     ],
     "在": [
+      "ecotag",
+      "ecotag_root",
       "hyper-pick-up-code",
       "yadea_car_control"
     ],
@@ -42,8 +57,14 @@
     "基础": [
       "business"
     ],
+    "备型": [
+      "ecotag_root"
+    ],
     "幕保": [
       "schedule_reminder"
+    ],
+    "态信": [
+      "ecotag_root"
     ],
     "无缝解析系统": [
       "business"
@@ -53,6 +74,10 @@
     ],
     "牌识": [
       "business"
+    ],
+    "电能": [
+      "ecotag",
+      "ecotag_root"
     ],
     "的图": [
       "weather"
@@ -80,8 +105,14 @@
       "calendar-lite",
       "disordered-clock"
     ],
+    "语法": [
+      "ecotag",
+      "ecotag_root"
+    ],
     "说明": [
       "business",
+      "ecotag",
+      "ecotag_root",
       "yadea_car_control"
     ],
     "适用": [
@@ -89,6 +120,10 @@
       "music",
       "schedule_reminder",
       "weather"
+    ],
+    "风格": [
+      "ecotag",
+      "ecotag_root"
     ]
   }
 }

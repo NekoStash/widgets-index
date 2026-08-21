@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 44,
+  "tokenCount": 48,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -17,6 +17,9 @@
     ],
     "hrsthrt74": [
       "yuzhouhangxian"
+    ],
+    "mw": [
+      "ecotag_root"
     ],
     "repo": [
       "course_schedule"
@@ -71,8 +74,19 @@
     "含以": [
       "weather"
     ],
+    "在变": [
+      "ecotag_root"
+    ],
+    "备剩": [
+      "ecotag_root"
+    ],
     "存储": [
+      "ecotag",
+      "ecotag_root",
       "uriroute_deviceinfo"
+    ],
+    "实时电流与功率": [
+      "ecotag_root"
     ],
     "库中": [
       "weather"
@@ -122,6 +136,7 @@
       "schedule_reminder"
     ],
     "设置": [
+      "ecotag_root",
       "uriroute_deviceinfo"
     ],
     "请根": [

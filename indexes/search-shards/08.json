@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 34,
+  "tokenCount": 36,
   "tokens": {
     "save": [
       "music"
@@ -27,6 +27,8 @@
       "calendar-lite"
     ],
     "内存": [
+      "ecotag",
+      "ecotag_root",
       "uriroute_deviceinfo"
     ],
     "内置极其细腻的渐变色计算逻辑": [
@@ -49,6 +51,9 @@
     "复一": [
       "yadea_car_control"
     ],
+    "存使": [
+      "ecotag_root"
+    ],
     "手动安装": [
       "hyper-pick-up-code",
       "yadea_car_control"
@@ -60,7 +65,9 @@
       "yuzhouhangxian"
     ],
     "标签": [
-      "calendar-lite"
+      "calendar-lite",
+      "ecotag",
+      "ecotag_root"
     ],
     "标设": [
       "business",
@@ -75,6 +82,9 @@
     "用小": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "电池健康": [
+      "ecotag_root"
     ],
     "示电": [
       "uriroute_deviceinfo"

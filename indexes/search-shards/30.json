@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 36,
+  "tokenCount": 40,
   "tokens": {
     "equipped": [
       "music"
@@ -24,6 +24,8 @@
       "business"
     ],
     "内存占用": [
+      "ecotag",
+      "ecotag_root",
       "uriroute_deviceinfo"
     ],
     "写的": [
@@ -31,6 +33,10 @@
     ],
     "副标题与进度信息": [
       "business"
+    ],
+    "动切": [
+      "ecotag",
+      "ecotag_root"
     ],
     "动画接口": [
       "business"
@@ -58,6 +64,8 @@
       "weather"
     ],
     "文件": [
+      "ecotag",
+      "ecotag_root",
       "uriroute_deviceinfo",
       "yadea_car_control"
     ],
@@ -85,11 +93,21 @@
     "此代": [
       "business"
     ],
+    "步数": [
+      "ecotag",
+      "ecotag_root"
+    ],
+    "用率": [
+      "ecotag_root"
+    ],
     "的超级岛同时转化到小米背屏的小组件": [
       "pickup"
     ],
     "监听": [
       "schedule_reminder"
+    ],
+    "示槽": [
+      "ecotag_root"
     ],
     "米互": [
       "mishare"

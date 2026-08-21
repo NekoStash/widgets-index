@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 35,
+  "tokenCount": 39,
   "tokens": {
     "coco": [
       "business"
@@ -10,6 +10,9 @@
     ],
     "yuzhouhangxian": [
       "yuzhouhangxian"
+    ],
+    "个显": [
+      "ecotag_root"
     ],
     "为微": [
       "weather"
@@ -22,6 +25,7 @@
     ],
     "信息": [
       "business",
+      "ecotag_root",
       "uriroute_deviceinfo",
       "yadea_car_control",
       "yuzhouhangxian"
@@ -48,6 +52,9 @@
     "将": [
       "pickup",
       "uriroute_deviceinfo"
+    ],
+    "屏能": [
+      "ecotag"
     ],
     "已解锁": [
       "yadea_car_control"
@@ -89,6 +96,10 @@
     "的渐": [
       "weather"
     ],
+    "等级": [
+      "ecotag",
+      "ecotag_root"
+    ],
     "算法": [
       "business",
       "calendar-lite",
@@ -97,7 +108,12 @@
     "统中": [
       "dragon_scales_clock"
     ],
+    "胶囊": [
+      "ecotag",
+      "ecotag_root"
+    ],
     "资源": [
+      "ecotag_root",
       "weather"
     ],
     "过接": [
@@ -105,17 +121,21 @@
     ],
     "运行": [
       "calendar-lite",
+      "ecotag_root",
       "weather"
     ],
     "醒时": [
       "weather"
     ],
     "锁屏": [
+      "ecotag",
+      "ecotag_root",
       "yadea_car_control"
     ],
     "默认": [
       "business",
       "calendar-lite",
+      "ecotag_root",
       "uriroute_deviceinfo"
     ]
   }

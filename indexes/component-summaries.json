@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 17,
+  "componentCount": 19,
   "components": {
     "back_screen_desktop": {
       "id": "back_screen_desktop",
@@ -72,6 +72,30 @@
         "name": "AnserJim",
         "url": "https://github.com/killerprojecte",
         "avatarUrl": "https://avatars.githubusercontent.com/u/81072191?v=4",
+        "type": "User"
+      }
+    },
+    "ecotag": {
+      "id": "ecotag",
+      "name": "能效标识（主题版）",
+      "description": "小米背屏能效标识主题 v2.1 — 复刻家电能效标签风格，根据电量显示1~5级能效等级，展示存储/内存/开机时长/步数，支持胶囊电池与充电流光动画",
+      "author": {
+        "login": "wmqc97",
+        "name": "唯梦倾城",
+        "url": "https://github.com/wmqc97",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
+        "type": "User"
+      }
+    },
+    "ecotag_root": {
+      "id": "ecotag_root",
+      "name": "能效标识（权限版）",
+      "description": "EcoTag 权限版 v2.1 — 需搭配UriRoute运行，支持硬件参数采集（唯梦倾城）",
+      "author": {
+        "login": "wmqc97",
+        "name": "唯梦倾城",
+        "url": "https://github.com/wmqc97",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
         "type": "User"
       }
     },

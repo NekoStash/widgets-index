@@ -1,0 +1,13 @@
+{
+  "id": "ecotag",
+  "type": "card",
+  "widgetInfo": {
+    "type": "widget",
+    "minVersion": 99,
+    "name": "能效标识（主题版）",
+    "business_setup": {
+      "id": "ecotag",
+      "renameable": true
+    }
+  }
+}

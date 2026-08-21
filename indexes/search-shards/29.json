@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 47,
+  "tokenCount": 53,
   "tokens": {
     "experience": [
       "music"
@@ -35,6 +35,8 @@
     "代码": [
       "business",
       "calendar-lite",
+      "ecotag",
+      "ecotag_root",
       "schedule_reminder"
     ],
     "会回": [
@@ -43,7 +45,12 @@
     "何责": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "内存使用情况": [
+      "ecotag_root"
+    ],
     "功能": [
+      "ecotag",
+      "ecotag_root",
       "hyper-pick-up-code-reareye-xiaomi",
       "yadea_car_control"
     ],
@@ -56,11 +63,20 @@
     "区显": [
       "calendar-lite"
     ],
+    "取": [
+      "ecotag"
+    ],
+    "可配": [
+      "ecotag_root"
+    ],
     "右滑": [
       "yadea_car_control"
     ],
     "呼吸渐变": [
       "schedule_reminder"
+    ],
+    "备电": [
+      "ecotag_root"
     ],
     "如果你需要在此代码基础上进行二次开发": [
       "business"
@@ -99,10 +115,14 @@
       "weather"
     ],
     "更新": [
+      "ecotag",
       "yadea_car_control"
     ],
     "月背屏创意设计大赛获奖作品": [
       "yuzhouhangxian"
+    ],
+    "根据电池电量自动显示": [
+      "ecotag"
     ],
     "桌面的卡片": [
       "back_screen_desktop"
@@ -122,6 +142,7 @@
     "特性": [
       "business",
       "calendar-lite",
+      "ecotag_root",
       "schedule_reminder",
       "weather"
     ],
@@ -148,6 +169,9 @@
     ],
     "铺设": [
       "calendar-lite"
+    ],
+    "集循": [
+      "ecotag_root"
     ],
     "骑行状态": [
       "yadea_car_control"

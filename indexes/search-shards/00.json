@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 41,
+  "tokenCount": 45,
   "tokens": {
     "devices": [
       "music"
@@ -25,6 +25,9 @@
     ],
     "与云": [
       "weather"
+    ],
+    "个槽": [
+      "ecotag_root"
     ],
     "个能": [
       "back_screen_desktop"
@@ -55,6 +58,8 @@
     ],
     "屏显": [
       "business",
+      "ecotag",
+      "ecotag_root",
       "uriroute_deviceinfo",
       "weather"
     ],
@@ -63,6 +68,9 @@
     ],
     "应布": [
       "business"
+    ],
+    "康状": [
+      "ecotag_root"
     ],
     "彩的": [
       "weather"
@@ -84,6 +92,9 @@
     ],
     "智能品牌识别系统": [
       "business"
+    ],
+    "槽位自由选择": [
+      "ecotag_root"
     ],
     "洁而": [
       "yuzhouhangxian"
@@ -118,11 +129,16 @@
     "设计": [
       "yuzhouhangxian"
     ],
+    "量显": [
+      "ecotag"
+    ],
     "量百": [
       "yadea_car_control"
     ],
     "隐藏": [
       "calendar-lite",
+      "ecotag",
+      "ecotag_root",
       "weather"
     ],
     "高级": [

@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 32,
+  "tokenCount": 37,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -19,6 +19,9 @@
     ],
     "jawiiki": [
       "uriroute_deviceinfo"
+    ],
+    "ma": [
+      "ecotag_root"
     ],
     "siberiaapp": [
       "business",
@@ -50,14 +53,22 @@
       "schedule_reminder"
     ],
     "副标": [
-      "business"
+      "business",
+      "ecotag",
+      "ecotag_root"
     ],
     "化到": [
       "mishare",
       "pickup"
     ],
+    "取数": [
+      "ecotag"
+    ],
     "可切": [
       "kingxv"
+    ],
+    "可采": [
+      "ecotag_root"
     ],
     "堆叠": [
       "calendar-lite"
@@ -76,6 +87,9 @@
     ],
     "屏级": [
       "calendar-lite"
+    ],
+    "户可": [
+      "ecotag_root"
     ],
     "手搓": [
       "calendar-lite"
@@ -109,6 +123,8 @@
       "weather"
     ],
     "空间": [
+      "ecotag",
+      "ecotag_root",
       "uriroute_deviceinfo",
       "yuzhouhangxian"
     ],
@@ -117,6 +133,9 @@
     ],
     "间为": [
       "uriroute_deviceinfo"
+    ],
+    "题显": [
+      "ecotag"
     ]
   }
 }

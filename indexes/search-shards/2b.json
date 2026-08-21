@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 37,
+  "tokenCount": 41,
   "tokens": {
     "与小米": [
       "yuzhouhangxian"
@@ -31,7 +31,8 @@
     ],
     "和": [
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "ecotag_root"
     ],
     "帧率降至": [
       "weather"
@@ -46,6 +47,10 @@
     ],
     "影引": [
       "weather"
+    ],
+    "持充": [
+      "ecotag",
+      "ecotag_root"
     ],
     "接天": [
       "weather"
@@ -76,6 +81,9 @@
     "殊比": [
       "calendar-lite"
     ],
+    "池状": [
+      "ecotag_root"
+    ],
     "淡入": [
       "schedule_reminder"
     ],
@@ -98,12 +106,19 @@
     "纸从": [
       "dragon_scales_clock"
     ],
+    "统控": [
+      "ecotag_root"
+    ],
     "统级": [
       "calendar-lite",
       "schedule_reminder"
     ],
     "行": [
       "schedule_reminder"
+    ],
+    "览图": [
+      "ecotag",
+      "ecotag_root"
     ],
     "长文": [
       "schedule_reminder"

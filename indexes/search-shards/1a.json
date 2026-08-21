@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 35,
+  "tokenCount": 39,
   "tokens": {
     "current": [
       "music"
@@ -42,6 +42,13 @@
     "参与贡献": [
       "weather"
     ],
+    "囊代": [
+      "ecotag",
+      "ecotag_root"
+    ],
+    "复刻家电能效标签风格": [
+      "ecotag"
+    ],
     "夜晚晴空自动触发星空呼吸闪烁": [
       "weather"
     ],
@@ -73,9 +80,15 @@
       "schedule_reminder",
       "weather"
     ],
+    "效等": [
+      "ecotag",
+      "ecotag_root"
+    ],
     "标题": [
       "business",
       "calendar-lite",
+      "ecotag",
+      "ecotag_root",
       "schedule_reminder",
       "yadea_car_control"
     ],
@@ -93,6 +106,9 @@
     ],
     "码已": [
       "business"
+    ],
+    "示当": [
+      "ecotag"
     ],
     "算全": [
       "schedule_reminder"

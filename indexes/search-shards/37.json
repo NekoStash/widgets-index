@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 36,
+  "tokenCount": 43,
   "tokens": {
     "extracts": [
       "music"
@@ -12,8 +12,14 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "个可配置槽位": [
+      "ecotag_root"
+    ],
     "制的": [
       "business"
+    ],
+    "副标题文字": [
+      "ecotag"
     ],
     "动态调整下落速度与透明度": [
       "weather"
@@ -43,6 +49,8 @@
       "calendar-lite",
       "course_schedule",
       "dragon_scales_clock",
+      "ecotag",
+      "ecotag_root",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
@@ -71,6 +79,10 @@
     "有秩": [
       "yuzhouhangxian"
     ],
+    "本历": [
+      "ecotag",
+      "ecotag_root"
+    ],
     "极省": [
       "calendar-lite"
     ],
@@ -79,6 +91,9 @@
     ],
     "热烈祝贺": [
       "yuzhouhangxian"
+    ],
+    "版区": [
+      "ecotag_root"
     ],
     "特点": [
       "uriroute_deviceinfo"
@@ -93,6 +108,9 @@
       "music",
       "schedule_reminder",
       "weather"
+    ],
+    "系统广播": [
+      "ecotag"
     ],
     "系统级日程同步": [
       "schedule_reminder"
@@ -113,6 +131,9 @@
     "赛获": [
       "yuzhouhangxian"
     ],
+    "选择": [
+      "ecotag_root"
+    ],
     "通过广播接收数据": [
       "yadea_car_control"
     ],
@@ -121,6 +142,9 @@
     ],
     "键值": [
       "yadea_car_control"
+    ],
+    "集更": [
+      "ecotag_root"
     ],
     "雪冰": [
       "business"

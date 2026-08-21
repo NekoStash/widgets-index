@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 42,
+  "tokenCount": 47,
   "tokens": {
     "deliver": [
       "music"
@@ -25,6 +25,9 @@
     ],
     "传超": [
       "mishare"
+    ],
+    "保已": [
+      "ecotag_root"
     ],
     "剩余里程": [
       "yadea_car_control"
@@ -57,9 +60,14 @@
       "weather"
     ],
     "屏组": [
+      "ecotag",
+      "ecotag_root",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "yadea_car_control"
+    ],
+    "展示存储": [
+      "ecotag"
     ],
     "已支": [
       "business"
@@ -78,6 +86,12 @@
     ],
     "息屏的极限省电": [
       "calendar-lite"
+    ],
+    "择显": [
+      "ecotag_root"
+    ],
+    "持胶": [
+      "ecotag"
     ],
     "握外": [
       "business"
@@ -121,6 +135,7 @@
       "weather"
     ],
     "缓存": [
+      "ecotag_root",
       "uriroute_deviceinfo"
     ],
     "缩放": [
@@ -130,6 +145,9 @@
     ],
     "背屏动态天气微件": [
       "weather"
+    ],
+    "自动适配": [
+      "ecotag"
     ],
     "进一": [
       "disordered-clock"

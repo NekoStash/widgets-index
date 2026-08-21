@@ -1,6 +1,6 @@
 {
   "shard": "28",
-  "tokenCount": 22,
+  "tokenCount": 27,
   "tokens": {
     "ghhccghk": [
       "yadea_car_control"
@@ -14,11 +14,18 @@
     "了极": [
       "weather"
     ],
+    "今日": [
+      "ecotag"
+    ],
     "关机": [
       "yadea_car_control"
     ],
     "发的": [
       "weather"
+    ],
+    "唯梦": [
+      "ecotag",
+      "ecotag_root"
     ],
     "在息": [
       "calendar-lite",
@@ -32,6 +39,12 @@
     ],
     "接收数据": [
       "yadea_car_control"
+    ],
+    "数字": [
+      "ecotag_root"
+    ],
+    "数据采集循环计数": [
+      "ecotag_root"
     ],
     "极致": [
       "weather"
@@ -70,6 +83,9 @@
     ],
     "进行了等比缩放与安全区避让适配": [
       "calendar-lite"
+    ],
+    "通过小米健康": [
+      "ecotag"
     ]
   }
 }

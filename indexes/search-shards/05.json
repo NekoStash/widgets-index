@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 36,
+  "tokenCount": 43,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -12,6 +12,7 @@
       "pickup"
     ],
     "root": [
+      "ecotag_root",
       "uriroute_deviceinfo"
     ],
     "widget": [
@@ -27,6 +28,9 @@
     "了精": [
       "weather"
     ],
+    "今日步数": [
+      "ecotag"
+    ],
     "关内": [
       "uriroute_deviceinfo"
     ],
@@ -36,10 +40,15 @@
     "呈现": [
       "schedule_reminder"
     ],
+    "备信": [
+      "ecotag_root"
+    ],
     "如": [
       "calendar-lite"
     ],
     "存占": [
+      "ecotag",
+      "ecotag_root",
       "uriroute_deviceinfo"
     ],
     "将对应的品牌": [
@@ -50,6 +59,7 @@
     ],
     "应的": [
       "business",
+      "ecotag_root",
       "weather"
     ],
     "待办等关键进度": [
@@ -63,6 +73,16 @@
     ],
     "探索": [
       "weather"
+    ],
+    "新器": [
+      "ecotag"
+    ],
+    "显示剩余存储空间": [
+      "ecotag",
+      "ecotag_root"
+    ],
+    "本主题通过系统": [
+      "ecotag"
     ],
     "本模块通过接管底层焦点通知": [
       "business"
@@ -78,6 +98,9 @@
     ],
     "现在": [
       "schedule_reminder"
+    ],
+    "用运": [
+      "ecotag_root"
     ],
     "空自": [
       "weather"
@@ -110,6 +133,9 @@
       "business",
       "calendar-lite",
       "weather"
+    ],
+    "限版": [
+      "ecotag_root"
     ],
     "需拥有": [
       "uriroute_deviceinfo"

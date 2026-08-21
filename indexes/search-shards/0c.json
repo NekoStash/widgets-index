@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 37,
+  "tokenCount": 44,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -21,6 +21,9 @@
     "一些": [
       "kingxv"
     ],
+    "中导": [
+      "ecotag_root"
+    ],
     "之后": [
       "mishare",
       "pickup",
@@ -34,6 +37,8 @@
     ],
     "切换": [
       "business",
+      "ecotag",
+      "ecotag_root",
       "kingxv",
       "schedule_reminder",
       "weather",
@@ -52,7 +57,9 @@
       "business"
     ],
     "定义": [
-      "calendar-lite"
+      "calendar-lite",
+      "ecotag",
+      "ecotag_root"
     ],
     "将一天划分为": [
       "weather"
@@ -71,11 +78,18 @@
     "打车": [
       "business"
     ],
+    "据电": [
+      "ecotag",
+      "ecotag_root"
+    ],
     "操作": [
       "yadea_car_control"
     ],
     "放入": [
       "weather"
+    ],
+    "无额外应用": [
+      "ecotag_root"
     ],
     "是通": [
       "uriroute_deviceinfo"
@@ -98,13 +112,27 @@
     "步骤": [
       "uriroute_deviceinfo"
     ],
+    "池总": [
+      "ecotag_root"
+    ],
     "渡动": [
       "calendar-lite"
+    ],
+    "电池容量": [
+      "ecotag_root"
+    ],
+    "示剩": [
+      "ecotag",
+      "ecotag_root"
     ],
     "背景": [
       "business",
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "胶囊电池": [
+      "ecotag",
+      "ecotag_root"
     ],
     "自适应刷新率控制": [
       "weather"

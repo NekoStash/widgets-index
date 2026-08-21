@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 42,
+  "tokenCount": 44,
   "tokens": {
     "are": [
       "music"
@@ -38,6 +38,9 @@
     "可见": [
       "schedule_reminder"
     ],
+    "同存储空间": [
+      "ecotag"
+    ],
     "备特": [
       "calendar-lite"
     ],
@@ -74,6 +77,8 @@
     ],
     "支持": [
       "business",
+      "ecotag",
+      "ecotag_root",
       "schedule_reminder",
       "weather",
       "yadea_car_control"
@@ -100,6 +105,8 @@
       "calendar-lite"
     ],
     "电量": [
+      "ecotag",
+      "ecotag_root",
       "yadea_car_control"
     ],
     "画幅": [
@@ -116,6 +123,9 @@
       "business",
       "uriroute_deviceinfo",
       "weather"
+    ],
+    "秒循": [
+      "ecotag"
     ],
     "空色": [
       "weather"

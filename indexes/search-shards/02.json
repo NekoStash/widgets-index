@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 30,
+  "tokenCount": 36,
   "tokens": {
     "skip": [
       "music"
@@ -15,7 +15,9 @@
       "calendar-lite"
     ],
     "动计": [
-      "calendar-lite"
+      "calendar-lite",
+      "ecotag",
+      "ecotag_root"
     ],
     "历小": [
       "calendar-lite"
@@ -33,6 +35,10 @@
     "地写": [
       "calendar-lite"
     ],
+    "复刻家电能效标签视觉风格的小米背屏": [
+      "ecotag",
+      "ecotag_root"
+    ],
     "它的": [
       "calendar-lite"
     ],
@@ -47,11 +53,25 @@
     "已解": [
       "yadea_car_control"
     ],
+    "态机": [
+      "ecotag",
+      "ecotag_root"
+    ],
+    "手机型号": [
+      "ecotag_root"
+    ],
+    "据采": [
+      "ecotag_root"
+    ],
     "播后": [
       "yadea_car_control"
     ],
     "放算": [
       "business"
+    ],
+    "时长": [
+      "ecotag",
+      "ecotag_root"
     ],
     "沪上阿姨": [
       "business"
@@ -97,6 +117,10 @@
       "calendar-lite",
       "disordered-clock",
       "weather"
+    ],
+    "配置": [
+      "ecotag",
+      "ecotag_root"
     ],
     "静止": [
       "weather"

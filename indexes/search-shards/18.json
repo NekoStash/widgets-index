@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 48,
+  "tokenCount": 56,
   "tokens": {
     "120hz": [
       "weather"
@@ -15,6 +15,7 @@
       "business",
       "calendar-lite",
       "course_schedule",
+      "ecotag",
       "schedule_reminder",
       "weather"
     ],
@@ -55,6 +56,9 @@
     "办等": [
       "business"
     ],
+    "双机型": [
+      "ecotag"
+    ],
     "咖啡": [
       "business"
     ],
@@ -62,6 +66,9 @@
       "calendar-lite",
       "schedule_reminder",
       "yuzhouhangxian"
+    ],
+    "型适": [
+      "ecotag"
     ],
     "屏时": [
       "calendar-lite",
@@ -82,8 +89,17 @@
     "库迪": [
       "business"
     ],
+    "度监": [
+      "ecotag_root"
+    ],
+    "持熄": [
+      "ecotag"
+    ],
     "持的": [
       "business"
+    ],
+    "据项": [
+      "ecotag"
     ],
     "是竖": [
       "kingxv"
@@ -110,6 +126,8 @@
     ],
     "状态": [
       "business",
+      "ecotag",
+      "ecotag_root",
       "weather",
       "yadea_car_control"
     ],
@@ -121,8 +139,15 @@
       "pickup",
       "schedule_reminder"
     ],
+    "用户可自由选择显示参数": [
+      "ecotag_root"
+    ],
     "用生": [
       "weather"
+    ],
+    "电优": [
+      "ecotag",
+      "ecotag_root"
     ],
     "目标包名": [
       "hyper-pick-up-code"
@@ -158,6 +183,7 @@
     "适配": [
       "business",
       "calendar-lite",
+      "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "pickup",
@@ -166,6 +192,10 @@
     ],
     "速度": [
       "weather"
+    ],
+    "量胶": [
+      "ecotag",
+      "ecotag_root"
     ],
     "长文本适配": [
       "schedule_reminder"

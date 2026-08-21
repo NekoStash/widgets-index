@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 45,
+  "tokenCount": 48,
   "tokens": {
     "17pro-": [
       "disordered-clock",
@@ -17,6 +17,8 @@
     ],
     "ui": [
       "calendar-lite",
+      "ecotag",
+      "ecotag_root",
       "music",
       "schedule_reminder",
       "weather"
@@ -80,6 +82,12 @@
     "境下": [
       "schedule_reminder"
     ],
+    "备功": [
+      "ecotag_root"
+    ],
+    "实时功率": [
+      "ecotag_root"
+    ],
     "容不": [
       "business"
     ],
@@ -101,10 +109,14 @@
     "效与": [
       "weather"
     ],
+    "数编": [
+      "ecotag_root"
+    ],
     "晚晴": [
       "weather"
     ],
     "更多": [
+      "ecotag_root",
       "weather"
     ],
     "更新时间": [
@@ -127,6 +139,8 @@
     ],
     "省电": [
       "calendar-lite",
+      "ecotag",
+      "ecotag_root",
       "schedule_reminder"
     ],
     "管底": [

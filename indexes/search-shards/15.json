@@ -1,7 +1,10 @@
 {
   "shard": "15",
-  "tokenCount": 30,
+  "tokenCount": 39,
   "tokens": {
+    "80": [
+      "ecotag"
+    ],
     "display": [
       "music"
     ],
@@ -10,6 +13,13 @@
     ],
     "is": [
       "music"
+    ],
+    "mit": [
+      "ecotag",
+      "ecotag_root"
+    ],
+    "requires": [
+      "ecotag_root"
     ],
     "sub": [
       "schedule_reminder"
@@ -24,14 +34,21 @@
       "schedule_reminder",
       "uriroute_deviceinfo"
     ],
+    "与主题版区别": [
+      "ecotag_root"
+    ],
     "亮屏瞬间秒切": [
       "calendar-lite"
     ],
     "动态自适应布局": [
       "business"
     ],
+    "固定": [
+      "ecotag_root"
+    ],
     "实时": [
       "business",
+      "ecotag_root",
       "schedule_reminder",
       "weather",
       "yadea_car_control"
@@ -59,8 +76,18 @@
     "爷爷不泡茶": [
       "business"
     ],
+    "版本历史": [
+      "ecotag",
+      "ecotag_root"
+    ],
+    "版需": [
+      "ecotag_root"
+    ],
     "用无": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "电池状态信息": [
+      "ecotag_root"
     ],
     "画播": [
       "weather"
@@ -101,6 +128,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "间隔": [
+      "ecotag_root"
     ],
     "须搭": [
       "course_schedule"

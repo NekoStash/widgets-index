@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 35,
+  "tokenCount": 41,
   "tokens": {
     "built": [
       "music"
@@ -23,6 +23,9 @@
     "交互": [
       "weather"
     ],
+    "位对": [
+      "ecotag_root"
+    ],
     "便可": [
       "uriroute_deviceinfo"
     ],
@@ -42,10 +45,18 @@
     "复刻官方级动效": [
       "schedule_reminder"
     ],
+    "多硬": [
+      "ecotag_root"
+    ],
     "安装": [
+      "ecotag",
+      "ecotag_root",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
       "yadea_car_control"
+    ],
+    "实时电流": [
+      "ecotag_root"
     ],
     "屏原": [
       "kingxv"
@@ -89,6 +100,17 @@
     ],
     "知品": [
       "business"
+    ],
+    "精简": [
+      "ecotag",
+      "ecotag_root"
+    ],
+    "脚本": [
+      "ecotag_root"
+    ],
+    "自定义标题": [
+      "ecotag",
+      "ecotag_root"
     ],
     "获得": [
       "yuzhouhangxian"
