@@ -1,12 +1,9 @@
 {
   "shard": "16",
-  "tokenCount": 37,
+  "tokenCount": 36,
   "tokens": {
     "450": [
       "weather"
-    ],
-    "author": [
-      "ecotag_root"
     ],
     "creating": [
       "music"

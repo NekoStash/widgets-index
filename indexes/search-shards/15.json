@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 38,
+  "tokenCount": 37,
   "tokens": {
     "display": [
       "music"
@@ -12,9 +12,6 @@
       "music"
     ],
     "mit": [
-      "ecotag_root"
-    ],
-    "requires": [
       "ecotag_root"
     ],
     "sub": [

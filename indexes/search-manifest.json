@@ -119,17 +119,17 @@
     {
       "shard": "15",
       "path": "indexes/search-shards/15.json",
-      "tokenCount": 38
+      "tokenCount": 37
     },
     {
       "shard": "16",
       "path": "indexes/search-shards/16.json",
-      "tokenCount": 37
+      "tokenCount": 36
     },
     {
       "shard": "17",
       "path": "indexes/search-shards/17.json",
-      "tokenCount": 34
+      "tokenCount": 33
     },
     {
       "shard": "18",

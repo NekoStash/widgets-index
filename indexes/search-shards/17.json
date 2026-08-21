@@ -1,15 +1,12 @@
 {
   "shard": "17",
-  "tokenCount": 34,
+  "tokenCount": 33,
   "tokens": {
     "11": [
       "ecotag_root"
     ],
     "controls": [
       "music"
-    ],
-    "version": [
-      "ecotag_root"
     ],
     "个槽位对应的参数编号": [
       "ecotag_root"
