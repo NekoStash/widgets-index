@@ -27,7 +27,6 @@
       "calendar-lite"
     ],
     "内存": [
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo"
     ],
@@ -66,7 +65,6 @@
     ],
     "标签": [
       "calendar-lite",
-      "ecotag",
       "ecotag_root"
     ],
     "标设": [

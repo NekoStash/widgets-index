@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 35,
+  "tokenCount": 34,
   "tokens": {
     "bug": [
       "weather"
@@ -30,7 +30,6 @@
       "kingxv"
     ],
     "健康": [
-      "ecotag",
       "ecotag_root"
     ],
     "全局": [
@@ -38,7 +37,6 @@
       "schedule_reminder"
     ],
     "占用": [
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo"
     ],
@@ -62,9 +60,6 @@
     ],
     "度与": [
       "weather"
-    ],
-    "手动导入主题包": [
-      "ecotag"
     ],
     "放时": [
       "weather"

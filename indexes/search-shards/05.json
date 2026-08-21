@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 43,
+  "tokenCount": 40,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -28,9 +28,6 @@
     "了精": [
       "weather"
     ],
-    "今日步数": [
-      "ecotag"
-    ],
     "关内": [
       "uriroute_deviceinfo"
     ],
@@ -47,7 +44,6 @@
       "calendar-lite"
     ],
     "存占": [
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo"
     ],
@@ -74,15 +70,8 @@
     "探索": [
       "weather"
     ],
-    "新器": [
-      "ecotag"
-    ],
     "显示剩余存储空间": [
-      "ecotag",
       "ecotag_root"
-    ],
-    "本主题通过系统": [
-      "ecotag"
     ],
     "本模块通过接管底层焦点通知": [
       "business"

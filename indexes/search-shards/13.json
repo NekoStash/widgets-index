@@ -28,7 +28,6 @@
       "schedule_reminder"
     ],
     "变量配置": [
-      "ecotag",
       "ecotag_root"
     ],
     "回退": [
@@ -69,7 +68,6 @@
     ],
     "数据": [
       "business",
-      "ecotag",
       "ecotag_root",
       "schedule_reminder",
       "weather",
@@ -91,7 +89,6 @@
       "weather"
     ],
     "级能效等级": [
-      "ecotag",
       "ecotag_root"
     ],
     "统环": [

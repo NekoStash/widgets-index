@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 30,
+  "tokenCount": 29,
   "tokens": {
     "一点": [
       "business"
@@ -47,13 +47,9 @@
     "机型": [
       "business",
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "schedule_reminder",
       "weather"
-    ],
-    "根据电量显示": [
-      "ecotag"
     ],
     "歌词": [
       "music"
@@ -84,7 +80,6 @@
       "ecotag_root"
     ],
     "结构": [
-      "ecotag",
       "ecotag_root",
       "weather",
       "yadea_car_control"

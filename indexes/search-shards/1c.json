@@ -42,7 +42,6 @@
       "ecotag_root"
     ],
     "可自": [
-      "ecotag",
       "ecotag_root"
     ],
     "在息屏时实现背景与文字的平滑交叉淡入淡出": [
@@ -99,7 +98,6 @@
       "uriroute_deviceinfo"
     ],
     "熄屏省电优化": [
-      "ecotag",
       "ecotag_root"
     ],
     "版权": [

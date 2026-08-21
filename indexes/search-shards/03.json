@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 39,
+  "tokenCount": 37,
   "tokens": {
     "breathable": [
       "schedule_reminder"
@@ -50,14 +50,10 @@
     "动识": [
       "business"
     ],
-    "双机": [
-      "ecotag"
-    ],
     "右滑返回信息卡片": [
       "yadea_car_control"
     ],
     "存储空间": [
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo"
     ],
@@ -101,7 +97,6 @@
       "hyper-pick-up-code"
     ],
     "电流": [
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo",
       "yadea_car_control"
@@ -116,14 +111,10 @@
       "weather"
     ],
     "类型": [
-      "ecotag",
       "ecotag_root"
     ],
     "索更": [
       "weather"
-    ],
-    "统广": [
-      "ecotag"
     ],
     "适应": [
       "business",

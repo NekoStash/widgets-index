@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 43,
+  "tokenCount": 42,
   "tokens": {
     "10": [
       "ecotag_root"
@@ -12,7 +12,6 @@
       "calendar-lite"
     ],
     "license": [
-      "ecotag",
       "ecotag_root",
       "music"
     ],
@@ -39,13 +38,11 @@
       "schedule_reminder"
     ],
     "刻家": [
-      "ecotag",
       "ecotag_root"
     ],
     "动画": [
       "business",
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "schedule_reminder",
       "weather",
@@ -55,7 +52,6 @@
       "yadea_car_control"
     ],
     "唯梦倾城": [
-      "ecotag",
       "ecotag_root"
     ],
     "塔斯": [
@@ -65,7 +61,6 @@
       "business"
     ],
     "开关": [
-      "ecotag",
       "ecotag_root",
       "yadea_car_control"
     ],
@@ -77,9 +72,6 @@
     ],
     "支持亮屏与": [
       "business"
-    ],
-    "支持熄屏显示": [
-      "ecotag"
     ],
     "文件便可显示其他内容": [
       "uriroute_deviceinfo"
@@ -115,7 +107,6 @@
       "calendar-lite"
     ],
     "能效等级": [
-      "ecotag",
       "ecotag_root"
     ],
     "自定义": [

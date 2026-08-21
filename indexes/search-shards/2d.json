@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 45,
+  "tokenCount": 43,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -19,9 +19,6 @@
     ],
     "中文": [
       "music"
-    ],
-    "为": [
-      "ecotag"
     ],
     "以星": [
       "yuzhouhangxian"
@@ -68,7 +65,6 @@
       "calendar-lite"
     ],
     "屏省": [
-      "ecotag",
       "ecotag_root"
     ],
     "属图": [
@@ -86,9 +82,6 @@
     "放电状态": [
       "ecotag_root"
     ],
-    "无需": [
-      "ecotag"
-    ],
     "有进": [
       "mishare"
     ],
@@ -96,7 +89,6 @@
       "business"
     ],
     "格的": [
-      "ecotag",
       "ecotag_root"
     ],
     "环次": [
@@ -137,7 +129,6 @@
       "yuzhouhangxian"
     ],
     "预览图": [
-      "ecotag",
       "ecotag_root"
     ],
     "齐到": [

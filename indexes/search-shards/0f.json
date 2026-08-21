@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 39,
+  "tokenCount": 37,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -26,9 +26,6 @@
     "动挂": [
       "weather"
     ],
-    "动适": [
-      "ecotag"
-    ],
     "升至": [
       "weather"
     ],
@@ -40,9 +37,6 @@
     ],
     "处理": [
       "calendar-lite"
-    ],
-    "宽高比判断": [
-      "ecotag"
     ],
     "尺寸": [
       "business"
@@ -89,7 +83,6 @@
     "自动": [
       "business",
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "hyper-pick-up-code",
       "schedule_reminder",

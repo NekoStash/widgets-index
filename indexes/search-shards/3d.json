@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 45,
+  "tokenCount": 43,
   "tokens": {
     "13": [
       "ecotag_root"
@@ -38,7 +38,6 @@
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "倾城": [
-      "ecotag",
       "ecotag_root"
     ],
     "最新": [
@@ -72,12 +71,8 @@
     "常用": [
       "kingxv"
     ],
-    "库名": [
-      "ecotag"
-    ],
     "当前": [
-      "calendar-lite",
-      "ecotag"
+      "calendar-lite"
     ],
     "改进": [
       "weather"
@@ -109,9 +104,6 @@
     "示参": [
       "ecotag_root"
     ],
-    "签风": [
-      "ecotag"
-    ],
     "素材": [
       "calendar-lite",
       "weather"
@@ -139,7 +131,6 @@
       "schedule_reminder"
     ],
     "题版": [
-      "ecotag",
       "ecotag_root"
     ],
     "黑打": [

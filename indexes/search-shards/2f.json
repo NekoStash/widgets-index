@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 32,
+  "tokenCount": 31,
   "tokens": {
     "active": [
       "music"
@@ -37,7 +37,6 @@
       "yuzhouhangxian"
     ],
     "充电": [
-      "ecotag",
       "ecotag_root",
       "yuzhouhangxian"
     ],
@@ -57,7 +56,6 @@
       "ecotag_root"
     ],
     "变量名": [
-      "ecotag",
       "ecotag_root"
     ],
     "奖作": [
@@ -99,9 +97,6 @@
     ],
     "目前代码已内置以下主流餐饮": [
       "business"
-    ],
-    "示存": [
-      "ecotag"
     ],
     "认将": [
       "calendar-lite"

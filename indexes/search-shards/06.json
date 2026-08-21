@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 57,
+  "tokenCount": 55,
   "tokens": {
     "power": [
       "music"
@@ -93,7 +93,6 @@
       "disordered-clock"
     ],
     "手动": [
-      "ecotag",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
       "yadea_car_control"
@@ -118,7 +117,6 @@
       "ecotag_root"
     ],
     "显示系统开机时长": [
-      "ecotag",
       "ecotag_root"
     ],
     "权限": [
@@ -149,17 +147,11 @@
     "生桌": [
       "kingxv"
     ],
-    "秒循环": [
-      "ecotag"
-    ],
     "程表": [
       "course_schedule"
     ],
     "立雨": [
       "weather"
-    ],
-    "级": [
-      "ecotag"
     ],
     "置缓": [
       "uriroute_deviceinfo"
@@ -181,8 +173,7 @@
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "题包": [
-      "business",
-      "ecotag"
+      "business"
     ]
   }
 }

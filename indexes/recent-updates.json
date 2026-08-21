@@ -14,27 +14,10 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
         "type": "User"
       },
-      "updatedAt": "2026-08-21T06:16:07.000Z",
+      "updatedAt": "2026-08-21T07:40:58.000Z",
       "repository": {
         "fullName": "wmqc97/EcoTag-Root",
         "url": "https://github.com/wmqc97/EcoTag-Root"
-      }
-    },
-    {
-      "id": "ecotag",
-      "name": "能效标识（主题版）",
-      "description": "小米背屏能效标识主题 v2.1 — 复刻家电能效标签风格，根据电量显示1~5级能效等级，展示存储/内存/开机时长/步数，支持胶囊电池与充电流光动画",
-      "author": {
-        "login": "wmqc97",
-        "name": "唯梦倾城",
-        "url": "https://github.com/wmqc97",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-08-21T04:51:55.000Z",
-      "repository": {
-        "fullName": "wmqc97/EcoTag",
-        "url": "https://github.com/wmqc97/EcoTag"
       }
     },
     {

@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 45,
+  "tokenCount": 44,
   "tokens": {
     "devices": [
       "music"
@@ -58,7 +58,6 @@
     ],
     "屏显": [
       "business",
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo",
       "weather"
@@ -129,15 +128,11 @@
     "设计": [
       "yuzhouhangxian"
     ],
-    "量显": [
-      "ecotag"
-    ],
     "量百": [
       "yadea_car_control"
     ],
     "隐藏": [
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "weather"
     ],

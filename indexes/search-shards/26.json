@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 46,
+  "tokenCount": 45,
   "tokens": {
     "an": [
       "music"
@@ -44,7 +44,6 @@
       "business",
       "calendar-lite",
       "disordered-clock",
-      "ecotag",
       "ecotag_root"
     ],
     "了系": [
@@ -146,9 +145,6 @@
     "解析": [
       "business",
       "schedule_reminder"
-    ],
-    "识主": [
-      "ecotag"
     ],
     "贡献": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 32,
+  "tokenCount": 29,
   "tokens": {
     "lyrics": [
       "music"
@@ -9,7 +9,6 @@
       "music"
     ],
     "wmqc97": [
-      "ecotag",
       "ecotag_root"
     ],
     "不承": [
@@ -43,14 +42,10 @@
       "yadea_car_control"
     ],
     "梦倾": [
-      "ecotag",
       "ecotag_root"
     ],
     "此应": [
       "hyper-pick-up-code-reareye-xiaomi"
-    ],
-    "比判": [
-      "ecotag"
     ],
     "百分": [
       "ecotag_root",
@@ -59,15 +54,8 @@
     "目录下": [
       "business"
     ],
-    "示今": [
-      "ecotag"
-    ],
     "签视": [
-      "ecotag",
       "ecotag_root"
-    ],
-    "米健": [
-      "ecotag"
     ],
     "精准": [
       "business",
@@ -83,7 +71,6 @@
     ],
     "自定": [
       "calendar-lite",
-      "ecotag",
       "ecotag_root"
     ],
     "茶饮": [

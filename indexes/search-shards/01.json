@@ -1,6 +1,6 @@
 {
   "shard": "01",
-  "tokenCount": 27,
+  "tokenCount": 25,
   "tokens": {
     "subsceen": [
       "yadea_car_control"
@@ -16,9 +16,6 @@
     ],
     "保仓": [
       "weather"
-    ],
-    "入主": [
-      "ecotag"
     ],
     "动态小部件": [
       "schedule_reminder"
@@ -47,7 +44,6 @@
       "business",
       "calendar-lite",
       "course_schedule",
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo",
       "weather",
@@ -55,11 +51,9 @@
       "yuzhouhangxian"
     ],
     "机时": [
-      "ecotag",
       "ecotag_root"
     ],
     "版本": [
-      "ecotag",
       "ecotag_root",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
@@ -96,11 +90,7 @@
     "闰年": [
       "calendar-lite"
     ],
-    "隐藏电量胶囊开关": [
-      "ecotag"
-    ],
     "预览": [
-      "ecotag",
       "ecotag_root"
     ]
   }

@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 47,
+  "tokenCount": 44,
   "tokens": {
     "deliver": [
       "music"
@@ -60,14 +60,10 @@
       "weather"
     ],
     "屏组": [
-      "ecotag",
       "ecotag_root",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "yadea_car_control"
-    ],
-    "展示存储": [
-      "ecotag"
     ],
     "已支": [
       "business"
@@ -89,9 +85,6 @@
     ],
     "择显": [
       "ecotag_root"
-    ],
-    "持胶": [
-      "ecotag"
     ],
     "握外": [
       "business"
@@ -145,9 +138,6 @@
     ],
     "背屏动态天气微件": [
       "weather"
-    ],
-    "自动适配": [
-      "ecotag"
     ],
     "进一": [
       "disordered-clock"

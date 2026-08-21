@@ -9,14 +9,12 @@
       "music"
     ],
     "version": [
-      "ecotag",
       "ecotag_root"
     ],
     "个槽位对应的参数编号": [
       "ecotag_root"
     ],
     "储空": [
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo"
     ],
@@ -46,7 +44,6 @@
       "business"
     ],
     "在": [
-      "ecotag",
       "ecotag_root",
       "hyper-pick-up-code",
       "yadea_car_control"
@@ -76,7 +73,6 @@
       "business"
     ],
     "电能": [
-      "ecotag",
       "ecotag_root"
     ],
     "的图": [
@@ -106,12 +102,10 @@
       "disordered-clock"
     ],
     "语法": [
-      "ecotag",
       "ecotag_root"
     ],
     "说明": [
       "business",
-      "ecotag",
       "ecotag_root",
       "yadea_car_control"
     ],
@@ -122,7 +116,6 @@
       "weather"
     ],
     "风格": [
-      "ecotag",
       "ecotag_root"
     ]
   }

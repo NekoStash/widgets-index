@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 39,
+  "tokenCount": 38,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -112,7 +112,6 @@
       "pickup"
     ],
     "示系": [
-      "ecotag",
       "ecotag_root"
     ],
     "配澎": [
@@ -127,9 +126,6 @@
     ],
     "障碍": [
       "weather"
-    ],
-    "需安": [
-      "ecotag"
     ]
   }
 }

@@ -1,12 +1,11 @@
 {
   "shard": "21",
-  "tokenCount": 46,
+  "tokenCount": 44,
   "tokens": {
     "car": [
       "yadea_car_control"
     ],
     "v2": [
-      "ecotag",
       "ecotag_root"
     ],
     "visible": [
@@ -14,9 +13,6 @@
     ],
     "xiaomi-rearscreen-mishare": [
       "mishare"
-    ],
-    "主题显示名": [
-      "ecotag"
     ],
     "你的": [
       "schedule_reminder"
@@ -30,9 +26,6 @@
     "可以": [
       "business",
       "kingxv"
-    ],
-    "可自定义": [
-      "ecotag"
     ],
     "可采集更多硬件参数": [
       "ecotag_root"
@@ -125,7 +118,6 @@
       "calendar-lite"
     ],
     "级能": [
-      "ecotag",
       "ecotag_root"
     ],
     "素的": [
@@ -136,7 +128,6 @@
     ],
     "计算": [
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "schedule_reminder",
       "uriroute_deviceinfo",
@@ -154,7 +145,6 @@
       "schedule_reminder"
     ],
     "错误": [
-      "ecotag",
       "ecotag_root"
     ],
     "间变": [

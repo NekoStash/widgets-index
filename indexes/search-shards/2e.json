@@ -10,12 +10,10 @@
       "music"
     ],
     "件仓": [
-      "ecotag",
       "ecotag_root",
       "yadea_car_control"
     ],
     "件结": [
-      "ecotag",
       "ecotag_root",
       "yadea_car_control"
     ],
@@ -57,7 +55,6 @@
       "weather"
     ],
     "根据": [
-      "ecotag",
       "ecotag_root",
       "schedule_reminder",
       "weather"
@@ -72,7 +69,6 @@
       "business"
     ],
     "状态机与语法错误": [
-      "ecotag",
       "ecotag_root"
     ],
     "白色": [
@@ -94,7 +90,6 @@
       "ecotag_root"
     ],
     "自定义副标题": [
-      "ecotag",
       "ecotag_root"
     ],
     "至默": [

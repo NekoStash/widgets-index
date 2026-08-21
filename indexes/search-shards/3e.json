@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 39,
+  "tokenCount": 38,
   "tokens": {
     "about": [
       "music"
@@ -58,7 +58,6 @@
       "mishare"
     ],
     "展示": [
-      "ecotag",
       "mishare",
       "weather",
       "yadea_car_control"
@@ -85,7 +84,6 @@
       "yadea_car_control"
     ],
     "文本": [
-      "ecotag",
       "ecotag_root",
       "schedule_reminder"
     ],
@@ -93,7 +91,6 @@
       "calendar-lite"
     ],
     "池电": [
-      "ecotag",
       "ecotag_root"
     ],
     "的静": [
@@ -114,15 +111,11 @@
     "通过": [
       "business",
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "schedule_reminder",
       "weather",
       "yadea_car_control",
       "yuzhouhangxian"
-    ],
-    "量更": [
-      "ecotag"
     ],
     "面可": [
       "back_screen_desktop"

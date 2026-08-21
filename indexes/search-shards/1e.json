@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 54,
+  "tokenCount": 53,
   "tokens": {
     "artist": [
       "music"
@@ -99,9 +99,6 @@
     "持车": [
       "yadea_car_control"
     ],
-    "数据项": [
-      "ecotag"
-    ],
     "无法": [
       "kingxv",
       "uriroute_deviceinfo"
@@ -157,7 +154,6 @@
       "ecotag_root"
     ],
     "觉风": [
-      "ecotag",
       "ecotag_root"
     ],
     "课程": [

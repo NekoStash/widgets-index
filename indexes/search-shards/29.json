@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 53,
+  "tokenCount": 51,
   "tokens": {
     "experience": [
       "music"
@@ -35,7 +35,6 @@
     "代码": [
       "business",
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "schedule_reminder"
     ],
@@ -49,7 +48,6 @@
       "ecotag_root"
     ],
     "功能": [
-      "ecotag",
       "ecotag_root",
       "hyper-pick-up-code-reareye-xiaomi",
       "yadea_car_control"
@@ -62,9 +60,6 @@
     ],
     "区显": [
       "calendar-lite"
-    ],
-    "取": [
-      "ecotag"
     ],
     "可配": [
       "ecotag_root"
@@ -115,14 +110,10 @@
       "weather"
     ],
     "更新": [
-      "ecotag",
       "yadea_car_control"
     ],
     "月背屏创意设计大赛获奖作品": [
       "yuzhouhangxian"
-    ],
-    "根据电池电量自动显示": [
-      "ecotag"
     ],
     "桌面的卡片": [
       "back_screen_desktop"

@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 40,
+  "tokenCount": 39,
   "tokens": {
     "30s": [
       "uriroute_deviceinfo"
@@ -84,9 +84,6 @@
     "搭载": [
       "business"
     ],
-    "日步": [
-      "ecotag"
-    ],
     "时同": [
       "business"
     ],
@@ -97,7 +94,6 @@
       "business"
     ],
     "流光": [
-      "ecotag",
       "ecotag_root"
     ],
     "版权归小米所有": [
@@ -107,14 +103,12 @@
       "calendar-lite"
     ],
     "精简胶囊代码": [
-      "ecotag",
       "ecotag_root"
     ],
     "系统": [
       "business",
       "calendar-lite",
       "dragon_scales_clock",
-      "ecotag",
       "ecotag_root",
       "schedule_reminder",
       "weather"

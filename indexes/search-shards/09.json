@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 36,
+  "tokenCount": 34,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -44,9 +44,6 @@
     "动判": [
       "calendar-lite"
     ],
-    "同存": [
-      "ecotag"
-    ],
     "后彻底挂起引擎": [
       "schedule_reminder"
     ],
@@ -62,14 +59,10 @@
       "pickup",
       "schedule_reminder"
     ],
-    "小米背屏能效标识主题": [
-      "ecotag"
-    ],
     "心极": [
       "schedule_reminder"
     ],
     "或通": [
-      "ecotag",
       "yadea_car_control"
     ],
     "手动安装步骤": [
@@ -82,7 +75,6 @@
       "schedule_reminder"
     ],
     "根据电池电量自动计算": [
-      "ecotag",
       "ecotag_root"
     ],
     "模拟": [
@@ -108,11 +100,9 @@
       "weather"
     ],
     "量名": [
-      "ecotag",
       "ecotag_root"
     ],
     "量配": [
-      "ecotag",
       "ecotag_root"
     ],
     "障用": [
@@ -120,7 +110,6 @@
     ],
     "高比": [
       "calendar-lite",
-      "ecotag",
       "schedule_reminder"
     ]
   }

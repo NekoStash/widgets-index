@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 47,
+  "tokenCount": 45,
   "tokens": {
     "folme": [
       "business",
@@ -83,7 +83,6 @@
       "weather"
     ],
     "支持充电流光动画": [
-      "ecotag",
       "ecotag_root"
     ],
     "时物": [
@@ -96,7 +95,6 @@
       "uriroute_deviceinfo"
     ],
     "标识": [
-      "ecotag",
       "ecotag_root"
     ],
     "欢迎各位大佬修改": [
@@ -126,9 +124,6 @@
     "确保黑底环境下清晰可见": [
       "schedule_reminder"
     ],
-    "示名": [
-      "ecotag"
-    ],
     "算并": [
       "weather"
     ],
@@ -136,14 +131,12 @@
       "calendar-lite"
     ],
     "能效": [
-      "ecotag",
       "ecotag_root"
     ],
     "若": [
       "uriroute_deviceinfo"
     ],
     "获取": [
-      "ecotag",
       "yadea_car_control"
     ],
     "获奖": [
@@ -163,9 +156,6 @@
     ],
     "顾极": [
       "weather"
-    ],
-    "题文": [
-      "ecotag"
     ]
   }
 }

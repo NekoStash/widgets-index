@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 37,
+  "tokenCount": 35,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -54,15 +54,11 @@
     ],
     "副标": [
       "business",
-      "ecotag",
       "ecotag_root"
     ],
     "化到": [
       "mishare",
       "pickup"
-    ],
-    "取数": [
-      "ecotag"
     ],
     "可切": [
       "kingxv"
@@ -123,7 +119,6 @@
       "weather"
     ],
     "空间": [
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo",
       "yuzhouhangxian"
@@ -133,9 +128,6 @@
     ],
     "间为": [
       "uriroute_deviceinfo"
-    ],
-    "题显": [
-      "ecotag"
     ]
   }
 }

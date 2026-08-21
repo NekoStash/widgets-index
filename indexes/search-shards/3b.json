@@ -17,7 +17,6 @@
     ],
     "ui": [
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "music",
       "schedule_reminder",
@@ -139,7 +138,6 @@
     ],
     "省电": [
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "schedule_reminder"
     ],

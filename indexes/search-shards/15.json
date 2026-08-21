@@ -1,10 +1,7 @@
 {
   "shard": "15",
-  "tokenCount": 39,
+  "tokenCount": 38,
   "tokens": {
-    "80": [
-      "ecotag"
-    ],
     "display": [
       "music"
     ],
@@ -15,7 +12,6 @@
       "music"
     ],
     "mit": [
-      "ecotag",
       "ecotag_root"
     ],
     "requires": [
@@ -77,7 +73,6 @@
       "business"
     ],
     "版本历史": [
-      "ecotag",
       "ecotag_root"
     ],
     "版需": [

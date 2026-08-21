@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 47,
+  "tokenCount": 44,
   "tokens": {
     "burger": [
       "business"
@@ -43,7 +43,6 @@
     ],
     "宽高": [
       "calendar-lite",
-      "ecotag",
       "schedule_reminder"
     ],
     "小于": [
@@ -76,22 +75,13 @@
       "ecotag_root"
     ],
     "效标": [
-      "ecotag",
       "ecotag_root"
     ],
-    "无需安装额外应用": [
-      "ecotag"
-    ],
     "本主": [
-      "ecotag",
       "ecotag_root"
     ],
     "来源": [
-      "ecotag",
       "ecotag_root"
-    ],
-    "标题文字": [
-      "ecotag"
     ],
     "清晰": [
       "schedule_reminder"
@@ -100,11 +90,7 @@
       "yuzhouhangxian"
     ],
     "电池": [
-      "ecotag",
       "ecotag_root"
-    ],
-    "电池电量": [
-      "ecotag"
     ],
     "的嗅探逻辑": [
       "calendar-lite"
@@ -116,7 +102,6 @@
     ],
     "视觉": [
       "business",
-      "ecotag",
       "ecotag_root",
       "schedule_reminder",
       "weather"

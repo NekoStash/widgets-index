@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 30,
+  "tokenCount": 28,
   "tokens": {
     "check": [
       "music"
@@ -33,7 +33,6 @@
       "ecotag_root"
     ],
     "外应": [
-      "ecotag",
       "ecotag_root"
     ],
     "开后备箱": [
@@ -52,12 +51,8 @@
     "播包": [
       "yadea_car_control"
     ],
-    "支持胶囊电池与充电流光动画": [
-      "ecotag"
-    ],
     "时间": [
       "calendar-lite",
-      "ecotag",
       "schedule_reminder",
       "uriroute_deviceinfo",
       "weather",
@@ -95,9 +90,6 @@
     ],
     "车控目前只支持开关机锁车": [
       "yadea_car_control"
-    ],
-    "题通": [
-      "ecotag"
     ]
   }
 }

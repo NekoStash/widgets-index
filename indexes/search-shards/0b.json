@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 49,
+  "tokenCount": 47,
   "tokens": {
     "15": [
       "weather"
@@ -43,9 +43,6 @@
       "uriroute_deviceinfo",
       "yadea_car_control"
     ],
-    "动显": [
-      "ecotag"
-    ],
     "号星": [
       "calendar-lite"
     ],
@@ -53,7 +50,6 @@
       "schedule_reminder"
     ],
     "常亮": [
-      "ecotag",
       "ecotag_root"
     ],
     "年及": [
@@ -88,7 +84,6 @@
       "weather"
     ],
     "法错": [
-      "ecotag",
       "ecotag_root"
     ],
     "深度适配": [
@@ -113,7 +108,6 @@
       "calendar-lite"
     ],
     "简胶": [
-      "ecotag",
       "ecotag_root"
     ],
     "肯德": [
@@ -134,9 +128,6 @@
     ],
     "责任": [
       "hyper-pick-up-code-reareye-xiaomi"
-    ],
-    "过小": [
-      "ecotag"
     ],
     "部图": [
       "calendar-lite"

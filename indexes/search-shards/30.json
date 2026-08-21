@@ -24,7 +24,6 @@
       "business"
     ],
     "内存占用": [
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo"
     ],
@@ -35,7 +34,6 @@
       "business"
     ],
     "动切": [
-      "ecotag",
       "ecotag_root"
     ],
     "动画接口": [
@@ -64,7 +62,6 @@
       "weather"
     ],
     "文件": [
-      "ecotag",
       "ecotag_root",
       "uriroute_deviceinfo",
       "yadea_car_control"
@@ -94,7 +91,6 @@
       "business"
     ],
     "步数": [
-      "ecotag",
       "ecotag_root"
     ],
     "用率": [

@@ -49,7 +49,6 @@
       "ecotag_root"
     ],
     "安装": [
-      "ecotag",
       "ecotag_root",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
@@ -102,14 +101,12 @@
       "business"
     ],
     "精简": [
-      "ecotag",
       "ecotag_root"
     ],
     "脚本": [
       "ecotag_root"
     ],
     "自定义标题": [
-      "ecotag",
       "ecotag_root"
     ],
     "获得": [

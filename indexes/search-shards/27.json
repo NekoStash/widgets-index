@@ -1,11 +1,10 @@
 {
   "shard": "27",
-  "tokenCount": 47,
+  "tokenCount": 43,
   "tokens": {
     "aod": [
       "business",
       "calendar-lite",
-      "ecotag",
       "ecotag_root",
       "kingxv",
       "music",
@@ -49,11 +48,7 @@
     "到已": [
       "business"
     ],
-    "前内": [
-      "ecotag"
-    ],
     "剩余": [
-      "ecotag",
       "ecotag_root",
       "yadea_car_control"
     ],
@@ -67,9 +62,6 @@
     ],
     "向未知的星域航行": [
       "yuzhouhangxian"
-    ],
-    "囊开": [
-      "ecotag"
     ],
     "域即": [
       "mishare",
@@ -104,7 +96,6 @@
       "uriroute_deviceinfo"
     ],
     "文件结构": [
-      "ecotag",
       "ecotag_root",
       "yadea_car_control"
     ],
@@ -149,15 +140,9 @@
     "行状": [
       "yadea_car_control"
     ],
-    "装额": [
-      "ecotag"
-    ],
     "转化": [
       "mishare",
       "pickup"
-    ],
-    "过系": [
-      "ecotag"
     ],
     "返回": [
       "kingxv",

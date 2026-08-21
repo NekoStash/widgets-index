@@ -1,6 +1,6 @@
 {
   "shard": "31",
-  "tokenCount": 47,
+  "tokenCount": 46,
   "tokens": {
     "17": [
       "business",
@@ -41,9 +41,6 @@
     ],
     "准排": [
       "schedule_reminder"
-    ],
-    "动导": [
-      "ecotag"
     ],
     "包含": [
       "weather",
@@ -86,13 +83,11 @@
       "calendar-lite"
     ],
     "库安": [
-      "ecotag",
       "ecotag_root",
       "yadea_car_control"
     ],
     "应用": [
       "business",
-      "ecotag",
       "ecotag_root",
       "hyper-pick-up-code-reareye-xiaomi",
       "kingxv",
@@ -142,7 +137,6 @@
       "calendar-lite"
     ],
     "电量胶囊": [
-      "ecotag",
       "ecotag_root"
     ],
     "符串": [

@@ -1,9 +1,8 @@
 {
   "shard": "3a",
-  "tokenCount": 51,
+  "tokenCount": 49,
   "tokens": {
     "ecotag": [
-      "ecotag",
       "ecotag_root"
     ],
     "no": [
@@ -34,7 +33,6 @@
       "weather"
     ],
     "作者": [
-      "ecotag",
       "ecotag_root",
       "yuzhouhangxian"
     ],
@@ -42,9 +40,6 @@
       "business",
       "ecotag_root",
       "weather"
-    ],
-    "判断": [
-      "ecotag"
     ],
     "刻的": [
       "yuzhouhangxian"
@@ -68,7 +63,6 @@
       "schedule_reminder"
     ],
     "导入": [
-      "ecotag",
       "ecotag_root",
       "hyper-pick-up-code",
       "mishare",
@@ -143,9 +137,6 @@
     "腻的": [
       "weather"
     ],
-    "获取数据": [
-      "ecotag"
-    ],
     "落时": [
       "weather"
     ],
@@ -172,7 +163,6 @@
       "disordered-clock"
     ],
     "额外": [
-      "ecotag",
       "ecotag_root"
     ],
     "高对": [

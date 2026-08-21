@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 43,
+  "tokenCount": 41,
   "tokens": {
     "extracts": [
       "music"
@@ -17,9 +17,6 @@
     ],
     "制的": [
       "business"
-    ],
-    "副标题文字": [
-      "ecotag"
     ],
     "动态调整下落速度与透明度": [
       "weather"
@@ -49,7 +46,6 @@
       "calendar-lite",
       "course_schedule",
       "dragon_scales_clock",
-      "ecotag",
       "ecotag_root",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
@@ -80,7 +76,6 @@
       "yuzhouhangxian"
     ],
     "本历": [
-      "ecotag",
       "ecotag_root"
     ],
     "极省": [
@@ -108,9 +103,6 @@
       "music",
       "schedule_reminder",
       "weather"
-    ],
-    "系统广播": [
-      "ecotag"
     ],
     "系统级日程同步": [
       "schedule_reminder"
