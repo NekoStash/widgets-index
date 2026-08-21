@@ -13,14 +13,14 @@
       "body": "<h2 dir=\"auto\">能效标识 v2.1（主题版）</h2>\n<p dir=\"auto\">复刻家电能效标签视觉风格，根据电池电量自动显示1～5级能效等级。</p>\n<h3 dir=\"auto\">功能特性</h3>\n<ul dir=\"auto\">\n<li>剩余存储空间、内存占用、系统开机时长和今日步数展示</li>\n<li>电量胶囊与亮屏充电连续流光动画</li>\n<li>AOD 常亮支持</li>\n<li>自动适配 Pro / Pro Max 双机型</li>\n<li>自定义标题、副标题及隐藏电量胶囊</li>\n</ul>\n<h3 dir=\"auto\">更新内容</h3>\n<ul dir=\"auto\">\n<li>精简胶囊代码</li>\n<li>修复 AOD 状态机与语法错误</li>\n<li>熄屏省电优化</li>\n</ul>\n<p dir=\"auto\"><strong>作者：唯梦倾城</strong></p>",
       "assets": [
         {
-          "id": 523223524,
+          "id": 523246511,
           "name": "EcoTag_v2.1.zip",
           "label": "",
           "size": 77966,
           "contentType": "application/zip",
           "downloadCount": 0,
-          "createdAt": "2026-08-21T04:26:46Z",
-          "updatedAt": "2026-08-21T04:26:47Z",
+          "createdAt": "2026-08-21T04:52:49Z",
+          "updatedAt": "2026-08-21T04:52:49Z",
           "downloadUrl": "https://github.com/wmqc97/EcoTag/releases/download/v2.1/EcoTag_v2.1.zip"
         }
       ],

@@ -13,14 +13,14 @@
       "body": "<h2 dir=\"auto\">能效标识 Root版 v2.1（权限版）</h2>\n<p dir=\"auto\">复刻家电能效标签视觉风格，实时展示手机功耗信息。需搭配 UriRoute 运行。</p>\n<h3 dir=\"auto\">功能特性</h3>\n<ul dir=\"auto\">\n<li>动态读取实时电流、瞬时功率、电池温度、CPU 占用、内存等参数</li>\n<li>4 个显示槽位自定义参数（编号选择）</li>\n<li>充电/放电电流正负数值直观区分手机供电状态</li>\n<li>电量胶囊与亮屏充电连续流光动画</li>\n<li>AOD 常亮支持</li>\n<li>自动适配 Pro / Pro Max 双机型</li>\n</ul>\n<h3 dir=\"auto\">更新内容</h3>\n<ul dir=\"auto\">\n<li>胶囊代码与主题版统一</li>\n<li>修复 AOD 状态机与语法错误</li>\n<li>熄屏省电优化</li>\n</ul>\n<p dir=\"auto\"><strong>作者：唯梦倾城</strong></p>",
       "assets": [
         {
-          "id": 523223543,
+          "id": 523246524,
           "name": "EcoTag-Root_v2.1.zip",
           "label": "",
           "size": 86856,
           "contentType": "application/zip",
-          "downloadCount": 0,
-          "createdAt": "2026-08-21T04:26:48Z",
-          "updatedAt": "2026-08-21T04:26:48Z",
+          "downloadCount": 1,
+          "createdAt": "2026-08-21T04:52:51Z",
+          "updatedAt": "2026-08-21T04:52:51Z",
           "downloadUrl": "https://github.com/wmqc97/EcoTag-Root/releases/download/v2.1/EcoTag-Root_v2.1.zip"
         }
       ],

@@ -4,6 +4,40 @@
   "limit": 20,
   "items": [
     {
+      "id": "ecotag_root",
+      "name": "能效标识（权限版）",
+      "description": "EcoTag 权限版 v2.1 — 需搭配UriRoute运行，支持硬件参数采集（唯梦倾城）",
+      "author": {
+        "login": "wmqc97",
+        "name": "唯梦倾城",
+        "url": "https://github.com/wmqc97",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-08-21T04:52:11.000Z",
+      "repository": {
+        "fullName": "wmqc97/EcoTag-Root",
+        "url": "https://github.com/wmqc97/EcoTag-Root"
+      }
+    },
+    {
+      "id": "ecotag",
+      "name": "能效标识（主题版）",
+      "description": "小米背屏能效标识主题 v2.1 — 复刻家电能效标签风格，根据电量显示1~5级能效等级，展示存储/内存/开机时长/步数，支持胶囊电池与充电流光动画",
+      "author": {
+        "login": "wmqc97",
+        "name": "唯梦倾城",
+        "url": "https://github.com/wmqc97",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-08-21T04:51:55.000Z",
+      "repository": {
+        "fullName": "wmqc97/EcoTag",
+        "url": "https://github.com/wmqc97/EcoTag"
+      }
+    },
+    {
       "id": "yuzhouhangxian",
       "name": "宇宙航线：REAREye独家",
       "description": "宇宙航线：REAREye独家",
@@ -18,40 +52,6 @@
       "repository": {
         "fullName": "SiberiaApp/yuzhouhangxian",
         "url": "https://github.com/SiberiaApp/yuzhouhangxian"
-      }
-    },
-    {
-      "id": "ecotag",
-      "name": "能效标识（主题版）",
-      "description": "小米背屏能效标识主题 v2.1 — 复刻家电能效标签风格，根据电量显示1~5级能效等级，展示存储/内存/开机时长/步数，支持胶囊电池与充电流光动画",
-      "author": {
-        "login": "wmqc97",
-        "name": "唯梦倾城",
-        "url": "https://github.com/wmqc97",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-08-20T18:13:42.000Z",
-      "repository": {
-        "fullName": "wmqc97/EcoTag",
-        "url": "https://github.com/wmqc97/EcoTag"
-      }
-    },
-    {
-      "id": "ecotag_root",
-      "name": "能效标识（权限版）",
-      "description": "EcoTag 权限版 v2.1 — 需搭配UriRoute运行，支持硬件参数采集（唯梦倾城）",
-      "author": {
-        "login": "wmqc97",
-        "name": "唯梦倾城",
-        "url": "https://github.com/wmqc97",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-08-20T18:07:27.000Z",
-      "repository": {
-        "fullName": "wmqc97/EcoTag-Root",
-        "url": "https://github.com/wmqc97/EcoTag-Root"
       }
     },
     {
