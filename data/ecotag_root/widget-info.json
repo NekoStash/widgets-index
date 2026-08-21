@@ -11,7 +11,7 @@
     },
     "requirements": {
       "packages": [
-        "com.example.uriroute"
+        "com.uriroute"
       ]
     },
     "postinstall": {
