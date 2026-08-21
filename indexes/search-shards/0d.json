@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 41,
+  "tokenCount": 42,
   "tokens": {
     "are": [
       "music"
@@ -136,6 +136,9 @@
     ],
     "适用于小米背屏的日程提醒小组件": [
       "schedule_reminder"
+    ],
+    "银奖": [
+      "yuzhouhangxian"
     ]
   }
 }

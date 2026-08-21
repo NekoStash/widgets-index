@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "bug": [
       "weather"
@@ -89,6 +89,9 @@
     ],
     "自动处理": [
       "calendar-lite"
+    ],
+    "赛中": [
+      "yuzhouhangxian"
     ],
     "超级背屏岛": [
       "business"

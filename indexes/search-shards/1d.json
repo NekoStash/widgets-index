@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 43,
+  "tokenCount": 44,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -38,6 +38,9 @@
     ],
     "下清": [
       "schedule_reminder"
+    ],
+    "中获": [
+      "yuzhouhangxian"
     ],
     "件商": [
       "hyper-pick-up-code"

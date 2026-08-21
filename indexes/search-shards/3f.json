@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 41,
+  "tokenCount": 40,
   "tokens": {
     "action": [
       "yadea_car_control"
@@ -124,9 +124,6 @@
     ],
     "茶姬": [
       "business"
-    ],
-    "荣获": [
-      "yuzhouhangxian"
     ],
     "装步": [
       "uriroute_deviceinfo"
