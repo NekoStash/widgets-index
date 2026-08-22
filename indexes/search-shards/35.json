@@ -1,12 +1,9 @@
 {
   "shard": "35",
-  "tokenCount": 34,
+  "tokenCount": 33,
   "tokens": {
     "bug": [
       "weather"
-    ],
-    "ecotag-root": [
-      "ecotag_root"
     ],
     "from": [
       "music"
@@ -30,14 +27,14 @@
       "kingxv"
     ],
     "健康": [
-      "ecotag_root"
+      "ecotag"
     ],
     "全局": [
       "calendar-lite",
       "schedule_reminder"
     ],
     "占用": [
-      "ecotag_root",
+      "ecotag",
       "uriroute_deviceinfo"
     ],
     "吸渐": [
@@ -61,6 +58,9 @@
     "度与": [
       "weather"
     ],
+    "手动导入主题包": [
+      "ecotag"
+    ],
     "放时": [
       "weather"
     ],
@@ -74,9 +74,6 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
-    ],
-    "电池总容量": [
-      "ecotag_root"
     ],
     "的平滑过渡与透明度切换": [
       "business"

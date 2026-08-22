@@ -33,7 +33,7 @@
       "weather"
     ],
     "仓库": [
-      "ecotag_root",
+      "ecotag",
       "weather",
       "yadea_car_control"
     ],
@@ -42,7 +42,7 @@
     ],
     "优化": [
       "business",
-      "ecotag_root",
+      "ecotag",
       "uriroute_deviceinfo",
       "weather"
     ],
@@ -89,6 +89,7 @@
       "weather"
     ],
     "文字": [
+      "ecotag",
       "schedule_reminder"
     ],
     "无缝切换": [
@@ -106,11 +107,14 @@
     "求更": [
       "yadea_car_control"
     ],
+    "池与": [
+      "ecotag"
+    ],
     "滴粒": [
       "weather"
     ],
     "电模": [
-      "ecotag_root"
+      "ecotag"
     ],
     "的形": [
       "yuzhouhangxian"
@@ -121,13 +125,11 @@
     "知监": [
       "schedule_reminder"
     ],
-    "系统资源监控": [
-      "ecotag_root"
-    ],
     "纯黑打底防烧屏": [
       "calendar-lite"
     ],
     "组件仓库安装": [
+      "ecotag",
       "yadea_car_control"
     ],
     "缓缓": [

@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 38,
+  "tokenCount": 36,
   "tokens": {
     "about": [
       "music"
@@ -48,9 +48,6 @@
     "安装前提": [
       "hyper-pick-up-code"
     ],
-    "实时充电状态": [
-      "ecotag_root"
-    ],
     "小": [
       "weather"
     ],
@@ -58,6 +55,7 @@
       "mishare"
     ],
     "展示": [
+      "ecotag",
       "mishare",
       "weather",
       "yadea_car_control"
@@ -84,26 +82,20 @@
       "yadea_car_control"
     ],
     "文本": [
-      "ecotag_root",
+      "ecotag",
       "schedule_reminder"
     ],
     "月天数": [
       "calendar-lite"
     ],
     "池电": [
-      "ecotag_root"
+      "ecotag"
     ],
     "的静": [
       "schedule_reminder"
     ],
-    "秒缓存": [
-      "ecotag_root"
-    ],
     "级背": [
       "business"
-    ],
-    "组件仓库安装本主题": [
-      "ecotag_root"
     ],
     "若未": [
       "business"
@@ -111,11 +103,14 @@
     "通过": [
       "business",
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "schedule_reminder",
       "weather",
       "yadea_car_control",
       "yuzhouhangxian"
+    ],
+    "量更": [
+      "ecotag"
     ],
     "面可": [
       "back_screen_desktop"

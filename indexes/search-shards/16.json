@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 36,
+  "tokenCount": 34,
   "tokens": {
     "450": [
       "weather"
@@ -15,12 +15,8 @@
       "business"
     ],
     "uriroute": [
-      "ecotag_root",
       "uriroute_deviceinfo",
       "yadea_car_control"
-    ],
-    "个可": [
-      "ecotag_root"
     ],
     "乱序时钟": [
       "disordered-clock"
@@ -52,7 +48,7 @@
       "business"
     ],
     "字": [
-      "ecotag_root"
+      "ecotag"
     ],
     "字的": [
       "schedule_reminder"
@@ -70,10 +66,10 @@
       "calendar-lite"
     ],
     "循环": [
-      "ecotag_root"
+      "ecotag"
     ],
     "数据来源": [
-      "ecotag_root"
+      "ecotag"
     ],
     "数据流": [
       "schedule_reminder"
@@ -84,9 +80,6 @@
     "澎湃": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
-    ],
-    "用情": [
-      "ecotag_root"
     ],
     "的品": [
       "business"

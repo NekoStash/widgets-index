@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 33,
+  "tokenCount": 29,
   "tokens": {
     "always": [
       "music"
@@ -12,10 +12,10 @@
       "kingxv"
     ],
     "余存": [
-      "ecotag_root"
+      "ecotag"
     ],
     "光动": [
-      "ecotag_root"
+      "ecotag"
     ],
     "关于": [
       "mishare"
@@ -59,14 +59,8 @@
     "无关": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
-    "时充": [
-      "ecotag_root"
-    ],
     "有": [
       "kingxv"
-    ],
-    "本采": [
-      "ecotag_root"
     ],
     "此广": [
       "yadea_car_control"
@@ -81,20 +75,13 @@
       "yuzhouhangxian"
     ],
     "等": [
-      "calendar-lite",
-      "ecotag_root"
+      "calendar-lite"
     ],
     "签中": [
       "calendar-lite"
     ],
     "简体": [
       "music"
-    ],
-    "置槽": [
-      "ecotag_root"
-    ],
-    "自由": [
-      "ecotag_root"
     ],
     "若未匹配到已知品牌": [
       "business"

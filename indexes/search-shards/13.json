@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 34,
+  "tokenCount": 33,
   "tokens": {
     "focus": [
       "business",
@@ -28,7 +28,7 @@
       "schedule_reminder"
     ],
     "变量配置": [
-      "ecotag_root"
+      "ecotag"
     ],
     "回退": [
       "business"
@@ -68,7 +68,7 @@
     ],
     "数据": [
       "business",
-      "ecotag_root",
+      "ecotag",
       "schedule_reminder",
       "weather",
       "yadea_car_control"
@@ -82,14 +82,11 @@
     "率控": [
       "weather"
     ],
-    "的": [
-      "ecotag_root"
-    ],
     "的粒": [
       "weather"
     ],
     "级能效等级": [
-      "ecotag_root"
+      "ecotag"
     ],
     "统环": [
       "weather"

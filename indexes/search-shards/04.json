@@ -1,10 +1,7 @@
 {
   "shard": "04",
-  "tokenCount": 42,
+  "tokenCount": 38,
   "tokens": {
-    "10": [
-      "ecotag_root"
-    ],
     "29": [
       "calendar-lite"
     ],
@@ -12,7 +9,7 @@
       "calendar-lite"
     ],
     "license": [
-      "ecotag_root",
+      "ecotag",
       "music"
     ],
     "or": [
@@ -38,12 +35,12 @@
       "schedule_reminder"
     ],
     "刻家": [
-      "ecotag_root"
+      "ecotag"
     ],
     "动画": [
       "business",
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "schedule_reminder",
       "weather",
       "yuzhouhangxian"
@@ -52,7 +49,7 @@
       "yadea_car_control"
     ],
     "唯梦倾城": [
-      "ecotag_root"
+      "ecotag"
     ],
     "塔斯": [
       "business"
@@ -61,7 +58,7 @@
       "business"
     ],
     "开关": [
-      "ecotag_root",
+      "ecotag",
       "yadea_car_control"
     ],
     "或者": [
@@ -72,6 +69,9 @@
     ],
     "支持亮屏与": [
       "business"
+    ],
+    "支持熄屏显示": [
+      "ecotag"
     ],
     "文件便可显示其他内容": [
       "uriroute_deviceinfo"
@@ -86,7 +86,6 @@
       "business"
     ],
     "确保": [
-      "ecotag_root",
       "schedule_reminder",
       "uriroute_deviceinfo",
       "weather"
@@ -97,9 +96,6 @@
     "精准提取标题": [
       "business"
     ],
-    "系统版本号": [
-      "ecotag_root"
-    ],
     "级自": [
       "calendar-lite"
     ],
@@ -107,19 +103,10 @@
       "calendar-lite"
     ],
     "能效等级": [
-      "ecotag_root"
-    ],
-    "自定义": [
-      "ecotag_root"
-    ],
-    "装本": [
-      "ecotag_root"
+      "ecotag"
     ],
     "觉效": [
       "weather"
-    ],
-    "设备型号": [
-      "ecotag_root"
     ],
     "该背": [
       "uriroute_deviceinfo"

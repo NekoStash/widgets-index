@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 38,
+  "tokenCount": 37,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -81,16 +81,10 @@
     "时也": [
       "business"
     ],
-    "时功": [
-      "ecotag_root"
-    ],
     "时钟": [
       "disordered-clock",
       "dragon_scales_clock",
       "kingxv"
-    ],
-    "池温": [
-      "ecotag_root"
     ],
     "淡出": [
       "schedule_reminder"
@@ -112,7 +106,7 @@
       "pickup"
     ],
     "示系": [
-      "ecotag_root"
+      "ecotag"
     ],
     "配澎": [
       "hyper-pick-up-code",
@@ -126,6 +120,9 @@
     ],
     "障碍": [
       "weather"
+    ],
+    "需安": [
+      "ecotag"
     ]
   }
 }

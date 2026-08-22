@@ -1,6 +1,6 @@
 {
   "shard": "19",
-  "tokenCount": 37,
+  "tokenCount": 38,
   "tokens": {
     "audio": [
       "music"
@@ -8,6 +8,9 @@
     "hyper": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "max": [
+      "ecotag"
     ],
     "uriroute_deviceinfo": [
       "uriroute_deviceinfo"
@@ -19,7 +22,7 @@
       "weather"
     ],
     "义标": [
-      "ecotag_root"
+      "ecotag"
     ],
     "也不": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -29,6 +32,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "双机型适配": [
+      "ecotag"
     ],
     "发星": [
       "weather"
@@ -51,10 +57,11 @@
     ],
     "复刻": [
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "schedule_reminder"
     ],
     "字段": [
+      "ecotag",
       "yadea_car_control"
     ],
     "完美对齐左侧摄像头安全区": [
@@ -64,13 +71,11 @@
       "business"
     ],
     "广播": [
+      "ecotag",
       "yadea_car_control"
     ],
     "录结": [
       "weather"
-    ],
-    "总容": [
-      "ecotag_root"
     ],
     "拉升": [
       "weather"
@@ -82,14 +87,14 @@
       "weather"
     ],
     "机与": [
-      "ecotag_root"
+      "ecotag"
     ],
     "标包": [
       "hyper-pick-up-code",
       "kingxv"
     ],
     "模式": [
-      "ecotag_root"
+      "ecotag"
     ],
     "现背": [
       "schedule_reminder"
@@ -110,7 +115,7 @@
       "calendar-lite"
     ],
     "能效标识": [
-      "ecotag_root"
+      "ecotag"
     ],
     "起引": [
       "calendar-lite",

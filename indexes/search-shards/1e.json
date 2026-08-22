@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 53,
+  "tokenCount": 52,
   "tokens": {
     "artist": [
       "music"
@@ -24,9 +24,6 @@
     ],
     "下素": [
       "weather"
-    ],
-    "与主": [
-      "ecotag_root"
     ],
     "个雪花粒子": [
       "weather"
@@ -99,6 +96,9 @@
     "持车": [
       "yadea_car_control"
     ],
+    "数据项": [
+      "ecotag"
+    ],
     "无法": [
       "kingxv",
       "uriroute_deviceinfo"
@@ -150,11 +150,8 @@
       "calendar-lite",
       "schedule_reminder"
     ],
-    "统资": [
-      "ecotag_root"
-    ],
     "觉风": [
-      "ecotag_root"
+      "ecotag"
     ],
     "课程": [
       "course_schedule"

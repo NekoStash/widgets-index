@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 29,
+  "tokenCount": 24,
   "tokens": {
     "一点": [
       "business"
@@ -10,14 +10,10 @@
     ],
     "使用": [
       "course_schedule",
-      "ecotag_root",
       "mishare",
       "pickup",
       "schedule_reminder",
       "uriroute_deviceinfo"
-    ],
-    "刷新间隔": [
-      "ecotag_root"
     ],
     "图标": [
       "business",
@@ -47,9 +43,12 @@
     "机型": [
       "business",
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "schedule_reminder",
       "weather"
+    ],
+    "根据电量显示": [
+      "ecotag"
     ],
     "歌词": [
       "music"
@@ -61,43 +60,27 @@
     "现有": [
       "business"
     ],
-    "电状": [
-      "ecotag_root"
-    ],
     "白与": [
       "yuzhouhangxian"
     ],
     "的内容复制到": [
       "uriroute_deviceinfo"
     ],
-    "秒缓": [
-      "ecotag_root"
-    ],
     "竖屏": [
       "kingxv"
     ],
-    "系统开机时长": [
-      "ecotag_root"
-    ],
     "结构": [
-      "ecotag_root",
+      "ecotag",
       "weather",
       "yadea_car_control"
-    ],
-    "统版": [
-      "ecotag_root"
     ],
     "背屏日历焦点版": [
       "schedule_reminder"
     ],
     "设备": [
       "business",
-      "ecotag_root",
       "uriroute_deviceinfo",
       "weather"
-    ],
-    "设备信息": [
-      "ecotag_root"
     ],
     "车控卡片": [
       "yadea_car_control"

@@ -26,6 +26,9 @@
     "动挂": [
       "weather"
     ],
+    "动适": [
+      "ecotag"
+    ],
     "升至": [
       "weather"
     ],
@@ -37,6 +40,9 @@
     ],
     "处理": [
       "calendar-lite"
+    ],
+    "宽高比判断": [
+      "ecotag"
     ],
     "尺寸": [
       "business"
@@ -65,9 +71,6 @@
     "法滥": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
-    "由选": [
-      "ecotag_root"
-    ],
     "础上": [
       "business"
     ],
@@ -83,7 +86,7 @@
     "自动": [
       "business",
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "hyper-pick-up-code",
       "schedule_reminder",
       "weather",
@@ -109,9 +112,6 @@
     ],
     "量身": [
       "weather"
-    ],
-    "集硬": [
-      "ecotag_root"
     ],
     "零帧绝杀": [
       "calendar-lite"

@@ -1,10 +1,10 @@
 {
   "shard": "36",
-  "tokenCount": 44,
+  "tokenCount": 40,
   "tokens": {
     "30": [
       "calendar-lite",
-      "ecotag_root"
+      "ecotag"
     ],
     "0fps": [
       "business"
@@ -28,17 +28,8 @@
     "件添": [
       "weather"
     ],
-    "位自": [
-      "ecotag_root"
-    ],
-    "使用百分比": [
-      "ecotag_root"
-    ],
     "前只": [
       "yadea_car_control"
-    ],
-    "占用率": [
-      "ecotag_root"
     ],
     "号的": [
       "calendar-lite"
@@ -140,9 +131,6 @@
     ],
     "防烧": [
       "calendar-lite"
-    ],
-    "需搭": [
-      "ecotag_root"
     ],
     "题引": [
       "calendar-lite"

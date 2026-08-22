@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 32,
+  "tokenCount": 30,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -24,14 +24,11 @@
       "weather"
     ],
     "与语": [
-      "ecotag_root"
+      "ecotag"
     ],
     "专属": [
       "business",
       "weather"
-    ],
-    "个显示槽位的参数编号": [
-      "ecotag_root"
     ],
     "中的": [
       "business",
@@ -41,7 +38,7 @@
       "weather"
     ],
     "修复": [
-      "ecotag_root"
+      "ecotag"
     ],
     "出发": [
       "yuzhouhangxian"
@@ -54,7 +51,7 @@
       "schedule_reminder"
     ],
     "家电": [
-      "ecotag_root"
+      "ecotag"
     ],
     "寻车": [
       "yadea_car_control"
@@ -63,11 +60,8 @@
       "schedule_reminder",
       "weather"
     ],
-    "时电": [
-      "ecotag_root"
-    ],
-    "本号": [
-      "ecotag_root"
+    "显示当前内存占用": [
+      "ecotag"
     ],
     "点版": [
       "schedule_reminder"

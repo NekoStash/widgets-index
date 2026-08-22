@@ -1,10 +1,7 @@
 {
   "shard": "11",
-  "tokenCount": 35,
+  "tokenCount": 34,
   "tokens": {
-    "600": [
-      "ecotag_root"
-    ],
     "flue": [
       "back_screen_desktop"
     ],
@@ -31,16 +28,13 @@
       "weather"
     ],
     "义副": [
-      "ecotag_root"
-    ],
-    "件参": [
-      "ecotag_root"
+      "ecotag"
     ],
     "做了": [
       "kingxv"
     ],
     "历史": [
-      "ecotag_root"
+      "ecotag"
     ],
     "参与": [
       "weather"
@@ -75,6 +69,9 @@
     "控操": [
       "yadea_car_control"
     ],
+    "显示今日步数": [
+      "ecotag"
+    ],
     "染天": [
       "weather"
     ],
@@ -100,7 +97,7 @@
       "weather"
     ],
     "藏电": [
-      "ecotag_root"
+      "ecotag"
     ],
     "计大": [
       "yuzhouhangxian"

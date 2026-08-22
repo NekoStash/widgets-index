@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 55,
+  "tokenCount": 52,
   "tokens": {
     "power": [
       "music"
@@ -49,9 +49,6 @@
     "别针": [
       "calendar-lite"
     ],
-    "参数名": [
-      "ecotag_root"
-    ],
     "参照": [
       "business"
     ],
@@ -93,6 +90,7 @@
       "disordered-clock"
     ],
     "手动": [
+      "ecotag",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
       "yadea_car_control"
@@ -106,21 +104,14 @@
     "持亮": [
       "business"
     ],
-    "数名": [
-      "ecotag_root"
-    ],
     "无缝": [
       "business",
       "weather"
     ],
-    "无额": [
-      "ecotag_root"
-    ],
     "显示系统开机时长": [
-      "ecotag_root"
+      "ecotag"
     ],
     "权限": [
-      "ecotag_root",
       "uriroute_deviceinfo"
     ],
     "标的": [
@@ -135,9 +126,6 @@
     "渡与": [
       "business"
     ],
-    "温度": [
-      "ecotag_root"
-    ],
     "片资": [
       "weather"
     ],
@@ -147,20 +135,23 @@
     "生桌": [
       "kingxv"
     ],
+    "秒循环": [
+      "ecotag"
+    ],
     "程表": [
       "course_schedule"
     ],
     "立雨": [
       "weather"
     ],
+    "级": [
+      "ecotag"
+    ],
     "置缓": [
       "uriroute_deviceinfo"
     ],
     "要微": [
       "calendar-lite"
-    ],
-    "设备剩余存储空间": [
-      "ecotag_root"
     ],
     "谨遵": [
       "schedule_reminder"
@@ -173,7 +164,8 @@
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "题包": [
-      "business"
+      "business",
+      "ecotag"
     ]
   }
 }

@@ -1,12 +1,11 @@
 {
   "shard": "2c",
-  "tokenCount": 48,
+  "tokenCount": 43,
   "tokens": {
     "album": [
       "music"
     ],
     "android": [
-      "ecotag_root",
       "schedule_reminder"
     ],
     "app": [
@@ -42,14 +41,8 @@
     "别与": [
       "business"
     ],
-    "双温度监控": [
-      "ecotag_root"
-    ],
     "古茗": [
       "business"
-    ],
-    "在变量配置中设置": [
-      "ecotag_root"
     ],
     "基准单位划为禁区": [
       "calendar-lite"
@@ -81,7 +74,7 @@
       "business"
     ],
     "换省": [
-      "ecotag_root"
+      "ecotag"
     ],
     "据展": [
       "weather"
@@ -94,9 +87,6 @@
     ],
     "无白名单": [
       "hyper-pick-up-code-reareye-xiaomi"
-    ],
-    "权限版需搭配": [
-      "ecotag_root"
     ],
     "染视": [
       "weather"
@@ -111,9 +101,6 @@
       "mishare",
       "pickup",
       "schedule_reminder"
-    ],
-    "熄屏显示": [
-      "ecotag_root"
     ],
     "目录": [
       "business",
@@ -135,7 +122,7 @@
       "calendar-lite",
       "course_schedule",
       "disordered-clock",
-      "ecotag_root",
+      "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "kingxv",
@@ -156,9 +143,6 @@
     ],
     "让你": [
       "business"
-    ],
-    "设备电流": [
-      "ecotag_root"
     ],
     "载背": [
       "business"

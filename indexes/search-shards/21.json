@@ -1,18 +1,21 @@
 {
   "shard": "21",
-  "tokenCount": 44,
+  "tokenCount": 43,
   "tokens": {
     "car": [
       "yadea_car_control"
     ],
     "v2": [
-      "ecotag_root"
+      "ecotag"
     ],
     "visible": [
       "music"
     ],
     "xiaomi-rearscreen-mishare": [
       "mishare"
+    ],
+    "主题显示名": [
+      "ecotag"
     ],
     "你的": [
       "schedule_reminder"
@@ -27,8 +30,8 @@
       "business",
       "kingxv"
     ],
-    "可采集更多硬件参数": [
-      "ecotag_root"
+    "可自定义": [
+      "ecotag"
     ],
     "在小米": [
       "course_schedule",
@@ -41,9 +44,6 @@
     "定制": [
       "business",
       "weather"
-    ],
-    "容量": [
-      "ecotag_root"
     ],
     "屏充": [
       "yuzhouhangxian"
@@ -118,7 +118,7 @@
       "calendar-lite"
     ],
     "级能": [
-      "ecotag_root"
+      "ecotag"
     ],
     "素的": [
       "yuzhouhangxian"
@@ -128,7 +128,7 @@
     ],
     "计算": [
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "schedule_reminder",
       "uriroute_deviceinfo",
       "weather"
@@ -145,13 +145,10 @@
       "schedule_reminder"
     ],
     "错误": [
-      "ecotag_root"
+      "ecotag"
     ],
     "间变": [
       "calendar-lite"
-    ],
-    "需搭配": [
-      "ecotag_root"
     ]
   }
 }

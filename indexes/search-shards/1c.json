@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 43,
+  "tokenCount": 42,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -38,11 +38,8 @@
     "力于": [
       "weather"
     ],
-    "可显示参数": [
-      "ecotag_root"
-    ],
     "可自": [
-      "ecotag_root"
+      "ecotag"
     ],
     "在息屏时实现背景与文字的平滑交叉淡入淡出": [
       "schedule_reminder"
@@ -98,7 +95,7 @@
       "uriroute_deviceinfo"
     ],
     "熄屏省电优化": [
-      "ecotag_root"
+      "ecotag"
     ],
     "版权": [
       "dragon_scales_clock"

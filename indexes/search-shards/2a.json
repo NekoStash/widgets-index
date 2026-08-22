@@ -2,9 +2,6 @@
   "shard": "2a",
   "tokenCount": 39,
   "tokens": {
-    "12": [
-      "ecotag_root"
-    ],
     "animations": [
       "music"
     ],
@@ -16,7 +13,7 @@
     ],
     "maml": [
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "schedule_reminder",
       "weather",
       "yuzhouhangxian"
@@ -36,10 +33,13 @@
       "schedule_reminder"
     ],
     "主题版": [
-      "ecotag_root"
+      "ecotag"
     ],
     "仅修": [
       "uriroute_deviceinfo"
+    ],
+    "仓库名": [
+      "ecotag"
     ],
     "体验": [
       "weather"
@@ -117,7 +117,7 @@
       "calendar-lite"
     ],
     "统开": [
-      "ecotag_root"
+      "ecotag"
     ],
     "能识": [
       "calendar-lite"

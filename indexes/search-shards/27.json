@@ -1,11 +1,11 @@
 {
   "shard": "27",
-  "tokenCount": 43,
+  "tokenCount": 46,
   "tokens": {
     "aod": [
       "business",
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "kingxv",
       "music",
       "schedule_reminder",
@@ -48,8 +48,11 @@
     "到已": [
       "business"
     ],
+    "前内": [
+      "ecotag"
+    ],
     "剩余": [
-      "ecotag_root",
+      "ecotag",
       "yadea_car_control"
     ],
     "取整": [
@@ -62,6 +65,9 @@
     ],
     "向未知的星域航行": [
       "yuzhouhangxian"
+    ],
+    "囊开": [
+      "ecotag"
     ],
     "域即": [
       "mishare",
@@ -96,7 +102,7 @@
       "uriroute_deviceinfo"
     ],
     "文件结构": [
-      "ecotag_root",
+      "ecotag",
       "yadea_car_control"
     ],
     "日落": [
@@ -119,9 +125,6 @@
       "schedule_reminder",
       "weather"
     ],
-    "电池温度": [
-      "ecotag_root"
-    ],
     "精准排版": [
       "schedule_reminder"
     ],
@@ -140,9 +143,15 @@
     "行状": [
       "yadea_car_control"
     ],
+    "装额": [
+      "ecotag"
+    ],
     "转化": [
       "mishare",
       "pickup"
+    ],
+    "过系": [
+      "ecotag"
     ],
     "返回": [
       "kingxv",

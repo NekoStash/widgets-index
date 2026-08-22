@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 31,
+  "tokenCount": 30,
   "tokens": {
     "active": [
       "music"
@@ -37,7 +37,7 @@
       "yuzhouhangxian"
     ],
     "充电": [
-      "ecotag_root",
+      "ecotag",
       "yuzhouhangxian"
     ],
     "击可": [
@@ -52,11 +52,8 @@
     "动换": [
       "schedule_reminder"
     ],
-    "参数": [
-      "ecotag_root"
-    ],
     "变量名": [
-      "ecotag_root"
+      "ecotag"
     ],
     "奖作": [
       "yuzhouhangxian"
@@ -67,15 +64,11 @@
     "常渲": [
       "weather"
     ],
-    "情况": [
-      "ecotag_root"
-    ],
     "提示": [
       "business"
     ],
     "搭配": [
-      "course_schedule",
-      "ecotag_root"
+      "course_schedule"
     ],
     "有云": [
       "weather"
@@ -97,6 +90,9 @@
     ],
     "目前代码已内置以下主流餐饮": [
       "business"
+    ],
+    "示存": [
+      "ecotag"
     ],
     "认将": [
       "calendar-lite"

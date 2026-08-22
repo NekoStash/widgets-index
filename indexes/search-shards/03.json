@@ -8,9 +8,6 @@
     "disordered-clock": [
       "disordered-clock"
     ],
-    "ecotag_root": [
-      "ecotag_root"
-    ],
     "json": [
       "yadea_car_control"
     ],
@@ -50,11 +47,14 @@
     "动识": [
       "business"
     ],
+    "双机": [
+      "ecotag"
+    ],
     "右滑返回信息卡片": [
       "yadea_car_control"
     ],
     "存储空间": [
-      "ecotag_root",
+      "ecotag",
       "uriroute_deviceinfo"
     ],
     "存时": [
@@ -97,24 +97,24 @@
       "hyper-pick-up-code"
     ],
     "电流": [
-      "ecotag_root",
+      "ecotag",
       "uriroute_deviceinfo",
       "yadea_car_control"
     ],
     "的偏左侧": [
       "calendar-lite"
     ],
-    "的参": [
-      "ecotag_root"
-    ],
     "空呼": [
       "weather"
     ],
     "类型": [
-      "ecotag_root"
+      "ecotag"
     ],
     "索更": [
       "weather"
+    ],
+    "统广": [
+      "ecotag"
     ],
     "适应": [
       "business",

@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 44,
+  "tokenCount": 45,
   "tokens": {
     "burger": [
       "business"
@@ -43,6 +43,7 @@
     ],
     "宽高": [
       "calendar-lite",
+      "ecotag",
       "schedule_reminder"
     ],
     "小于": [
@@ -61,27 +62,28 @@
       "weather"
     ],
     "手机": [
-      "business",
-      "ecotag_root"
+      "business"
     ],
     "据流": [
       "schedule_reminder"
     ],
     "控制": [
-      "ecotag_root",
       "weather"
     ],
-    "支持硬件参数采集": [
-      "ecotag_root"
-    ],
     "效标": [
-      "ecotag_root"
+      "ecotag"
+    ],
+    "无需安装额外应用": [
+      "ecotag"
     ],
     "本主": [
-      "ecotag_root"
+      "ecotag"
     ],
     "来源": [
-      "ecotag_root"
+      "ecotag"
+    ],
+    "标题文字": [
+      "ecotag"
     ],
     "清晰": [
       "schedule_reminder"
@@ -90,7 +92,10 @@
       "yuzhouhangxian"
     ],
     "电池": [
-      "ecotag_root"
+      "ecotag"
+    ],
+    "电池电量": [
+      "ecotag"
     ],
     "的嗅探逻辑": [
       "calendar-lite"
@@ -102,7 +107,7 @@
     ],
     "视觉": [
       "business",
-      "ecotag_root",
+      "ecotag",
       "schedule_reminder",
       "weather"
     ],
@@ -114,9 +119,6 @@
     ],
     "藏与": [
       "calendar-lite"
-    ],
-    "设备功率": [
-      "ecotag_root"
     ],
     "身定": [
       "weather"

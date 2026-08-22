@@ -1,9 +1,9 @@
 {
   "shard": "3f",
-  "tokenCount": 44,
+  "tokenCount": 42,
   "tokens": {
     "20": [
-      "ecotag_root"
+      "ecotag"
     ],
     "action": [
       "yadea_car_control"
@@ -12,7 +12,7 @@
       "music"
     ],
     "contentprovider": [
-      "ecotag_root"
+      "ecotag"
     ],
     "layout": [
       "music"
@@ -81,11 +81,8 @@
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "开机": [
-      "ecotag_root",
+      "ecotag",
       "yadea_car_control"
-    ],
-    "循环次数": [
-      "ecotag_root"
     ],
     "态天": [
       "weather"
@@ -96,9 +93,6 @@
     "时转": [
       "mishare",
       "pickup"
-    ],
-    "槽位": [
-      "ecotag_root"
     ],
     "比度": [
       "schedule_reminder"
@@ -124,7 +118,7 @@
     ],
     "组件": [
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",

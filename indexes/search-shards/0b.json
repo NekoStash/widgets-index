@@ -20,9 +20,6 @@
     "tastien": [
       "business"
     ],
-    "中导入": [
-      "ecotag_root"
-    ],
     "优雅地呈现在背屏上": [
       "schedule_reminder"
     ],
@@ -39,9 +36,11 @@
       "kingxv"
     ],
     "功率": [
-      "ecotag_root",
       "uriroute_deviceinfo",
       "yadea_car_control"
+    ],
+    "动显": [
+      "ecotag"
     ],
     "号星": [
       "calendar-lite"
@@ -50,7 +49,7 @@
       "schedule_reminder"
     ],
     "常亮": [
-      "ecotag_root"
+      "ecotag"
     ],
     "年及": [
       "calendar-lite"
@@ -84,16 +83,13 @@
       "weather"
     ],
     "法错": [
-      "ecotag_root"
+      "ecotag"
     ],
     "深度适配": [
       "business"
     ],
     "现了": [
       "yuzhouhangxian"
-    ],
-    "用百": [
-      "ecotag_root"
     ],
     "留白": [
       "yuzhouhangxian"
@@ -108,7 +104,7 @@
       "calendar-lite"
     ],
     "简胶": [
-      "ecotag_root"
+      "ecotag"
     ],
     "肯德": [
       "business"
@@ -128,6 +124,9 @@
     ],
     "责任": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "过小": [
+      "ecotag"
     ],
     "部图": [
       "calendar-lite"

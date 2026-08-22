@@ -29,11 +29,8 @@
     "发送": [
       "yadea_car_control"
     ],
-    "型号": [
-      "ecotag_root"
-    ],
     "外应": [
-      "ecotag_root"
+      "ecotag"
     ],
     "开后备箱": [
       "yadea_car_control"
@@ -51,8 +48,12 @@
     "播包": [
       "yadea_car_control"
     ],
+    "支持胶囊电池与充电流光动画": [
+      "ecotag"
+    ],
     "时间": [
       "calendar-lite",
+      "ecotag",
       "schedule_reminder",
       "uriroute_deviceinfo",
       "weather",
@@ -76,9 +77,6 @@
     "界面下显示深色版本": [
       "yuzhouhangxian"
     ],
-    "硬件": [
-      "ecotag_root"
-    ],
     "纯代": [
       "calendar-lite"
     ],
@@ -90,6 +88,9 @@
     ],
     "车控目前只支持开关机锁车": [
       "yadea_car_control"
+    ],
+    "题通": [
+      "ecotag"
     ]
   }
 }

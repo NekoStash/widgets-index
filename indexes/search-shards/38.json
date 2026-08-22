@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 48,
+  "tokenCount": 47,
   "tokens": {
     "assets": [
       "business",
@@ -64,13 +64,13 @@
     ],
     "变量": [
       "calendar-lite",
-      "ecotag_root"
+      "ecotag"
     ],
     "名称": [
       "hyper-pick-up-code"
     ],
     "囊电": [
-      "ecotag_root"
+      "ecotag"
     ],
     "它通": [
       "schedule_reminder"
@@ -86,9 +86,6 @@
     ],
     "控目": [
       "yadea_car_control"
-    ],
-    "数采": [
-      "ecotag_root"
     ],
     "整下": [
       "weather"
@@ -133,7 +130,7 @@
       "weather"
     ],
     "许可": [
-      "ecotag_root"
+      "ecotag"
     ],
     "该版": [
       "uriroute_deviceinfo"
@@ -154,7 +151,7 @@
       "uriroute_deviceinfo"
     ],
     "隐藏电量胶囊": [
-      "ecotag_root"
+      "ecotag"
     ]
   }
 }

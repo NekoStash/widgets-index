@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 38,
+  "tokenCount": 37,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
@@ -12,7 +12,7 @@
       "music"
     ],
     "reareye": [
-      "ecotag_root",
+      "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
@@ -30,8 +30,8 @@
       "schedule_reminder",
       "weather"
     ],
-    "个参数编号": [
-      "ecotag_root"
+    "与充": [
+      "ecotag"
     ],
     "从此刻的坐标出发": [
       "yuzhouhangxian"
@@ -51,6 +51,9 @@
     "双击可切换回桌面": [
       "kingxv"
     ],
+    "变量更新器": [
+      "ecotag"
+    ],
     "合正": [
       "weather"
     ],
@@ -61,20 +64,17 @@
       "calendar-lite"
     ],
     "开机时长": [
-      "ecotag_root"
+      "ecotag"
     ],
     "态高": [
       "schedule_reminder"
     ],
     "据来": [
-      "ecotag_root"
+      "ecotag"
     ],
     "提供": [
       "hyper-pick-up-code-reareye-xiaomi",
       "weather"
-    ],
-    "放电": [
-      "ecotag_root"
     ],
     "星空": [
       "weather"
@@ -99,9 +99,6 @@
     "码默": [
       "calendar-lite"
     ],
-    "确保已安装": [
-      "ecotag_root"
-    ],
     "程实": [
       "schedule_reminder"
     ],
@@ -109,7 +106,7 @@
       "business"
     ],
     "自动切换省电模式": [
-      "ecotag_root"
+      "ecotag"
     ],
     "调度": [
       "weather"
@@ -121,7 +118,7 @@
       "hyper-pick-up-code"
     ],
     "量自": [
-      "ecotag_root"
+      "ecotag"
     ],
     "雪天": [
       "weather"

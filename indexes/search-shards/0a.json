@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 37,
+  "tokenCount": 35,
   "tokens": {
     "art": [
       "music"
@@ -14,9 +14,6 @@
     ],
     "下的": [
       "uriroute_deviceinfo"
-    ],
-    "与功": [
-      "ecotag_root"
     ],
     "为了使": [
       "weather"
@@ -61,13 +58,11 @@
       "kingxv"
     ],
     "或通过": [
+      "ecotag",
       "yadea_car_control"
     ],
     "支持日程标题自动换行": [
       "schedule_reminder"
-    ],
-    "权限版": [
-      "ecotag_root"
     ],
     "步修": [
       "disordered-clock"
@@ -80,7 +75,7 @@
     ],
     "米背": [
       "calendar-lite",
-      "ecotag_root",
+      "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",

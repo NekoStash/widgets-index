@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 33,
+  "tokenCount": 30,
   "tokens": {
     "automatically": [
       "music"
@@ -25,7 +25,6 @@
       "weather"
     ],
     "中设": [
-      "ecotag_root",
       "uriroute_deviceinfo"
     ],
     "了使": [
@@ -42,12 +41,8 @@
     ],
     "刷新": [
       "business",
-      "ecotag_root",
       "weather",
       "yadea_car_control"
-    ],
-    "区别": [
-      "ecotag_root"
     ],
     "幅识": [
       "schedule_reminder"
@@ -68,9 +63,6 @@
     "气内": [
       "weather"
     ],
-    "池容": [
-      "ecotag_root"
-    ],
     "渲染": [
       "weather"
     ],
@@ -85,9 +77,6 @@
     ],
     "组件名称": [
       "hyper-pick-up-code"
-    ],
-    "脚本采集硬件参数": [
-      "ecotag_root"
     ],
     "茶百道": [
       "business"

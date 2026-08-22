@@ -11,9 +11,6 @@
     "yuzhouhangxian": [
       "yuzhouhangxian"
     ],
-    "个显": [
-      "ecotag_root"
-    ],
     "为微": [
       "weather"
     ],
@@ -25,7 +22,6 @@
     ],
     "信息": [
       "business",
-      "ecotag_root",
       "uriroute_deviceinfo",
       "yadea_car_control",
       "yuzhouhangxian"
@@ -52,6 +48,9 @@
     "将": [
       "pickup",
       "uriroute_deviceinfo"
+    ],
+    "屏能": [
+      "ecotag"
     ],
     "已解锁": [
       "yadea_car_control"
@@ -94,7 +93,7 @@
       "weather"
     ],
     "等级": [
-      "ecotag_root"
+      "ecotag"
     ],
     "算法": [
       "business",
@@ -105,10 +104,9 @@
       "dragon_scales_clock"
     ],
     "胶囊": [
-      "ecotag_root"
+      "ecotag"
     ],
     "资源": [
-      "ecotag_root",
       "weather"
     ],
     "过接": [
@@ -116,7 +114,6 @@
     ],
     "运行": [
       "calendar-lite",
-      "ecotag_root",
       "weather"
     ],
     "醒时": [
@@ -128,7 +125,6 @@
     "默认": [
       "business",
       "calendar-lite",
-      "ecotag_root",
       "uriroute_deviceinfo"
     ]
   }

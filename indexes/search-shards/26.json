@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 45,
+  "tokenCount": 44,
   "tokens": {
     "an": [
       "music"
@@ -44,7 +44,7 @@
       "business",
       "calendar-lite",
       "disordered-clock",
-      "ecotag_root"
+      "ecotag"
     ],
     "了系": [
       "calendar-lite"
@@ -69,9 +69,6 @@
     ],
     "加载": [
       "business"
-    ],
-    "双温": [
-      "ecotag_root"
     ],
     "同物": [
       "weather"
@@ -106,9 +103,6 @@
     "极低": [
       "business",
       "schedule_reminder"
-    ],
-    "流与": [
-      "ecotag_root"
     ],
     "湃记": [
       "hyper-pick-up-code",
@@ -145,6 +139,9 @@
     "解析": [
       "business",
       "schedule_reminder"
+    ],
+    "识主": [
+      "ecotag"
     ],
     "贡献": [
       "weather"
