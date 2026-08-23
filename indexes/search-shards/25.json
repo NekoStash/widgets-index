@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 32,
+  "tokenCount": 33,
   "tokens": {
     "lyrics": [
       "music"
@@ -40,6 +40,9 @@
     ],
     "控卡": [
       "yadea_car_control"
+    ],
+    "新版": [
+      "ecotag"
     ],
     "梦倾": [
       "ecotag"

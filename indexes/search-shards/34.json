@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -61,6 +61,9 @@
       "weather"
     ],
     "显示当前内存占用": [
+      "ecotag"
+    ],
+    "本号": [
       "ecotag"
     ],
     "点版": [

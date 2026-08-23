@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 39,
+  "tokenCount": 40,
   "tokens": {
     "current": [
       "music"
@@ -13,6 +13,9 @@
     ],
     "sync": [
       "schedule_reminder"
+    ],
+    "一卡": [
+      "ecotag"
     ],
     "一条": [
       "yadea_car_control"

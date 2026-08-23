@@ -2,6 +2,39 @@
   "id": "ecotag",
   "releases": [
     {
+      "id": 375213311,
+      "tagName": "v2.2",
+      "name": "v2.2 - 能效标识（主题版）",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-08-23T12:50:22Z",
+      "publishedAt": "2026-08-23T13:04:54Z",
+      "url": "https://github.com/wmqc97/EcoTag/releases/tag/v2.2",
+      "body": "<h2 dir=\"auto\">v2.2 更新</h2>\n<ul dir=\"auto\">\n<li>统一卡片类型为壁纸</li>\n<li>更新版本号与文档</li>\n</ul>\n<p dir=\"auto\">安装方式：在 REAREye 组件仓库安装，或下载 zip 手动导入。</p>",
+      "assets": [
+        {
+          "id": 526223178,
+          "name": "EcoTag-v2.2.zip",
+          "label": "",
+          "size": 88487,
+          "contentType": "application/zip",
+          "downloadCount": 0,
+          "createdAt": "2026-08-23T13:05:47Z",
+          "updatedAt": "2026-08-23T13:05:47Z",
+          "downloadUrl": "https://github.com/wmqc97/EcoTag/releases/download/v2.2/EcoTag-v2.2.zip"
+        }
+      ],
+      "widgetInfo": {
+        "type": "wallpaper",
+        "minVersion": 99,
+        "name": "能效标识（主题版）",
+        "business_setup": {
+          "id": "ecotag",
+          "renameable": true
+        }
+      }
+    },
+    {
       "id": 373902398,
       "tagName": "v2.1",
       "name": "能效标识 v2.1",
@@ -18,7 +51,7 @@
           "label": "",
           "size": 77966,
           "contentType": "application/zip",
-          "downloadCount": 31,
+          "downloadCount": 32,
           "createdAt": "2026-08-21T04:52:49Z",
           "updatedAt": "2026-08-21T04:52:49Z",
           "downloadUrl": "https://github.com/wmqc97/EcoTag/releases/download/v2.1/EcoTag_v2.1.zip"

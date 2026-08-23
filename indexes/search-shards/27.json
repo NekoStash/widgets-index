@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 46,
+  "tokenCount": 47,
   "tokens": {
     "aod": [
       "business",
@@ -116,6 +116,9 @@
     ],
     "浅蓝": [
       "schedule_reminder"
+    ],
+    "片类": [
+      "ecotag"
     ],
     "牌并": [
       "business"

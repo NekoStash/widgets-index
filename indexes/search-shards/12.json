@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
     "一点": [
       "business"
@@ -39,6 +39,9 @@
     "日历": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "更新版本号与文档": [
+      "ecotag"
     ],
     "机型": [
       "business",

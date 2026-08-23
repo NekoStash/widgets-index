@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 45,
+  "tokenCount": 46,
   "tokens": {
     "burger": [
       "business"
@@ -31,6 +31,9 @@
     ],
     "听逻": [
       "schedule_reminder"
+    ],
+    "型为": [
+      "ecotag"
     ],
     "字符": [
       "yadea_car_control"

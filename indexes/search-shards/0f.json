@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 37,
+  "tokenCount": 38,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -79,6 +79,9 @@
     ],
     "纯数学推演的无素材日历": [
       "calendar-lite"
+    ],
+    "统一卡片类型为壁纸": [
+      "ecotag"
     ],
     "维时": [
       "dragon_scales_clock"
