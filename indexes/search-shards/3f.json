@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 42,
+  "tokenCount": 43,
   "tokens": {
     "20": [
       "ecotag"
@@ -43,6 +43,16 @@
     ],
     "佬修": [
       "kingxv"
+    ],
+    "便士": [
+      "business",
+      "calendar-lite",
+      "course_schedule",
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
+      "music",
+      "weather",
+      "yuzhouhangxian"
     ],
     "原始": [
       "schedule_reminder"

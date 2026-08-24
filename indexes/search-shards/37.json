@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 39,
+  "tokenCount": 40,
   "tokens": {
     "extracts": [
       "music"
@@ -11,6 +11,16 @@
     "oled": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "九磅": [
+      "business",
+      "calendar-lite",
+      "course_schedule",
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
+      "music",
+      "weather",
+      "yuzhouhangxian"
     ],
     "制的": [
       "business"

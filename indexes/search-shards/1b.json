@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 34,
+  "tokenCount": 35,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -21,6 +21,16 @@
       "uriroute_deviceinfo"
     ],
     "siberiaapp": [
+      "business",
+      "calendar-lite",
+      "course_schedule",
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
+      "music",
+      "weather",
+      "yuzhouhangxian"
+    ],
+    "万便": [
       "business",
       "calendar-lite",
       "course_schedule",

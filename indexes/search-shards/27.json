@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 47,
+  "tokenCount": 48,
   "tokens": {
     "aod": [
       "business",
@@ -127,6 +127,16 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "磅九": [
+      "business",
+      "calendar-lite",
+      "course_schedule",
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
+      "music",
+      "weather",
+      "yuzhouhangxian"
     ],
     "精准排版": [
       "schedule_reminder"

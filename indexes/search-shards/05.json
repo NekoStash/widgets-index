@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 40,
+  "tokenCount": 41,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -23,6 +23,16 @@
     ],
     "主题引擎": [
       "calendar-lite"
+    ],
+    "九磅九万便士": [
+      "business",
+      "calendar-lite",
+      "course_schedule",
+      "hyper-pick-up-code",
+      "hyper-pick-up-code-reareye-xiaomi",
+      "music",
+      "weather",
+      "yuzhouhangxian"
     ],
     "了精": [
       "weather"

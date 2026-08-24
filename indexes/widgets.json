@@ -12,7 +12,7 @@
   {
     "id": "business",
     "name": "[适配Todo便签]超级背屏岛Pro",
-    "authorName": "SiberiaApp",
+    "authorName": "九磅九万便士",
     "authorId": "SiberiaApp",
     "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
     "latestReleaseTag": "Beta-0.2",
@@ -22,7 +22,7 @@
   {
     "id": "calendar-lite",
     "name": "背屏日历Lite",
-    "authorName": "SiberiaApp",
+    "authorName": "九磅九万便士",
     "authorId": "SiberiaApp",
     "description": "适用于小米背屏的日历小组件",
     "latestReleaseTag": "v2.1",
@@ -32,7 +32,7 @@
   {
     "id": "course_schedule",
     "name": "背屏课程表Pro",
-    "authorName": "SiberiaApp",
+    "authorName": "九磅九万便士",
     "authorId": "SiberiaApp",
     "description": "在小米17 Pro系列背屏上显示课程表",
     "latestReleaseTag": "v1.0",
@@ -72,7 +72,7 @@
   {
     "id": "hyper-pick-up-code",
     "name": "澎湃记-背屏组件",
-    "authorName": "SiberiaApp",
+    "authorName": "九磅九万便士",
     "authorId": "SiberiaApp",
     "description": "适配澎湃记的小米背屏组件，基于REAREye驱动",
     "latestReleaseTag": "v0.1",
@@ -82,7 +82,7 @@
   {
     "id": "hyper-pick-up-code-reareye-xiaomi",
     "name": "[焦点通知版]澎湃记-背屏组件",
-    "authorName": "SiberiaApp",
+    "authorName": "九磅九万便士",
     "authorId": "SiberiaApp",
     "description": "基于小米焦点通知,适配澎湃记的小米背屏组件,由REAREye驱动",
     "latestReleaseTag": "v1.0",
@@ -112,7 +112,7 @@
   {
     "id": "music",
     "name": "音乐歌词",
-    "authorName": "SiberiaApp",
+    "authorName": "九磅九万便士",
     "authorId": "SiberiaApp",
     "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
     "latestReleaseTag": "v2.0",
@@ -152,7 +152,7 @@
   {
     "id": "weather",
     "name": "背屏天气",
-    "authorName": "SiberiaApp",
+    "authorName": "九磅九万便士",
     "authorId": "SiberiaApp",
     "description": "适用于小米背屏系列的天气小组件。",
     "latestReleaseTag": "v2.0",
@@ -172,7 +172,7 @@
   {
     "id": "yuzhouhangxian",
     "name": "宇宙航线：REAREye独家",
-    "authorName": "SiberiaApp",
+    "authorName": "九磅九万便士",
     "authorId": "SiberiaApp",
     "description": "宇宙航线：REAREye独家",
     "latestReleaseTag": "v1.0",
