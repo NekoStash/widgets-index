@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "ecotag",
+      "name": "能效标识（主题版）",
+      "description": "小米背屏能效标识主题 v2.1 — 复刻家电能效标签风格，根据电量显示1~5级能效等级，展示存储/内存/开机时长/步数，支持胶囊电池与充电流光动画",
+      "author": {
+        "login": "wmqc97",
+        "name": "唯梦倾城",
+        "url": "https://github.com/wmqc97",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-08-29T19:17:39.000Z",
+      "repository": {
+        "fullName": "wmqc97/EcoTag",
+        "url": "https://github.com/wmqc97/EcoTag"
+      }
+    },
+    {
       "id": "yadea_car_control",
       "name": "雅迪车控",
       "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
@@ -18,23 +35,6 @@
       "repository": {
         "fullName": "ghhccghk/Yadea_SubSceen_Card",
         "url": "https://github.com/ghhccghk/Yadea_SubSceen_Card"
-      }
-    },
-    {
-      "id": "ecotag",
-      "name": "能效标识（主题版）",
-      "description": "小米背屏能效标识主题 v2.1 — 复刻家电能效标签风格，根据电量显示1~5级能效等级，展示存储/内存/开机时长/步数，支持胶囊电池与充电流光动画",
-      "author": {
-        "login": "wmqc97",
-        "name": "唯梦倾城",
-        "url": "https://github.com/wmqc97",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/72316873?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-08-23T13:04:54.000Z",
-      "repository": {
-        "fullName": "wmqc97/EcoTag",
-        "url": "https://github.com/wmqc97/EcoTag"
       }
     },
     {

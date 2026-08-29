@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 40,
+  "tokenCount": 38,
   "tokens": {
     "extracts": [
       "music"
@@ -85,9 +85,6 @@
     "有秩": [
       "yuzhouhangxian"
     ],
-    "本历": [
-      "ecotag"
-    ],
     "极省": [
       "calendar-lite"
     ],
@@ -110,9 +107,6 @@
       "music",
       "schedule_reminder",
       "weather"
-    ],
-    "系统广播": [
-      "ecotag"
     ],
     "系统级日程同步": [
       "schedule_reminder"

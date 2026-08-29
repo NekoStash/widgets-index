@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 28,
+  "tokenCount": 26,
   "tokens": {
     "check": [
       "music"
@@ -29,9 +29,6 @@
     "发送": [
       "yadea_car_control"
     ],
-    "外应": [
-      "ecotag"
-    ],
     "开后备箱": [
       "yadea_car_control"
     ],
@@ -53,7 +50,6 @@
     ],
     "时间": [
       "calendar-lite",
-      "ecotag",
       "schedule_reminder",
       "uriroute_deviceinfo",
       "weather",
@@ -88,9 +84,6 @@
     ],
     "车控目前只支持开关机锁车": [
       "yadea_car_control"
-    ],
-    "题通": [
-      "ecotag"
     ]
   }
 }

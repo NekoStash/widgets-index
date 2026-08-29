@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 33,
+  "tokenCount": 32,
   "tokens": {
     "bug": [
       "weather"
@@ -25,9 +25,6 @@
     ],
     "侧滑": [
       "kingxv"
-    ],
-    "健康": [
-      "ecotag"
     ],
     "全局": [
       "calendar-lite",

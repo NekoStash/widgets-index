@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 39,
+  "tokenCount": 37,
   "tokens": {
     "30s": [
       "uriroute_deviceinfo"
@@ -81,9 +81,6 @@
     "搭载": [
       "business"
     ],
-    "文档": [
-      "ecotag"
-    ],
     "日步": [
       "ecotag"
     ],
@@ -104,9 +101,6 @@
     ],
     "算当": [
       "calendar-lite"
-    ],
-    "精简胶囊代码": [
-      "ecotag"
     ],
     "系统": [
       "business",

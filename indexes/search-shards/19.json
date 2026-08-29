@@ -1,6 +1,6 @@
 {
   "shard": "19",
-  "tokenCount": 38,
+  "tokenCount": 37,
   "tokens": {
     "audio": [
       "music"
@@ -61,7 +61,6 @@
       "schedule_reminder"
     ],
     "字段": [
-      "ecotag",
       "yadea_car_control"
     ],
     "完美对齐左侧摄像头安全区": [
@@ -71,7 +70,6 @@
       "business"
     ],
     "广播": [
-      "ecotag",
       "yadea_car_control"
     ],
     "录结": [
@@ -85,9 +83,6 @@
     ],
     "时自": [
       "weather"
-    ],
-    "机与": [
-      "ecotag"
     ],
     "标包": [
       "hyper-pick-up-code",

@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 39,
+  "tokenCount": 38,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -14,9 +14,6 @@
     ],
     "or": [
       "music"
-    ],
-    "为壁": [
-      "ecotag"
     ],
     "为禁": [
       "calendar-lite"

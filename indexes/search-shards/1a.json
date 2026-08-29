@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 40,
+  "tokenCount": 38,
   "tokens": {
     "current": [
       "music"
@@ -13,9 +13,6 @@
     ],
     "sync": [
       "schedule_reminder"
-    ],
-    "一卡": [
-      "ecotag"
     ],
     "一条": [
       "yadea_car_control"
@@ -44,9 +41,6 @@
     ],
     "参与贡献": [
       "weather"
-    ],
-    "囊代": [
-      "ecotag"
     ],
     "复刻家电能效标签风格": [
       "ecotag"

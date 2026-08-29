@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 35,
+  "tokenCount": 34,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -66,9 +66,6 @@
     "化到": [
       "mishare",
       "pickup"
-    ],
-    "取数": [
-      "ecotag"
     ],
     "可切": [
       "kingxv"

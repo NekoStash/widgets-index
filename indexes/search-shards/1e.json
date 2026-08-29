@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 52,
+  "tokenCount": 51,
   "tokens": {
     "artist": [
       "music"
@@ -95,9 +95,6 @@
     ],
     "持车": [
       "yadea_car_control"
-    ],
-    "数据项": [
-      "ecotag"
     ],
     "无法": [
       "kingxv",

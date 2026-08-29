@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 33,
+  "tokenCount": 32,
   "tokens": {
     "80": [
       "ecotag"
@@ -64,9 +64,6 @@
     ],
     "爷爷不泡茶": [
       "business"
-    ],
-    "版本历史": [
-      "ecotag"
     ],
     "用无": [
       "hyper-pick-up-code-reareye-xiaomi"

@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 47,
+  "tokenCount": 44,
   "tokens": {
     "15": [
       "weather"
@@ -82,9 +82,6 @@
     "根据系统日出日落时间": [
       "weather"
     ],
-    "法错": [
-      "ecotag"
-    ],
     "深度适配": [
       "business"
     ],
@@ -102,9 +99,6 @@
     ],
     "移至": [
       "calendar-lite"
-    ],
-    "简胶": [
-      "ecotag"
     ],
     "肯德": [
       "business"
@@ -124,9 +118,6 @@
     ],
     "责任": [
       "hyper-pick-up-code-reareye-xiaomi"
-    ],
-    "过小": [
-      "ecotag"
     ],
     "部图": [
       "calendar-lite"

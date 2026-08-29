@@ -1,6 +1,6 @@
 {
   "shard": "17",
-  "tokenCount": 29,
+  "tokenCount": 28,
   "tokens": {
     "controls": [
       "music"
@@ -84,9 +84,6 @@
     "行了": [
       "calendar-lite",
       "disordered-clock"
-    ],
-    "语法": [
-      "ecotag"
     ],
     "说明": [
       "business",

@@ -1,6 +1,6 @@
 {
   "shard": "28",
-  "tokenCount": 26,
+  "tokenCount": 24,
   "tokens": {
     "ghhccghk": [
       "yadea_car_control"
@@ -22,9 +22,6 @@
     ],
     "发的": [
       "weather"
-    ],
-    "号与": [
-      "ecotag"
     ],
     "唯梦": [
       "ecotag"
@@ -79,9 +76,6 @@
     ],
     "进行了等比缩放与安全区避让适配": [
       "calendar-lite"
-    ],
-    "通过小米健康": [
-      "ecotag"
     ]
   }
 }

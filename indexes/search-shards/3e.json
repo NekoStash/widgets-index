@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 36,
+  "tokenCount": 35,
   "tokens": {
     "about": [
       "music"
@@ -108,9 +108,6 @@
       "weather",
       "yadea_car_control",
       "yuzhouhangxian"
-    ],
-    "量更": [
-      "ecotag"
     ],
     "面可": [
       "back_screen_desktop"

@@ -1,6 +1,6 @@
 {
   "shard": "21",
-  "tokenCount": 43,
+  "tokenCount": 42,
   "tokens": {
     "car": [
       "yadea_car_control"
@@ -143,9 +143,6 @@
     ],
     "造的": [
       "schedule_reminder"
-    ],
-    "错误": [
-      "ecotag"
     ],
     "间变": [
       "calendar-lite"

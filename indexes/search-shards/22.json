@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 37,
+  "tokenCount": 36,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -20,7 +20,6 @@
       "kingxv"
     ],
     "与文": [
-      "ecotag",
       "schedule_reminder"
     ],
     "中修": [
@@ -121,9 +120,6 @@
     ],
     "障碍": [
       "weather"
-    ],
-    "需安": [
-      "ecotag"
     ]
   }
 }

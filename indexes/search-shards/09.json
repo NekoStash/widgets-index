@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 36,
+  "tokenCount": 35,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -42,9 +42,6 @@
     ],
     "动判": [
       "calendar-lite"
-    ],
-    "同存": [
-      "ecotag"
     ],
     "后彻底挂起引擎": [
       "schedule_reminder"

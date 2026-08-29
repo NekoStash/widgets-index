@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 37,
+  "tokenCount": 36,
   "tokens": {
     "built": [
       "music"
@@ -90,9 +90,6 @@
     ],
     "知品": [
       "business"
-    ],
-    "精简": [
-      "ecotag"
     ],
     "自定义标题": [
       "ecotag"

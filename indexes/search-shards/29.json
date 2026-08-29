@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 49,
+  "tokenCount": 48,
   "tokens": {
     "experience": [
       "music"
@@ -35,7 +35,6 @@
     "代码": [
       "business",
       "calendar-lite",
-      "ecotag",
       "schedule_reminder"
     ],
     "会回": [
@@ -57,9 +56,6 @@
     ],
     "区显": [
       "calendar-lite"
-    ],
-    "取": [
-      "ecotag"
     ],
     "右滑": [
       "yadea_car_control"
@@ -104,7 +100,6 @@
       "weather"
     ],
     "更新": [
-      "ecotag",
       "yadea_car_control"
     ],
     "月背屏创意设计大赛获奖作品": [

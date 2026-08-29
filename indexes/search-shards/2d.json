@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 40,
+  "tokenCount": 38,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -64,9 +64,6 @@
     "层铺": [
       "calendar-lite"
     ],
-    "屏省": [
-      "ecotag"
-    ],
     "属图": [
       "business"
     ],
@@ -75,9 +72,6 @@
     ],
     "息卡": [
       "yadea_car_control"
-    ],
-    "无需": [
-      "ecotag"
     ],
     "有进": [
       "mishare"

@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 42,
+  "tokenCount": 41,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -45,8 +45,7 @@
       "schedule_reminder"
     ],
     "壁纸": [
-      "dragon_scales_clock",
-      "ecotag"
+      "dragon_scales_clock"
     ],
     "天数": [
       "calendar-lite"
@@ -94,9 +93,6 @@
     ],
     "流相": [
       "uriroute_deviceinfo"
-    ],
-    "熄屏省电优化": [
-      "ecotag"
     ],
     "版权": [
       "dragon_scales_clock"

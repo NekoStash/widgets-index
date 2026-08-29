@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 48,
+  "tokenCount": 45,
   "tokens": {
     "aod": [
       "business",
@@ -102,7 +102,6 @@
       "uriroute_deviceinfo"
     ],
     "文件结构": [
-      "ecotag",
       "yadea_car_control"
     ],
     "日落": [
@@ -116,9 +115,6 @@
     ],
     "浅蓝": [
       "schedule_reminder"
-    ],
-    "片类": [
-      "ecotag"
     ],
     "牌并": [
       "business"
@@ -156,15 +152,9 @@
     "行状": [
       "yadea_car_control"
     ],
-    "装额": [
-      "ecotag"
-    ],
     "转化": [
       "mishare",
       "pickup"
-    ],
-    "过系": [
-      "ecotag"
     ],
     "返回": [
       "kingxv",

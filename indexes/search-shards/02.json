@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 34,
+  "tokenCount": 33,
   "tokens": {
     "skip": [
       "music"
@@ -50,9 +50,6 @@
     ],
     "已解": [
       "yadea_car_control"
-    ],
-    "态机": [
-      "ecotag"
     ],
     "播后": [
       "yadea_car_control"

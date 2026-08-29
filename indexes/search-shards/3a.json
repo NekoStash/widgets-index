@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 47,
+  "tokenCount": 45,
   "tokens": {
     "ecotag": [
       "ecotag"
@@ -127,9 +127,6 @@
     "腻的": [
       "weather"
     ],
-    "获取数据": [
-      "ecotag"
-    ],
     "落时": [
       "weather"
     ],
@@ -154,9 +151,6 @@
     ],
     "面主": [
       "disordered-clock"
-    ],
-    "额外": [
-      "ecotag"
     ],
     "高对": [
       "schedule_reminder"

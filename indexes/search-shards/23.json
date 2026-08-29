@@ -42,7 +42,6 @@
     ],
     "优化": [
       "business",
-      "ecotag",
       "uriroute_deviceinfo",
       "weather"
     ],

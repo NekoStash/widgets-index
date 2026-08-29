@@ -68,7 +68,6 @@
     ],
     "数据": [
       "business",
-      "ecotag",
       "schedule_reminder",
       "weather",
       "yadea_car_control"

@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 43,
+  "tokenCount": 42,
   "tokens": {
     "20": [
       "ecotag"
@@ -10,9 +10,6 @@
     ],
     "capabilities": [
       "music"
-    ],
-    "contentprovider": [
-      "ecotag"
     ],
     "layout": [
       "music"

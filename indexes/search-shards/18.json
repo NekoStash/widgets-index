@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 54,
+  "tokenCount": 52,
   "tokens": {
     "120hz": [
       "weather"
@@ -95,9 +95,6 @@
     "持的": [
       "business"
     ],
-    "据项": [
-      "ecotag"
-    ],
     "是竖": [
       "kingxv"
     ],
@@ -123,7 +120,6 @@
     ],
     "状态": [
       "business",
-      "ecotag",
       "weather",
       "yadea_car_control"
     ],
@@ -137,9 +133,6 @@
     ],
     "用生": [
       "weather"
-    ],
-    "电优": [
-      "ecotag"
     ],
     "目标包名": [
       "hyper-pick-up-code"

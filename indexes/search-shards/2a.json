@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 40,
+  "tokenCount": 39,
   "tokens": {
     "animations": [
       "music"
@@ -115,9 +115,6 @@
     ],
     "纯数": [
       "calendar-lite"
-    ],
-    "统一": [
-      "ecotag"
     ],
     "统开": [
       "ecotag"

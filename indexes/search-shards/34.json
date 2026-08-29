@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 31,
+  "tokenCount": 28,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -23,9 +23,6 @@
       "schedule_reminder",
       "weather"
     ],
-    "与语": [
-      "ecotag"
-    ],
     "专属": [
       "business",
       "weather"
@@ -36,9 +33,6 @@
     ],
     "供了": [
       "weather"
-    ],
-    "修复": [
-      "ecotag"
     ],
     "出发": [
       "yuzhouhangxian"
@@ -61,9 +55,6 @@
       "weather"
     ],
     "显示当前内存占用": [
-      "ecotag"
-    ],
-    "本号": [
       "ecotag"
     ],
     "点版": [

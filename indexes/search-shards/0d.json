@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 44,
+  "tokenCount": 43,
   "tokens": {
     "are": [
       "music"
@@ -37,9 +37,6 @@
     ],
     "可见": [
       "schedule_reminder"
-    ],
-    "同存储空间": [
-      "ecotag"
     ],
     "备特": [
       "calendar-lite"

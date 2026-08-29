@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 37,
+  "tokenCount": 36,
   "tokens": {
     "breathable": [
       "schedule_reminder"
@@ -112,9 +112,6 @@
     ],
     "索更": [
       "weather"
-    ],
-    "统广": [
-      "ecotag"
     ],
     "适应": [
       "business",

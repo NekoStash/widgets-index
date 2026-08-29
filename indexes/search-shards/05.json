@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 41,
+  "tokenCount": 39,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -78,13 +78,7 @@
     "探索": [
       "weather"
     ],
-    "新器": [
-      "ecotag"
-    ],
     "显示剩余存储空间": [
-      "ecotag"
-    ],
-    "本主题通过系统": [
       "ecotag"
     ],
     "本模块通过接管底层焦点通知": [

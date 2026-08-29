@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 46,
+  "tokenCount": 41,
   "tokens": {
     "burger": [
       "business"
@@ -31,9 +31,6 @@
     ],
     "听逻": [
       "schedule_reminder"
-    ],
-    "型为": [
-      "ecotag"
     ],
     "字符": [
       "yadea_car_control"
@@ -76,15 +73,6 @@
     "效标": [
       "ecotag"
     ],
-    "无需安装额外应用": [
-      "ecotag"
-    ],
-    "本主": [
-      "ecotag"
-    ],
-    "来源": [
-      "ecotag"
-    ],
     "标题文字": [
       "ecotag"
     ],
@@ -95,9 +83,6 @@
       "yuzhouhangxian"
     ],
     "电池": [
-      "ecotag"
-    ],
-    "电池电量": [
       "ecotag"
     ],
     "的嗅探逻辑": [
