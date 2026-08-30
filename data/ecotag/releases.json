@@ -13,14 +13,14 @@
       "body": "<h2 dir=\"auto\">v2.3 更新</h2>\n<ul dir=\"auto\">\n<li>修复内存扩展开启后内存占用显示负数</li>\n<li>主题信息迁移至 description.xml</li>\n</ul>\n<p dir=\"auto\">复刻家电能效标签视觉风格，根据电池电量自动显示能效等级。</p>",
       "assets": [
         {
-          "id": 535930269,
+          "id": 536533603,
           "name": "EcoTag-v2.3.zip",
           "label": "",
-          "size": 72761,
+          "size": 81856,
           "contentType": "application/zip",
-          "downloadCount": 16,
-          "createdAt": "2026-08-30T00:28:10Z",
-          "updatedAt": "2026-08-30T00:28:10Z",
+          "downloadCount": 5,
+          "createdAt": "2026-08-30T11:30:32Z",
+          "updatedAt": "2026-08-30T11:30:32Z",
           "downloadUrl": "https://github.com/wmqc97/EcoTag/releases/download/v2.3/EcoTag-v2.3.zip"
         }
       ],
