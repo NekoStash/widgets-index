@@ -8,7 +8,7 @@
       "isDraft": false,
       "isPrerelease": false,
       "createdAt": "2026-08-30T00:35:00Z",
-      "publishedAt": "2026-08-29T19:17:39Z",
+      "publishedAt": "2026-08-31T14:33:47Z",
       "url": "https://github.com/wmqc97/EcoTag/releases/tag/v2.3",
       "body": "<h2 dir=\"auto\">v2.3 更新</h2>\n<ul dir=\"auto\">\n<li>修复内存扩展开启后内存占用显示负数</li>\n<li>主题信息迁移至 description.xml</li>\n</ul>\n<p dir=\"auto\">复刻家电能效标签视觉风格，根据电池电量自动显示能效等级。</p>",
       "assets": [
@@ -18,7 +18,7 @@
           "label": "",
           "size": 81856,
           "contentType": "application/zip",
-          "downloadCount": 7,
+          "downloadCount": 15,
           "createdAt": "2026-08-30T11:30:32Z",
           "updatedAt": "2026-08-30T11:30:32Z",
           "downloadUrl": "https://github.com/wmqc97/EcoTag/releases/download/v2.3/EcoTag-v2.3.zip"
@@ -36,19 +36,19 @@
       "isDraft": false,
       "isPrerelease": false,
       "createdAt": "2026-08-29T19:10:50Z",
-      "publishedAt": "2026-08-23T13:04:54Z",
+      "publishedAt": "2026-08-31T14:11:41Z",
       "url": "https://github.com/wmqc97/EcoTag/releases/tag/v2.2",
       "body": "<h2 dir=\"auto\">v2.2 更新</h2>\n<ul dir=\"auto\">\n<li>统一卡片类型为壁纸</li>\n<li>更新版本号与文档</li>\n</ul>\n<p dir=\"auto\">安装方式：在 REAREye 组件仓库安装，或下载 zip 手动导入。</p>",
       "assets": [
         {
-          "id": 535618354,
+          "id": 538068966,
           "name": "EcoTag-v2.2.zip",
           "label": "",
-          "size": 72960,
-          "contentType": "multipart/form-data; boundary=d20074a2-3a7c-480d-8ad6-3e6ac4297665",
-          "downloadCount": 3,
-          "createdAt": "2026-08-29T19:13:02Z",
-          "updatedAt": "2026-08-29T19:13:03Z",
+          "size": 81816,
+          "contentType": "application/zip",
+          "downloadCount": 2,
+          "createdAt": "2026-08-31T14:01:54Z",
+          "updatedAt": "2026-08-31T14:01:55Z",
           "downloadUrl": "https://github.com/wmqc97/EcoTag/releases/download/v2.2/EcoTag-v2.2.zip"
         }
       ],
@@ -74,7 +74,7 @@
           "label": "",
           "size": 77966,
           "contentType": "application/zip",
-          "downloadCount": 41,
+          "downloadCount": 43,
           "createdAt": "2026-08-21T04:52:49Z",
           "updatedAt": "2026-08-21T04:52:49Z",
           "downloadUrl": "https://github.com/wmqc97/EcoTag/releases/download/v2.1/EcoTag_v2.1.zip"
