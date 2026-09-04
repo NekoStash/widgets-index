@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 29,
+  "tokenCount": 27,
   "tokens": {
     "always": [
       "music"
@@ -16,9 +16,6 @@
     ],
     "光动": [
       "ecotag"
-    ],
-    "关于": [
-      "mishare"
     ],
     "动岛": [
       "business"
@@ -40,12 +37,8 @@
       "schedule_reminder"
     ],
     "导入项目压缩包": [
-      "mishare",
       "pickup",
       "schedule_reminder"
-    ],
-    "度展": [
-      "mishare"
     ],
     "德基": [
       "business"

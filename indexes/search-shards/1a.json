@@ -1,15 +1,12 @@
 {
   "shard": "1a",
-  "tokenCount": 38,
+  "tokenCount": 37,
   "tokens": {
     "current": [
       "music"
     ],
     "logo": [
       "business"
-    ],
-    "mishare": [
-      "mishare"
     ],
     "sync": [
       "schedule_reminder"

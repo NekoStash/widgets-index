@@ -18,14 +18,12 @@
       "business",
       "calendar-lite",
       "course_schedule",
-      "mishare",
       "music",
       "pickup",
       "schedule_reminder",
       "weather"
     ],
     "之后重启作用域即可": [
-      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -98,7 +96,6 @@
       "weather"
     ],
     "时转": [
-      "mishare",
       "pickup"
     ],
     "比度": [
@@ -108,8 +105,7 @@
       "weather"
     ],
     "没有": [
-      "calendar-lite",
-      "mishare"
+      "calendar-lite"
     ],
     "白名": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -128,7 +124,6 @@
       "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
-      "mishare",
       "pickup",
       "schedule_reminder",
       "weather",

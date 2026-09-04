@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 42,
+  "tokenCount": 41,
   "tokens": {
     "210": [
       "weather"
@@ -50,7 +50,6 @@
       "schedule_reminder"
     ],
     "后重": [
-      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -107,14 +106,10 @@
       "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
-      "mishare",
       "pickup"
     ],
     "的随": [
       "weather"
-    ],
-    "目前没有进度展示": [
-      "mishare"
     ],
     "示深": [
       "yuzhouhangxian"
@@ -129,8 +124,7 @@
       "weather"
     ],
     "进度": [
-      "business",
-      "mishare"
+      "business"
     ],
     "适配焦点通知": [
       "hyper-pick-up-code-reareye-xiaomi"

@@ -25,7 +25,6 @@
     ],
     "下载": [
       "hyper-pick-up-code",
-      "mishare",
       "pickup",
       "schedule_reminder",
       "uriroute_deviceinfo"
@@ -104,7 +103,6 @@
     ],
     "重启": [
       "hyper-pick-up-code",
-      "mishare",
       "pickup",
       "schedule_reminder"
     ],

@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 31,
+  "tokenCount": 30,
   "tokens": {
     "lyrics": [
       "music"
@@ -71,9 +71,6 @@
     "而富": [
       "yuzhouhangxian"
     ],
-    "背屏通知": [
-      "mishare"
-    ],
     "自定": [
       "calendar-lite",
       "ecotag"
@@ -90,7 +87,6 @@
     "超级": [
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
-      "mishare",
       "pickup"
     ],
     "避让": [

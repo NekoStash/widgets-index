@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 38,
+  "tokenCount": 36,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -10,9 +10,6 @@
     ],
     "下载地址": [
       "uriroute_deviceinfo"
-    ],
-    "不会写": [
-      "mishare"
     ],
     "中文": [
       "music"
@@ -72,9 +69,6 @@
     ],
     "息卡": [
       "yadea_car_control"
-    ],
-    "有进": [
-      "mishare"
     ],
     "机倒": [
       "business"

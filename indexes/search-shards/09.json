@@ -30,7 +30,6 @@
       "schedule_reminder"
     ],
     "作用": [
-      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -54,7 +53,6 @@
     ],
     "填写": [
       "hyper-pick-up-code",
-      "mishare",
       "pickup",
       "schedule_reminder"
     ],

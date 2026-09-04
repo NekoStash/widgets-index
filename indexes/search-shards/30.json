@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 38,
+  "tokenCount": 37,
   "tokens": {
     "equipped": [
       "music"
@@ -97,9 +97,6 @@
     ],
     "监听": [
       "schedule_reminder"
-    ],
-    "米互": [
-      "mishare"
     ],
     "背屏使用的是通用模块": [
       "uriroute_deviceinfo"
