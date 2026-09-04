@@ -24,6 +24,7 @@
     "于小": [
       "calendar-lite",
       "hyper-pick-up-code-reareye-xiaomi",
+      "mishare",
       "music",
       "schedule_reminder",
       "weather"
@@ -66,6 +67,7 @@
     "导入": [
       "ecotag",
       "hyper-pick-up-code",
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],

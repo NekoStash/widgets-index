@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 36,
+  "tokenCount": 37,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -10,6 +10,9 @@
     ],
     "云天": [
       "weather"
+    ],
+    "互传": [
+      "mishare"
     ],
     "任意": [
       "hyper-pick-up-code"

@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 42,
+  "tokenCount": 43,
   "tokens": {
     "album": [
       "music"
@@ -31,6 +31,7 @@
       "uriroute_deviceinfo"
     ],
     "使用方法": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -56,6 +57,9 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "屏通": [
+      "mishare"
     ],
     "度白": [
       "schedule_reminder"
@@ -94,6 +98,7 @@
       "back_screen_desktop"
     ],
     "激活": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],
@@ -121,6 +126,7 @@
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "kingxv",
+      "mishare",
       "music",
       "pickup",
       "schedule_reminder",

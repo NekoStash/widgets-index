@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 17,
+  "componentCount": 18,
   "components": {
     "back_screen_desktop": {
       "id": "back_screen_desktop",
@@ -120,6 +120,18 @@
         "name": "w15wangyaowu-coder",
         "url": "https://github.com/w15wangyaowu-coder",
         "avatarUrl": "https://avatars.githubusercontent.com/u/229916231?v=4",
+        "type": "User"
+      }
+    },
+    "mishare": {
+      "id": "mishare",
+      "name": "Mishare背屏通知",
+      "description": "小米互传超级岛同时转化到小米背屏的小组件",
+      "author": {
+        "login": "juzipaome",
+        "name": "JUZI",
+        "url": "https://github.com/juzipaome",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100737137?v=4",
         "type": "User"
       }
     },

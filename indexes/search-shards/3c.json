@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 34,
+  "tokenCount": 35,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
@@ -15,6 +15,7 @@
       "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
+      "mishare",
       "pickup",
       "schedule_reminder",
       "uriroute_deviceinfo",
@@ -34,6 +35,9 @@
     ],
     "从此刻的坐标出发": [
       "yuzhouhangxian"
+    ],
+    "会写": [
+      "mishare"
     ],
     "低待": [
       "schedule_reminder"
@@ -76,6 +80,7 @@
       "business"
     ],
     "活后": [
+      "mishare",
       "pickup",
       "schedule_reminder"
     ],
