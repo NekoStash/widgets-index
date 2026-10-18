@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "business",
+      "name": "[适配Todo便签]超级背屏岛Pro",
+      "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "九磅九万便士",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-10-18T05:23:39.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Super-RearScreen-Island-Todo",
+        "url": "https://github.com/SiberiaApp/Super-RearScreen-Island-Todo"
+      }
+    },
+    {
       "id": "uriroute_deviceinfo",
       "name": "设备资讯",
       "description": "基于REAREye、UriRoute驱动的设备资讯模块",
@@ -290,23 +307,6 @@
       "repository": {
         "fullName": "SiberiaApp/Xiaomi-RearScreen-Weather",
         "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather"
-      }
-    },
-    {
-      "id": "business",
-      "name": "[适配Todo便签]超级背屏岛Pro",
-      "description": "[适配Todo便签]超级背屏岛Pro：可以在背屏显示超级岛内容的背屏主题",
-      "author": {
-        "login": "SiberiaApp",
-        "name": "九磅九万便士",
-        "url": "https://github.com/SiberiaApp",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-04-14T09:02:14.000Z",
-      "repository": {
-        "fullName": "SiberiaApp/Super-RearScreen-Island-Todo",
-        "url": "https://github.com/SiberiaApp/Super-RearScreen-Island-Todo"
       }
     }
   ]
