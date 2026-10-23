@@ -1,0 +1,12 @@
+{
+  "id": "app_widget",
+  "readme": {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "19aff977ff19524b0a5aec767664ec59802dd6b9",
+    "size": 233,
+    "htmlUrl": "https://github.com/NekoStash/REAREye-App-Widget/blob/main/README.md",
+    "downloadUrl": "https://raw.githubusercontent.com/NekoStash/REAREye-App-Widget/main/README.md",
+    "content": "<h1 dir=\"auto\">REAREye 安卓小部件</h1>\n<ul dir=\"auto\">\n<li>该版本需要你使用REAREye 2.x 且在R228以上</li>\n<li>安装后并不会自动添加卡片/应用卡</li>\n<li>需要您手动按需添加 每个卡片和应用卡都是独立的 可以承载不同的小部件</li>\n</ul>"
+  }
+}

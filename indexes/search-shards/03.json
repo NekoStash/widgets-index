@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 36,
+  "tokenCount": 37,
   "tokens": {
     "breathable": [
       "schedule_reminder"
@@ -46,6 +46,9 @@
     ],
     "动识": [
       "business"
+    ],
+    "卡都": [
+      "app_widget"
     ],
     "双机": [
       "ecotag"

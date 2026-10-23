@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 39,
+  "tokenCount": 40,
   "tokens": {
     "animations": [
       "music"
@@ -121,6 +121,9 @@
     ],
     "能识": [
       "calendar-lite"
+    ],
+    "该版本需要你使用": [
+      "app_widget"
     ],
     "轨迹": [
       "weather"

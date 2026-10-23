@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 38,
+  "tokenCount": 40,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -36,6 +36,9 @@
     ],
     "刻家": [
       "ecotag"
+    ],
+    "动添": [
+      "app_widget"
     ],
     "动画": [
       "business",
@@ -104,6 +107,9 @@
     ],
     "能效等级": [
       "ecotag"
+    ],
+    "要你": [
+      "app_widget"
     ],
     "觉效": [
       "weather"

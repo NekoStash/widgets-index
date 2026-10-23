@@ -4,6 +4,40 @@
   "limit": 20,
   "items": [
     {
+      "id": "app_widget",
+      "name": "安卓小部件",
+      "description": null,
+      "author": {
+        "login": "NekoStash",
+        "name": "NekoStash",
+        "url": "https://github.com/NekoStash",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/272507167?v=4",
+        "type": "Organization"
+      },
+      "updatedAt": "2026-10-23T14:58:31.000Z",
+      "repository": {
+        "fullName": "NekoStash/REAREye-App-Widget",
+        "url": "https://github.com/NekoStash/REAREye-App-Widget"
+      }
+    },
+    {
+      "id": "music",
+      "name": "音乐歌词",
+      "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
+      "author": {
+        "login": "SiberiaApp",
+        "name": "九磅九万便士",
+        "url": "https://github.com/SiberiaApp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-10-22T02:56:34.000Z",
+      "repository": {
+        "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",
+        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music"
+      }
+    },
+    {
       "id": "yadea_car_control",
       "name": "雅迪车控",
       "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
@@ -52,23 +86,6 @@
       "repository": {
         "fullName": "Jawiiki/Deviceinfo-REAREye",
         "url": "https://github.com/Jawiiki/Deviceinfo-REAREye"
-      }
-    },
-    {
-      "id": "music",
-      "name": "音乐歌词",
-      "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
-      "author": {
-        "login": "SiberiaApp",
-        "name": "九磅九万便士",
-        "url": "https://github.com/SiberiaApp",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-09-29T11:26:58.000Z",
-      "repository": {
-        "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",
-        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music"
       }
     },
     {

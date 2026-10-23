@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 38,
+  "tokenCount": 39,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -47,6 +47,9 @@
     ],
     "同比": [
       "business"
+    ],
+    "和应": [
+      "app_widget"
     ],
     "在动": [
       "calendar-lite",

@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 40,
+  "tokenCount": 42,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -52,6 +52,9 @@
     "塔斯汀": [
       "business"
     ],
+    "安卓小部件": [
+      "app_widget"
+    ],
     "定义": [
       "calendar-lite",
       "ecotag"
@@ -69,6 +72,9 @@
     "帧挂": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "并不": [
+      "app_widget"
     ],
     "打车": [
       "business"

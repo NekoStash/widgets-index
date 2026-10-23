@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 40,
+  "tokenCount": 41,
   "tokens": {
     "30": [
       "calendar-lite",
@@ -70,6 +70,9 @@
     ],
     "换算": [
       "schedule_reminder"
+    ],
+    "是独": [
+      "app_widget"
     ],
     "本项": [
       "calendar-lite",

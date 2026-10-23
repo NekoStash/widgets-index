@@ -43,6 +43,7 @@
       "schedule_reminder"
     ],
     "安装": [
+      "app_widget",
       "ecotag",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
@@ -110,6 +111,7 @@
       "yuzhouhangxian"
     ],
     "部件": [
+      "app_widget",
       "business",
       "calendar-lite",
       "schedule_reminder"

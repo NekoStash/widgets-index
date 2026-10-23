@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 38,
+  "tokenCount": 39,
   "tokens": {
     "equipped": [
       "music"
@@ -57,6 +57,9 @@
     ],
     "带有": [
       "weather"
+    ],
+    "应用卡": [
+      "app_widget"
     ],
     "或改": [
       "weather"

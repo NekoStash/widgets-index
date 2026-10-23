@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "skip": [
       "music"
@@ -68,6 +68,9 @@
     ],
     "照现": [
       "business"
+    ],
+    "用卡": [
+      "app_widget"
     ],
     "用模": [
       "uriroute_deviceinfo"

@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 51,
+  "tokenCount": 52,
   "tokens": {
     "artist": [
       "music"
@@ -38,6 +38,7 @@
       "schedule_reminder"
     ],
     "以上": [
+      "app_widget",
       "kingxv"
     ],
     "以星图与轨道为灵感": [
@@ -126,6 +127,9 @@
     ],
     "烈祝": [
       "yuzhouhangxian"
+    ],
+    "片和": [
+      "app_widget"
     ],
     "视觉重心极度稳定": [
       "schedule_reminder"

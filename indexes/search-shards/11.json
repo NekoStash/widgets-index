@@ -1,6 +1,6 @@
 {
   "shard": "11",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "flue": [
       "back_screen_desktop"
@@ -68,6 +68,9 @@
     ],
     "显示今日步数": [
       "ecotag"
+    ],
+    "本需": [
+      "app_widget"
     ],
     "染天": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 42,
+  "tokenCount": 43,
   "tokens": {
     "contributing": [
       "music"
@@ -46,6 +46,9 @@
     ],
     "利用小米系统级": [
       "calendar-lite"
+    ],
+    "同的": [
+      "app_widget"
     ],
     "呼应": [
       "yuzhouhangxian"

@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 39,
+  "tokenCount": 40,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -15,6 +15,7 @@
       "uriroute_deviceinfo"
     ],
     "widget": [
+      "app_widget",
       "music",
       "weather"
     ],
@@ -127,6 +128,9 @@
       "business",
       "calendar-lite",
       "weather"
+    ],
+    "都是": [
+      "app_widget"
     ],
     "需拥有": [
       "uriroute_deviceinfo"

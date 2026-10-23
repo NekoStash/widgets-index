@@ -9,6 +9,7 @@
       "calendar-lite"
     ],
     "使用": [
+      "app_widget",
       "course_schedule",
       "mishare",
       "pickup",

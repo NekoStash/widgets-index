@@ -1,6 +1,6 @@
 {
   "shard": "2e",
-  "tokenCount": 28,
+  "tokenCount": 29,
   "tokens": {
     "custom": [
       "music"
@@ -54,6 +54,9 @@
       "ecotag",
       "schedule_reminder",
       "weather"
+    ],
+    "每个卡片和应用卡都是独立的": [
+      "app_widget"
     ],
     "法自": [
       "schedule_reminder"

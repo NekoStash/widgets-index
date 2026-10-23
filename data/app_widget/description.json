@@ -1,0 +1,24 @@
+{
+  "id": "app_widget",
+  "name": "安卓小部件",
+  "sourceMetadataPath": "repos/app_widget/metadata.json",
+  "repository": {
+    "widgetName": "安卓小部件",
+    "owner": "NekoStash",
+    "name": "REAREye-App-Widget",
+    "fullName": "NekoStash/REAREye-App-Widget",
+    "url": "https://github.com/NekoStash/REAREye-App-Widget",
+    "description": null,
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-10-23T14:50:13Z",
+    "updatedAt": "2026-10-23T14:55:05Z",
+    "pushedAt": "2026-10-23T14:58:31Z"
+  }
+}

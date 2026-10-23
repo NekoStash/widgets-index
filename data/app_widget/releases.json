@@ -1,0 +1,38 @@
+{
+  "id": "app_widget",
+  "releases": [
+    {
+      "id": 421973760,
+      "tagName": "v1.0",
+      "name": "v1.0",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-10-23T14:55:00Z",
+      "publishedAt": "2026-10-23T14:58:31Z",
+      "url": "https://github.com/NekoStash/REAREye-App-Widget/releases/tag/v1.0",
+      "body": "<p dir=\"auto\">需要使用REAREye 2.x 且版本在R228以上</p>",
+      "assets": [
+        {
+          "id": 669460375,
+          "name": "rear-app-widget.zip",
+          "label": null,
+          "size": 27777,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 0,
+          "createdAt": "2026-10-23T14:58:25Z",
+          "updatedAt": "2026-10-23T14:58:26Z",
+          "downloadUrl": "https://github.com/NekoStash/REAREye-App-Widget/releases/download/v1.0/rear-app-widget.zip"
+        }
+      ],
+      "widgetInfo": {
+        "type": "widget",
+        "minVersion": 228,
+        "name": "安卓小部件",
+        "business_setup": {
+          "id": "app_widget",
+          "renameable": false
+        }
+      }
+    }
+  ]
+}

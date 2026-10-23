@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 45,
+  "tokenCount": 47,
   "tokens": {
     "ecotag": [
       "ecotag"
@@ -46,10 +46,16 @@
     "刻的": [
       "yuzhouhangxian"
     ],
+    "加卡": [
+      "app_widget"
+    ],
     "动安": [
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
       "yadea_car_control"
+    ],
+    "动按": [
+      "app_widget"
     ],
     "及其他搭载背屏模块的": [
       "business"
@@ -143,6 +149,7 @@
       "weather"
     ],
     "需要": [
+      "app_widget",
       "business",
       "calendar-lite"
     ],

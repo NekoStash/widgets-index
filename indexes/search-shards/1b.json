@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 34,
+  "tokenCount": 35,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -19,6 +19,9 @@
     ],
     "jawiiki": [
       "uriroute_deviceinfo"
+    ],
+    "nekostash": [
+      "app_widget"
     ],
     "siberiaapp": [
       "business",

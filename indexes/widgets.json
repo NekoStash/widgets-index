@@ -1,5 +1,15 @@
 [
   {
+    "id": "app_widget",
+    "name": "安卓小部件",
+    "authorName": "NekoStash",
+    "authorId": "NekoStash",
+    "description": "",
+    "latestReleaseTag": "v1.0",
+    "latestReleasePublishedAt": "2026-10-23T14:58:31.000Z",
+    "stars": 0
+  },
+  {
     "id": "back_screen_desktop",
     "name": "背屏桌面",
     "authorName": "Pork-skin",
@@ -117,7 +127,7 @@
     "description": "A music player compatible with the Xiaomi RearScreen series. 适用于小米背屏系列的音乐播放器。",
     "latestReleaseTag": "v2.0",
     "latestReleasePublishedAt": "2026-04-07T00:38:59.000Z",
-    "stars": 8
+    "stars": 9
   },
   {
     "id": "pickup",

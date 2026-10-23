@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 42,
+  "tokenCount": 43,
   "tokens": {
     "20": [
       "ecotag"
@@ -148,6 +148,9 @@
     ],
     "让你在手机倒扣时也能实时掌握外卖": [
       "business"
+    ],
+    "载不": [
+      "app_widget"
     ],
     "通用": [
       "uriroute_deviceinfo"

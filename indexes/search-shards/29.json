@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 48,
+  "tokenCount": 49,
   "tokens": {
     "experience": [
       "music"
@@ -13,6 +13,9 @@
     ],
     "palettes": [
       "music"
+    ],
+    "reareye-app-widget": [
+      "app_widget"
     ],
     "sponsor": [
       "music"

@@ -1,6 +1,6 @@
 {
   "shard": "31",
-  "tokenCount": 47,
+  "tokenCount": 48,
   "tokens": {
     "17": [
       "business",
@@ -28,6 +28,9 @@
     "一点点": [
       "business"
     ],
+    "且在": [
+      "app_widget"
+    ],
     "为了": [
       "weather"
     ],
@@ -50,6 +53,7 @@
       "yadea_car_control"
     ],
     "卡片": [
+      "app_widget",
       "back_screen_desktop",
       "yadea_car_control"
     ],
@@ -90,6 +94,7 @@
       "yadea_car_control"
     ],
     "应用": [
+      "app_widget",
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
       "kingxv",

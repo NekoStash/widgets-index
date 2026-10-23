@@ -1,7 +1,10 @@
 {
   "shard": "01",
-  "tokenCount": 24,
+  "tokenCount": 25,
   "tokens": {
+    "app_widget": [
+      "app_widget"
+    ],
     "subsceen": [
       "yadea_car_control"
     ],
@@ -54,6 +57,7 @@
       "ecotag"
     ],
     "版本": [
+      "app_widget",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
       "yuzhouhangxian"

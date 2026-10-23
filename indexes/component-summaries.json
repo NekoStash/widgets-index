@@ -1,8 +1,20 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 18,
+  "componentCount": 19,
   "components": {
+    "app_widget": {
+      "id": "app_widget",
+      "name": "安卓小部件",
+      "description": null,
+      "author": {
+        "login": "NekoStash",
+        "name": "NekoStash",
+        "url": "https://github.com/NekoStash",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/272507167?v=4",
+        "type": "Organization"
+      }
+    },
     "back_screen_desktop": {
       "id": "back_screen_desktop",
       "name": "背屏桌面",

@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 38,
+  "tokenCount": 39,
   "tokens": {
     "extracts": [
       "music"
@@ -11,6 +11,9 @@
     "oled": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "r228": [
+      "app_widget"
     ],
     "九磅": [
       "business",

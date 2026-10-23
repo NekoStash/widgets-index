@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "focus": [
       "business",
@@ -29,6 +29,9 @@
     ],
     "变量配置": [
       "ecotag"
+    ],
+    "可以承载不同的小部件": [
+      "app_widget"
     ],
     "回退": [
       "business"

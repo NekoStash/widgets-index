@@ -90,6 +90,7 @@
       "disordered-clock"
     ],
     "手动": [
+      "app_widget",
       "ecotag",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",

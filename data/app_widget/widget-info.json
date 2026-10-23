@@ -1,0 +1,13 @@
+{
+  "id": "app_widget",
+  "type": "card",
+  "widgetInfo": {
+    "type": "widget",
+    "minVersion": 228,
+    "name": "安卓小部件",
+    "business_setup": {
+      "id": "app_widget",
+      "renameable": false
+    }
+  }
+}

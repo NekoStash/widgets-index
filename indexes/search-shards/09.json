@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 35,
+  "tokenCount": 36,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -70,6 +70,9 @@
     ],
     "手动安装步骤": [
       "uriroute_deviceinfo"
+    ],
+    "承载": [
+      "app_widget"
     ],
     "换或": [
       "weather"

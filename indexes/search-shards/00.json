@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 42,
+  "tokenCount": 43,
   "tokens": {
     "devices": [
       "music"
@@ -31,6 +31,9 @@
     ],
     "代码内置了基于真实宽高比": [
       "calendar-lite"
+    ],
+    "你使": [
+      "app_widget"
     ],
     "只做了一些常用": [
       "kingxv"
@@ -90,6 +93,7 @@
       "yuzhouhangxian"
     ],
     "独立": [
+      "app_widget",
       "weather"
     ],
     "用列": [

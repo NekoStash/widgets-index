@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 32,
+  "tokenCount": 34,
   "tokens": {
     "80": [
       "ecotag"
@@ -35,6 +35,12 @@
     ],
     "动态自适应布局": [
       "business"
+    ],
+    "安卓": [
+      "app_widget"
+    ],
+    "安装后并不会自动添加卡片": [
+      "app_widget"
     ],
     "实时": [
       "business",

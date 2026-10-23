@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 42,
+  "tokenCount": 44,
   "tokens": {
     "210": [
       "weather"
@@ -30,6 +30,9 @@
     ],
     "super": [
       "business"
+    ],
+    "个卡": [
+      "app_widget"
     ],
     "了日": [
       "calendar-lite"
@@ -65,6 +68,9 @@
     ],
     "态隐": [
       "calendar-lite"
+    ],
+    "您手": [
+      "app_widget"
     ],
     "摄像": [
       "calendar-lite",
@@ -104,6 +110,7 @@
       "calendar-lite"
     ],
     "的小": [
+      "app_widget",
       "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",

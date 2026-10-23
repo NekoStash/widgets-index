@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 26,
+  "tokenCount": 27,
   "tokens": {
     "check": [
       "music"
@@ -84,6 +84,9 @@
     ],
     "车控目前只支持开关机锁车": [
       "yadea_car_control"
+    ],
+    "需要您手动按需添加": [
+      "app_widget"
     ]
   }
 }

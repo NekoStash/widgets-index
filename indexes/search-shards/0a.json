@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 35,
+  "tokenCount": 36,
   "tokens": {
     "art": [
       "music"
@@ -73,6 +73,9 @@
     "法显": [
       "uriroute_deviceinfo"
     ],
+    "立的": [
+      "app_widget"
+    ],
     "米背": [
       "calendar-lite",
       "ecotag",
@@ -99,6 +102,7 @@
       "weather"
     ],
     "装后": [
+      "app_widget",
       "uriroute_deviceinfo"
     ],
     "要求": [
