@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 41,
+  "tokenCount": 45,
   "tokens": {
     "burger": [
       "business"
@@ -16,6 +16,9 @@
     ],
     "on": [
       "music"
+    ],
+    "与模": [
+      "xiaoai_course_schedule"
     ],
     "与贡": [
       "weather"
@@ -33,6 +36,7 @@
       "schedule_reminder"
     ],
     "字符": [
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "定位到": [
@@ -58,6 +62,9 @@
     "已知": [
       "business"
     ],
+    "开启": [
+      "xiaoai_course_schedule"
+    ],
     "态拼": [
       "weather"
     ],
@@ -72,6 +79,12 @@
     ],
     "效标": [
       "ecotag"
+    ],
+    "教室": [
+      "xiaoai_course_schedule"
+    ],
+    "来源": [
+      "xiaoai_course_schedule"
     ],
     "标题文字": [
       "ecotag"

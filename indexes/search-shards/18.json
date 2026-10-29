@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 52,
+  "tokenCount": 55,
   "tokens": {
     "120hz": [
       "weather"
@@ -9,7 +9,8 @@
       "music"
     ],
     "course": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
     ],
     "pro": [
       "business",
@@ -17,13 +18,15 @@
       "course_schedule",
       "ecotag",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "safe": [
       "calendar-lite"
     ],
     "xiaoai": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
     ],
     "一列": [
       "calendar-lite"
@@ -59,6 +62,9 @@
     "双机型": [
       "ecotag"
     ],
+    "右上": [
+      "xiaoai_course_schedule"
+    ],
     "咖啡": [
       "business"
     ],
@@ -69,6 +75,9 @@
     ],
     "型适": [
       "ecotag"
+    ],
+    "多行标题锚点不同": [
+      "xiaoai_course_schedule"
     ],
     "屏时": [
       "calendar-lite",
@@ -129,16 +138,21 @@
     "用域": [
       "mishare",
       "pickup",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "用生": [
       "weather"
     ],
     "目标包名": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "xiaoai_course_schedule"
     ],
     "目特": [
       "calendar-lite"
+    ],
+    "知在": [
+      "xiaoai_course_schedule"
     ],
     "绝杀": [
       "calendar-lite"

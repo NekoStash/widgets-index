@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 28,
+  "tokenCount": 32,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -33,6 +33,9 @@
     ],
     "供了": [
       "weather"
+    ],
+    "先赋": [
+      "xiaoai_course_schedule"
     ],
     "出发": [
       "yuzhouhangxian"
@@ -80,8 +83,17 @@
       "mishare",
       "yadea_car_control"
     ],
+    "第四行": [
+      "xiaoai_course_schedule"
+    ],
+    "级强": [
+      "xiaoai_course_schedule"
+    ],
     "组件模板管理器": [
       "hyper-pick-up-code"
+    ],
+    "组件管理": [
+      "xiaoai_course_schedule"
     ],
     "色彩": [
       "schedule_reminder",

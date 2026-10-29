@@ -1,6 +1,6 @@
 {
   "shard": "36",
-  "tokenCount": 41,
+  "tokenCount": 45,
   "tokens": {
     "30": [
       "calendar-lite",
@@ -25,6 +25,9 @@
       "business",
       "calendar-lite"
     ],
+    "为遮挡区": [
+      "xiaoai_course_schedule"
+    ],
     "件添": [
       "weather"
     ],
@@ -46,7 +49,8 @@
     ],
     "布局": [
       "business",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "底层": [
       "business",
@@ -60,6 +64,9 @@
     "微调": [
       "calendar-lite"
     ],
+    "态放": [
+      "xiaoai_course_schedule"
+    ],
     "户的": [
       "weather"
     ],
@@ -70,6 +77,9 @@
     ],
     "换算": [
       "schedule_reminder"
+    ],
+    "时刻": [
+      "xiaoai_course_schedule"
     ],
     "是独": [
       "app_widget"
@@ -116,6 +126,9 @@
     ],
     "系统将自动回退至默认样式": [
       "business"
+    ],
+    "组件名": [
+      "xiaoai_course_schedule"
     ],
     "组件商店安装": [
       "hyper-pick-up-code"

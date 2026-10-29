@@ -1,7 +1,10 @@
 {
   "shard": "3b",
-  "tokenCount": 45,
+  "tokenCount": 50,
   "tokens": {
+    "60": [
+      "xiaoai_course_schedule"
+    ],
     "17pro-": [
       "disordered-clock",
       "kingxv"
@@ -44,7 +47,8 @@
       "business",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "别当": [
       "calendar-lite"
@@ -99,6 +103,9 @@
     "收数": [
       "yadea_car_control"
     ],
+    "改名": [
+      "xiaoai_course_schedule"
+    ],
     "效与": [
       "weather"
     ],
@@ -106,16 +113,26 @@
       "weather"
     ],
     "更多": [
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "更新时间": [
       "yadea_car_control"
     ],
+    "服务": [
+      "xiaoai_course_schedule"
+    ],
     "样式": [
       "business"
     ],
+    "样透": [
+      "xiaoai_course_schedule"
+    ],
     "源状": [
       "yadea_car_control"
+    ],
+    "点不": [
+      "xiaoai_course_schedule"
     ],
     "焦点通知版": [
       "hyper-pick-up-code-reareye-xiaomi"

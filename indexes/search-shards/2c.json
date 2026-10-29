@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 46,
+  "tokenCount": 52,
   "tokens": {
     "album": [
       "music"
@@ -21,6 +21,9 @@
     ],
     "xiaomi-rearscreen-weather": [
       "weather"
+    ],
+    "不要依赖": [
+      "xiaoai_course_schedule"
     ],
     "与副屏音乐": [
       "weather"
@@ -57,7 +60,11 @@
     "对齐": [
       "calendar-lite",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
+    ],
+    "屏会": [
+      "xiaoai_course_schedule"
     ],
     "屏通": [
       "mishare"
@@ -114,6 +121,9 @@
     "知的": [
       "yuzhouhangxian"
     ],
+    "知规": [
+      "xiaoai_course_schedule"
+    ],
     "等开": [
       "weather"
     ],
@@ -136,11 +146,18 @@
       "schedule_reminder",
       "uriroute_deviceinfo",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control",
       "yuzhouhangxian"
     ],
     "背屏级动态响应与安全区避让": [
       "calendar-lite"
+    ],
+    "节次": [
+      "xiaoai_course_schedule"
+    ],
+    "薄荷": [
+      "xiaoai_course_schedule"
     ],
     "要在": [
       "business"
@@ -150,6 +167,9 @@
     ],
     "让你": [
       "business"
+    ],
+    "起排": [
+      "xiaoai_course_schedule"
     ],
     "载背": [
       "business"

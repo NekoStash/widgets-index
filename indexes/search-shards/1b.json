@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 35,
+  "tokenCount": 39,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -43,6 +43,9 @@
       "weather",
       "yuzhouhangxian"
     ],
+    "不要": [
+      "xiaoai_course_schedule"
+    ],
     "丝滑": [
       "business",
       "schedule_reminder",
@@ -69,6 +72,12 @@
     "化到": [
       "mishare",
       "pickup"
+    ],
+    "原样": [
+      "xiaoai_course_schedule"
+    ],
+    "只认": [
+      "xiaoai_course_schedule"
     ],
     "可切": [
       "kingxv"
@@ -126,6 +135,9 @@
       "ecotag",
       "uriroute_deviceinfo",
       "yuzhouhangxian"
+    ],
+    "背屏个性化": [
+      "xiaoai_course_schedule"
     ],
     "过广": [
       "yadea_car_control"

@@ -1,6 +1,6 @@
 {
   "shard": "11",
-  "tokenCount": 34,
+  "tokenCount": 37,
   "tokens": {
     "flue": [
       "back_screen_desktop"
@@ -13,6 +13,9 @@
       "pickup",
       "schedule_reminder"
     ],
+    "ms": [
+      "xiaoai_course_schedule"
+    ],
     "screen": [
       "back_screen_desktop",
       "music",
@@ -22,7 +25,8 @@
       "music"
     ],
     "与": [
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "个时": [
       "weather"
@@ -66,6 +70,9 @@
     "控操": [
       "yadea_car_control"
     ],
+    "数判": [
+      "xiaoai_course_schedule"
+    ],
     "显示今日步数": [
       "ecotag"
     ],
@@ -98,6 +105,9 @@
     ],
     "藏电": [
       "ecotag"
+    ],
+    "裁切": [
+      "xiaoai_course_schedule"
     ],
     "计大": [
       "yuzhouhangxian"

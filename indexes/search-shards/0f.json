@@ -1,12 +1,15 @@
 {
   "shard": "0f",
-  "tokenCount": 37,
+  "tokenCount": 41,
   "tokens": {
     "reminder": [
       "schedule_reminder"
     ],
     "主屏": [
       "business"
+    ],
+    "于组": [
+      "xiaoai_course_schedule"
     ],
     "云天": [
       "weather"
@@ -35,6 +38,9 @@
     "历第": [
       "calendar-lite"
     ],
+    "原系": [
+      "xiaoai_course_schedule"
+    ],
     "变色": [
       "weather"
     ],
@@ -45,7 +51,8 @@
       "ecotag"
     ],
     "尺寸": [
-      "business"
+      "business",
+      "xiaoai_course_schedule"
     ],
     "已开": [
       "yadea_car_control"
@@ -68,6 +75,9 @@
     "时间切换为透亮浅蓝": [
       "schedule_reminder"
     ],
+    "根标签需": [
+      "xiaoai_course_schedule"
+    ],
     "法滥": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -79,6 +89,9 @@
     ],
     "纯数学推演的无素材日历": [
       "calendar-lite"
+    ],
+    "组件信息": [
+      "xiaoai_course_schedule"
     ],
     "维时": [
       "dragon_scales_clock"

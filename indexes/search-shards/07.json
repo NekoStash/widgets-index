@@ -1,12 +1,18 @@
 {
   "shard": "07",
-  "tokenCount": 27,
+  "tokenCount": 31,
   "tokens": {
     "check": [
       "music"
     ],
     "deviceinfo": [
       "uriroute_deviceinfo"
+    ],
+    "yun": [
+      "xiaoai_course_schedule"
+    ],
+    "不需要路由": [
+      "xiaoai_course_schedule"
     ],
     "严谨遵循": [
       "schedule_reminder"
@@ -53,6 +59,7 @@
       "schedule_reminder",
       "uriroute_deviceinfo",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "本项目深度集成系统通知监听逻辑": [
@@ -76,6 +83,9 @@
     "纯代": [
       "calendar-lite"
     ],
+    "背屏左侧约": [
+      "xiaoai_course_schedule"
+    ],
     "自动计算": [
       "calendar-lite"
     ],
@@ -87,6 +97,9 @@
     ],
     "需要您手动按需添加": [
       "app_widget"
+    ],
+    "题锚": [
+      "xiaoai_course_schedule"
     ]
   }
 }

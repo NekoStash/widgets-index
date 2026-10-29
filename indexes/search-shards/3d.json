@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 43,
+  "tokenCount": 44,
   "tokens": {
     "contributing": [
       "music"
@@ -30,6 +30,9 @@
     ],
     "中设置缓存时间为": [
       "uriroute_deviceinfo"
+    ],
+    "会丢": [
+      "xiaoai_course_schedule"
     ],
     "供绕": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -116,7 +119,8 @@
       "weather"
     ],
     "路由": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "xiaoai_course_schedule"
     ],
     "钟壁": [
       "dragon_scales_clock"

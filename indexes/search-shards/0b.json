@@ -1,12 +1,13 @@
 {
   "shard": "0b",
-  "tokenCount": 44,
+  "tokenCount": 45,
   "tokens": {
     "15": [
       "weather"
     ],
     "business": [
-      "business"
+      "business",
+      "xiaoai_course_schedule"
     ],
     "go": [
       "music"
@@ -45,6 +46,9 @@
     "号星": [
       "calendar-lite"
     ],
+    "后核": [
+      "xiaoai_course_schedule"
+    ],
     "均经": [
       "schedule_reminder"
     ],
@@ -58,7 +62,8 @@
       "business"
     ],
     "必须搭配": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
     ],
     "总里程": [
       "yadea_car_control"

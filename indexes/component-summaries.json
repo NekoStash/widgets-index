@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 19,
+  "componentCount": 20,
   "components": {
     "app_widget": {
       "id": "app_widget",
@@ -204,6 +204,18 @@
         "name": "九磅九万便士",
         "url": "https://github.com/SiberiaApp",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
+        "type": "User"
+      }
+    },
+    "xiaoai_course_schedule": {
+      "id": "xiaoai_course_schedule",
+      "name": "超级小爱课程表背屏",
+      "description": "超级小爱的课程表背屏组件：在小米 17 Pro 系列背屏显示课程提醒（配合课程表超级岛模块 + REAREye）",
+      "author": {
+        "login": "wangjianghe-h",
+        "name": "YUN GU",
+        "url": "https://github.com/wangjianghe-h",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/173790911?v=4",
         "type": "User"
       }
     },

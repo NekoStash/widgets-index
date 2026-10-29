@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 38,
+  "tokenCount": 45,
   "tokens": {
     "coco": [
       "business"
@@ -14,6 +14,9 @@
     "为微": [
       "weather"
     ],
+    "为遮": [
+      "xiaoai_course_schedule"
+    ],
     "乐歌": [
       "music"
     ],
@@ -23,6 +26,7 @@
     "信息": [
       "business",
       "uriroute_deviceinfo",
+      "xiaoai_course_schedule",
       "yadea_car_control",
       "yuzhouhangxian"
     ],
@@ -32,6 +36,9 @@
     "呼吸": [
       "schedule_reminder",
       "weather"
+    ],
+    "固定行高": [
+      "xiaoai_course_schedule"
     ],
     "它通过解析系统底层的": [
       "schedule_reminder"
@@ -61,6 +68,12 @@
     "态小": [
       "schedule_reminder"
     ],
+    "折两": [
+      "xiaoai_course_schedule"
+    ],
+    "择文": [
+      "xiaoai_course_schedule"
+    ],
     "接口": [
       "business"
     ],
@@ -81,6 +94,12 @@
     ],
     "朵缓": [
       "weather"
+    ],
+    "条路": [
+      "xiaoai_course_schedule"
+    ],
+    "板重": [
+      "xiaoai_course_schedule"
     ],
     "电源状态": [
       "yadea_car_control"
@@ -108,6 +127,9 @@
     ],
     "资源": [
       "weather"
+    ],
+    "踩过": [
+      "xiaoai_course_schedule"
     ],
     "过接": [
       "business"

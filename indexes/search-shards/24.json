@@ -1,7 +1,10 @@
 {
   "shard": "24",
-  "tokenCount": 29,
+  "tokenCount": 33,
   "tokens": {
+    "98": [
+      "xiaoai_course_schedule"
+    ],
     "always": [
       "music"
     ],
@@ -53,6 +56,9 @@
     "持开": [
       "yadea_car_control"
     ],
+    "按": [
+      "xiaoai_course_schedule"
+    ],
     "擎丝": [
       "weather"
     ],
@@ -85,6 +91,12 @@
     ],
     "若未匹配到已知品牌": [
       "business"
+    ],
+    "这条路由是": [
+      "xiaoai_course_schedule"
+    ],
+    "选": [
+      "xiaoai_course_schedule"
     ],
     "雪花": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 36,
+  "tokenCount": 40,
   "tokens": {
     "built": [
       "music"
@@ -11,8 +11,14 @@
     "desktop": [
       "back_screen_desktop"
     ],
+    "lsposed": [
+      "xiaoai_course_schedule"
+    ],
     "rearranging": [
       "music"
+    ],
+    "wangjianghe-h": [
+      "xiaoai_course_schedule"
     ],
     "welcome": [
       "music"
@@ -47,12 +53,14 @@
       "ecotag",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "屏原": [
       "kingxv"
     ],
     "并在": [
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "并首次以": [
@@ -92,11 +100,17 @@
     "知品": [
       "business"
     ],
+    "签需": [
+      "xiaoai_course_schedule"
+    ],
     "自定义标题": [
       "ecotag"
     ],
     "获得": [
       "yuzhouhangxian"
+    ],
+    "许焦": [
+      "xiaoai_course_schedule"
     ],
     "词匹": [
       "business"

@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 52,
+  "tokenCount": 57,
   "tokens": {
     "feeling": [
       "music"
@@ -35,6 +35,7 @@
     "仓库": [
       "ecotag",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "代码默认将左上角的": [
@@ -44,6 +45,9 @@
       "business",
       "uriroute_deviceinfo",
       "weather"
+    ],
+    "低开销版": [
+      "xiaoai_course_schedule"
     ],
     "具备": [
       "calendar-lite",
@@ -61,6 +65,9 @@
     "原生": [
       "kingxv"
     ],
+    "围盒": [
+      "xiaoai_course_schedule"
+    ],
     "填写以下内容": [
       "hyper-pick-up-code"
     ],
@@ -76,6 +83,7 @@
     "实现": [
       "calendar-lite",
       "schedule_reminder",
+      "xiaoai_course_schedule",
       "yuzhouhangxian"
     ],
     "对包": [
@@ -84,12 +92,18 @@
     "年": [
       "calendar-lite"
     ],
+    "底部橙色": [
+      "xiaoai_course_schedule"
+    ],
     "拟真": [
       "weather"
     ],
     "文字": [
       "ecotag",
       "schedule_reminder"
+    ],
+    "新增": [
+      "xiaoai_course_schedule"
     ],
     "无缝切换": [
       "weather"
@@ -111,6 +125,9 @@
     ],
     "滴粒": [
       "weather"
+    ],
+    "用字数判断": [
+      "xiaoai_course_schedule"
     ],
     "电模": [
       "ecotag"

@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 30,
+  "tokenCount": 35,
   "tokens": {
     "active": [
       "music"
@@ -36,9 +36,15 @@
     "从此": [
       "yuzhouhangxian"
     ],
+    "倒计时前缀与目标时刻": [
+      "xiaoai_course_schedule"
+    ],
     "充电": [
       "ecotag",
       "yuzhouhangxian"
+    ],
+    "内容从": [
+      "xiaoai_course_schedule"
     ],
     "击可": [
       "kingxv"
@@ -68,7 +74,8 @@
       "business"
     ],
     "搭配": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
     ],
     "有云": [
       "weather"
@@ -94,8 +101,17 @@
     "示存": [
       "ecotag"
     ],
+    "裁边": [
+      "xiaoai_course_schedule"
+    ],
+    "要点": [
+      "xiaoai_course_schedule"
+    ],
     "认将": [
       "calendar-lite"
+    ],
+    "这条": [
+      "xiaoai_course_schedule"
     ]
   }
 }

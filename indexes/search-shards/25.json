@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 33,
+  "tokenCount": 38,
   "tokens": {
     "lyrics": [
       "music"
@@ -14,11 +14,23 @@
     "不承": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "二行": [
+      "xiaoai_course_schedule"
+    ],
     "会自": [
       "app_widget"
     ],
+    "允许焦点通知在背屏显示": [
+      "xiaoai_course_schedule"
+    ],
+    "包级": [
+      "xiaoai_course_schedule"
+    ],
     "只做": [
       "kingxv"
+    ],
+    "可改": [
+      "xiaoai_course_schedule"
     ],
     "后并": [
       "app_widget"
@@ -46,6 +58,9 @@
     ],
     "控卡": [
       "yadea_car_control"
+    ],
+    "标裁": [
+      "xiaoai_course_schedule"
     ],
     "梦倾": [
       "ecotag"
@@ -97,7 +112,8 @@
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
-      "pickup"
+      "pickup",
+      "xiaoai_course_schedule"
     ],
     "避让": [
       "calendar-lite",

@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 47,
+  "tokenCount": 48,
   "tokens": {
     "ecotag": [
       "ecotag"
@@ -34,14 +34,17 @@
     ],
     "作者": [
       "ecotag",
+      "xiaoai_course_schedule",
       "yuzhouhangxian"
     ],
     "依赖": [
       "business",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "判断": [
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "刻的": [
       "yuzhouhangxian"
@@ -145,13 +148,17 @@
     "适用于小米背屏的日历小组件": [
       "calendar-lite"
     ],
+    "透传": [
+      "xiaoai_course_schedule"
+    ],
     "配视": [
       "weather"
     ],
     "需要": [
       "app_widget",
       "business",
-      "calendar-lite"
+      "calendar-lite",
+      "xiaoai_course_schedule"
     ],
     "非生": [
       "calendar-lite"

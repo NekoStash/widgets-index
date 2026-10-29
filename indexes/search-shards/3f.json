@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 43,
+  "tokenCount": 47,
   "tokens": {
     "20": [
       "ecotag"
@@ -101,6 +101,9 @@
       "mishare",
       "pickup"
     ],
+    "模板文件路径": [
+      "xiaoai_course_schedule"
+    ],
     "比度": [
       "schedule_reminder"
     ],
@@ -132,6 +135,7 @@
       "pickup",
       "schedule_reminder",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "致视": [
@@ -149,11 +153,20 @@
     "让你在手机倒扣时也能实时掌握外卖": [
       "business"
     ],
+    "让模": [
+      "xiaoai_course_schedule"
+    ],
+    "该包": [
+      "xiaoai_course_schedule"
+    ],
     "载不": [
       "app_widget"
     ],
     "通用": [
       "uriroute_deviceinfo"
+    ],
+    "部署": [
+      "xiaoai_course_schedule"
     ],
     "验与": [
       "weather"

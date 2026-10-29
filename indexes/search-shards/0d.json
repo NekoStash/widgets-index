@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 44,
+  "tokenCount": 46,
   "tokens": {
     "are": [
       "music"
@@ -66,6 +66,9 @@
     "度集": [
       "schedule_reminder"
     ],
+    "开销": [
+      "xiaoai_course_schedule"
+    ],
     "手搓的": [
       "calendar-lite"
     ],
@@ -80,6 +83,7 @@
       "ecotag",
       "schedule_reminder",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "新数": [
@@ -99,6 +103,9 @@
     ],
     "测试": [
       "hyper-pick-up-code"
+    ],
+    "熄屏倒计时": [
+      "xiaoai_course_schedule"
     ],
     "特别": [
       "calendar-lite"
@@ -120,7 +127,8 @@
     "的背": [
       "business",
       "uriroute_deviceinfo",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "秒循": [
       "ecotag"

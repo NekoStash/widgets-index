@@ -1,12 +1,13 @@
 {
   "shard": "21",
-  "tokenCount": 42,
+  "tokenCount": 45,
   "tokens": {
     "car": [
       "yadea_car_control"
     ],
     "v2": [
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "visible": [
       "music"
@@ -14,8 +15,14 @@
     "xiaomi-rearscreen-mishare": [
       "mishare"
     ],
+    "中心": [
+      "xiaoai_course_schedule"
+    ],
     "主题显示名": [
       "ecotag"
+    ],
+    "会收": [
+      "xiaoai_course_schedule"
     ],
     "你的": [
       "schedule_reminder"
@@ -36,6 +43,7 @@
     ],
     "在小米": [
       "course_schedule",
+      "xiaoai_course_schedule",
       "yuzhouhangxian"
     ],
     "完成": [
@@ -57,7 +65,8 @@
       "uriroute_deviceinfo"
     ],
     "必须": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
     ],
     "性能": [
       "weather"
@@ -96,7 +105,8 @@
       "mishare",
       "pickup",
       "schedule_reminder",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "xiaoai_course_schedule"
     ],
     "滑切": [
       "yadea_car_control"
@@ -113,7 +123,8 @@
     ],
     "的动": [
       "calendar-lite",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "硬地": [
       "calendar-lite"
@@ -133,6 +144,9 @@
       "schedule_reminder",
       "uriroute_deviceinfo",
       "weather"
+    ],
+    "设定": [
+      "xiaoai_course_schedule"
     ],
     "载专": [
       "business"

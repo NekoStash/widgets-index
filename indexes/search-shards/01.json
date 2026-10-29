@@ -1,6 +1,6 @@
 {
   "shard": "01",
-  "tokenCount": 25,
+  "tokenCount": 30,
   "tokens": {
     "app_widget": [
       "app_widget"
@@ -26,15 +26,22 @@
     "动态小部件": [
       "schedule_reminder"
     ],
+    "因此": [
+      "xiaoai_course_schedule"
+    ],
     "在背": [
       "back_screen_desktop",
       "business",
       "schedule_reminder",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "xiaoai_course_schedule"
     ],
     "屏日": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "岛模": [
+      "xiaoai_course_schedule"
     ],
     "帧绝": [
       "calendar-lite"
@@ -43,6 +50,12 @@
       "business",
       "weather"
     ],
+    "开摄": [
+      "xiaoai_course_schedule"
+    ],
+    "强制": [
+      "xiaoai_course_schedule"
+    ],
     "显示": [
       "business",
       "calendar-lite",
@@ -50,6 +63,7 @@
       "ecotag",
       "uriroute_deviceinfo",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control",
       "yuzhouhangxian"
     ],
@@ -74,6 +88,9 @@
     ],
     "背屏主题部件": [
       "business"
+    ],
+    "表背": [
+      "xiaoai_course_schedule"
     ],
     "认在": [
       "uriroute_deviceinfo"

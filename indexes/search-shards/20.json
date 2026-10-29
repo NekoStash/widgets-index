@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 45,
+  "tokenCount": 51,
   "tokens": {
     "folme": [
       "business",
@@ -11,7 +11,8 @@
     "id": [
       "mishare",
       "pickup",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "licensed": [
       "music"
@@ -24,9 +25,15 @@
     "不小于该版本": [
       "uriroute_deviceinfo"
     ],
+    "仅靠": [
+      "xiaoai_course_schedule"
+    ],
     "传统": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "侧约": [
+      "xiaoai_course_schedule"
     ],
     "到小": [
       "mishare",
@@ -34,6 +41,9 @@
     ],
     "动刷": [
       "yadea_car_control"
+    ],
+    "占原": [
+      "xiaoai_course_schedule"
     ],
     "可显": [
       "uriroute_deviceinfo"
@@ -59,6 +69,9 @@
     "射至": [
       "business"
     ],
+    "局避": [
+      "xiaoai_course_schedule"
+    ],
     "屏幕保护": [
       "schedule_reminder"
     ],
@@ -73,6 +86,9 @@
     ],
     "感与": [
       "schedule_reminder"
+    ],
+    "手只": [
+      "xiaoai_course_schedule"
     ],
     "摇摆": [
       "weather"
@@ -98,7 +114,8 @@
     "焦点": [
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "用户": [
       "weather"
@@ -126,6 +143,9 @@
     ],
     "精准避让摄像头": [
       "calendar-lite"
+    ],
+    "背屏支持版": [
+      "xiaoai_course_schedule"
     ],
     "能效": [
       "ecotag"

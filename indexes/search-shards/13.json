@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 34,
+  "tokenCount": 39,
   "tokens": {
     "focus": [
       "business",
@@ -27,6 +27,9 @@
     "动外": [
       "schedule_reminder"
     ],
+    "包级强制放行": [
+      "xiaoai_course_schedule"
+    ],
     "变量配置": [
       "ecotag"
     ],
@@ -45,8 +48,14 @@
     "多背": [
       "weather"
     ],
+    "多行": [
+      "xiaoai_course_schedule"
+    ],
     "夜晚": [
       "weather"
+    ],
+    "定行": [
+      "xiaoai_course_schedule"
     ],
     "家合": [
       "yuzhouhangxian"
@@ -75,6 +84,9 @@
       "weather",
       "yadea_car_control"
     ],
+    "段契": [
+      "xiaoai_course_schedule"
+    ],
     "爷爷": [
       "business"
     ],
@@ -97,6 +109,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "能助": [
+      "xiaoai_course_schedule"
     ],
     "装要": [
       "uriroute_deviceinfo"

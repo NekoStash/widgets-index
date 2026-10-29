@@ -170,6 +170,16 @@
     "stars": 0
   },
   {
+    "id": "xiaoai_course_schedule",
+    "name": "超级小爱课程表背屏",
+    "authorName": "YUN GU",
+    "authorId": "wangjianghe-h",
+    "description": "超级小爱的课程表背屏组件：在小米 17 Pro 系列背屏显示课程提醒（配合课程表超级岛模块 + REAREye）",
+    "latestReleaseTag": "v1.1.0",
+    "latestReleasePublishedAt": "2026-10-29T15:21:02.000Z",
+    "stars": 0
+  },
+  {
     "id": "yadea_car_control",
     "name": "雅迪车控",
     "authorName": "李太白",

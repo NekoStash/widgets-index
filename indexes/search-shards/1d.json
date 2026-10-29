@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 45,
+  "tokenCount": 51,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -31,7 +31,8 @@
       "pickup"
     ],
     "上角": [
-      "calendar-lite"
+      "calendar-lite",
+      "xiaoai_course_schedule"
     ],
     "下内": [
       "hyper-pick-up-code"
@@ -71,6 +72,9 @@
     "其细": [
       "weather"
     ],
+    "写进": [
+      "xiaoai_course_schedule"
+    ],
     "划为": [
       "calendar-lite"
     ],
@@ -78,12 +82,18 @@
       "business",
       "weather"
     ],
+    "助手": [
+      "xiaoai_course_schedule"
+    ],
     "含以": [
       "weather"
     ],
     "存储": [
       "ecotag",
       "uriroute_deviceinfo"
+    ],
+    "小爱": [
+      "xiaoai_course_schedule"
     ],
     "库中": [
       "weather"
@@ -100,6 +110,9 @@
     ],
     "态调": [
       "weather"
+    ],
+    "恒为": [
+      "xiaoai_course_schedule"
     ],
     "放置": [
       "business"
@@ -120,6 +133,9 @@
       "business",
       "schedule_reminder"
     ],
+    "知路": [
+      "xiaoai_course_schedule"
+    ],
     "纯黑": [
       "calendar-lite"
     ],
@@ -128,6 +144,9 @@
     ],
     "背屏课程表": [
       "course_schedule"
+    ],
+    "角为": [
+      "xiaoai_course_schedule"
     ],
     "让下": [
       "schedule_reminder"

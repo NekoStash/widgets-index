@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 49,
+  "tokenCount": 54,
   "tokens": {
     "experience": [
       "music"
@@ -78,6 +78,9 @@
     "将自": [
       "business"
     ],
+    "屏中": [
+      "xiaoai_course_schedule"
+    ],
     "左上": [
       "calendar-lite"
     ],
@@ -115,7 +118,11 @@
       "back_screen_desktop"
     ],
     "模板": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "xiaoai_course_schedule"
+    ],
+    "止时": [
+      "xiaoai_course_schedule"
     ],
     "止状": [
       "weather"
@@ -136,7 +143,8 @@
       "uriroute_deviceinfo"
     ],
     "示课": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
     ],
     "等具": [
       "calendar-lite"
@@ -144,8 +152,14 @@
     "系统环境": [
       "weather"
     ],
+    "薄荷绿": [
+      "xiaoai_course_schedule"
+    ],
     "解锁": [
       "yadea_car_control"
+    ],
+    "课程名": [
+      "xiaoai_course_schedule"
     ],
     "负载": [
       "uriroute_deviceinfo"
@@ -155,6 +169,9 @@
     ],
     "铺设": [
       "calendar-lite"
+    ],
+    "须等": [
+      "xiaoai_course_schedule"
     ],
     "骑行状态": [
       "yadea_car_control"

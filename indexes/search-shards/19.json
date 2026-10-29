@@ -1,6 +1,6 @@
 {
   "shard": "19",
-  "tokenCount": 37,
+  "tokenCount": 44,
   "tokens": {
     "audio": [
       "music"
@@ -16,7 +16,8 @@
       "uriroute_deviceinfo"
     ],
     "上显": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
     ],
     "丰富": [
       "weather"
@@ -45,6 +46,9 @@
     "可能": [
       "weather"
     ],
+    "含义": [
+      "xiaoai_course_schedule"
+    ],
     "基于": [
       "business",
       "calendar-lite",
@@ -61,6 +65,7 @@
       "schedule_reminder"
     ],
     "字段": [
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "完美对齐左侧摄像头安全区": [
@@ -69,11 +74,17 @@
     "层焦": [
       "business"
     ],
+    "帧省约": [
+      "xiaoai_course_schedule"
+    ],
     "广播": [
       "yadea_car_control"
     ],
     "录结": [
       "weather"
+    ],
+    "把课": [
+      "xiaoai_course_schedule"
     ],
     "拉升": [
       "weather"
@@ -86,10 +97,14 @@
     ],
     "标包": [
       "hyper-pick-up-code",
-      "kingxv"
+      "kingxv",
+      "xiaoai_course_schedule"
     ],
     "模式": [
       "ecotag"
+    ],
+    "模板实现要点": [
+      "xiaoai_course_schedule"
     ],
     "现背": [
       "schedule_reminder"
@@ -103,6 +118,9 @@
     "系统内置天气内容提供者": [
       "weather"
     ],
+    "约": [
+      "xiaoai_course_schedule"
+    ],
     "级日": [
       "schedule_reminder"
     ],
@@ -112,12 +130,18 @@
     "能效标识": [
       "ecotag"
     ],
+    "要路": [
+      "xiaoai_course_schedule"
+    ],
     "起引": [
       "calendar-lite",
       "schedule_reminder"
     ],
     "配系": [
       "weather"
+    ],
+    "钟位": [
+      "xiaoai_course_schedule"
     ],
     "雨滴": [
       "weather"

@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 41,
+  "tokenCount": 45,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -32,11 +32,17 @@
     "今天": [
       "calendar-lite"
     ],
+    "允许": [
+      "xiaoai_course_schedule"
+    ],
     "最底层铺设": [
       "calendar-lite"
     ],
     "力于": [
       "weather"
+    ],
+    "包围": [
+      "xiaoai_course_schedule"
     ],
     "可自": [
       "ecotag"
@@ -58,7 +64,8 @@
     ],
     "屏上": [
       "course_schedule",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "幕的": [
       "business"
@@ -100,6 +107,9 @@
     "由": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "盒裁": [
+      "xiaoai_course_schedule"
+    ],
     "相关": [
       "uriroute_deviceinfo"
     ],
@@ -125,10 +135,14 @@
       "business",
       "weather"
     ],
+    "锚点": [
+      "xiaoai_course_schedule"
+    ],
     "驱动": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "xiaoai_course_schedule"
     ]
   }
 }

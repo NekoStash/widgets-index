@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 36,
+  "tokenCount": 40,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -22,6 +22,9 @@
     "与文": [
       "schedule_reminder"
     ],
+    "与标": [
+      "xiaoai_course_schedule"
+    ],
     "中修": [
       "calendar-lite"
     ],
@@ -32,13 +35,15 @@
       "business"
     ],
     "分支": [
-      "business"
+      "business",
+      "xiaoai_course_schedule"
     ],
     "动态": [
       "business",
       "calendar-lite",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "可以上滑返回或侧滑返回": [
       "kingxv"
@@ -76,6 +81,9 @@
       "dragon_scales_clock",
       "schedule_reminder"
     ],
+    "挡区": [
+      "xiaoai_course_schedule"
+    ],
     "接收": [
       "yadea_car_control"
     ],
@@ -85,7 +93,8 @@
     "时钟": [
       "disordered-clock",
       "dragon_scales_clock",
-      "kingxv"
+      "kingxv",
+      "xiaoai_course_schedule"
     ],
     "淡出": [
       "schedule_reminder"
@@ -108,6 +117,12 @@
     ],
     "示系": [
       "ecotag"
+    ],
+    "竖线": [
+      "xiaoai_course_schedule"
+    ],
+    "踩过的坑": [
+      "xiaoai_course_schedule"
     ],
     "配澎": [
       "hyper-pick-up-code",

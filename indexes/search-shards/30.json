@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 39,
+  "tokenCount": 50,
   "tokens": {
     "equipped": [
       "music"
@@ -23,12 +23,18 @@
     "依托": [
       "business"
     ],
+    "侧竖": [
+      "xiaoai_course_schedule"
+    ],
     "内存占用": [
       "ecotag",
       "uriroute_deviceinfo"
     ],
     "写的": [
       "hyper-pick-up-code"
+    ],
+    "删掉后背屏会收不到卡片": [
+      "xiaoai_course_schedule"
     ],
     "副标题与进度信息": [
       "business"
@@ -41,6 +47,12 @@
     ],
     "双击": [
       "kingxv"
+    ],
+    "另有": [
+      "xiaoai_course_schedule"
+    ],
+    "图标裁边": [
+      "xiaoai_course_schedule"
     ],
     "坐标的数值": [
       "calendar-lite"
@@ -61,11 +73,15 @@
     "应用卡": [
       "app_widget"
     ],
+    "性化": [
+      "xiaoai_course_schedule"
+    ],
     "或改": [
       "weather"
     ],
     "文件": [
       "uriroute_deviceinfo",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "星图": [
@@ -84,10 +100,17 @@
       "business",
       "calendar-lite",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
+    ],
+    "板实": [
+      "xiaoai_course_schedule"
     ],
     "标并": [
       "calendar-lite"
+    ],
+    "标时": [
+      "xiaoai_course_schedule"
     ],
     "此代": [
       "business"
@@ -95,14 +118,23 @@
     "步数": [
       "ecotag"
     ],
+    "测会": [
+      "xiaoai_course_schedule"
+    ],
     "的超级岛同时转化到小米背屏的小组件": [
       "pickup"
     ],
     "监听": [
       "schedule_reminder"
     ],
+    "第四": [
+      "xiaoai_course_schedule"
+    ],
     "米互": [
       "mishare"
+    ],
+    "背屏中心": [
+      "xiaoai_course_schedule"
     ],
     "背屏使用的是通用模块": [
       "uriroute_deviceinfo"
@@ -119,8 +151,12 @@
     "透亮": [
       "schedule_reminder"
     ],
+    "遮挡": [
+      "xiaoai_course_schedule"
+    ],
     "配合": [
-      "calendar-lite"
+      "calendar-lite",
+      "xiaoai_course_schedule"
     ],
     "针对包名": [
       "business"

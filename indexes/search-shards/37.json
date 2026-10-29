@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 39,
+  "tokenCount": 43,
   "tokens": {
     "extracts": [
       "music"
@@ -14,6 +14,9 @@
     ],
     "r228": [
       "app_widget"
+    ],
+    "串变": [
+      "xiaoai_course_schedule"
     ],
     "九磅": [
       "business",
@@ -40,7 +43,11 @@
     ],
     "包名": [
       "business",
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "xiaoai_course_schedule"
+    ],
+    "原样透传给": [
+      "xiaoai_course_schedule"
     ],
     "名单": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -67,6 +74,7 @@
       "pickup",
       "schedule_reminder",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control",
       "yuzhouhangxian"
     ],
@@ -109,7 +117,8 @@
       "course_schedule",
       "music",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "系统级日程同步": [
       "schedule_reminder"
@@ -129,6 +138,12 @@
     ],
     "赛获": [
       "yuzhouhangxian"
+    ],
+    "超级小爱课程表背屏": [
+      "xiaoai_course_schedule"
+    ],
+    "选择": [
+      "xiaoai_course_schedule"
     ],
     "通过广播接收数据": [
       "yadea_car_control"

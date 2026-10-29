@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 45,
+  "tokenCount": 48,
   "tokens": {
     "deliver": [
       "music"
@@ -35,11 +35,17 @@
     "号的动态隐藏与显示": [
       "calendar-lite"
     ],
+    "因此模块把课程字段写进": [
+      "xiaoai_course_schedule"
+    ],
     "始数": [
       "schedule_reminder"
     ],
     "宇宙航线": [
       "yuzhouhangxian"
+    ],
+    "容从": [
+      "xiaoai_course_schedule"
     ],
     "小组": [
       "calendar-lite",
@@ -59,6 +65,7 @@
     "屏组": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "展示存储": [
@@ -115,6 +122,9 @@
     ],
     "灵动外屏适配": [
       "schedule_reminder"
+    ],
+    "由焦": [
+      "xiaoai_course_schedule"
     ],
     "的天": [
       "weather"

@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "xiaoai_course_schedule",
+      "name": "超级小爱课程表背屏",
+      "description": "超级小爱的课程表背屏组件：在小米 17 Pro 系列背屏显示课程提醒（配合课程表超级岛模块 + REAREye）",
+      "author": {
+        "login": "wangjianghe-h",
+        "name": "YUN GU",
+        "url": "https://github.com/wangjianghe-h",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/173790911?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-10-29T15:23:13.000Z",
+      "repository": {
+        "fullName": "wangjianghe-h/xiaoai-course-backscreen",
+        "url": "https://github.com/wangjianghe-h/xiaoai-course-backscreen"
+      }
+    },
+    {
       "id": "app_widget",
       "name": "安卓小部件",
       "description": null,

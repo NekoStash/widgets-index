@@ -1,6 +1,6 @@
 {
   "shard": "28",
-  "tokenCount": 24,
+  "tokenCount": 28,
   "tokens": {
     "ghhccghk": [
       "yadea_car_control"
@@ -10,6 +10,9 @@
     ],
     "support": [
       "music"
+    ],
+    "与模块的字段契约": [
+      "xiaoai_course_schedule"
     ],
     "了极": [
       "weather"
@@ -33,11 +36,17 @@
     "对背": [
       "weather"
     ],
+    "屏分": [
+      "xiaoai_course_schedule"
+    ],
     "度信": [
       "business"
     ],
     "接收数据": [
       "yadea_car_control"
+    ],
+    "是否": [
+      "xiaoai_course_schedule"
     ],
     "极致": [
       "weather"
@@ -61,6 +70,9 @@
     ],
     "系统要求": [
       "business"
+    ],
+    "编辑": [
+      "xiaoai_course_schedule"
     ],
     "群友": [
       "disordered-clock"

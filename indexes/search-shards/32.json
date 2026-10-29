@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 30,
+  "tokenCount": 31,
   "tokens": {
     "automatically": [
       "music"
@@ -83,6 +83,9 @@
     ],
     "让适": [
       "calendar-lite"
+    ],
+    "调": [
+      "xiaoai_course_schedule"
     ],
     "调整": [
       "calendar-lite",

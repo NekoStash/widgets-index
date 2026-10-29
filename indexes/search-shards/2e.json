@@ -1,6 +1,6 @@
 {
   "shard": "2e",
-  "tokenCount": 29,
+  "tokenCount": 35,
   "tokens": {
     "custom": [
       "music"
@@ -8,6 +8,9 @@
     "dynamic": [
       "calendar-lite",
       "music"
+    ],
+    "个性": [
+      "xiaoai_course_schedule"
     ],
     "件仓": [
       "ecotag",
@@ -26,7 +29,11 @@
       "schedule_reminder"
     ],
     "列背": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
+    ],
+    "卡片位置": [
+      "xiaoai_course_schedule"
     ],
     "在不": [
       "weather"
@@ -36,6 +43,9 @@
     ],
     "复杂": [
       "weather"
+    ],
+    "契约": [
+      "xiaoai_course_schedule"
     ],
     "屏交": [
       "weather"
@@ -71,7 +81,8 @@
       "schedule_reminder"
     ],
     "程提": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "者通": [
       "weather"
@@ -85,8 +96,17 @@
     "行深": [
       "business"
     ],
+    "计时": [
+      "xiaoai_course_schedule"
+    ],
+    "路径": [
+      "xiaoai_course_schedule"
+    ],
     "适用于小米背屏系列的音乐播放器": [
       "music"
+    ],
+    "配合课程表超级岛模块": [
+      "xiaoai_course_schedule"
     ],
     "项目": [
       "calendar-lite",

@@ -1,12 +1,15 @@
 {
   "shard": "08",
-  "tokenCount": 34,
+  "tokenCount": 40,
   "tokens": {
     "save": [
       "music"
     ],
     "talkback": [
       "weather"
+    ],
+    "不需": [
+      "xiaoai_course_schedule"
     ],
     "与安": [
       "calendar-lite"
@@ -36,6 +39,9 @@
     "函数": [
       "weather"
     ],
+    "前缀": [
+      "xiaoai_course_schedule"
+    ],
     "前需": [
       "uriroute_deviceinfo"
     ],
@@ -44,11 +50,18 @@
     ],
     "在小": [
       "course_schedule",
+      "xiaoai_course_schedule",
       "yadea_car_control",
       "yuzhouhangxian"
     ],
     "复一": [
       "yadea_car_control"
+    ],
+    "屏左": [
+      "xiaoai_course_schedule"
+    ],
+    "底部": [
+      "xiaoai_course_schedule"
     ],
     "手动安装": [
       "hyper-pick-up-code",
@@ -60,9 +73,13 @@
     "未知": [
       "yuzhouhangxian"
     ],
+    "本仓": [
+      "xiaoai_course_schedule"
+    ],
     "标签": [
       "calendar-lite",
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "标设": [
       "business",
@@ -73,6 +90,9 @@
     ],
     "滑交": [
       "schedule_reminder"
+    ],
+    "爱的": [
+      "xiaoai_course_schedule"
     ],
     "用小": [
       "calendar-lite",
@@ -88,7 +108,8 @@
       "calendar-lite"
     ],
     "统时": [
-      "calendar-lite"
+      "calendar-lite",
+      "xiaoai_course_schedule"
     ],
     "置天": [
       "weather"

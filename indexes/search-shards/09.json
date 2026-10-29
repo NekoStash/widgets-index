@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 36,
+  "tokenCount": 44,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -10,6 +10,9 @@
     ],
     "deviceinfo-reareye": [
       "uriroute_deviceinfo"
+    ],
+    "gu": [
+      "xiaoai_course_schedule"
     ],
     "issues": [
       "music"
@@ -32,7 +35,8 @@
     "作用": [
       "mishare",
       "pickup",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "划分": [
       "weather"
@@ -61,6 +65,9 @@
     "小米背屏能效标识主题": [
       "ecotag"
     ],
+    "屏服": [
+      "xiaoai_course_schedule"
+    ],
     "心极": [
       "schedule_reminder"
     ],
@@ -80,8 +87,14 @@
     "接抓": [
       "schedule_reminder"
     ],
+    "是否已生成": [
+      "xiaoai_course_schedule"
+    ],
     "根据电池电量自动计算": [
       "ecotag"
+    ],
+    "根标": [
+      "xiaoai_course_schedule"
     ],
     "模拟": [
       "weather"
@@ -91,6 +104,12 @@
     ],
     "灵动岛": [
       "business"
+    ],
+    "由是": [
+      "xiaoai_course_schedule"
+    ],
+    "由焦点通知驱动": [
+      "xiaoai_course_schedule"
     ],
     "的无": [
       "calendar-lite"
@@ -104,6 +123,12 @@
     ],
     "藏复": [
       "weather"
+    ],
+    "行高": [
+      "xiaoai_course_schedule"
+    ],
+    "量再": [
+      "xiaoai_course_schedule"
     ],
     "量名": [
       "ecotag"

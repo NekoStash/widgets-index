@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 37,
+  "tokenCount": 40,
   "tokens": {
     "30s": [
       "uriroute_deviceinfo"
@@ -37,6 +37,9 @@
     ],
     "最多": [
       "schedule_reminder"
+    ],
+    "务让": [
+      "xiaoai_course_schedule"
     ],
     "叉淡": [
       "schedule_reminder"
@@ -75,6 +78,9 @@
     "引擎处理息屏过渡动画": [
       "calendar-lite"
     ],
+    "或本": [
+      "xiaoai_course_schedule"
+    ],
     "接入": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -102,13 +108,17 @@
     "算当": [
       "calendar-lite"
     ],
+    "系列背屏显示课程提醒": [
+      "xiaoai_course_schedule"
+    ],
     "系统": [
       "business",
       "calendar-lite",
       "dragon_scales_clock",
       "ecotag",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "过解": [
       "schedule_reminder"

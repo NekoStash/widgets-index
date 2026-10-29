@@ -1,6 +1,6 @@
 {
   "shard": "35",
-  "tokenCount": 32,
+  "tokenCount": 37,
   "tokens": {
     "bug": [
       "weather"
@@ -20,6 +20,9 @@
     "个雪": [
       "weather"
     ],
+    "中启": [
+      "xiaoai_course_schedule"
+    ],
     "你在": [
       "business"
     ],
@@ -29,6 +32,9 @@
     "全局": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "包围盒裁切后再设定尺寸": [
+      "xiaoai_course_schedule"
     ],
     "占用": [
       "ecotag",
@@ -91,6 +97,9 @@
     "米底": [
       "business"
     ],
+    "背屏智能助手只把": [
+      "xiaoai_course_schedule"
+    ],
     "自动处理": [
       "calendar-lite"
     ],
@@ -99,6 +108,12 @@
     ],
     "超级背屏岛": [
       "business"
+    ],
+    "销版": [
+      "xiaoai_course_schedule"
+    ],
+    "青": [
+      "xiaoai_course_schedule"
     ],
     "静止状态自动挂起渲染": [
       "weather"

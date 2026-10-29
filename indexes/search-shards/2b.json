@@ -1,7 +1,13 @@
 {
   "shard": "2b",
-  "tokenCount": 39,
+  "tokenCount": 47,
   "tokens": {
+    "alpha": [
+      "xiaoai_course_schedule"
+    ],
+    "不可改名": [
+      "xiaoai_course_schedule"
+    ],
     "与小米": [
       "yuzhouhangxian"
     ],
@@ -25,6 +31,9 @@
     ],
     "动回": [
       "business"
+    ],
+    "合课": [
+      "xiaoai_course_schedule"
     ],
     "后默": [
       "uriroute_deviceinfo"
@@ -65,6 +74,9 @@
     "本项目特别针对": [
       "calendar-lite"
     ],
+    "板文": [
+      "xiaoai_course_schedule"
+    ],
     "架开": [
       "weather"
     ],
@@ -78,6 +90,9 @@
     ],
     "殊比": [
       "calendar-lite"
+    ],
+    "段写": [
+      "xiaoai_course_schedule"
     ],
     "淡入": [
       "schedule_reminder"
@@ -95,6 +110,12 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "第二行": [
+      "xiaoai_course_schedule"
+    ],
+    "级小": [
+      "xiaoai_course_schedule"
+    ],
     "素并": [
       "weather"
     ],
@@ -104,6 +125,9 @@
     "统级": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "荷绿": [
+      "xiaoai_course_schedule"
     ],
     "行": [
       "schedule_reminder"

@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 40,
+  "tokenCount": 43,
   "tokens": {
     "29": [
       "calendar-lite"
@@ -48,6 +48,9 @@
       "weather",
       "yuzhouhangxian"
     ],
+    "占原系统时钟位": [
+      "xiaoai_course_schedule"
+    ],
     "取雅": [
       "yadea_car_control"
     ],
@@ -59,6 +62,9 @@
     ],
     "完美映射超级岛": [
       "business"
+    ],
+    "屏倒": [
+      "xiaoai_course_schedule"
     ],
     "开关": [
       "ecotag",
@@ -107,6 +113,9 @@
     ],
     "能效等级": [
       "ecotag"
+    ],
+    "行标": [
+      "xiaoai_course_schedule"
     ],
     "要你": [
       "app_widget"

@@ -1,0 +1,24 @@
+{
+  "id": "xiaoai_course_schedule",
+  "name": "超级小爱课程表背屏",
+  "sourceMetadataPath": "repos/xiaoai_course_schedule/metadata.json",
+  "repository": {
+    "widgetName": "超级小爱课程表背屏",
+    "owner": "wangjianghe-h",
+    "name": "xiaoai-course-backscreen",
+    "fullName": "wangjianghe-h/xiaoai-course-backscreen",
+    "url": "https://github.com/wangjianghe-h/xiaoai-course-backscreen",
+    "description": "超级小爱的课程表背屏组件：在小米 17 Pro 系列背屏显示课程提醒（配合课程表超级岛模块 + REAREye）",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": null,
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-10-29T14:22:34Z",
+    "updatedAt": "2026-10-29T15:23:13Z",
+    "pushedAt": "2026-10-29T15:23:08Z"
+  }
+}

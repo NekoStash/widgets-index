@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 36,
+  "tokenCount": 42,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
@@ -20,6 +20,7 @@
       "pickup",
       "schedule_reminder",
       "uriroute_deviceinfo",
+      "xiaoai_course_schedule",
       "yadea_car_control",
       "yuzhouhangxian"
     ],
@@ -30,7 +31,8 @@
       "app_widget",
       "business",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "与充": [
       "ecotag"
@@ -44,6 +46,9 @@
     "低待": [
       "schedule_reminder"
     ],
+    "倒计": [
+      "xiaoai_course_schedule"
+    ],
     "内置强大的关键词匹配引擎": [
       "business"
     ],
@@ -56,8 +61,14 @@
     "合正": [
       "weather"
     ],
+    "屏个": [
+      "xiaoai_course_schedule"
+    ],
     "已锁": [
       "yadea_car_control"
+    ],
+    "布局避开摄像头": [
+      "xiaoai_course_schedule"
     ],
     "度降": [
       "calendar-lite"
@@ -95,6 +106,9 @@
     "电规": [
       "schedule_reminder"
     ],
+    "留一": [
+      "xiaoai_course_schedule"
+    ],
     "码默": [
       "calendar-lite"
     ],
@@ -110,8 +124,14 @@
     "调度": [
       "weather"
     ],
+    "起止": [
+      "xiaoai_course_schedule"
+    ],
     "载值": [
       "uriroute_deviceinfo"
+    ],
+    "醒卡": [
+      "xiaoai_course_schedule"
     ],
     "重启背屏": [
       "hyper-pick-up-code"

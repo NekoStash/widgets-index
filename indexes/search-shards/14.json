@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 44,
+  "tokenCount": 48,
   "tokens": {
     "210": [
       "weather"
@@ -52,6 +52,9 @@
     "历日": [
       "schedule_reminder"
     ],
+    "后再": [
+      "xiaoai_course_schedule"
+    ],
     "后重": [
       "mishare",
       "pickup",
@@ -59,6 +62,9 @@
     ],
     "在手": [
       "business"
+    ],
+    "块把": [
+      "xiaoai_course_schedule"
     ],
     "多云": [
       "weather"
@@ -72,9 +78,16 @@
     "您手": [
       "app_widget"
     ],
+    "或本仓库作者的背屏分支": [
+      "xiaoai_course_schedule"
+    ],
     "摄像": [
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
+    ],
+    "教师": [
+      "xiaoai_course_schedule"
     ],
     "数据依赖": [
       "weather"
@@ -101,7 +114,8 @@
       "business"
     ],
     "熄屏": [
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "用下": [
       "uriroute_deviceinfo"

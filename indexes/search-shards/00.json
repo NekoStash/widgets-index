@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 43,
+  "tokenCount": 46,
   "tokens": {
     "devices": [
       "music"
@@ -60,7 +60,8 @@
       "business",
       "ecotag",
       "uriroute_deviceinfo",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "屏课": [
       "course_schedule"
@@ -99,6 +100,9 @@
     "用列": [
       "kingxv"
     ],
+    "用字": [
+      "xiaoai_course_schedule"
+    ],
     "电源": [
       "yadea_car_control"
     ],
@@ -107,6 +111,9 @@
     ],
     "称可": [
       "hyper-pick-up-code"
+    ],
+    "线与": [
+      "xiaoai_course_schedule"
     ],
     "网格": [
       "calendar-lite"
@@ -122,6 +129,9 @@
     ],
     "设计": [
       "yuzhouhangxian"
+    ],
+    "重绘": [
+      "xiaoai_course_schedule"
     ],
     "量显": [
       "ecotag"

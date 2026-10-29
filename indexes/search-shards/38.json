@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 47,
+  "tokenCount": 53,
   "tokens": {
     "assets": [
       "business",
@@ -22,8 +22,14 @@
     "一起": [
       "weather"
     ],
+    "三行": [
+      "xiaoai_course_schedule"
+    ],
     "上面填写的组件名称": [
       "hyper-pick-up-code"
+    ],
+    "不到": [
+      "xiaoai_course_schedule"
     ],
     "专属背屏适配": [
       "weather"
@@ -34,12 +40,21 @@
     "中提": [
       "dragon_scales_clock"
     ],
+    "为超": [
+      "xiaoai_course_schedule"
+    ],
     "仅在": [
       "weather",
       "yuzhouhangxian"
     ],
+    "件信": [
+      "xiaoai_course_schedule"
+    ],
     "件模": [
       "hyper-pick-up-code"
+    ],
+    "件管": [
+      "xiaoai_course_schedule"
     ],
     "优化性能或改进布局": [
       "weather"
@@ -49,6 +64,9 @@
     ],
     "依靠": [
       "calendar-lite"
+    ],
+    "切后": [
+      "xiaoai_course_schedule"
     ],
     "前台": [
       "business"
@@ -64,7 +82,8 @@
     ],
     "变量": [
       "calendar-lite",
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "名称": [
       "hyper-pick-up-code"
@@ -143,13 +162,15 @@
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "配到": [
       "business"
     ],
     "重新": [
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "xiaoai_course_schedule"
     ],
     "隐藏电量胶囊": [
       "ecotag"

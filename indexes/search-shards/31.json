@@ -1,13 +1,14 @@
 {
   "shard": "31",
-  "tokenCount": 48,
+  "tokenCount": 54,
   "tokens": {
     "17": [
       "business",
       "calendar-lite",
       "course_schedule",
       "schedule_reminder",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "colors": [
       "music"
@@ -39,6 +40,9 @@
       "hyper-pick-up-code",
       "weather"
     ],
+    "会被过滤": [
+      "xiaoai_course_schedule"
+    ],
     "最新测试版本": [
       "hyper-pick-up-code"
     ],
@@ -50,11 +54,13 @@
     ],
     "包含": [
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "卡片": [
       "app_widget",
       "back_screen_desktop",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "及其": [
@@ -69,6 +75,12 @@
     ],
     "合作": [
       "yuzhouhangxian"
+    ],
+    "否已": [
+      "xiaoai_course_schedule"
+    ],
+    "域包": [
+      "xiaoai_course_schedule"
     ],
     "基准": [
       "calendar-lite"
@@ -133,6 +145,9 @@
     "焦点通知": [
       "schedule_reminder"
     ],
+    "片位": [
+      "xiaoai_course_schedule"
+    ],
     "率降": [
       "business",
       "weather"
@@ -146,7 +161,11 @@
     "电量胶囊": [
       "ecotag"
     ],
+    "确定": [
+      "xiaoai_course_schedule"
+    ],
     "符串": [
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "系列背屏上显示课程表": [
@@ -160,6 +179,9 @@
     ],
     "能调": [
       "weather"
+    ],
+    "认变": [
+      "xiaoai_course_schedule"
     ],
     "记的": [
       "hyper-pick-up-code",

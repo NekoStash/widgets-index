@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 44,
+  "tokenCount": 49,
   "tokens": {
     "an": [
       "music"
@@ -11,6 +11,9 @@
     ],
     "dragon-scales-clock-wallpaper": [
       "dragon_scales_clock"
+    ],
+    "epoch": [
+      "xiaoai_course_schedule"
     ],
     "frame": [
       "calendar-lite"
@@ -115,8 +118,17 @@
     "生硬": [
       "calendar-lite"
     ],
+    "的动态放行不够": [
+      "xiaoai_course_schedule"
+    ],
+    "的坑": [
+      "xiaoai_course_schedule"
+    ],
     "的背屏": [
       "weather"
+    ],
+    "第三": [
+      "xiaoai_course_schedule"
     ],
     "米所": [
       "dragon_scales_clock"
@@ -139,13 +151,17 @@
     ],
     "解析": [
       "business",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "识主": [
       "ecotag"
     ],
     "贡献": [
       "weather"
+    ],
+    "过滤": [
+      "xiaoai_course_schedule"
     ]
   }
 }

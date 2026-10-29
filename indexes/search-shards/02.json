@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 34,
+  "tokenCount": 42,
   "tokens": {
     "skip": [
       "music"
@@ -12,7 +12,11 @@
       "uriroute_deviceinfo"
     ],
     "位置": [
-      "calendar-lite"
+      "calendar-lite",
+      "xiaoai_course_schedule"
+    ],
+    "删掉": [
+      "xiaoai_course_schedule"
     ],
     "动计": [
       "calendar-lite",
@@ -24,12 +28,21 @@
     "参照现有逻辑添加新的": [
       "business"
     ],
+    "只认变量": [
+      "xiaoai_course_schedule"
+    ],
     "可在": [
       "back_screen_desktop"
     ],
     "启动": [
       "back_screen_desktop",
       "yadea_car_control"
+    ],
+    "启用": [
+      "xiaoai_course_schedule"
+    ],
+    "四行": [
+      "xiaoai_course_schedule"
     ],
     "地写": [
       "calendar-lite"
@@ -39,6 +52,12 @@
     ],
     "它的": [
       "calendar-lite"
+    ],
+    "实测会丢卡片": [
+      "xiaoai_course_schedule"
+    ],
+    "对该包的": [
+      "xiaoai_course_schedule"
     ],
     "局缩": [
       "calendar-lite",
@@ -59,6 +78,9 @@
     ],
     "时长": [
       "ecotag"
+    ],
+    "条通": [
+      "xiaoai_course_schedule"
     ],
     "沪上阿姨": [
       "business"
@@ -85,7 +107,8 @@
     "目标": [
       "business",
       "hyper-pick-up-code",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "码基": [
       "business"
@@ -102,6 +125,9 @@
     "能实": [
       "business"
     ],
+    "解析必须走": [
+      "xiaoai_course_schedule"
+    ],
     "进行": [
       "business",
       "calendar-lite",
@@ -109,7 +135,8 @@
       "weather"
     ],
     "配置": [
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "静止": [
       "weather"

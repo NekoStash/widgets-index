@@ -1,9 +1,18 @@
 {
   "shard": "12",
-  "tokenCount": 24,
+  "tokenCount": 34,
   "tokens": {
     "一点": [
       "business"
+    ],
+    "件路": [
+      "xiaoai_course_schedule"
+    ],
+    "会被": [
+      "xiaoai_course_schedule"
+    ],
+    "传给": [
+      "xiaoai_course_schedule"
     ],
     "何外": [
       "calendar-lite"
@@ -14,11 +23,16 @@
       "mishare",
       "pickup",
       "schedule_reminder",
-      "uriroute_deviceinfo"
+      "uriroute_deviceinfo",
+      "xiaoai_course_schedule"
+    ],
+    "再设": [
+      "xiaoai_course_schedule"
     ],
     "图标": [
       "business",
-      "kingxv"
+      "kingxv",
+      "xiaoai_course_schedule"
     ],
     "图片": [
       "calendar-lite",
@@ -26,6 +40,12 @@
     ],
     "外屏": [
       "schedule_reminder"
+    ],
+    "字折两行": [
+      "xiaoai_course_schedule"
+    ],
+    "字数": [
+      "xiaoai_course_schedule"
     ],
     "态自": [
       "business",
@@ -50,6 +70,9 @@
     ],
     "根据电量显示": [
       "ecotag"
+    ],
+    "橙色": [
+      "xiaoai_course_schedule"
     ],
     "歌词": [
       "music"
@@ -77,6 +100,9 @@
     "背屏日历焦点版": [
       "schedule_reminder"
     ],
+    "行不": [
+      "xiaoai_course_schedule"
+    ],
     "设备": [
       "business",
       "uriroute_deviceinfo",
@@ -84,6 +110,12 @@
     ],
     "车控卡片": [
       "yadea_car_control"
+    ],
+    "选择文件": [
+      "xiaoai_course_schedule"
+    ],
+    "通知与路由": [
+      "xiaoai_course_schedule"
     ],
     "阿姨": [
       "business"

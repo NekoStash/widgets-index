@@ -1,7 +1,10 @@
 {
   "shard": "3e",
-  "tokenCount": 35,
+  "tokenCount": 42,
   "tokens": {
+    "296px": [
+      "xiaoai_course_schedule"
+    ],
     "about": [
       "music"
     ],
@@ -13,6 +16,9 @@
     ],
     "pull": [
       "weather"
+    ],
+    "xiaoai-course-backscreen": [
+      "xiaoai_course_schedule"
     ],
     "与进": [
       "business"
@@ -34,7 +40,8 @@
     ],
     "像头": [
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "全依": [
       "calendar-lite"
@@ -48,6 +55,9 @@
     "安装前提": [
       "hyper-pick-up-code"
     ],
+    "实测": [
+      "xiaoai_course_schedule"
+    ],
     "小": [
       "weather"
     ],
@@ -59,6 +69,9 @@
       "mishare",
       "weather",
       "yadea_car_control"
+    ],
+    "已生": [
+      "xiaoai_course_schedule"
     ],
     "并非生硬地写死": [
       "calendar-lite"
@@ -88,6 +101,9 @@
     "月天数": [
       "calendar-lite"
     ],
+    "析必": [
+      "xiaoai_course_schedule"
+    ],
     "池电": [
       "ecotag"
     ],
@@ -99,6 +115,12 @@
     ],
     "若未": [
       "business"
+    ],
+    "规则": [
+      "xiaoai_course_schedule"
+    ],
+    "起止时间": [
+      "xiaoai_course_schedule"
     ],
     "通过": [
       "business",

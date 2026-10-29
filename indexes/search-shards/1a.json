@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 38,
+  "tokenCount": 43,
   "tokens": {
     "current": [
       "music"
@@ -15,10 +15,14 @@
       "schedule_reminder"
     ],
     "一条": [
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "与副": [
       "weather"
+    ],
+    "与路": [
+      "xiaoai_course_schedule"
     ],
     "了过": [
       "calendar-lite"
@@ -68,7 +72,11 @@
     ],
     "左侧": [
       "calendar-lite",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
+    ],
+    "库作": [
+      "xiaoai_course_schedule"
     ],
     "引擎": [
       "business",
@@ -84,13 +92,21 @@
       "calendar-lite",
       "ecotag",
       "schedule_reminder",
+      "xiaoai_course_schedule",
       "yadea_car_control"
+    ],
+    "核对": [
+      "xiaoai_course_schedule"
+    ],
+    "然后核对": [
+      "xiaoai_course_schedule"
     ],
     "特殊": [
       "calendar-lite"
     ],
     "生成": [
-      "calendar-lite"
+      "calendar-lite",
+      "xiaoai_course_schedule"
     ],
     "画幅识别逻辑": [
       "schedule_reminder"
@@ -121,6 +137,9 @@
     ],
     "配焦": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "重启背屏服务让模板重新部署": [
+      "xiaoai_course_schedule"
     ],
     "雨天": [
       "weather"

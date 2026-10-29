@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 33,
+  "tokenCount": 35,
   "tokens": {
     "450": [
       "weather"
@@ -39,13 +39,15 @@
       "yadea_car_control"
     ],
     "启背": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "xiaoai_course_schedule"
     ],
     "在息屏时透明度降至": [
       "calendar-lite"
     ],
     "块的": [
-      "business"
+      "business",
+      "xiaoai_course_schedule"
     ],
     "字": [
       "ecotag"
@@ -74,6 +76,9 @@
     "根据真实宽高比计算全局缩放系数": [
       "schedule_reminder"
     ],
+    "此模": [
+      "xiaoai_course_schedule"
+    ],
     "澎湃": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
@@ -89,6 +94,9 @@
     ],
     "续航": [
       "weather"
+    ],
+    "表超": [
+      "xiaoai_course_schedule"
     ],
     "识别": [
       "business",

@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 36,
+  "tokenCount": 41,
   "tokens": {
     "art": [
       "music"
@@ -24,8 +24,14 @@
     "低功": [
       "business"
     ],
+    "作用域包含": [
+      "xiaoai_course_schedule"
+    ],
     "例的": [
       "business"
+    ],
+    "到卡": [
+      "xiaoai_course_schedule"
     ],
     "化性": [
       "weather"
@@ -36,6 +42,9 @@
     ],
     "堆叠法": [
       "calendar-lite"
+    ],
+    "字折": [
+      "xiaoai_course_schedule"
     ],
     "对齐到了日历第一列": [
       "calendar-lite"
@@ -111,6 +120,12 @@
     ],
     "设备兼容性": [
       "business"
+    ],
+    "避开": [
+      "xiaoai_course_schedule"
+    ],
+    "部橙": [
+      "xiaoai_course_schedule"
     ],
     "针对": [
       "business",

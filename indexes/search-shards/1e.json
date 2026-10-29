@@ -1,9 +1,12 @@
 {
   "shard": "1e",
-  "tokenCount": 52,
+  "tokenCount": 59,
   "tokens": {
     "artist": [
       "music"
+    ],
+    "backscreen": [
+      "xiaoai_course_schedule"
     ],
     "com": [
       "course_schedule",
@@ -21,6 +24,9 @@
     ],
     "progresses": [
       "music"
+    ],
+    "wangjianghe": [
+      "xiaoai_course_schedule"
     ],
     "下素": [
       "weather"
@@ -97,6 +103,9 @@
     "持车": [
       "yadea_car_control"
     ],
+    "掉后": [
+      "xiaoai_course_schedule"
+    ],
     "无法": [
       "kingxv",
       "uriroute_deviceinfo"
@@ -131,14 +140,24 @@
     "片和": [
       "app_widget"
     ],
+    "省约": [
+      "xiaoai_course_schedule"
+    ],
     "视觉重心极度稳定": [
       "schedule_reminder"
     ],
     "站找": [
       "back_screen_desktop"
     ],
+    "第三行": [
+      "xiaoai_course_schedule"
+    ],
+    "等于": [
+      "xiaoai_course_schedule"
+    ],
     "管理": [
-      "hyper-pick-up-code"
+      "hyper-pick-up-code",
+      "xiaoai_course_schedule"
     ],
     "系数": [
       "calendar-lite",
@@ -155,7 +174,8 @@
       "ecotag"
     ],
     "课程": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
     ],
     "锁车": [
       "yadea_car_control"
@@ -165,6 +185,9 @@
     ],
     "雅迪": [
       "yadea_car_control"
+    ],
+    "须走": [
+      "xiaoai_course_schedule"
     ]
   }
 }

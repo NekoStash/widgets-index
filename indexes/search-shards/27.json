@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 45,
+  "tokenCount": 53,
   "tokens": {
     "aod": [
       "business",
@@ -39,6 +39,9 @@
     "与背": [
       "business"
     ],
+    "中启用": [
+      "xiaoai_course_schedule"
+    ],
     "会提": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
@@ -58,10 +61,16 @@
     "取整": [
       "calendar-lite"
     ],
+    "右上角为超级小爱图标": [
+      "xiaoai_course_schedule"
+    ],
     "同时": [
       "mishare",
       "pickup",
       "yuzhouhangxian"
+    ],
+    "后背": [
+      "xiaoai_course_schedule"
     ],
     "向未知的星域航行": [
       "yuzhouhangxian"
@@ -90,7 +99,8 @@
       "uriroute_deviceinfo"
     ],
     "提醒": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "播报": [
       "weather"
@@ -134,6 +144,9 @@
       "weather",
       "yuzhouhangxian"
     ],
+    "程字": [
+      "xiaoai_course_schedule"
+    ],
     "精准排版": [
       "schedule_reminder"
     ],
@@ -144,13 +157,26 @@
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare",
-      "pickup"
+      "pickup",
+      "xiaoai_course_schedule"
     ],
     "色版": [
       "yuzhouhangxian"
     ],
     "行状": [
       "yadea_car_control"
+    ],
+    "课程表超级岛": [
+      "xiaoai_course_schedule"
+    ],
+    "赋字": [
+      "xiaoai_course_schedule"
+    ],
+    "超级小爱的课程表背屏组件": [
+      "xiaoai_course_schedule"
+    ],
+    "足够": [
+      "xiaoai_course_schedule"
     ],
     "转化": [
       "mishare",

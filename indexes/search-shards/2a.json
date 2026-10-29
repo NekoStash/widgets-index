@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 40,
+  "tokenCount": 41,
   "tokens": {
     "animations": [
       "music"
@@ -16,6 +16,7 @@
       "ecotag",
       "schedule_reminder",
       "weather",
+      "xiaoai_course_schedule",
       "yuzhouhangxian"
     ],
     "modules": [
@@ -90,10 +91,14 @@
     "点通": [
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "现极": [
       "schedule_reminder"
+    ],
+    "现要": [
+      "xiaoai_course_schedule"
     ],
     "用方": [
       "mishare",
@@ -104,7 +109,8 @@
       "schedule_reminder"
     ],
     "知与": [
-      "business"
+      "business",
+      "xiaoai_course_schedule"
     ],
     "站找到": [
       "back_screen_desktop"

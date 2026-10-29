@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 34,
+  "tokenCount": 40,
   "tokens": {
     "80": [
       "ecotag"
@@ -30,17 +30,32 @@
       "schedule_reminder",
       "uriroute_deviceinfo"
     ],
+    "不可": [
+      "xiaoai_course_schedule"
+    ],
     "亮屏瞬间秒切": [
       "calendar-lite"
     ],
+    "制放": [
+      "xiaoai_course_schedule"
+    ],
     "动态自适应布局": [
       "business"
+    ],
+    "只把": [
+      "xiaoai_course_schedule"
+    ],
+    "固定": [
+      "xiaoai_course_schedule"
     ],
     "安卓": [
       "app_widget"
     ],
     "安装后并不会自动添加卡片": [
       "app_widget"
+    ],
+    "定尺": [
+      "xiaoai_course_schedule"
     ],
     "实时": [
       "business",
@@ -67,6 +82,9 @@
     ],
     "沪上": [
       "business"
+    ],
+    "沿对": [
+      "xiaoai_course_schedule"
     ],
     "爷爷不泡茶": [
       "business"
@@ -112,10 +130,12 @@
       "hyper-pick-up-code",
       "mishare",
       "pickup",
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "须搭": [
-      "course_schedule"
+      "course_schedule",
+      "xiaoai_course_schedule"
     ]
   }
 }
