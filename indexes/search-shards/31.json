@@ -1,6 +1,6 @@
 {
   "shard": "31",
-  "tokenCount": 54,
+  "tokenCount": 56,
   "tokens": {
     "17": [
       "business",
@@ -116,6 +116,9 @@
     "底抛": [
       "calendar-lite"
     ],
+    "折行": [
+      "xiaoai_course_schedule"
+    ],
     "据通": [
       "yadea_car_control"
     ],
@@ -134,6 +137,9 @@
     ],
     "日程": [
       "schedule_reminder"
+    ],
+    "标位": [
+      "xiaoai_course_schedule"
     ],
     "格坐": [
       "calendar-lite"

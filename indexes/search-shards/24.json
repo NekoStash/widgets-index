@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 33,
+  "tokenCount": 34,
   "tokens": {
     "98": [
       "xiaoai_course_schedule"
@@ -91,6 +91,9 @@
     ],
     "若未匹配到已知品牌": [
       "business"
+    ],
+    "课中": [
+      "xiaoai_course_schedule"
     ],
     "这条路由是": [
       "xiaoai_course_schedule"

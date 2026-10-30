@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 45,
+  "tokenCount": 50,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -20,8 +20,14 @@
     "the": [
       "music"
     ],
+    "上课中": [
+      "xiaoai_course_schedule"
+    ],
     "下显": [
       "yuzhouhangxian"
+    ],
+    "下课": [
+      "xiaoai_course_schedule"
     ],
     "于该": [
       "uriroute_deviceinfo"
@@ -42,6 +48,9 @@
       "weather"
     ],
     "包围": [
+      "xiaoai_course_schedule"
+    ],
+    "只有": [
       "xiaoai_course_schedule"
     ],
     "可自": [
@@ -82,6 +91,12 @@
     "抓取": [
       "schedule_reminder"
     ],
+    "整块": [
+      "xiaoai_course_schedule"
+    ],
+    "方一": [
+      "xiaoai_course_schedule"
+    ],
     "是横": [
       "kingxv"
     ],
@@ -116,6 +131,9 @@
     "统通": [
       "schedule_reminder"
     ],
+    "缩到": [
+      "xiaoai_course_schedule"
+    ],
     "者说": [
       "business"
     ],
@@ -134,9 +152,6 @@
     "资产": [
       "business",
       "weather"
-    ],
-    "锚点": [
-      "xiaoai_course_schedule"
     ],
     "驱动": [
       "hyper-pick-up-code",

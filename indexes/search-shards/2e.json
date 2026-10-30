@@ -1,6 +1,6 @@
 {
   "shard": "2e",
-  "tokenCount": 35,
+  "tokenCount": 36,
   "tokens": {
     "custom": [
       "music"
@@ -60,6 +60,9 @@
     "日出": [
       "weather"
     ],
+    "条件": [
+      "xiaoai_course_schedule"
+    ],
     "根据": [
       "ecotag",
       "schedule_reminder",
@@ -75,7 +78,8 @@
       "business"
     ],
     "白色": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "的原始数据流": [
       "schedule_reminder"

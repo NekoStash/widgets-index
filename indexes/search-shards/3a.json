@@ -1,6 +1,6 @@
 {
   "shard": "3a",
-  "tokenCount": 48,
+  "tokenCount": 53,
   "tokens": {
     "ecotag": [
       "ecotag"
@@ -32,6 +32,9 @@
     "他具": [
       "weather"
     ],
+    "位细": [
+      "xiaoai_course_schedule"
+    ],
     "作者": [
       "ecotag",
       "xiaoai_course_schedule",
@@ -39,12 +42,10 @@
     ],
     "依赖": [
       "business",
-      "weather",
-      "xiaoai_course_schedule"
+      "weather"
     ],
     "判断": [
-      "ecotag",
-      "xiaoai_course_schedule"
+      "ecotag"
     ],
     "刻的": [
       "yuzhouhangxian"
@@ -80,6 +81,9 @@
       "pickup",
       "schedule_reminder"
     ],
+    "已下": [
+      "xiaoai_course_schedule"
+    ],
     "已内置": [
       "kingxv"
     ],
@@ -100,6 +104,9 @@
     ],
     "斯汀": [
       "business"
+    ],
+    "无条": [
+      "xiaoai_course_schedule"
     ],
     "日历日程": [
       "schedule_reminder"
@@ -138,6 +145,12 @@
     ],
     "落时": [
       "weather"
+    ],
+    "蓝竖": [
+      "xiaoai_course_schedule"
+    ],
+    "觉空": [
+      "xiaoai_course_schedule"
     ],
     "词识": [
       "business"

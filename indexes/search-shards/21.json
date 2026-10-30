@@ -1,6 +1,6 @@
 {
   "shard": "21",
-  "tokenCount": 45,
+  "tokenCount": 48,
   "tokens": {
     "car": [
       "yadea_car_control"
@@ -40,6 +40,9 @@
     ],
     "可自定义": [
       "ecotag"
+    ],
+    "否则会出现视觉空洞": [
+      "xiaoai_course_schedule"
     ],
     "在小米": [
       "course_schedule",
@@ -148,6 +151,9 @@
     "设定": [
       "xiaoai_course_schedule"
     ],
+    "起不": [
+      "xiaoai_course_schedule"
+    ],
     "载专": [
       "business"
     ],
@@ -161,6 +167,9 @@
     ],
     "间变": [
       "calendar-lite"
+    ],
+    "随内": [
+      "xiaoai_course_schedule"
     ]
   }
 }

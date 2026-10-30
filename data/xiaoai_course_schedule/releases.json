@@ -2,6 +2,39 @@
   "id": "xiaoai_course_schedule",
   "releases": [
     {
+      "id": 429182226,
+      "tagName": "v1.2.0",
+      "name": "超级小爱课程表背屏 v1.2.0",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-10-30T15:16:00Z",
+      "publishedAt": "2026-10-30T15:19:58Z",
+      "url": "https://github.com/wangjianghe-h/xiaoai-course-backscreen/releases/tag/v1.2.0",
+      "body": "<h2 dir=\"auto\">变更</h2>\n<ul dir=\"auto\">\n<li>标题按 4 字一行折行（7 字 → 4+3），不再与右上角小爱图标相碰</li>\n<li>教室行：12 字以内单行，超长自动两行，不再被省略</li>\n<li>移除节次 / 教师行</li>\n<li>细分割线 + 倒计时页脚，教室与倒计时之间不再留空行</li>\n<li>蓝色竖线随内容自适应，无倒计时时自动缩短</li>\n<li>作者署名：W.J.</li>\n</ul>\n<h2 dir=\"auto\">安装</h2>\n<p dir=\"auto\">下载 <code class=\"notranslate\">xiaoai_course_schedule.zip</code> 后在 REAREye 组件管理中导入；路由必须保留 <code class=\"notranslate\">com.miui.voiceassist</code> + <code class=\"notranslate\">regex:.*</code>。</p>",
+      "assets": [
+        {
+          "id": 692505064,
+          "name": "xiaoai_course_schedule.zip",
+          "label": null,
+          "size": 19581,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 1,
+          "createdAt": "2026-10-30T15:19:31Z",
+          "updatedAt": "2026-10-30T15:19:33Z",
+          "downloadUrl": "https://github.com/wangjianghe-h/xiaoai-course-backscreen/releases/download/v1.2.0/xiaoai_course_schedule.zip"
+        }
+      ],
+      "widgetInfo": {
+        "type": "notification",
+        "minVersion": 251,
+        "name": "超级小爱课程表背屏",
+        "business_setup": {
+          "id": "xiaoai_course_schedule",
+          "renameable": false
+        }
+      }
+    },
+    {
       "id": 428034725,
       "tagName": "v1.1.0",
       "name": "超级小爱课程表背屏 v1.1.0",

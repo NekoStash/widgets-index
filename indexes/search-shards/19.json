@@ -1,7 +1,10 @@
 {
   "shard": "19",
-  "tokenCount": 44,
+  "tokenCount": 47,
   "tokens": {
+    "26": [
+      "xiaoai_course_schedule"
+    ],
     "audio": [
       "music"
     ],
@@ -17,6 +20,9 @@
     ],
     "上显": [
       "course_schedule",
+      "xiaoai_course_schedule"
+    ],
+    "上课": [
       "xiaoai_course_schedule"
     ],
     "丰富": [
@@ -63,6 +69,9 @@
       "calendar-lite",
       "ecotag",
       "schedule_reminder"
+    ],
+    "字左右": [
+      "xiaoai_course_schedule"
     ],
     "字段": [
       "xiaoai_course_schedule",

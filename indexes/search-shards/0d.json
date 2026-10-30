@@ -1,6 +1,6 @@
 {
   "shard": "0d",
-  "tokenCount": 46,
+  "tokenCount": 47,
   "tokens": {
     "are": [
       "music"
@@ -43,6 +43,9 @@
     ],
     "备特": [
       "calendar-lite"
+    ],
+    "字按": [
+      "xiaoai_course_schedule"
     ],
     "完整": [
       "weather"

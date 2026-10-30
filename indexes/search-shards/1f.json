@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 40,
+  "tokenCount": 41,
   "tokens": {
     "30s": [
       "uriroute_deviceinfo"
@@ -118,6 +118,9 @@
       "ecotag",
       "schedule_reminder",
       "weather",
+      "xiaoai_course_schedule"
+    ],
+    "超长自动两行": [
       "xiaoai_course_schedule"
     ],
     "过解": [

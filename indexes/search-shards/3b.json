@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 50,
+  "tokenCount": 52,
   "tokens": {
     "60": [
       "xiaoai_course_schedule"
@@ -94,11 +94,17 @@
     "将一": [
       "weather"
     ],
+    "将开": [
+      "xiaoai_course_schedule"
+    ],
     "屏过": [
       "calendar-lite"
     ],
     "抛弃": [
       "calendar-lite"
+    ],
+    "报这": [
+      "xiaoai_course_schedule"
     ],
     "收数": [
       "yadea_car_control"
@@ -123,16 +129,14 @@
       "xiaoai_course_schedule"
     ],
     "样式": [
-      "business"
+      "business",
+      "xiaoai_course_schedule"
     ],
     "样透": [
       "xiaoai_course_schedule"
     ],
     "源状": [
       "yadea_car_control"
-    ],
-    "点不": [
-      "xiaoai_course_schedule"
     ],
     "焦点通知版": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -156,6 +160,9 @@
     ],
     "经过": [
       "schedule_reminder"
+    ],
+    "行排": [
+      "xiaoai_course_schedule"
     ],
     "装方": [
       "hyper-pick-up-code"

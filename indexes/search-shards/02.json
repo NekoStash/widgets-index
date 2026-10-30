@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 42,
+  "tokenCount": 46,
   "tokens": {
     "skip": [
       "music"
@@ -16,6 +16,9 @@
       "xiaoai_course_schedule"
     ],
     "删掉": [
+      "xiaoai_course_schedule"
+    ],
+    "到教": [
       "xiaoai_course_schedule"
     ],
     "动计": [
@@ -56,6 +59,12 @@
     "实测会丢卡片": [
       "xiaoai_course_schedule"
     ],
+    "容垂": [
+      "xiaoai_course_schedule"
+    ],
+    "宽实": [
+      "xiaoai_course_schedule"
+    ],
     "对该包的": [
       "xiaoai_course_schedule"
     ],
@@ -75,6 +84,9 @@
     ],
     "放算": [
       "business"
+    ],
+    "教室行与倒计时之间不预留空行": [
+      "xiaoai_course_schedule"
     ],
     "时长": [
       "ecotag"

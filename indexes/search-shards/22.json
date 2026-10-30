@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 40,
+  "tokenCount": 41,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -21,9 +21,6 @@
     ],
     "与文": [
       "schedule_reminder"
-    ],
-    "与标": [
-      "xiaoai_course_schedule"
     ],
     "中修": [
       "calendar-lite"
@@ -56,6 +53,9 @@
     ],
     "天划": [
       "weather"
+    ],
+    "字一": [
+      "xiaoai_course_schedule"
     ],
     "射超": [
       "business"
@@ -119,6 +119,9 @@
       "ecotag"
     ],
     "竖线": [
+      "xiaoai_course_schedule"
+    ],
+    "行宽": [
       "xiaoai_course_schedule"
     ],
     "踩过的坑": [

@@ -1,6 +1,6 @@
 {
   "shard": "3e",
-  "tokenCount": 42,
+  "tokenCount": 47,
   "tokens": {
     "296px": [
       "xiaoai_course_schedule"
@@ -37,6 +37,9 @@
     ],
     "位划": [
       "calendar-lite"
+    ],
+    "倒计时": [
+      "xiaoai_course_schedule"
     ],
     "像头": [
       "calendar-lite",
@@ -116,6 +119,9 @@
     "若未": [
       "business"
     ],
+    "蓝色竖线随内容高度自适应": [
+      "xiaoai_course_schedule"
+    ],
     "规则": [
       "xiaoai_course_schedule"
     ],
@@ -131,8 +137,17 @@
       "yadea_car_control",
       "yuzhouhangxian"
     ],
+    "重排": [
+      "xiaoai_course_schedule"
+    ],
     "面可": [
       "back_screen_desktop"
+    ],
+    "页脚": [
+      "xiaoai_course_schedule"
+    ],
+    "预留": [
+      "xiaoai_course_schedule"
     ],
     "麦当": [
       "business"

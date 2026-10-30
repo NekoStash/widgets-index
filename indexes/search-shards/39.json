@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 45,
+  "tokenCount": 54,
   "tokens": {
     "coco": [
       "business"
@@ -10,6 +10,9 @@
     ],
     "yuzhouhangxian": [
       "yuzhouhangxian"
+    ],
+    "与倒": [
+      "xiaoai_course_schedule"
     ],
     "为微": [
       "weather"
@@ -37,7 +40,7 @@
       "schedule_reminder",
       "weather"
     ],
-    "固定行高": [
+    "字单": [
       "xiaoai_course_schedule"
     ],
     "它通过解析系统底层的": [
@@ -64,6 +67,9 @@
     ],
     "度定": [
       "business"
+    ],
+    "当前版本": [
+      "xiaoai_course_schedule"
     ],
     "态小": [
       "schedule_reminder"
@@ -98,11 +104,17 @@
     "条路": [
       "xiaoai_course_schedule"
     ],
+    "板不": [
+      "xiaoai_course_schedule"
+    ],
     "板重": [
       "xiaoai_course_schedule"
     ],
     "电源状态": [
       "yadea_car_control"
+    ],
+    "留字": [
+      "xiaoai_course_schedule"
     ],
     "的坐": [
       "calendar-lite",
@@ -125,6 +137,15 @@
     "胶囊": [
       "ecotag"
     ],
+    "色竖": [
+      "xiaoai_course_schedule"
+    ],
+    "行在": [
+      "xiaoai_course_schedule"
+    ],
+    "角时": [
+      "xiaoai_course_schedule"
+    ],
     "资源": [
       "weather"
     ],
@@ -138,11 +159,17 @@
       "calendar-lite",
       "weather"
     ],
+    "避免": [
+      "xiaoai_course_schedule"
+    ],
     "醒时": [
       "weather"
     ],
     "锁屏": [
       "yadea_car_control"
+    ],
+    "首个": [
+      "xiaoai_course_schedule"
     ],
     "默认": [
       "business",

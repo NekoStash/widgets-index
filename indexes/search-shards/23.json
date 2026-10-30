@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 57,
+  "tokenCount": 59,
   "tokens": {
     "feeling": [
       "music"
@@ -68,6 +68,9 @@
     "围盒": [
       "xiaoai_course_schedule"
     ],
+    "垂直": [
+      "xiaoai_course_schedule"
+    ],
     "填写以下内容": [
       "hyper-pick-up-code"
     ],
@@ -126,9 +129,6 @@
     "滴粒": [
       "weather"
     ],
-    "用字数判断": [
-      "xiaoai_course_schedule"
-    ],
     "电模": [
       "ecotag"
     ],
@@ -166,6 +166,9 @@
     "蜜雪": [
       "business"
     ],
+    "行会": [
+      "xiaoai_course_schedule"
+    ],
     "角的": [
       "calendar-lite"
     ],
@@ -183,6 +186,9 @@
     ],
     "间秒": [
       "calendar-lite"
+    ],
+    "除节": [
+      "xiaoai_course_schedule"
     ],
     "需确": [
       "uriroute_deviceinfo"

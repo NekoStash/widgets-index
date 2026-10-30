@@ -1,6 +1,6 @@
 {
   "shard": "29",
-  "tokenCount": 54,
+  "tokenCount": 60,
   "tokens": {
     "experience": [
       "music"
@@ -26,6 +26,12 @@
     "xiaomi-rearscreen-xiaoai_course_schedule": [
       "course_schedule"
     ],
+    "一行": [
+      "xiaoai_course_schedule"
+    ],
+    "不再显示节次与教师": [
+      "xiaoai_course_schedule"
+    ],
     "也能": [
       "business"
     ],
@@ -46,6 +52,9 @@
     "何责": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "则标": [
+      "xiaoai_course_schedule"
+    ],
     "功能": [
       "ecotag",
       "hyper-pick-up-code-reareye-xiaomi",
@@ -65,6 +74,9 @@
     ],
     "呼吸渐变": [
       "schedule_reminder"
+    ],
+    "块内": [
+      "xiaoai_course_schedule"
     ],
     "如果你需要在此代码基础上进行二次开发": [
       "business"
@@ -95,6 +107,9 @@
     ],
     "提取版": [
       "dragon_scales_clock"
+    ],
+    "教室单行": [
+      "xiaoai_course_schedule"
     ],
     "数值": [
       "calendar-lite"
@@ -169,6 +184,9 @@
     ],
     "铺设": [
       "calendar-lite"
+    ],
+    "须按": [
+      "xiaoai_course_schedule"
     ],
     "须等": [
       "xiaoai_course_schedule"

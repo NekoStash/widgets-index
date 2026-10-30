@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 49,
+  "tokenCount": 52,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -44,6 +44,9 @@
     "今日步数": [
       "ecotag"
     ],
+    "会上": [
+      "xiaoai_course_schedule"
+    ],
     "关内": [
       "uriroute_deviceinfo"
     ],
@@ -85,6 +88,9 @@
     "探索": [
       "weather"
     ],
+    "放约": [
+      "xiaoai_course_schedule"
+    ],
     "新部": [
       "xiaoai_course_schedule"
     ],
@@ -93,9 +99,6 @@
     ],
     "本模块通过接管底层焦点通知": [
       "business"
-    ],
-    "淡紫": [
-      "xiaoai_course_schedule"
     ],
     "滑移": [
       "calendar-lite"
@@ -142,6 +145,9 @@
     "能力有限无法做到识别应用列表": [
       "kingxv"
     ],
+    "超过": [
+      "xiaoai_course_schedule"
+    ],
     "车实": [
       "yadea_car_control"
     ],
@@ -158,6 +164,9 @@
     ],
     "需拥有": [
       "uriroute_deviceinfo"
+    ],
+    "青色": [
+      "xiaoai_course_schedule"
     ],
     "须保": [
       "xiaoai_course_schedule"

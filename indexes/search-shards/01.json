@@ -1,6 +1,6 @@
 {
   "shard": "01",
-  "tokenCount": 30,
+  "tokenCount": 33,
   "tokens": {
     "app_widget": [
       "app_widget"
@@ -16,6 +16,9 @@
     ],
     "主流": [
       "business"
+    ],
+    "从上": [
+      "xiaoai_course_schedule"
     ],
     "保仓": [
       "weather"
@@ -34,6 +37,9 @@
       "business",
       "schedule_reminder",
       "uriroute_deviceinfo",
+      "xiaoai_course_schedule"
+    ],
+    "块仍": [
       "xiaoai_course_schedule"
     ],
     "屏日": [
@@ -74,6 +80,7 @@
       "app_widget",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
+      "xiaoai_course_schedule",
       "yuzhouhangxian"
     ],
     "电压": [
@@ -88,6 +95,9 @@
     ],
     "背屏主题部件": [
       "business"
+    ],
+    "行数": [
+      "xiaoai_course_schedule"
     ],
     "表背": [
       "xiaoai_course_schedule"

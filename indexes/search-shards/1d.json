@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 51,
+  "tokenCount": 52,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -168,6 +168,9 @@
     ],
     "题部": [
       "business"
+    ],
+    "首个版本": [
+      "xiaoai_course_schedule"
     ]
   }
 }

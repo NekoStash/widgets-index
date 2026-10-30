@@ -1,6 +1,6 @@
 {
   "shard": "08",
-  "tokenCount": 40,
+  "tokenCount": 42,
   "tokens": {
     "save": [
       "music"
@@ -85,6 +85,9 @@
       "business",
       "weather"
     ],
+    "模块仍会上报这两个字段": [
+      "xiaoai_course_schedule"
+    ],
     "浸感": [
       "weather"
     ],
@@ -97,6 +100,9 @@
     "用小": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "留行": [
+      "xiaoai_course_schedule"
     ],
     "示电": [
       "uriroute_deviceinfo"

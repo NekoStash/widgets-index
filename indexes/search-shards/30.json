@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 50,
+  "tokenCount": 49,
   "tokens": {
     "equipped": [
       "music"
@@ -23,9 +23,6 @@
     "依托": [
       "business"
     ],
-    "侧竖": [
-      "xiaoai_course_schedule"
-    ],
     "内存占用": [
       "ecotag",
       "uriroute_deviceinfo"
@@ -34,6 +31,9 @@
       "hyper-pick-up-code"
     ],
     "删掉后背屏会收不到卡片": [
+      "xiaoai_course_schedule"
+    ],
+    "前版": [
       "xiaoai_course_schedule"
     ],
     "副标题与进度信息": [
@@ -126,9 +126,6 @@
     ],
     "监听": [
       "schedule_reminder"
-    ],
-    "第四": [
-      "xiaoai_course_schedule"
     ],
     "米互": [
       "mishare"

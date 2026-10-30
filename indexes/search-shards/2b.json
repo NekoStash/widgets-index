@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 47,
+  "tokenCount": 50,
   "tokens": {
     "alpha": [
       "xiaoai_course_schedule"
@@ -23,8 +23,14 @@
     "从官": [
       "dragon_scales_clock"
     ],
+    "保留字段": [
+      "xiaoai_course_schedule"
+    ],
     "停粒": [
       "weather"
+    ],
+    "出两": [
+      "xiaoai_course_schedule"
     ],
     "到车": [
       "yadea_car_control"
@@ -130,10 +136,14 @@
       "xiaoai_course_schedule"
     ],
     "行": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "览图": [
       "ecotag"
+    ],
+    "避免出现": [
+      "xiaoai_course_schedule"
     ],
     "长文": [
       "schedule_reminder"

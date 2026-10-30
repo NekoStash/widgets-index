@@ -1,6 +1,6 @@
 {
   "shard": "3d",
-  "tokenCount": 44,
+  "tokenCount": 49,
   "tokens": {
     "contributing": [
       "music"
@@ -50,6 +50,12 @@
     "利用小米系统级": [
       "calendar-lite"
     ],
+    "即将开始": [
+      "xiaoai_course_schedule"
+    ],
+    "号教": [
+      "xiaoai_course_schedule"
+    ],
     "同的": [
       "app_widget"
     ],
@@ -68,6 +74,9 @@
     "如果你需要微调它的位置": [
       "calendar-lite"
     ],
+    "字以内单行": [
+      "xiaoai_course_schedule"
+    ],
     "完整适配视障用户的读屏需求": [
       "weather"
     ],
@@ -79,7 +88,8 @@
     ],
     "当前": [
       "calendar-lite",
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "改进": [
       "weather"
@@ -105,6 +115,9 @@
     "的呼": [
       "yuzhouhangxian"
     ],
+    "示节": [
+      "xiaoai_course_schedule"
+    ],
     "签风": [
       "ecotag"
     ],
@@ -124,6 +137,9 @@
     ],
     "钟壁": [
       "dragon_scales_clock"
+    ],
+    "间行": [
+      "xiaoai_course_schedule"
     ],
     "限无": [
       "kingxv",

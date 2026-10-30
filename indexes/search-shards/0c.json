@@ -1,6 +1,6 @@
 {
   "shard": "0c",
-  "tokenCount": 55,
+  "tokenCount": 57,
   "tokens": {
     "course_schedule": [
       "course_schedule"
@@ -33,6 +33,9 @@
       "pickup",
       "schedule_reminder"
     ],
+    "从上到下只有四行内容": [
+      "xiaoai_course_schedule"
+    ],
     "他搭": [
       "business"
     ],
@@ -50,6 +53,9 @@
     ],
     "包的": [
       "business",
+      "xiaoai_course_schedule"
+    ],
+    "即将": [
       "xiaoai_course_schedule"
     ],
     "和纯": [
@@ -81,7 +87,7 @@
       "business",
       "schedule_reminder"
     ],
-    "左侧竖线与标题上沿对齐": [
+    "已下课": [
       "xiaoai_course_schedule"
     ],
     "帧挂": [

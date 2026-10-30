@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 49,
+  "tokenCount": 53,
   "tokens": {
     "an": [
       "music"
@@ -56,6 +56,9 @@
     "些常": [
       "kingxv"
     ],
+    "仍会": [
+      "xiaoai_course_schedule"
+    ],
     "依赖应用": [
       "business"
     ],
@@ -70,6 +73,9 @@
     ],
     "刻官": [
       "schedule_reminder"
+    ],
+    "加宽": [
+      "xiaoai_course_schedule"
     ],
     "加载": [
       "business"
@@ -104,6 +110,9 @@
     "无白": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "时之": [
+      "xiaoai_course_schedule"
+    ],
     "极低": [
       "business",
       "schedule_reminder"
@@ -126,6 +135,9 @@
     ],
     "的背屏": [
       "weather"
+    ],
+    "秒刷": [
+      "xiaoai_course_schedule"
     ],
     "第三": [
       "xiaoai_course_schedule"

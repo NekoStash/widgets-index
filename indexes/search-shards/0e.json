@@ -1,6 +1,6 @@
 {
   "shard": "0e",
-  "tokenCount": 48,
+  "tokenCount": 54,
   "tokens": {
     "deliver": [
       "music"
@@ -29,6 +29,9 @@
     "剩余里程": [
       "yadea_car_control"
     ],
+    "压到": [
+      "xiaoai_course_schedule"
+    ],
     "取餐码": [
       "pickup"
     ],
@@ -40,6 +43,9 @@
     ],
     "始数": [
       "schedule_reminder"
+    ],
+    "字一行折行": [
+      "xiaoai_course_schedule"
     ],
     "宇宙航线": [
       "yuzhouhangxian"
@@ -98,6 +104,9 @@
     "改美": [
       "disordered-clock"
     ],
+    "整块内容垂直居中": [
+      "xiaoai_course_schedule"
+    ],
     "日历网格自动压缩并平滑移至右侧安全区显示": [
       "calendar-lite"
     ],
@@ -150,6 +159,15 @@
     ],
     "自动适配": [
       "ecotag"
+    ],
+    "蓝色": [
+      "xiaoai_course_schedule"
+    ],
+    "起不渲染": [
+      "xiaoai_course_schedule"
+    ],
+    "超出": [
+      "xiaoai_course_schedule"
     ],
     "进一": [
       "disordered-clock"

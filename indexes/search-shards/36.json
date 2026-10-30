@@ -1,10 +1,11 @@
 {
   "shard": "36",
-  "tokenCount": 45,
+  "tokenCount": 47,
   "tokens": {
     "30": [
       "calendar-lite",
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "0fps": [
       "business"
@@ -33,6 +34,9 @@
     ],
     "前只": [
       "yadea_car_control"
+    ],
+    "号": [
+      "xiaoai_course_schedule"
     ],
     "号的": [
       "calendar-lite"
@@ -132,6 +136,9 @@
     ],
     "组件商店安装": [
       "hyper-pick-up-code"
+    ],
+    "细分割线": [
+      "xiaoai_course_schedule"
     ],
     "缩并": [
       "calendar-lite"

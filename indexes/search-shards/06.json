@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 57,
+  "tokenCount": 60,
   "tokens": {
     "power": [
       "music"
@@ -10,9 +10,6 @@
     ],
     "xposed": [
       "course_schedule"
-    ],
-    "上沿": [
-      "xiaoai_course_schedule"
     ],
     "上线": [
       "yuzhouhangxian"
@@ -26,6 +23,9 @@
     "为小": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "为每": [
+      "xiaoai_course_schedule"
     ],
     "为透": [
       "schedule_reminder"
@@ -45,6 +45,9 @@
     ],
     "修改获取雅迪车辆信息并在小米背屏展示的组件": [
       "yadea_car_control"
+    ],
+    "免出": [
+      "xiaoai_course_schedule"
     ],
     "利用小米": [
       "schedule_reminder"
@@ -109,6 +112,9 @@
     "持亮": [
       "business"
     ],
+    "教室行不要无条件预留两行": [
+      "xiaoai_course_schedule"
+    ],
     "无缝": [
       "business",
       "weather"
@@ -121,6 +127,9 @@
     ],
     "标的": [
       "calendar-lite"
+    ],
+    "次与": [
+      "xiaoai_course_schedule"
     ],
     "比计": [
       "schedule_reminder"

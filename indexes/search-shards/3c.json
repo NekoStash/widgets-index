@@ -1,6 +1,6 @@
 {
   "shard": "3c",
-  "tokenCount": 42,
+  "tokenCount": 43,
   "tokens": {
     "anserjim": [
       "dragon_scales_clock"
@@ -31,8 +31,7 @@
       "app_widget",
       "business",
       "schedule_reminder",
-      "weather",
-      "xiaoai_course_schedule"
+      "weather"
     ],
     "与充": [
       "ecotag"
@@ -72,6 +71,9 @@
     ],
     "度降": [
       "calendar-lite"
+    ],
+    "开始": [
+      "xiaoai_course_schedule"
     ],
     "开机时长": [
       "ecotag"

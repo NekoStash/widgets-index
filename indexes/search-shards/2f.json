@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 35,
+  "tokenCount": 38,
   "tokens": {
     "active": [
       "music"
@@ -25,6 +25,9 @@
     ],
     "与此": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "个版": [
+      "xiaoai_course_schedule"
     ],
     "为高": [
       "schedule_reminder"
@@ -64,6 +67,9 @@
     "奖作": [
       "yuzhouhangxian"
     ],
+    "字单行": [
+      "xiaoai_course_schedule"
+    ],
     "已开机": [
       "yadea_car_control"
     ],
@@ -100,6 +106,9 @@
     ],
     "示存": [
       "ecotag"
+    ],
+    "色加": [
+      "xiaoai_course_schedule"
     ],
     "裁边": [
       "xiaoai_course_schedule"

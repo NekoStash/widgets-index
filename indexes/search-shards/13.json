@@ -2,6 +2,9 @@
   "shard": "13",
   "tokenCount": 39,
   "tokens": {
+    "2026": [
+      "xiaoai_course_schedule"
+    ],
     "focus": [
       "business",
       "schedule_reminder"
@@ -48,14 +51,8 @@
     "多背": [
       "weather"
     ],
-    "多行": [
-      "xiaoai_course_schedule"
-    ],
     "夜晚": [
       "weather"
-    ],
-    "定行": [
-      "xiaoai_course_schedule"
     ],
     "家合": [
       "yuzhouhangxian"
@@ -102,6 +99,9 @@
     "级能效等级": [
       "ecotag"
     ],
+    "线随": [
+      "xiaoai_course_schedule"
+    ],
     "统环": [
       "weather"
     ],
@@ -123,7 +123,8 @@
       "weather"
     ],
     "高度": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ]
   }
 }

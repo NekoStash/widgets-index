@@ -31,6 +31,9 @@
     "一列": [
       "calendar-lite"
     ],
+    "与教": [
+      "xiaoai_course_schedule"
+    ],
     "与背景": [
       "business"
     ],
@@ -75,9 +78,6 @@
     ],
     "型适": [
       "ecotag"
-    ],
-    "多行标题锚点不同": [
-      "xiaoai_course_schedule"
     ],
     "屏时": [
       "calendar-lite",
@@ -130,6 +130,7 @@
     "状态": [
       "business",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "独家上线": [

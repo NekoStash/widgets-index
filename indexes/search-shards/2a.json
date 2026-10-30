@@ -1,7 +1,10 @@
 {
   "shard": "2a",
-  "tokenCount": 41,
+  "tokenCount": 47,
   "tokens": {
+    "12": [
+      "xiaoai_course_schedule"
+    ],
     "animations": [
       "music"
     ],
@@ -105,6 +108,9 @@
       "pickup",
       "schedule_reminder"
     ],
+    "留空": [
+      "xiaoai_course_schedule"
+    ],
     "省电规范": [
       "schedule_reminder"
     ],
@@ -122,11 +128,20 @@
     "纯数": [
       "calendar-lite"
     ],
+    "线加": [
+      "xiaoai_course_schedule"
+    ],
     "统开": [
       "ecotag"
     ],
     "能识": [
       "calendar-lite"
+    ],
+    "行内": [
+      "xiaoai_course_schedule"
+    ],
+    "行必": [
+      "xiaoai_course_schedule"
     ],
     "该版本需要你使用": [
       "app_widget"
@@ -136,6 +151,9 @@
     ],
     "达式": [
       "calendar-lite"
+    ],
+    "间不": [
+      "xiaoai_course_schedule"
     ],
     "零帧": [
       "calendar-lite",

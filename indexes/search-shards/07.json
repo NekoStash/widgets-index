@@ -30,7 +30,8 @@
       "weather"
     ],
     "单位": [
-      "calendar-lite"
+      "calendar-lite",
+      "xiaoai_course_schedule"
     ],
     "发送": [
       "yadea_car_control"
@@ -45,8 +46,12 @@
     "或者通过": [
       "weather"
     ],
+    "按这": [
+      "xiaoai_course_schedule"
+    ],
     "排版": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "播包": [
       "yadea_car_control"
@@ -97,9 +102,6 @@
     ],
     "需要您手动按需添加": [
       "app_widget"
-    ],
-    "题锚": [
-      "xiaoai_course_schedule"
     ]
   }
 }

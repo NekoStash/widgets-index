@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 31,
+  "tokenCount": 32,
   "tokens": {
     "automatically": [
       "music"
@@ -30,6 +30,9 @@
     "了使": [
       "weather"
     ],
+    "会压": [
+      "xiaoai_course_schedule"
+    ],
     "例和": [
       "weather"
     ],
@@ -42,6 +45,7 @@
     "刷新": [
       "business",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "幅识": [
@@ -64,7 +68,8 @@
       "weather"
     ],
     "渲染": [
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "片素": [
       "calendar-lite"

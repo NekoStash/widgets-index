@@ -1,6 +1,6 @@
 {
   "shard": "28",
-  "tokenCount": 28,
+  "tokenCount": 32,
   "tokens": {
     "ghhccghk": [
       "yadea_car_control"
@@ -10,6 +10,12 @@
     ],
     "support": [
       "music"
+    ],
+    "v1": [
+      "xiaoai_course_schedule"
+    ],
+    "上报": [
+      "xiaoai_course_schedule"
     ],
     "与模块的字段契约": [
       "xiaoai_course_schedule"
@@ -22,6 +28,9 @@
     ],
     "关机": [
       "yadea_car_control"
+    ],
+    "单位细分割线": [
+      "xiaoai_course_schedule"
     ],
     "发的": [
       "weather"
@@ -54,6 +63,9 @@
     "灵动": [
       "business",
       "schedule_reminder"
+    ],
+    "版式": [
+      "xiaoai_course_schedule"
     ],
     "牌库": [
       "business"

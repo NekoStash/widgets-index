@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 43,
+  "tokenCount": 48,
   "tokens": {
     "current": [
       "music"
@@ -24,6 +24,9 @@
     "与路": [
       "xiaoai_course_schedule"
     ],
+    "之间": [
+      "xiaoai_course_schedule"
+    ],
     "了过": [
       "calendar-lite"
     ],
@@ -45,6 +48,12 @@
     ],
     "参与贡献": [
       "weather"
+    ],
+    "右上角保留超级小爱图标位": [
+      "xiaoai_course_schedule"
+    ],
+    "后可": [
+      "xiaoai_course_schedule"
     ],
     "复刻家电能效标签风格": [
       "ecotag"
@@ -120,6 +129,9 @@
     "示当": [
       "ecotag"
     ],
+    "移除": [
+      "xiaoai_course_schedule"
+    ],
     "算全": [
       "schedule_reminder"
     ],
@@ -134,6 +146,9 @@
     ],
     "车控": [
       "yadea_car_control"
+    ],
+    "这个": [
+      "xiaoai_course_schedule"
     ],
     "配焦": [
       "hyper-pick-up-code-reareye-xiaomi"

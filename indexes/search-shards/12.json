@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 34,
+  "tokenCount": 37,
   "tokens": {
     "一点": [
       "business"
@@ -26,6 +26,9 @@
       "uriroute_deviceinfo",
       "xiaoai_course_schedule"
     ],
+    "再显": [
+      "xiaoai_course_schedule"
+    ],
     "再设": [
       "xiaoai_course_schedule"
     ],
@@ -44,7 +47,10 @@
     "字折两行": [
       "xiaoai_course_schedule"
     ],
-    "字数": [
+    "室单": [
+      "xiaoai_course_schedule"
+    ],
+    "宽后": [
       "xiaoai_course_schedule"
     ],
     "态自": [
@@ -89,6 +95,9 @@
     ],
     "的内容复制到": [
       "uriroute_deviceinfo"
+    ],
+    "直居": [
+      "xiaoai_course_schedule"
     ],
     "竖屏": [
       "kingxv"

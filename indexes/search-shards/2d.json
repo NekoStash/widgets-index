@@ -1,6 +1,6 @@
 {
   "shard": "2d",
-  "tokenCount": 42,
+  "tokenCount": 49,
   "tokens": {
     "dragon_scales_clock": [
       "dragon_scales_clock"
@@ -48,6 +48,9 @@
     "动态生成全局缩放系数": [
       "calendar-lite"
     ],
+    "占一": [
+      "xiaoai_course_schedule"
+    ],
     "压电": [
       "uriroute_deviceinfo"
     ],
@@ -70,6 +73,9 @@
     "实现极低待机功耗": [
       "schedule_reminder"
     ],
+    "室行": [
+      "xiaoai_course_schedule"
+    ],
     "层铺": [
       "calendar-lite"
     ],
@@ -84,6 +90,12 @@
     ],
     "息卡": [
       "yadea_car_control"
+    ],
+    "时时": [
+      "xiaoai_course_schedule"
+    ],
+    "有四": [
+      "xiaoai_course_schedule"
     ],
     "有进": [
       "mishare"
@@ -106,18 +118,28 @@
     "瞬间": [
       "calendar-lite"
     ],
+    "细分": [
+      "xiaoai_course_schedule"
+    ],
     "置于": [
       "business"
     ],
     "自适": [
       "business",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
     ],
     "色彩重构": [
       "schedule_reminder"
     ],
+    "行宽实测": [
+      "xiaoai_course_schedule"
+    ],
     "讯模": [
       "uriroute_deviceinfo"
+    ],
+    "超长": [
+      "xiaoai_course_schedule"
     ],
     "过留": [
       "yuzhouhangxian"

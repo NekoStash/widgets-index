@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 35,
+  "tokenCount": 38,
   "tokens": {
     "450": [
       "weather"
@@ -50,7 +50,8 @@
       "xiaoai_course_schedule"
     ],
     "字": [
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "字的": [
       "schedule_reminder"
@@ -69,6 +70,9 @@
     ],
     "循环": [
       "ecotag"
+    ],
+    "教室只占一行": [
+      "xiaoai_course_schedule"
     ],
     "数据流": [
       "schedule_reminder"
@@ -95,6 +99,9 @@
     "续航": [
       "weather"
     ],
+    "蓝竖线加长": [
+      "xiaoai_course_schedule"
+    ],
     "表超": [
       "xiaoai_course_schedule"
     ],
@@ -103,6 +110,9 @@
       "calendar-lite",
       "kingxv",
       "schedule_reminder"
+    ],
+    "超出两行": [
+      "xiaoai_course_schedule"
     ],
     "载为": [
       "uriroute_deviceinfo"

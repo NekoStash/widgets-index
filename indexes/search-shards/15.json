@@ -1,7 +1,10 @@
 {
   "shard": "15",
-  "tokenCount": 40,
+  "tokenCount": 42,
   "tokens": {
+    "35": [
+      "xiaoai_course_schedule"
+    ],
     "80": [
       "ecotag"
     ],
@@ -36,6 +39,9 @@
     "亮屏瞬间秒切": [
       "calendar-lite"
     ],
+    "会出": [
+      "xiaoai_course_schedule"
+    ],
     "制放": [
       "xiaoai_course_schedule"
     ],
@@ -45,7 +51,7 @@
     "只把": [
       "xiaoai_course_schedule"
     ],
-    "固定": [
+    "在加": [
       "xiaoai_course_schedule"
     ],
     "安卓": [
@@ -83,11 +89,11 @@
     "沪上": [
       "business"
     ],
-    "沿对": [
-      "xiaoai_course_schedule"
-    ],
     "爷爷不泡茶": [
       "business"
+    ],
+    "版本历史": [
+      "xiaoai_course_schedule"
     ],
     "用无": [
       "hyper-pick-up-code-reareye-xiaomi"

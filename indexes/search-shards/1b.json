@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 39,
+  "tokenCount": 44,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -51,6 +51,9 @@
       "schedule_reminder",
       "weather"
     ],
+    "两个": [
+      "xiaoai_course_schedule"
+    ],
     "了传": [
       "calendar-lite"
     ],
@@ -65,6 +68,9 @@
       "pickup",
       "schedule_reminder"
     ],
+    "到时": [
+      "xiaoai_course_schedule"
+    ],
     "副标": [
       "business",
       "ecotag"
@@ -72,6 +78,9 @@
     "化到": [
       "mishare",
       "pickup"
+    ],
+    "却空": [
+      "xiaoai_course_schedule"
     ],
     "原样": [
       "xiaoai_course_schedule"
@@ -91,6 +100,9 @@
       "kingxv",
       "weather"
     ],
+    "室只": [
+      "xiaoai_course_schedule"
+    ],
     "将主屏幕的焦点通知实时同步至背屏显示": [
       "business"
     ],
@@ -102,6 +114,9 @@
     ],
     "手搓": [
       "calendar-lite"
+    ],
+    "才按两行排": [
+      "xiaoai_course_schedule"
     ],
     "持底": [
       "business"

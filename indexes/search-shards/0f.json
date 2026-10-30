@@ -1,9 +1,12 @@
 {
   "shard": "0f",
-  "tokenCount": 41,
+  "tokenCount": 45,
   "tokens": {
     "reminder": [
       "schedule_reminder"
+    ],
+    "不再": [
+      "xiaoai_course_schedule"
     ],
     "主屏": [
       "business"
@@ -22,6 +25,9 @@
     ],
     "光影": [
       "weather"
+    ],
+    "内单": [
+      "xiaoai_course_schedule"
     ],
     "制作": [
       "disordered-clock"
@@ -43,6 +49,9 @@
     ],
     "变色": [
       "weather"
+    ],
+    "号字约": [
+      "xiaoai_course_schedule"
     ],
     "处理": [
       "calendar-lite"
@@ -81,6 +90,9 @@
     "法滥": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "的空洞": [
+      "xiaoai_course_schedule"
+    ],
     "础上": [
       "business"
     ],
@@ -104,6 +116,7 @@
       "hyper-pick-up-code",
       "schedule_reminder",
       "weather",
+      "xiaoai_course_schedule",
       "yadea_car_control"
     ],
     "自动识别外卖品牌并加载专属视觉资产": [

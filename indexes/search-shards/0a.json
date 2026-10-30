@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 41,
+  "tokenCount": 44,
   "tokens": {
     "art": [
       "music"
@@ -30,6 +30,9 @@
     "例的": [
       "business"
     ],
+    "则会": [
+      "xiaoai_course_schedule"
+    ],
     "到卡": [
       "xiaoai_course_schedule"
     ],
@@ -44,6 +47,9 @@
       "calendar-lite"
     ],
     "字折": [
+      "xiaoai_course_schedule"
+    ],
+    "宽度": [
       "xiaoai_course_schedule"
     ],
     "对齐到了日历第一列": [
@@ -72,6 +78,9 @@
     ],
     "支持日程标题自动换行": [
       "schedule_reminder"
+    ],
+    "改为": [
+      "xiaoai_course_schedule"
     ],
     "步修": [
       "disordered-clock"

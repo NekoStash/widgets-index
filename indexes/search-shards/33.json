@@ -1,7 +1,10 @@
 {
   "shard": "33",
-  "tokenCount": 40,
+  "tokenCount": 45,
   "tokens": {
+    "24": [
+      "xiaoai_course_schedule"
+    ],
     "built": [
       "music"
     ],
@@ -32,11 +35,17 @@
     "便可": [
       "uriroute_deviceinfo"
     ],
+    "倒计时改为每秒刷新": [
+      "xiaoai_course_schedule"
+    ],
     "冰城": [
       "business"
     ],
     "取版": [
       "dragon_scales_clock"
+    ],
+    "号字": [
+      "xiaoai_course_schedule"
     ],
     "唤醒": [
       "calendar-lite",
@@ -72,6 +81,9 @@
     "序感": [
       "yuzhouhangxian"
     ],
+    "折行必须按这个宽度预留行数": [
+      "xiaoai_course_schedule"
+    ],
     "支持车控操作": [
       "yadea_car_control"
     ],
@@ -99,6 +111,9 @@
     ],
     "知品": [
       "business"
+    ],
+    "空行": [
+      "xiaoai_course_schedule"
     ],
     "签需": [
       "xiaoai_course_schedule"

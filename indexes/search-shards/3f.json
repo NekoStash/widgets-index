@@ -1,9 +1,10 @@
 {
   "shard": "3f",
-  "tokenCount": 47,
+  "tokenCount": 50,
   "tokens": {
     "20": [
-      "ecotag"
+      "ecotag",
+      "xiaoai_course_schedule"
     ],
     "action": [
       "yadea_car_control"
@@ -24,6 +25,9 @@
       "schedule_reminder",
       "weather"
     ],
+    "上方一条": [
+      "xiaoai_course_schedule"
+    ],
     "之后重启作用域即可": [
       "mishare",
       "pickup",
@@ -34,6 +38,9 @@
     ],
     "从头": [
       "weather"
+    ],
+    "以内": [
+      "xiaoai_course_schedule"
     ],
     "会回复一条": [
       "yadea_car_control"
@@ -143,6 +150,9 @@
     ],
     "茶姬": [
       "business"
+    ],
+    "行与": [
+      "xiaoai_course_schedule"
     ],
     "装步": [
       "uriroute_deviceinfo"

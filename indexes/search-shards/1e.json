@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 59,
+  "tokenCount": 66,
   "tokens": {
     "artist": [
       "music"
@@ -31,6 +31,12 @@
     "下素": [
       "weather"
     ],
+    "不渲": [
+      "xiaoai_course_schedule"
+    ],
+    "个字": [
+      "xiaoai_course_schedule"
+    ],
     "个雪花粒子": [
       "weather"
     ],
@@ -49,6 +55,12 @@
     ],
     "以星图与轨道为灵感": [
       "yuzhouhangxian"
+    ],
+    "再渲": [
+      "xiaoai_course_schedule"
+    ],
+    "割线": [
+      "xiaoai_course_schedule"
     ],
     "叠法": [
       "calendar-lite"
@@ -81,6 +93,9 @@
     "屏比": [
       "weather"
     ],
+    "左右": [
+      "xiaoai_course_schedule"
+    ],
     "应缩": [
       "business"
     ],
@@ -104,6 +119,9 @@
       "yadea_car_control"
     ],
     "掉后": [
+      "xiaoai_course_schedule"
+    ],
+    "无倒计时时缩到教室行下方": [
       "xiaoai_course_schedule"
     ],
     "无法": [
@@ -145,6 +163,9 @@
     ],
     "视觉重心极度稳定": [
       "schedule_reminder"
+    ],
+    "移到": [
+      "xiaoai_course_schedule"
     ],
     "站找": [
       "back_screen_desktop"

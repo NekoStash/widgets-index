@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 53,
+  "tokenCount": 59,
   "tokens": {
     "aod": [
       "business",
@@ -48,6 +48,9 @@
     "候光": [
       "weather"
     ],
+    "出现": [
+      "xiaoai_course_schedule"
+    ],
     "到已": [
       "business"
     ],
@@ -61,7 +64,13 @@
     "取整": [
       "calendar-lite"
     ],
+    "只占": [
+      "xiaoai_course_schedule"
+    ],
     "右上角为超级小爱图标": [
+      "xiaoai_course_schedule"
+    ],
+    "号教室行在加宽后可放约": [
       "xiaoai_course_schedule"
     ],
     "同时": [
@@ -98,6 +107,9 @@
     "安装前需确保": [
       "uriroute_deviceinfo"
     ],
+    "度预": [
+      "xiaoai_course_schedule"
+    ],
     "提醒": [
       "schedule_reminder",
       "xiaoai_course_schedule"
@@ -120,6 +132,9 @@
     "时演": [
       "weather"
     ],
+    "标移": [
+      "xiaoai_course_schedule"
+    ],
     "此目": [
       "weather"
     ],
@@ -133,6 +148,9 @@
       "calendar-lite",
       "schedule_reminder",
       "weather"
+    ],
+    "白色加粗": [
+      "xiaoai_course_schedule"
     ],
     "磅九": [
       "business",

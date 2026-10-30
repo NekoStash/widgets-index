@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 45,
+  "tokenCount": 49,
   "tokens": {
     "15": [
       "weather"
@@ -93,8 +93,14 @@
     "现了": [
       "yuzhouhangxian"
     ],
+    "现视": [
+      "xiaoai_course_schedule"
+    ],
     "留白": [
       "yuzhouhangxian"
+    ],
+    "的空": [
+      "xiaoai_course_schedule"
     ],
     "码日": [
       "calendar-lite"
@@ -105,6 +111,9 @@
     "移至": [
       "calendar-lite"
     ],
+    "移除节次": [
+      "xiaoai_course_schedule"
+    ],
     "肯德": [
       "business"
     ],
@@ -114,6 +123,9 @@
     ],
     "能品": [
       "business"
+    ],
+    "蓝色竖线自适应": [
+      "xiaoai_course_schedule"
     ],
     "表达": [
       "calendar-lite"

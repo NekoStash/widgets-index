@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 44,
+  "tokenCount": 48,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -30,7 +30,8 @@
       "calendar-lite"
     ],
     "下方": [
-      "schedule_reminder"
+      "schedule_reminder",
+      "xiaoai_course_schedule"
     ],
     "作用": [
       "mishare",
@@ -43,6 +44,9 @@
     ],
     "力有": [
       "kingxv"
+    ],
+    "动两": [
+      "xiaoai_course_schedule"
     ],
     "动判": [
       "calendar-lite"
@@ -62,10 +66,16 @@
       "pickup",
       "schedule_reminder"
     ],
+    "字以": [
+      "xiaoai_course_schedule"
+    ],
     "小米背屏能效标识主题": [
       "ecotag"
     ],
     "屏服": [
+      "xiaoai_course_schedule"
+    ],
+    "度自": [
       "xiaoai_course_schedule"
     ],
     "心极": [
@@ -118,13 +128,16 @@
       "business",
       "weather"
     ],
+    "空洞": [
+      "xiaoai_course_schedule"
+    ],
     "能力": [
       "kingxv"
     ],
     "藏复": [
       "weather"
     ],
-    "行高": [
+    "行折": [
       "xiaoai_course_schedule"
     ],
     "量再": [

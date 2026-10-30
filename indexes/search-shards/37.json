@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 43,
+  "tokenCount": 46,
   "tokens": {
     "extracts": [
       "music"
@@ -27,6 +27,9 @@
       "music",
       "weather",
       "yuzhouhangxian"
+    ],
+    "件预": [
+      "xiaoai_course_schedule"
     ],
     "制的": [
       "business"
@@ -96,6 +99,9 @@
     "有秩": [
       "yuzhouhangxian"
     ],
+    "本历": [
+      "xiaoai_course_schedule"
+    ],
     "极省": [
       "calendar-lite"
     ],
@@ -150,6 +156,9 @@
     ],
     "配引": [
       "business"
+    ],
+    "重排版式": [
+      "xiaoai_course_schedule"
     ],
     "键值": [
       "yadea_car_control"

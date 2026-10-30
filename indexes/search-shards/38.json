@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 53,
+  "tokenCount": 56,
   "tokens": {
     "assets": [
       "business",
@@ -27,6 +27,9 @@
     ],
     "上面填写的组件名称": [
       "hyper-pick-up-code"
+    ],
+    "下面": [
+      "xiaoai_course_schedule"
     ],
     "不到": [
       "xiaoai_course_schedule"
@@ -70,6 +73,9 @@
     ],
     "前台": [
       "business"
+    ],
+    "加粗": [
+      "xiaoai_course_schedule"
     ],
     "动避": [
       "schedule_reminder"
@@ -147,6 +153,9 @@
     "美对": [
       "schedule_reminder",
       "weather"
+    ],
+    "角保": [
+      "xiaoai_course_schedule"
     ],
     "许可": [
       "ecotag"

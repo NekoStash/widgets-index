@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 47,
+  "tokenCount": 51,
   "tokens": {
     "251": [
       "xiaoai_course_schedule"
@@ -60,6 +60,9 @@
     "动识": [
       "business"
     ],
+    "半行": [
+      "xiaoai_course_schedule"
+    ],
     "卡都": [
       "app_widget"
     ],
@@ -106,6 +109,9 @@
     "成回": [
       "schedule_reminder"
     ],
+    "才按": [
+      "xiaoai_course_schedule"
+    ],
     "找到": [
       "back_screen_desktop"
     ],
@@ -126,6 +132,9 @@
       "uriroute_deviceinfo",
       "yadea_car_control"
     ],
+    "留超": [
+      "xiaoai_course_schedule"
+    ],
     "的偏左侧": [
       "calendar-lite"
     ],
@@ -145,12 +154,16 @@
     "缀与": [
       "xiaoai_course_schedule"
     ],
-    "要依": [
+    "行为": [
       "xiaoai_course_schedule"
     ],
     "适应": [
       "business",
-      "weather"
+      "weather",
+      "xiaoai_course_schedule"
+    ],
+    "面却": [
+      "xiaoai_course_schedule"
     ]
   }
 }

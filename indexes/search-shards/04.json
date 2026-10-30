@@ -1,7 +1,10 @@
 {
   "shard": "04",
-  "tokenCount": 43,
+  "tokenCount": 46,
   "tokens": {
+    "10": [
+      "xiaoai_course_schedule"
+    ],
     "29": [
       "calendar-lite"
     ],
@@ -63,6 +66,9 @@
     "完美映射超级岛": [
       "business"
     ],
+    "容高": [
+      "xiaoai_course_schedule"
+    ],
     "屏倒": [
       "xiaoai_course_schedule"
     ],
@@ -94,6 +100,9 @@
     "次开": [
       "business"
     ],
+    "每秒": [
+      "xiaoai_course_schedule"
+    ],
     "确保": [
       "schedule_reminder",
       "uriroute_deviceinfo",
@@ -114,11 +123,11 @@
     "能效等级": [
       "ecotag"
     ],
-    "行标": [
-      "xiaoai_course_schedule"
-    ],
     "要你": [
       "app_widget"
+    ],
+    "要无": [
+      "xiaoai_course_schedule"
     ],
     "觉效": [
       "weather"

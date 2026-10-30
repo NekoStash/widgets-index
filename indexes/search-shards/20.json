@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 51,
+  "tokenCount": 55,
   "tokens": {
     "folme": [
       "business",
@@ -21,6 +21,9 @@
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
       "music"
+    ],
+    "下只": [
+      "xiaoai_course_schedule"
     ],
     "不小于该版本": [
       "uriroute_deviceinfo"
@@ -43,6 +46,9 @@
       "yadea_car_control"
     ],
     "占原": [
+      "xiaoai_course_schedule"
+    ],
+    "可放": [
       "xiaoai_course_schedule"
     ],
     "可显": [
@@ -98,6 +104,9 @@
     ],
     "时物": [
       "weather"
+    ],
+    "时缩": [
+      "xiaoai_course_schedule"
     ],
     "权归": [
       "dragon_scales_clock"
@@ -158,6 +167,9 @@
     ],
     "获奖": [
       "yuzhouhangxian"
+    ],
+    "行下": [
+      "xiaoai_course_schedule"
     ],
     "觉资": [
       "business"

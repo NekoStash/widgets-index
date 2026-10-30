@@ -1,9 +1,12 @@
 {
   "shard": "17",
-  "tokenCount": 34,
+  "tokenCount": 36,
   "tokens": {
     "controls": [
       "music"
+    ],
+    "上到": [
+      "xiaoai_course_schedule"
     ],
     "储空": [
       "ecotag",
@@ -47,10 +50,16 @@
     "基础": [
       "business"
     ],
+    "居中": [
+      "xiaoai_course_schedule"
+    ],
     "幕保": [
       "schedule_reminder"
     ],
     "放行": [
+      "xiaoai_course_schedule"
+    ],
+    "无倒": [
       "xiaoai_course_schedule"
     ],
     "无缝解析系统": [
@@ -109,9 +118,6 @@
       "weather"
     ],
     "通知规则": [
-      "xiaoai_course_schedule"
-    ],
-    "题上": [
       "xiaoai_course_schedule"
     ],
     "风格": [

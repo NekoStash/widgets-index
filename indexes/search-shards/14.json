@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 48,
+  "tokenCount": 52,
   "tokens": {
     "210": [
       "weather"
@@ -31,6 +31,12 @@
     "super": [
       "business"
     ],
+    "下面却空半行": [
+      "xiaoai_course_schedule"
+    ],
+    "不预": [
+      "xiaoai_course_schedule"
+    ],
     "个卡": [
       "app_widget"
     ],
@@ -42,6 +48,9 @@
     ],
     "则": [
       "uriroute_deviceinfo"
+    ],
+    "到右": [
+      "xiaoai_course_schedule"
     ],
     "刻了": [
       "calendar-lite"
@@ -59,6 +68,9 @@
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "否则标题第二行会压到时间行": [
+      "xiaoai_course_schedule"
     ],
     "在手": [
       "business"

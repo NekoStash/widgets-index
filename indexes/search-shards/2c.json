@@ -1,6 +1,6 @@
 {
   "shard": "2c",
-  "tokenCount": 52,
+  "tokenCount": 56,
   "tokens": {
     "album": [
       "music"
@@ -22,7 +22,7 @@
     "xiaomi-rearscreen-weather": [
       "weather"
     ],
-    "不要依赖": [
+    "上方": [
       "xiaoai_course_schedule"
     ],
     "与副屏音乐": [
@@ -45,8 +45,14 @@
     "别与": [
       "business"
     ],
+    "到下": [
+      "xiaoai_course_schedule"
+    ],
     "古茗": [
       "business"
+    ],
+    "图标移到右上角时钟位": [
+      "xiaoai_course_schedule"
     ],
     "基准单位划为禁区": [
       "calendar-lite"
@@ -60,8 +66,7 @@
     "对齐": [
       "calendar-lite",
       "schedule_reminder",
-      "weather",
-      "xiaoai_course_schedule"
+      "weather"
     ],
     "屏会": [
       "xiaoai_course_schedule"
@@ -130,6 +135,9 @@
     "米焦": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "线自": [
+      "xiaoai_course_schedule"
+    ],
     "背屏": [
       "back_screen_desktop",
       "business",
@@ -176,6 +184,9 @@
     ],
     "辑优": [
       "business"
+    ],
+    "长自": [
+      "xiaoai_course_schedule"
     ],
     "间切": [
       "schedule_reminder"
