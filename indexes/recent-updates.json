@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "yadea_car_control",
+      "name": "雅迪车控",
+      "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
+      "author": {
+        "login": "ghhccghk",
+        "name": "李太白",
+        "url": "https://github.com/ghhccghk",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36808766?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-11-02T00:50:47.000Z",
+      "repository": {
+        "fullName": "ghhccghk/Yadea_SubSceen_Card",
+        "url": "https://github.com/ghhccghk/Yadea_SubSceen_Card"
+      }
+    },
+    {
       "id": "xiaoai_course_schedule",
       "name": "超级小爱课程表背屏",
       "description": "超级小爱的课程表背屏组件：在小米 17 Pro 系列背屏显示课程提醒（配合课程表超级岛模块 + REAREye）",
@@ -52,23 +69,6 @@
       "repository": {
         "fullName": "SiberiaApp/Xiaomi-RearScreen-Music",
         "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Music"
-      }
-    },
-    {
-      "id": "yadea_car_control",
-      "name": "雅迪车控",
-      "description": "基于UriRoute 修改获取雅迪车辆信息并在小米背屏展示的组件",
-      "author": {
-        "login": "ghhccghk",
-        "name": "李太白",
-        "url": "https://github.com/ghhccghk",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36808766?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-10-20T04:52:04.000Z",
-      "repository": {
-        "fullName": "ghhccghk/Yadea_SubSceen_Card",
-        "url": "https://github.com/ghhccghk/Yadea_SubSceen_Card"
       }
     },
     {
