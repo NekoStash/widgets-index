@@ -1,6 +1,6 @@
 {
   "shard": "33",
-  "tokenCount": 45,
+  "tokenCount": 68,
   "tokens": {
     "24": [
       "xiaoai_course_schedule"
@@ -26,11 +26,23 @@
     "welcome": [
       "music"
     ],
+    "不改": [
+      "bmw_i3_cloud"
+    ],
     "于丰": [
       "weather"
     ],
     "交互": [
       "weather"
+    ],
+    "他版": [
+      "bmw_i3_cloud"
+    ],
+    "件注": [
+      "bmw_i3_cloud"
+    ],
+    "余电": [
+      "bmw_i3_cloud"
     ],
     "便可": [
       "uriroute_deviceinfo"
@@ -44,8 +56,20 @@
     "取版": [
       "dragon_scales_clock"
     ],
+    "变了": [
+      "bmw_i3_cloud"
+    ],
     "号字": [
       "xiaoai_course_schedule"
+    ],
+    "名改": [
+      "bmw_i3_cloud"
+    ],
+    "后台": [
+      "bmw_i3_cloud"
+    ],
+    "和上": [
+      "bmw_i3_cloud"
     ],
     "唤醒": [
       "calendar-lite",
@@ -54,11 +78,18 @@
     "在状": [
       "weather"
     ],
+    "声明": [
+      "bmw_i3_cloud"
+    ],
     "复刻官方级动效": [
       "schedule_reminder"
     ],
+    "字号": [
+      "bmw_i3_cloud"
+    ],
     "安装": [
       "app_widget",
+      "bmw_i3_cloud",
       "ecotag",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
@@ -69,6 +100,7 @@
       "kingxv"
     ],
     "并在": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule",
       "yadea_car_control"
     ],
@@ -80,6 +112,9 @@
     ],
     "序感": [
       "yuzhouhangxian"
+    ],
+    "当前适配参照": [
+      "bmw_i3_cloud"
     ],
     "折行必须按这个宽度预留行数": [
       "xiaoai_course_schedule"
@@ -97,14 +132,29 @@
       "pickup",
       "schedule_reminder"
     ],
+    "无实": [
+      "bmw_i3_cloud"
+    ],
     "期偏": [
       "calendar-lite"
+    ],
+    "本未": [
+      "bmw_i3_cloud"
     ],
     "标均": [
       "schedule_reminder"
     ],
+    "每个整点": [
+      "bmw_i3_cloud"
+    ],
+    "深度休眠时": [
+      "bmw_i3_cloud"
+    ],
     "源目": [
       "weather"
+    ],
+    "用并": [
+      "bmw_i3_cloud"
     ],
     "目录下的": [
       "uriroute_deviceinfo"
@@ -112,16 +162,35 @@
     "知品": [
       "business"
     ],
+    "确运": [
+      "bmw_i3_cloud"
+    ],
+    "示界": [
+      "bmw_i3_cloud"
+    ],
+    "称与": [
+      "bmw_i3_cloud"
+    ],
+    "称后": [
+      "bmw_i3_cloud"
+    ],
     "空行": [
       "xiaoai_course_schedule"
     ],
+    "等待": [
+      "bmw_i3_cloud"
+    ],
     "签需": [
       "xiaoai_course_schedule"
+    ],
+    "脚本": [
+      "bmw_i3_cloud"
     ],
     "自定义标题": [
       "ecotag"
     ],
     "获得": [
+      "bmw_i3_cloud",
       "yuzhouhangxian"
     ],
     "许焦": [
@@ -145,8 +214,12 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "间暂": [
+      "bmw_i3_cloud"
+    ],
     "面的": [
-      "back_screen_desktop"
+      "back_screen_desktop",
+      "bmw_i3_cloud"
     ],
     "餐饮": [
       "business"

@@ -1,7 +1,10 @@
 {
   "shard": "0d",
-  "tokenCount": 47,
+  "tokenCount": 66,
   "tokens": {
+    "00": [
+      "bmw_i3_cloud"
+    ],
     "are": [
       "music"
     ],
@@ -17,13 +20,30 @@
     "上层": [
       "calendar-lite"
     ],
+    "下载与更新": [
+      "bmw_i3_cloud"
+    ],
+    "不代表长期自动续期已保证": [
+      "bmw_i3_cloud"
+    ],
     "以承": [
       "app_widget"
     ],
     "作的": [
+      "bmw_i3_cloud",
       "disordered-clock"
     ],
+    "停的": [
+      "bmw_i3_cloud"
+    ],
+    "先在": [
+      "bmw_i3_cloud"
+    ],
+    "先确认这次同时覆盖了脚本和模板": [
+      "bmw_i3_cloud"
+    ],
     "其他": [
+      "bmw_i3_cloud",
       "business",
       "uriroute_deviceinfo",
       "weather"
@@ -38,6 +58,15 @@
     "历焦": [
       "schedule_reminder"
     ],
+    "取时": [
+      "bmw_i3_cloud"
+    ],
+    "取状": [
+      "bmw_i3_cloud"
+    ],
+    "可等待下一个允许更新的整点": [
+      "bmw_i3_cloud"
+    ],
     "可见": [
       "schedule_reminder"
     ],
@@ -48,12 +77,17 @@
       "xiaoai_course_schedule"
     ],
     "完整": [
+      "bmw_i3_cloud",
       "weather"
     ],
     "将左": [
       "calendar-lite"
     ],
+    "屏卡": [
+      "bmw_i3_cloud"
+    ],
     "屏模": [
+      "bmw_i3_cloud",
       "business",
       "uriroute_deviceinfo"
     ],
@@ -72,6 +106,9 @@
     "开销": [
       "xiaoai_course_schedule"
     ],
+    "所需": [
+      "bmw_i3_cloud"
+    ],
     "手搓的": [
       "calendar-lite"
     ],
@@ -82,6 +119,7 @@
       "yadea_car_control"
     ],
     "支持": [
+      "bmw_i3_cloud",
       "business",
       "ecotag",
       "schedule_reminder",
@@ -104,6 +142,15 @@
     "有逻": [
       "business"
     ],
+    "本项目为个人开发的第三方组件": [
+      "bmw_i3_cloud"
+    ],
+    "机已": [
+      "bmw_i3_cloud"
+    ],
+    "核对授权和车辆后": [
+      "bmw_i3_cloud"
+    ],
     "测试": [
       "hyper-pick-up-code"
     ],
@@ -111,9 +158,11 @@
       "xiaoai_course_schedule"
     ],
     "特别": [
+      "bmw_i3_cloud",
       "calendar-lite"
     ],
     "电量": [
+      "bmw_i3_cloud",
       "ecotag",
       "yadea_car_control"
     ],
@@ -133,19 +182,33 @@
       "weather",
       "xiaoai_course_schedule"
     ],
+    "示已": [
+      "bmw_i3_cloud"
+    ],
     "秒循": [
       "ecotag"
     ],
     "空色": [
       "weather"
     ],
+    "笛入": [
+      "bmw_i3_cloud"
+    ],
+    "详细": [
+      "bmw_i3_cloud"
+    ],
     "车辆": [
+      "bmw_i3_cloud",
       "yadea_car_control"
+    ],
+    "辆详": [
+      "bmw_i3_cloud"
     ],
     "过方": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "进入": [
+      "bmw_i3_cloud",
       "hyper-pick-up-code",
       "schedule_reminder",
       "weather"
@@ -158,6 +221,9 @@
     ],
     "银奖": [
       "yuzhouhangxian"
+    ],
+    "除本": [
+      "bmw_i3_cloud"
     ]
   }
 }

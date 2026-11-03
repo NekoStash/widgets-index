@@ -1,12 +1,15 @@
 {
   "shard": "19",
-  "tokenCount": 47,
+  "tokenCount": 69,
   "tokens": {
     "26": [
       "xiaoai_course_schedule"
     ],
     "audio": [
       "music"
+    ],
+    "canary": [
+      "bmw_i3_cloud"
     ],
     "hyper": [
       "hyper-pick-up-code",
@@ -25,6 +28,9 @@
     "上课": [
       "xiaoai_course_schedule"
     ],
+    "下载器若添加了": [
+      "bmw_i3_cloud"
+    ],
     "丰富": [
       "weather"
     ],
@@ -32,13 +38,29 @@
       "ecotag"
     ],
     "也不": [
+      "bmw_i3_cloud",
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "了脚": [
+      "bmw_i3_cloud"
+    ],
+    "件自": [
+      "bmw_i3_cloud"
+    ],
+    "前登": [
+      "bmw_i3_cloud"
+    ],
+    "功不": [
+      "bmw_i3_cloud"
     ],
     "压缩": [
       "calendar-lite",
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "原名": [
+      "bmw_i3_cloud"
     ],
     "双机型适配": [
       "ecotag"
@@ -50,12 +72,17 @@
       "yadea_car_control"
     ],
     "可能": [
+      "bmw_i3_cloud",
       "weather"
+    ],
+    "同版": [
+      "bmw_i3_cloud"
     ],
     "含义": [
       "xiaoai_course_schedule"
     ],
     "基于": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "disordered-clock",
@@ -86,11 +113,20 @@
     "帧省约": [
       "xiaoai_course_schedule"
     ],
+    "并自": [
+      "bmw_i3_cloud"
+    ],
     "广播": [
       "yadea_car_control"
     ],
     "录结": [
       "weather"
+    ],
+    "性以": [
+      "bmw_i3_cloud"
+    ],
+    "成本": [
+      "bmw_i3_cloud"
     ],
     "把课": [
       "xiaoai_course_schedule"
@@ -98,11 +134,23 @@
     "拉升": [
       "weather"
     ],
+    "数里": [
+      "bmw_i3_cloud"
+    ],
     "无障": [
       "weather"
     ],
     "时自": [
       "weather"
+    ],
+    "未连": [
+      "bmw_i3_cloud"
+    ],
+    "本用": [
+      "bmw_i3_cloud"
+    ],
+    "查看最近检查是否已绑定隐藏官方组件": [
+      "bmw_i3_cloud"
     ],
     "标包": [
       "hyper-pick-up-code",
@@ -115,11 +163,20 @@
     "模板实现要点": [
       "xiaoai_course_schedule"
     ],
+    "版号和阶段": [
+      "bmw_i3_cloud"
+    ],
     "现背": [
       "schedule_reminder"
     ],
+    "用说": [
+      "bmw_i3_cloud"
+    ],
     "的数": [
       "calendar-lite"
+    ],
+    "的新": [
+      "bmw_i3_cloud"
     ],
     "空与": [
       "weather"
@@ -139,8 +196,17 @@
     "能效标识": [
       "ecotag"
     ],
+    "至次": [
+      "bmw_i3_cloud"
+    ],
     "要路": [
       "xiaoai_course_schedule"
+    ],
+    "试打": [
+      "bmw_i3_cloud"
+    ],
+    "请先改回原名": [
+      "bmw_i3_cloud"
     ],
     "起引": [
       "calendar-lite",
@@ -157,6 +223,9 @@
     ],
     "音乐歌词": [
       "music"
+    ],
+    "项目名称保持": [
+      "bmw_i3_cloud"
     ],
     "题的": [
       "calendar-lite"

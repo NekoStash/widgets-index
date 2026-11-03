@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 59,
+  "tokenCount": 76,
   "tokens": {
     "feeling": [
       "music"
@@ -10,6 +10,9 @@
       "calendar-lite",
       "music",
       "weather"
+    ],
+    "micromai01": [
+      "bmw_i3_cloud"
     ],
     "play": [
       "music"
@@ -26,6 +29,9 @@
     "下主": [
       "business"
     ],
+    "中选": [
+      "bmw_i3_cloud"
+    ],
     "于传": [
       "schedule_reminder"
     ],
@@ -33,6 +39,7 @@
       "weather"
     ],
     "仓库": [
+      "bmw_i3_cloud",
       "ecotag",
       "weather",
       "xiaoai_course_schedule",
@@ -65,8 +72,23 @@
     "原生": [
       "kingxv"
     ],
+    "变化": [
+      "bmw_i3_cloud"
+    ],
+    "变外": [
+      "bmw_i3_cloud"
+    ],
+    "只在自己手机上填写": [
+      "bmw_i3_cloud"
+    ],
+    "和脚": [
+      "bmw_i3_cloud"
+    ],
     "围盒": [
       "xiaoai_course_schedule"
+    ],
+    "图片选择和名称输入是不同设置": [
+      "bmw_i3_cloud"
     ],
     "垂直": [
       "xiaoai_course_schedule"
@@ -98,6 +120,9 @@
     "底部橙色": [
       "xiaoai_course_schedule"
     ],
+    "开启自定义图片并保存": [
+      "bmw_i3_cloud"
+    ],
     "拟真": [
       "weather"
     ],
@@ -108,6 +133,9 @@
     "新增": [
       "xiaoai_course_schedule"
     ],
+    "无法确认唯一车辆": [
+      "bmw_i3_cloud"
+    ],
     "无缝切换": [
       "weather"
     ],
@@ -116,6 +144,15 @@
     ],
     "星期": [
       "calendar-lite"
+    ],
+    "显示汽车名称": [
+      "bmw_i3_cloud"
+    ],
+    "本机": [
+      "bmw_i3_cloud"
+    ],
+    "果未": [
+      "bmw_i3_cloud"
     ],
     "模块特点": [
       "uriroute_deviceinfo"
@@ -126,8 +163,14 @@
     "池与": [
       "ecotag"
     ],
+    "法见": [
+      "bmw_i3_cloud"
+    ],
     "滴粒": [
       "weather"
+    ],
+    "理授": [
+      "bmw_i3_cloud"
     ],
     "电模": [
       "ecotag"
@@ -160,6 +203,9 @@
     "至右": [
       "calendar-lite"
     ],
+    "航和": [
+      "bmw_i3_cloud"
+    ],
     "航行": [
       "yuzhouhangxian"
     ],
@@ -168,6 +214,12 @@
     ],
     "行会": [
       "xiaoai_course_schedule"
+    ],
+    "补发": [
+      "bmw_i3_cloud"
+    ],
+    "观说": [
+      "bmw_i3_cloud"
     ],
     "角的": [
       "calendar-lite"
@@ -191,6 +243,7 @@
       "xiaoai_course_schedule"
     ],
     "需确": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo"
     ]
   }

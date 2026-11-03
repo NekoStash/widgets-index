@@ -1,8 +1,9 @@
 {
   "shard": "04",
-  "tokenCount": 46,
+  "tokenCount": 63,
   "tokens": {
     "10": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "29": [
@@ -27,11 +28,23 @@
     "保护": [
       "schedule_reminder"
     ],
+    "入同": [
+      "bmw_i3_cloud"
+    ],
+    "入背": [
+      "bmw_i3_cloud"
+    ],
     "关键": [
       "business"
     ],
+    "册文": [
+      "bmw_i3_cloud"
+    ],
     "准单": [
       "calendar-lite"
+    ],
+    "列出": [
+      "bmw_i3_cloud"
     ],
     "利用": [
       "calendar-lite",
@@ -69,6 +82,9 @@
     "容高": [
       "xiaoai_course_schedule"
     ],
+    "对官": [
+      "bmw_i3_cloud"
+    ],
     "屏倒": [
       "xiaoai_course_schedule"
     ],
@@ -79,6 +95,9 @@
     "或者": [
       "weather"
     ],
+    "找不": [
+      "bmw_i3_cloud"
+    ],
     "据依": [
       "weather"
     ],
@@ -88,8 +107,20 @@
     "支持熄屏显示": [
       "ecotag"
     ],
+    "改变": [
+      "bmw_i3_cloud"
+    ],
     "文件便可显示其他内容": [
       "uriroute_deviceinfo"
+    ],
+    "时查": [
+      "bmw_i3_cloud"
+    ],
+    "有授": [
+      "bmw_i3_cloud"
+    ],
+    "有效": [
+      "bmw_i3_cloud"
     ],
     "机锁": [
       "yadea_car_control"
@@ -97,22 +128,34 @@
     "极低功耗": [
       "business"
     ],
+    "横向": [
+      "bmw_i3_cloud"
+    ],
     "次开": [
       "business"
     ],
     "每秒": [
       "xiaoai_course_schedule"
     ],
+    "看车": [
+      "bmw_i3_cloud"
+    ],
     "确保": [
       "schedule_reminder",
       "uriroute_deviceinfo",
       "weather"
+    ],
+    "秒后隐藏": [
+      "bmw_i3_cloud"
     ],
     "简体中文": [
       "music"
     ],
     "精准提取标题": [
       "business"
+    ],
+    "系统和车型需要另行核对": [
+      "bmw_i3_cloud"
     ],
     "级自": [
       "calendar-lite"
@@ -122,6 +165,9 @@
     ],
     "能效等级": [
       "ecotag"
+    ],
+    "被商": [
+      "bmw_i3_cloud"
     ],
     "要你": [
       "app_widget"
@@ -138,6 +184,9 @@
     "请根据此目录放入对应的图片资产": [
       "weather"
     ],
+    "车况": [
+      "bmw_i3_cloud"
+    ],
     "载的": [
       "uriroute_deviceinfo"
     ],
@@ -149,6 +198,9 @@
     ],
     "通信": [
       "yadea_car_control"
+    ],
+    "通卡": [
+      "bmw_i3_cloud"
     ]
   }
 }

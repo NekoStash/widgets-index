@@ -1,11 +1,12 @@
 {
   "shard": "01",
-  "tokenCount": 33,
+  "tokenCount": 50,
   "tokens": {
     "app_widget": [
       "app_widget"
     ],
     "subsceen": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "this": [
@@ -26,14 +27,24 @@
     "入主": [
       "ecotag"
     ],
+    "删除": [
+      "bmw_i3_cloud"
+    ],
     "动态小部件": [
       "schedule_reminder"
+    ],
+    "和数": [
+      "bmw_i3_cloud"
+    ],
+    "和新": [
+      "bmw_i3_cloud"
     ],
     "因此": [
       "xiaoai_course_schedule"
     ],
     "在背": [
       "back_screen_desktop",
+      "bmw_i3_cloud",
       "business",
       "schedule_reminder",
       "uriroute_deviceinfo",
@@ -49,6 +60,9 @@
     "岛模": [
       "xiaoai_course_schedule"
     ],
+    "已有令牌的签发": [
+      "bmw_i3_cloud"
+    ],
     "帧绝": [
       "calendar-lite"
     ],
@@ -62,7 +76,14 @@
     "强制": [
       "xiaoai_course_schedule"
     ],
+    "按宿": [
+      "bmw_i3_cloud"
+    ],
+    "是包": [
+      "bmw_i3_cloud"
+    ],
     "显示": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "course_schedule",
@@ -76,12 +97,25 @@
     "机时": [
       "ecotag"
     ],
+    "汽车图片": [
+      "bmw_i3_cloud"
+    ],
+    "注册": [
+      "bmw_i3_cloud"
+    ],
     "版本": [
       "app_widget",
+      "bmw_i3_cloud",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
       "xiaoai_course_schedule",
       "yuzhouhangxian"
+    ],
+    "牌声": [
+      "bmw_i3_cloud"
+    ],
+    "用背": [
+      "bmw_i3_cloud"
     ],
     "电压": [
       "uriroute_deviceinfo",
@@ -90,11 +124,29 @@
     "示其": [
       "uriroute_deviceinfo"
     ],
+    "端包": [
+      "bmw_i3_cloud"
+    ],
     "米龙": [
       "dragon_scales_clock"
     ],
+    "置只": [
+      "bmw_i3_cloud"
+    ],
     "背屏主题部件": [
       "business"
+    ],
+    "自定义名称": [
+      "bmw_i3_cloud"
+    ],
+    "自定义外观使用说明": [
+      "bmw_i3_cloud"
+    ],
+    "自带": [
+      "bmw_i3_cloud"
+    ],
+    "若添": [
+      "bmw_i3_cloud"
     ],
     "行数": [
       "xiaoai_course_schedule"
@@ -104,6 +156,9 @@
     ],
     "认在": [
       "uriroute_deviceinfo"
+    ],
+    "车辆支持哪些远程服务": [
+      "bmw_i3_cloud"
     ],
     "迪车": [
       "yadea_car_control"

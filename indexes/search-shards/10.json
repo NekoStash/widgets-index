@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 50,
+  "tokenCount": 70,
   "tokens": {
     "burger": [
       "business"
@@ -17,14 +17,23 @@
     "on": [
       "music"
     ],
+    "不代表官方": [
+      "bmw_i3_cloud"
+    ],
     "与模": [
       "xiaoai_course_schedule"
     ],
     "与贡": [
       "weather"
     ],
+    "个不": [
+      "bmw_i3_cloud"
+    ],
     "了等": [
       "calendar-lite"
+    ],
+    "云端包与本地包使用各自配套的路由": [
+      "bmw_i3_cloud"
     ],
     "使用该背屏模块": [
       "uriroute_deviceinfo"
@@ -32,8 +41,26 @@
     "便签": [
       "business"
     ],
+    "再在": [
+      "bmw_i3_cloud"
+    ],
+    "到期": [
+      "bmw_i3_cloud"
+    ],
+    "发行": [
+      "bmw_i3_cloud"
+    ],
+    "后台任务分别运行": [
+      "bmw_i3_cloud"
+    ],
     "听逻": [
       "schedule_reminder"
+    ],
+    "复用": [
+      "bmw_i3_cloud"
+    ],
+    "多份": [
+      "bmw_i3_cloud"
     ],
     "字左": [
       "xiaoai_course_schedule"
@@ -69,13 +96,18 @@
       "business"
     ],
     "开启": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "态拼": [
       "weather"
     ],
     "手机": [
+      "bmw_i3_cloud",
       "business"
+    ],
+    "技术": [
+      "bmw_i3_cloud"
     ],
     "据流": [
       "schedule_reminder"
@@ -89,11 +121,27 @@
     "教室": [
       "xiaoai_course_schedule"
     ],
+    "数也": [
+      "bmw_i3_cloud"
+    ],
+    "新生": [
+      "bmw_i3_cloud"
+    ],
+    "方组": [
+      "bmw_i3_cloud"
+    ],
     "时改": [
       "xiaoai_course_schedule"
     ],
+    "更新授权": [
+      "bmw_i3_cloud"
+    ],
     "来源": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
+    ],
+    "查隐": [
+      "bmw_i3_cloud"
     ],
     "标题文字": [
       "ecotag"
@@ -128,22 +176,38 @@
     "等比": [
       "calendar-lite"
     ],
+    "签发": [
+      "bmw_i3_cloud"
+    ],
     "置极": [
       "weather"
+    ],
+    "自配": [
+      "bmw_i3_cloud"
     ],
     "藏与": [
       "calendar-lite"
     ],
+    "调节": [
+      "bmw_i3_cloud"
+    ],
     "身定": [
       "weather"
+    ],
+    "辆选": [
+      "bmw_i3_cloud"
     ],
     "这两": [
       "xiaoai_course_schedule"
     ],
     "透明": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "weather"
+    ],
+    "际到": [
+      "bmw_i3_cloud"
     ],
     "随风": [
       "weather"
@@ -152,6 +216,7 @@
       "schedule_reminder"
     ],
     "需支": [
+      "bmw_i3_cloud",
       "business"
     ],
     "饮品": [

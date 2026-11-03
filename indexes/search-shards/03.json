@@ -1,6 +1,6 @@
 {
   "shard": "03",
-  "tokenCount": 51,
+  "tokenCount": 66,
   "tokens": {
     "251": [
       "xiaoai_course_schedule"
@@ -29,6 +29,9 @@
     "trigger": [
       "xiaoai_course_schedule"
     ],
+    "不等": [
+      "bmw_i3_cloud"
+    ],
     "个独": [
       "weather"
     ],
@@ -36,11 +39,15 @@
       "xiaoai_course_schedule"
     ],
     "保留": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule",
       "yuzhouhangxian"
     ],
     "关于小米互传超级岛同时转化到小米背屏的小组件": [
       "mishare"
+    ],
+    "再按": [
+      "bmw_i3_cloud"
     ],
     "最低": [
       "xiaoai_course_schedule"
@@ -63,6 +70,12 @@
     "半行": [
       "xiaoai_course_schedule"
     ],
+    "单次": [
+      "bmw_i3_cloud"
+    ],
+    "占普": [
+      "bmw_i3_cloud"
+    ],
     "卡都": [
       "app_widget"
     ],
@@ -71,6 +84,12 @@
     ],
     "右滑返回信息卡片": [
       "yadea_car_control"
+    ],
+    "后缀": [
+      "bmw_i3_cloud"
+    ],
+    "外观说明": [
+      "bmw_i3_cloud"
     ],
     "存储空间": [
       "ecotag",
@@ -100,6 +119,9 @@
     "当劳": [
       "business"
     ],
+    "影响": [
+      "bmw_i3_cloud"
+    ],
     "息屏": [
       "business",
       "calendar-lite",
@@ -118,13 +140,23 @@
     "摆轨": [
       "weather"
     ],
+    "方入": [
+      "bmw_i3_cloud"
+    ],
+    "方接": [
+      "bmw_i3_cloud"
+    ],
     "格自": [
       "calendar-lite"
     ],
     "比": [
       "xiaoai_course_schedule"
     ],
+    "点查": [
+      "bmw_i3_cloud"
+    ],
     "理器": [
+      "bmw_i3_cloud",
       "hyper-pick-up-code"
     ],
     "电流": [
@@ -138,11 +170,17 @@
     "的偏左侧": [
       "calendar-lite"
     ],
+    "的新版": [
+      "bmw_i3_cloud"
+    ],
     "知驱": [
       "xiaoai_course_schedule"
     ],
     "空呼": [
       "weather"
+    ],
+    "等待后台处理后": [
+      "bmw_i3_cloud"
     ],
     "类型": [
       "ecotag",
@@ -155,12 +193,22 @@
       "xiaoai_course_schedule"
     ],
     "行为": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
+    ],
+    "询间": [
+      "bmw_i3_cloud"
+    ],
+    "车辆信息并在小米背屏展示的组件": [
+      "bmw_i3_cloud"
     ],
     "适应": [
       "business",
       "weather",
       "xiaoai_course_schedule"
+    ],
+    "长期": [
+      "bmw_i3_cloud"
     ],
     "面却": [
       "xiaoai_course_schedule"

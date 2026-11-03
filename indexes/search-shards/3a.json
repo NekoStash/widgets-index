@@ -1,7 +1,10 @@
 {
   "shard": "3a",
-  "tokenCount": 53,
+  "tokenCount": 74,
   "tokens": {
+    "01": [
+      "bmw_i3_cloud"
+    ],
     "ecotag": [
       "ecotag"
     ],
@@ -47,6 +50,9 @@
     "判断": [
       "ecotag"
     ],
+    "别说": [
+      "bmw_i3_cloud"
+    ],
     "刻的": [
       "yuzhouhangxian"
     ],
@@ -61,20 +67,46 @@
     "动按": [
       "app_widget"
     ],
+    "卡片可能找不到脚本": [
+      "bmw_i3_cloud"
+    ],
     "及其他搭载背屏模块的": [
       "business"
     ],
     "各位": [
       "kingxv"
     ],
+    "唯一": [
+      "bmw_i3_cloud"
+    ],
+    "回原": [
+      "bmw_i3_cloud"
+    ],
+    "图片没有变化": [
+      "bmw_i3_cloud"
+    ],
     "如果打开应用是横屏的": [
       "kingxv"
     ],
+    "它只查询车况": [
+      "bmw_i3_cloud"
+    ],
     "官方": [
+      "bmw_i3_cloud",
       "dragon_scales_clock",
       "schedule_reminder"
     ],
+    "官方缓存能够确认唯一车辆时": [
+      "bmw_i3_cloud"
+    ],
+    "定当": [
+      "bmw_i3_cloud"
+    ],
+    "察到": [
+      "bmw_i3_cloud"
+    ],
     "导入": [
+      "bmw_i3_cloud",
       "ecotag",
       "hyper-pick-up-code",
       "mishare",
@@ -87,6 +119,9 @@
     "已内置": [
       "kingxv"
     ],
+    "底轮": [
+      "bmw_i3_cloud"
+    ],
     "度切": [
       "business"
     ],
@@ -96,6 +131,9 @@
     "态插": [
       "schedule_reminder"
     ],
+    "或刷": [
+      "bmw_i3_cloud"
+    ],
     "拼接": [
       "weather"
     ],
@@ -104,6 +142,9 @@
     ],
     "斯汀": [
       "business"
+    ],
+    "新失": [
+      "bmw_i3_cloud"
     ],
     "无条": [
       "xiaoai_course_schedule"
@@ -119,6 +160,9 @@
     "月天": [
       "calendar-lite"
     ],
+    "法确": [
+      "bmw_i3_cloud"
+    ],
     "滑恢": [
       "weather"
     ],
@@ -127,6 +171,9 @@
     ],
     "画的": [
       "calendar-lite"
+    ],
+    "留上": [
+      "bmw_i3_cloud"
     ],
     "的位": [
       "calendar-lite"
@@ -137,8 +184,23 @@
     "的群友": [
       "disordered-clock"
     ],
+    "目路": [
+      "bmw_i3_cloud"
+    ],
+    "确启": [
+      "bmw_i3_cloud"
+    ],
+    "等后缀": [
+      "bmw_i3_cloud"
+    ],
     "简洁": [
       "yuzhouhangxian"
+    ],
+    "编号": [
+      "bmw_i3_cloud"
+    ],
+    "能延": [
+      "bmw_i3_cloud"
     ],
     "腻的": [
       "weather"
@@ -158,6 +220,9 @@
     "请在": [
       "calendar-lite"
     ],
+    "车指": [
+      "bmw_i3_cloud"
+    ],
     "适用于小米背屏的日历小组件": [
       "calendar-lite"
     ],
@@ -169,6 +234,7 @@
     ],
     "需要": [
       "app_widget",
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "xiaoai_course_schedule"

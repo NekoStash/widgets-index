@@ -1,6 +1,6 @@
 {
   "shard": "13",
-  "tokenCount": 39,
+  "tokenCount": 65,
   "tokens": {
     "2026": [
       "xiaoai_course_schedule"
@@ -9,8 +9,14 @@
       "business",
       "schedule_reminder"
     ],
+    "my": [
+      "bmw_i3_cloud"
+    ],
     "params": [
       "business"
+    ],
+    "r251": [
+      "bmw_i3_cloud"
     ],
     "requests": [
       "music"
@@ -24,6 +30,21 @@
     "xiaomi-rearscreen-music": [
       "music"
     ],
+    "与隐": [
+      "bmw_i3_cloud"
+    ],
+    "也可": [
+      "bmw_i3_cloud"
+    ],
+    "会同": [
+      "bmw_i3_cloud"
+    ],
+    "供读": [
+      "bmw_i3_cloud"
+    ],
+    "入模": [
+      "bmw_i3_cloud"
+    ],
     "入淡": [
       "schedule_reminder"
     ],
@@ -36,8 +57,14 @@
     "变量配置": [
       "ecotag"
     ],
+    "只导": [
+      "bmw_i3_cloud"
+    ],
     "可以承载不同的小部件": [
       "app_widget"
+    ],
+    "后隐": [
+      "bmw_i3_cloud"
     ],
     "回退": [
       "business"
@@ -53,6 +80,9 @@
     ],
     "夜晚": [
       "weather"
+    ],
+    "定和": [
+      "bmw_i3_cloud"
     ],
     "家合": [
       "yuzhouhangxian"
@@ -72,20 +102,48 @@
     "或动": [
       "weather"
     ],
+    "抠图": [
+      "bmw_i3_cloud"
+    ],
+    "按手机本地时间": [
+      "bmw_i3_cloud"
+    ],
     "接管": [
       "business"
     ],
+    "效时": [
+      "bmw_i3_cloud"
+    ],
     "数据": [
+      "bmw_i3_cloud",
       "business",
       "schedule_reminder",
       "weather",
       "yadea_car_control"
     ],
+    "更换": [
+      "bmw_i3_cloud"
+    ],
+    "本及": [
+      "bmw_i3_cloud"
+    ],
+    "本机已有授权": [
+      "bmw_i3_cloud"
+    ],
+    "机本": [
+      "bmw_i3_cloud"
+    ],
     "段契": [
       "xiaoai_course_schedule"
     ],
+    "照片": [
+      "bmw_i3_cloud"
+    ],
     "爷爷": [
       "business"
+    ],
+    "片大": [
+      "bmw_i3_cloud"
     ],
     "独家合作": [
       "yuzhouhangxian"
@@ -93,8 +151,17 @@
     "率控": [
       "weather"
     ],
+    "登录和新授权由": [
+      "bmw_i3_cloud"
+    ],
+    "的": [
+      "bmw_i3_cloud"
+    ],
     "的粒": [
       "weather"
+    ],
+    "确认当前车辆": [
+      "bmw_i3_cloud"
     ],
     "级能效等级": [
       "ecotag"
@@ -113,14 +180,26 @@
     "能助": [
       "xiaoai_course_schedule"
     ],
+    "致谢": [
+      "bmw_i3_cloud"
+    ],
+    "藏宿": [
+      "bmw_i3_cloud"
+    ],
     "装要": [
       "uriroute_deviceinfo"
+    ],
+    "请求已受理": [
+      "bmw_i3_cloud"
     ],
     "车控命令": [
       "yadea_car_control"
     ],
     "迎提": [
       "weather"
+    ],
+    "通桌": [
+      "bmw_i3_cloud"
     ],
     "高度": [
       "schedule_reminder",

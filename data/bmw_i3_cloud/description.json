@@ -1,0 +1,24 @@
+{
+  "id": "bmw_i3_cloud",
+  "name": "BMW 车型自定义车控",
+  "sourceMetadataPath": "repos/bmw_i3_cloud/metadata.json",
+  "repository": {
+    "widgetName": "BMW 车型自定义车控",
+    "owner": "Micromai01",
+    "name": "BMW_SubSceen_Card",
+    "fullName": "Micromai01/BMW_SubSceen_Card",
+    "url": "https://github.com/Micromai01/BMW_SubSceen_Card",
+    "description": "基于UriRoute修改获取My BMW车辆信息并在小米背屏展示的组件",
+    "homepage": null,
+    "defaultBranch": "main",
+    "language": "Lua",
+    "topics": [],
+    "stargazersCount": 0,
+    "watchersCount": 0,
+    "forksCount": 0,
+    "openIssuesCount": 0,
+    "createdAt": "2026-10-29T09:16:00Z",
+    "updatedAt": "2026-11-03T01:40:53Z",
+    "pushedAt": "2026-11-03T01:40:49Z"
+  }
+}

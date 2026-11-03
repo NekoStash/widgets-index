@@ -1,7 +1,7 @@
 {
   "version": 1,
   "sourceRepo": "NekoStash/widgets-repo",
-  "componentCount": 20,
+  "componentCount": 21,
   "components": {
     "app_widget": {
       "id": "app_widget",
@@ -24,6 +24,18 @@
         "name": "Pork-skin",
         "url": "https://github.com/Pork-skin",
         "avatarUrl": "https://avatars.githubusercontent.com/u/280333197?v=4",
+        "type": "User"
+      }
+    },
+    "bmw_i3_cloud": {
+      "id": "bmw_i3_cloud",
+      "name": "BMW 车型自定义车控",
+      "description": "基于UriRoute修改获取My BMW车辆信息并在小米背屏展示的组件",
+      "author": {
+        "login": "Micromai01",
+        "name": "MicroMai",
+        "url": "https://github.com/Micromai01",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/200516595?v=4",
         "type": "User"
       }
     },

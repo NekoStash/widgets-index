@@ -1,6 +1,6 @@
 {
   "shard": "1d",
-  "tokenCount": 52,
+  "tokenCount": 76,
   "tokens": {
     "90caf9": [
       "schedule_reminder"
@@ -53,6 +53,9 @@
       "weather",
       "yuzhouhangxian"
     ],
+    "仍受": [
+      "bmw_i3_cloud"
+    ],
     "件商": [
       "hyper-pick-up-code"
     ],
@@ -68,6 +71,12 @@
     ],
     "信息卡片": [
       "yadea_car_control"
+    ],
+    "先核": [
+      "bmw_i3_cloud"
+    ],
+    "入是": [
+      "bmw_i3_cloud"
     ],
     "其细": [
       "weather"
@@ -85,8 +94,20 @@
     "助手": [
       "xiaoai_course_schedule"
     ],
+    "取车": [
+      "bmw_i3_cloud"
+    ],
+    "右位": [
+      "bmw_i3_cloud"
+    ],
     "含以": [
       "weather"
+    ],
+    "国大": [
+      "bmw_i3_cloud"
+    ],
+    "图片加载失败时保留默认车图": [
+      "bmw_i3_cloud"
     ],
     "存储": [
       "ecotag",
@@ -94,6 +115,9 @@
     ],
     "小爱": [
       "xiaoai_course_schedule"
+    ],
+    "已正确启用并获得所需": [
+      "bmw_i3_cloud"
     ],
     "库中": [
       "weather"
@@ -114,8 +138,32 @@
     "恒为": [
       "xiaoai_course_schedule"
     ],
+    "或车": [
+      "bmw_i3_cloud"
+    ],
+    "收了": [
+      "bmw_i3_cloud"
+    ],
     "放置": [
       "business"
+    ],
+    "方登": [
+      "bmw_i3_cloud"
+    ],
+    "方逻": [
+      "bmw_i3_cloud"
+    ],
+    "时覆": [
+      "bmw_i3_cloud"
+    ],
+    "本的": [
+      "bmw_i3_cloud"
+    ],
+    "本组": [
+      "bmw_i3_cloud"
+    ],
+    "查是": [
+      "bmw_i3_cloud"
     ],
     "框架": [
       "weather"
@@ -133,8 +181,17 @@
       "business",
       "schedule_reminder"
     ],
+    "登录": [
+      "bmw_i3_cloud"
+    ],
+    "的兜": [
+      "bmw_i3_cloud"
+    ],
     "知路": [
       "xiaoai_course_schedule"
+    ],
+    "端发": [
+      "bmw_i3_cloud"
     ],
     "纯黑": [
       "calendar-lite"
@@ -145,6 +202,12 @@
     "背屏课程表": [
       "course_schedule"
     ],
+    "表官": [
+      "bmw_i3_cloud"
+    ],
+    "要调": [
+      "bmw_i3_cloud"
+    ],
     "角为": [
       "xiaoai_course_schedule"
     ],
@@ -152,13 +215,23 @@
       "schedule_reminder"
     ],
     "设置": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo"
     ],
     "请根": [
       "weather"
     ],
+    "辆时": [
+      "bmw_i3_cloud"
+    ],
     "过缩": [
       "schedule_reminder"
+    ],
+    "这些": [
+      "bmw_i3_cloud"
+    ],
+    "配套": [
+      "bmw_i3_cloud"
     ],
     "雅迪车控": [
       "yadea_car_control"

@@ -1,6 +1,6 @@
 {
   "shard": "1a",
-  "tokenCount": 48,
+  "tokenCount": 77,
   "tokens": {
     "current": [
       "music"
@@ -14,15 +14,24 @@
     "sync": [
       "schedule_reminder"
     ],
+    "termux": [
+      "bmw_i3_cloud"
+    ],
     "一条": [
       "xiaoai_course_schedule",
       "yadea_car_control"
+    ],
+    "一次": [
+      "bmw_i3_cloud"
     ],
     "与副": [
       "weather"
     ],
     "与路": [
       "xiaoai_course_schedule"
+    ],
+    "两种": [
+      "bmw_i3_cloud"
     ],
     "之间": [
       "xiaoai_course_schedule"
@@ -33,6 +42,9 @@
     "亮屏": [
       "business",
       "calendar-lite"
+    ],
+    "令不": [
+      "bmw_i3_cloud"
     ],
     "全天": [
       "weather"
@@ -46,8 +58,20 @@
     "别应": [
       "kingxv"
     ],
+    "刷新登录": [
+      "bmw_i3_cloud"
+    ],
+    "前账": [
+      "bmw_i3_cloud"
+    ],
+    "前车": [
+      "bmw_i3_cloud"
+    ],
     "参与贡献": [
       "weather"
+    ],
+    "可传": [
+      "bmw_i3_cloud"
     ],
     "右上角保留超级小爱图标位": [
       "xiaoai_course_schedule"
@@ -55,8 +79,14 @@
     "后可": [
       "xiaoai_course_schedule"
     ],
+    "地发": [
+      "bmw_i3_cloud"
+    ],
     "复刻家电能效标签风格": [
       "ecotag"
+    ],
+    "复用已有绑定": [
+      "bmw_i3_cloud"
     ],
     "夜晚晴空自动触发星空呼吸闪烁": [
       "weather"
@@ -84,8 +114,14 @@
       "schedule_reminder",
       "xiaoai_course_schedule"
     ],
+    "并获": [
+      "bmw_i3_cloud"
+    ],
     "库作": [
       "xiaoai_course_schedule"
+    ],
+    "开卡": [
+      "bmw_i3_cloud"
     ],
     "引擎": [
       "business",
@@ -93,8 +129,35 @@
       "schedule_reminder",
       "weather"
     ],
+    "录后": [
+      "bmw_i3_cloud"
+    ],
+    "授权与隐藏官方组件": [
+      "bmw_i3_cloud"
+    ],
+    "排队检查隐藏宿主": [
+      "bmw_i3_cloud"
+    ],
     "效等": [
       "ecotag"
+    ],
+    "新发": [
+      "bmw_i3_cloud"
+    ],
+    "新绑": [
+      "bmw_i3_cloud"
+    ],
+    "有多": [
+      "bmw_i3_cloud"
+    ],
+    "权同": [
+      "bmw_i3_cloud"
+    ],
+    "权和": [
+      "bmw_i3_cloud"
+    ],
+    "架号": [
+      "bmw_i3_cloud"
     ],
     "标题": [
       "business",
@@ -105,7 +168,14 @@
       "yadea_car_control"
     ],
     "核对": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
+    ],
+    "此前": [
+      "bmw_i3_cloud"
+    ],
+    "混合": [
+      "bmw_i3_cloud"
     ],
     "然后核对": [
       "xiaoai_course_schedule"
@@ -114,11 +184,15 @@
       "calendar-lite"
     ],
     "生成": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "xiaoai_course_schedule"
     ],
     "画幅识别逻辑": [
       "schedule_reminder"
+    ],
+    "界面不显示": [
+      "bmw_i3_cloud"
     ],
     "知实": [
       "business"
@@ -130,13 +204,26 @@
       "ecotag"
     ],
     "移除": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "算全": [
       "schedule_reminder"
     ],
+    "结果": [
+      "bmw_i3_cloud"
+    ],
     "能或": [
       "weather"
+    ],
+    "观读": [
+      "bmw_i3_cloud"
+    ],
+    "计划": [
+      "bmw_i3_cloud"
+    ],
+    "请先": [
+      "bmw_i3_cloud"
     ],
     "超级岛": [
       "business"
@@ -145,9 +232,14 @@
       "hyper-pick-up-code"
     ],
     "车控": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
+    "车辆及服务端返回为准": [
+      "bmw_i3_cloud"
+    ],
     "这个": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "配焦": [

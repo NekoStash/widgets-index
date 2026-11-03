@@ -1,6 +1,6 @@
 {
   "shard": "3b",
-  "tokenCount": 52,
+  "tokenCount": 74,
   "tokens": {
     "60": [
       "xiaoai_course_schedule"
@@ -25,6 +25,9 @@
       "schedule_reminder",
       "weather"
     ],
+    "一车": [
+      "bmw_i3_cloud"
+    ],
     "不泡": [
       "business"
     ],
@@ -40,8 +43,17 @@
     "于墨": [
       "disordered-clock"
     ],
+    "仍没": [
+      "bmw_i3_cloud"
+    ],
+    "以留": [
+      "bmw_i3_cloud"
+    ],
     "停止": [
       "yadea_car_control"
+    ],
+    "关系": [
+      "bmw_i3_cloud"
     ],
     "内容": [
       "business",
@@ -50,8 +62,14 @@
       "weather",
       "xiaoai_course_schedule"
     ],
+    "划和": [
+      "bmw_i3_cloud"
+    ],
     "别当": [
       "calendar-lite"
+    ],
+    "到编": [
+      "bmw_i3_cloud"
     ],
     "制到": [
       "uriroute_deviceinfo"
@@ -63,8 +81,14 @@
       "business",
       "schedule_reminder"
     ],
+    "加了": [
+      "bmw_i3_cloud"
+    ],
     "匹配": [
       "business"
+    ],
+    "单次提交开启请求": [
+      "bmw_i3_cloud"
     ],
     "发者": [
       "business",
@@ -76,14 +100,32 @@
     "变回": [
       "calendar-lite"
     ],
+    "变实": [
+      "bmw_i3_cloud"
+    ],
     "号星期偏移量": [
       "calendar-lite"
+    ],
+    "各自": [
+      "bmw_i3_cloud"
+    ],
+    "后用": [
+      "bmw_i3_cloud"
+    ],
+    "地外": [
+      "bmw_i3_cloud"
+    ],
+    "地或": [
+      "bmw_i3_cloud"
     ],
     "均负": [
       "uriroute_deviceinfo"
     ],
     "境下": [
       "schedule_reminder"
+    ],
+    "失败": [
+      "bmw_i3_cloud"
     ],
     "容不": [
       "business"
@@ -99,6 +141,12 @@
     ],
     "屏过": [
       "calendar-lite"
+    ],
+    "常显": [
+      "bmw_i3_cloud"
+    ],
+    "技术交接": [
+      "bmw_i3_cloud"
     ],
     "抛弃": [
       "calendar-lite"
@@ -126,6 +174,7 @@
       "yadea_car_control"
     ],
     "服务": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "样式": [
@@ -152,6 +201,9 @@
       "ecotag",
       "schedule_reminder"
     ],
+    "立即": [
+      "bmw_i3_cloud"
+    ],
     "管底": [
       "business"
     ],
@@ -161,17 +213,32 @@
     "经过": [
       "schedule_reminder"
     ],
+    "航组": [
+      "bmw_i3_cloud"
+    ],
     "行排": [
       "xiaoai_course_schedule"
     ],
     "装方": [
       "hyper-pick-up-code"
     ],
+    "过期": [
+      "bmw_i3_cloud"
+    ],
     "进布": [
       "weather"
     ],
     "量身定制": [
       "weather"
+    ],
+    "限制": [
+      "bmw_i3_cloud"
+    ],
+    "隔为": [
+      "bmw_i3_cloud"
+    ],
+    "需车": [
+      "bmw_i3_cloud"
     ]
   }
 }

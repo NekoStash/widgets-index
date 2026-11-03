@@ -1,10 +1,13 @@
 {
   "shard": "3f",
-  "tokenCount": 50,
+  "tokenCount": 63,
   "tokens": {
     "20": [
       "ecotag",
       "xiaoai_course_schedule"
+    ],
+    "55": [
+      "bmw_i3_cloud"
     ],
     "action": [
       "yadea_car_control"
@@ -28,10 +31,22 @@
     "上方一条": [
       "xiaoai_course_schedule"
     ],
+    "与更": [
+      "bmw_i3_cloud"
+    ],
+    "与维": [
+      "bmw_i3_cloud"
+    ],
+    "与致": [
+      "bmw_i3_cloud"
+    ],
     "之后重启作用域即可": [
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "云端安装": [
+      "bmw_i3_cloud"
     ],
     "仅接": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -57,6 +72,12 @@
       "music",
       "weather",
       "yuzhouhangxian"
+    ],
+    "保留默认车图": [
+      "bmw_i3_cloud"
+    ],
+    "动已": [
+      "bmw_i3_cloud"
     ],
     "原始": [
       "schedule_reminder"
@@ -94,12 +115,21 @@
     "岛功": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "已重新绑定当前车辆": [
+      "bmw_i3_cloud"
+    ],
+    "应用卡片没有这个模板配置入口": [
+      "bmw_i3_cloud"
+    ],
     "开机": [
       "ecotag",
       "yadea_car_control"
     ],
     "态天": [
       "weather"
+    ],
+    "手动查询一次车况": [
+      "bmw_i3_cloud"
     ],
     "据气": [
       "weather"
@@ -118,8 +148,12 @@
       "weather"
     ],
     "没有": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "mishare"
+    ],
+    "用已": [
+      "bmw_i3_cloud"
     ],
     "白名": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -130,10 +164,14 @@
     "视障": [
       "weather"
     ],
+    "等待初始化": [
+      "bmw_i3_cloud"
+    ],
     "粒子": [
       "weather"
     ],
     "组件": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "ecotag",
       "hyper-pick-up-code",
@@ -166,6 +204,9 @@
     "让模": [
       "xiaoai_course_schedule"
     ],
+    "询一": [
+      "bmw_i3_cloud"
+    ],
     "该包": [
       "xiaoai_course_schedule"
     ],
@@ -176,6 +217,7 @@
       "uriroute_deviceinfo"
     ],
     "部署": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "验与": [

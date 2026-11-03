@@ -1,6 +1,6 @@
 {
   "shard": "28",
-  "tokenCount": 32,
+  "tokenCount": 51,
   "tokens": {
     "ghhccghk": [
       "yadea_car_control"
@@ -17,14 +17,29 @@
     "上报": [
       "xiaoai_course_schedule"
     ],
+    "不代表所有": [
+      "bmw_i3_cloud"
+    ],
+    "不占": [
+      "bmw_i3_cloud"
+    ],
     "与模块的字段契约": [
       "xiaoai_course_schedule"
     ],
     "了极": [
       "weather"
     ],
+    "云端包包含": [
+      "bmw_i3_cloud"
+    ],
     "今日": [
       "ecotag"
+    ],
+    "以官": [
+      "bmw_i3_cloud"
+    ],
+    "例已": [
+      "bmw_i3_cloud"
     ],
     "关机": [
       "yadea_car_control"
@@ -32,8 +47,18 @@
     "单位细分割线": [
       "xiaoai_course_schedule"
     ],
+    "参数留空": [
+      "bmw_i3_cloud"
+    ],
     "发的": [
+      "bmw_i3_cloud",
       "weather"
+    ],
+    "号与": [
+      "bmw_i3_cloud"
+    ],
+    "和缓": [
+      "bmw_i3_cloud"
     ],
     "唯梦": [
       "ecotag"
@@ -51,14 +76,27 @@
     "度信": [
       "business"
     ],
+    "或云": [
+      "bmw_i3_cloud"
+    ],
     "接收数据": [
       "yadea_car_control"
     ],
+    "撤下": [
+      "bmw_i3_cloud"
+    ],
     "是否": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
+    ],
+    "期或": [
+      "bmw_i3_cloud"
     ],
     "极致": [
       "weather"
+    ],
+    "步官": [
+      "bmw_i3_cloud"
     ],
     "灵动": [
       "business",
@@ -80,10 +118,17 @@
     "画面": [
       "yuzhouhangxian"
     ],
+    "确认当前登录和车辆正确": [
+      "bmw_i3_cloud"
+    ],
+    "确选": [
+      "bmw_i3_cloud"
+    ],
     "系统要求": [
       "business"
     ],
     "编辑": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "群友": [
@@ -95,8 +140,23 @@
     "致力": [
       "weather"
     ],
+    "行库": [
+      "bmw_i3_cloud"
+    ],
+    "被拒": [
+      "bmw_i3_cloud"
+    ],
+    "要直": [
+      "bmw_i3_cloud"
+    ],
     "试版": [
       "hyper-pick-up-code"
+    ],
+    "询宝": [
+      "bmw_i3_cloud"
+    ],
+    "近处": [
+      "bmw_i3_cloud"
     ],
     "进行了等比缩放与安全区避让适配": [
       "calendar-lite"

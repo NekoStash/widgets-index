@@ -1,6 +1,6 @@
 {
   "shard": "05",
-  "tokenCount": 52,
+  "tokenCount": 80,
   "tokens": {
     "islandnotify": [
       "course_schedule"
@@ -12,6 +12,7 @@
       "pickup"
     ],
     "root": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo"
     ],
     "widget": [
@@ -22,8 +23,14 @@
     "不够": [
       "xiaoai_course_schedule"
     ],
+    "个人": [
+      "bmw_i3_cloud"
+    ],
     "个基": [
       "weather"
+    ],
+    "为个": [
+      "bmw_i3_cloud"
     ],
     "主题引擎": [
       "calendar-lite"
@@ -47,14 +54,32 @@
     "会上": [
       "xiaoai_course_schedule"
     ],
+    "修改功能后应运行构建重新生成配套包": [
+      "bmw_i3_cloud"
+    ],
     "关内": [
       "uriroute_deviceinfo"
+    ],
+    "分别检查": [
+      "bmw_i3_cloud"
+    ],
+    "初始化会检查或创建一个不显示界面的官方续航组件实例": [
+      "bmw_i3_cloud"
     ],
     "动隐": [
       "weather"
     ],
+    "可留": [
+      "bmw_i3_cloud"
+    ],
+    "后或": [
+      "bmw_i3_cloud"
+    ],
     "呈现": [
       "schedule_reminder"
+    ],
+    "图片是否已选择": [
+      "bmw_i3_cloud"
     ],
     "如": [
       "calendar-lite"
@@ -69,12 +94,19 @@
     "属视": [
       "business"
     ],
+    "左右位置": [
+      "bmw_i3_cloud"
+    ],
     "帧省": [
       "xiaoai_course_schedule"
     ],
     "应的": [
+      "bmw_i3_cloud",
       "business",
       "weather"
+    ],
+    "延后": [
+      "bmw_i3_cloud"
     ],
     "待办等关键进度": [
       "business"
@@ -94,11 +126,23 @@
     "新部": [
       "xiaoai_course_schedule"
     ],
+    "明外": [
+      "bmw_i3_cloud"
+    ],
     "显示剩余存储空间": [
       "ecotag"
     ],
+    "本和": [
+      "bmw_i3_cloud"
+    ],
+    "本地外观读取状态": [
+      "bmw_i3_cloud"
+    ],
     "本模块通过接管底层焦点通知": [
       "business"
+    ],
+    "流程": [
+      "bmw_i3_cloud"
     ],
     "滑移": [
       "calendar-lite"
@@ -107,7 +151,17 @@
       "calendar-lite"
     ],
     "然后": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
+    ],
+    "片模": [
+      "bmw_i3_cloud"
+    ],
+    "片没": [
+      "bmw_i3_cloud"
+    ],
+    "片管": [
+      "bmw_i3_cloud"
     ],
     "率信": [
       "uriroute_deviceinfo"
@@ -115,8 +169,23 @@
     "现在": [
       "schedule_reminder"
     ],
+    "用隐": [
+      "bmw_i3_cloud"
+    ],
+    "的实际到期时间": [
+      "bmw_i3_cloud"
+    ],
+    "移除本组件的专用隐藏实例": [
+      "bmw_i3_cloud"
+    ],
     "程名": [
       "xiaoai_course_schedule"
+    ],
+    "程操": [
+      "bmw_i3_cloud"
+    ],
+    "程服": [
+      "bmw_i3_cloud"
     ],
     "空自": [
       "weather"
@@ -136,6 +205,9 @@
     "组件名称可任意填写": [
       "hyper-pick-up-code"
     ],
+    "维护": [
+      "bmw_i3_cloud"
+    ],
     "缓入": [
       "weather"
     ],
@@ -145,14 +217,30 @@
     "能力有限无法做到识别应用列表": [
       "kingxv"
     ],
+    "要手": [
+      "bmw_i3_cloud"
+    ],
+    "要立": [
+      "bmw_i3_cloud"
+    ],
+    "许需": [
+      "bmw_i3_cloud"
+    ],
     "超过": [
       "xiaoai_course_schedule"
     ],
     "车实": [
+      "bmw_i3_cloud",
       "yadea_car_control"
+    ],
+    "辆图": [
+      "bmw_i3_cloud"
     ],
     "辑添": [
       "business"
+    ],
+    "输入": [
+      "bmw_i3_cloud"
     ],
     "过渡": [
       "business",

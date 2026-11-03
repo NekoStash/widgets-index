@@ -1,7 +1,10 @@
 {
   "shard": "29",
-  "tokenCount": 60,
+  "tokenCount": 79,
   "tokens": {
+    "bmw_subsceen_card": [
+      "bmw_i3_cloud"
+    ],
     "experience": [
       "music"
     ],
@@ -32,11 +35,17 @@
     "不再显示节次与教师": [
       "xiaoai_course_schedule"
     ],
+    "不立": [
+      "bmw_i3_cloud"
+    ],
     "也能": [
       "business"
     ],
     "乱序": [
       "disordered-clock"
+    ],
+    "云端": [
+      "bmw_i3_cloud"
     ],
     "仅修改": [
       "uriroute_deviceinfo"
@@ -46,16 +55,29 @@
       "calendar-lite",
       "schedule_reminder"
     ],
+    "件会": [
+      "bmw_i3_cloud"
+    ],
+    "件脚": [
+      "bmw_i3_cloud"
+    ],
     "会回": [
       "yadea_car_control"
     ],
     "何责": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "免手": [
+      "bmw_i3_cloud"
+    ],
+    "再看": [
+      "bmw_i3_cloud"
+    ],
     "则标": [
       "xiaoai_course_schedule"
     ],
     "功能": [
+      "bmw_i3_cloud",
       "ecotag",
       "hyper-pick-up-code-reareye-xiaomi",
       "yadea_car_control"
@@ -77,6 +99,9 @@
     ],
     "块内": [
       "xiaoai_course_schedule"
+    ],
+    "套包": [
+      "bmw_i3_cloud"
     ],
     "如果你需要在此代码基础上进行二次开发": [
       "business"
@@ -102,8 +127,14 @@
       "schedule_reminder",
       "weather"
     ],
+    "应运": [
+      "bmw_i3_cloud"
+    ],
     "态生": [
       "calendar-lite"
+    ],
+    "持原": [
+      "bmw_i3_cloud"
     ],
     "提取版": [
       "dragon_scales_clock"
@@ -120,11 +151,18 @@
     "时通": [
       "weather"
     ],
+    "是不": [
+      "bmw_i3_cloud"
+    ],
     "更新": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "月背屏创意设计大赛获奖作品": [
       "yuzhouhangxian"
+    ],
+    "有多份历史外观时": [
+      "bmw_i3_cloud"
     ],
     "根据电池电量自动显示": [
       "ecotag"
@@ -133,8 +171,12 @@
       "back_screen_desktop"
     ],
     "模板": [
+      "bmw_i3_cloud",
       "hyper-pick-up-code",
       "xiaoai_course_schedule"
+    ],
+    "次使": [
+      "bmw_i3_cloud"
     ],
     "止时": [
       "xiaoai_course_schedule"
@@ -148,13 +190,20 @@
     "流功": [
       "uriroute_deviceinfo"
     ],
+    "片页": [
+      "bmw_i3_cloud"
+    ],
     "特性": [
       "business",
       "calendar-lite",
       "schedule_reminder",
       "weather"
     ],
+    "用各": [
+      "bmw_i3_cloud"
+    ],
     "用的": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo"
     ],
     "示课": [
@@ -167,10 +216,20 @@
     "系统环境": [
       "weather"
     ],
+    "背屏同步本机已有授权": [
+      "bmw_i3_cloud"
+    ],
     "薄荷绿": [
       "xiaoai_course_schedule"
     ],
+    "行核": [
+      "bmw_i3_cloud"
+    ],
+    "观编": [
+      "bmw_i3_cloud"
+    ],
     "解锁": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "课程名": [
@@ -181,6 +240,9 @@
     ],
     "负载为": [
       "uriroute_deviceinfo"
+    ],
+    "轮询": [
+      "bmw_i3_cloud"
     ],
     "铺设": [
       "calendar-lite"

@@ -1,6 +1,6 @@
 {
   "shard": "02",
-  "tokenCount": 46,
+  "tokenCount": 68,
   "tokens": {
     "skip": [
       "music"
@@ -8,18 +8,37 @@
     "一天": [
       "weather"
     ],
+    "上填": [
+      "bmw_i3_cloud"
+    ],
+    "中明": [
+      "bmw_i3_cloud"
+    ],
+    "于控": [
+      "bmw_i3_cloud"
+    ],
     "件便": [
       "uriroute_deviceinfo"
     ],
     "位置": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "xiaoai_course_schedule"
+    ],
+    "再确": [
+      "bmw_i3_cloud"
     ],
     "删掉": [
       "xiaoai_course_schedule"
     ],
     "到教": [
       "xiaoai_course_schedule"
+    ],
+    "前普": [
+      "bmw_i3_cloud"
+    ],
+    "力和": [
+      "bmw_i3_cloud"
     ],
     "动计": [
       "calendar-lite",
@@ -37,15 +56,26 @@
     "可在": [
       "back_screen_desktop"
     ],
+    "可用": [
+      "bmw_i3_cloud"
+    ],
+    "否可": [
+      "bmw_i3_cloud"
+    ],
     "启动": [
       "back_screen_desktop",
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "启用": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "四行": [
       "xiaoai_course_schedule"
+    ],
+    "在模": [
+      "bmw_i3_cloud"
     ],
     "地写": [
       "calendar-lite"
@@ -55,6 +85,9 @@
     ],
     "它的": [
       "calendar-lite"
+    ],
+    "完成登录或刷新": [
+      "bmw_i3_cloud"
     ],
     "实测会丢卡片": [
       "xiaoai_course_schedule"
@@ -76,8 +109,20 @@
       "mishare",
       "pickup"
     ],
+    "已正": [
+      "bmw_i3_cloud"
+    ],
     "已解": [
       "yadea_car_control"
+    ],
+    "并使": [
+      "bmw_i3_cloud"
+    ],
+    "建议使用横向透明": [
+      "bmw_i3_cloud"
+    ],
+    "或负": [
+      "bmw_i3_cloud"
     ],
     "播后": [
       "yadea_car_control"
@@ -88,11 +133,21 @@
     "教室行与倒计时之间不预留空行": [
       "xiaoai_course_schedule"
     ],
+    "数留": [
+      "bmw_i3_cloud"
+    ],
     "时长": [
+      "bmw_i3_cloud",
       "ecotag"
+    ],
+    "本版发布并被商店收录后": [
+      "bmw_i3_cloud"
     ],
     "条通": [
       "xiaoai_course_schedule"
+    ],
+    "查或": [
+      "bmw_i3_cloud"
     ],
     "沪上阿姨": [
       "business"
@@ -103,11 +158,21 @@
     "照现": [
       "business"
     ],
+    "片提": [
+      "bmw_i3_cloud"
+    ],
     "用卡": [
-      "app_widget"
+      "app_widget",
+      "bmw_i3_cloud"
+    ],
+    "用条": [
+      "bmw_i3_cloud"
     ],
     "用模": [
       "uriroute_deviceinfo"
+    ],
+    "的入": [
+      "bmw_i3_cloud"
     ],
     "的日": [
       "calendar-lite",
@@ -117,6 +182,7 @@
       "business"
     ],
     "目标": [
+      "bmw_i3_cloud",
       "business",
       "hyper-pick-up-code",
       "weather",
@@ -127,6 +193,9 @@
     ],
     "禁区": [
       "calendar-lite"
+    ],
+    "稍后再看": [
+      "bmw_i3_cloud"
     ],
     "等开源项目一起": [
       "weather"
@@ -140,6 +209,9 @@
     "解析必须走": [
       "xiaoai_course_schedule"
     ],
+    "超时": [
+      "bmw_i3_cloud"
+    ],
     "进行": [
       "business",
       "calendar-lite",
@@ -147,6 +219,7 @@
       "weather"
     ],
     "配置": [
+      "bmw_i3_cloud",
       "ecotag",
       "xiaoai_course_schedule"
     ],

@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 49,
+  "tokenCount": 78,
   "tokens": {
     "equipped": [
       "music"
@@ -8,11 +8,32 @@
     "icon": [
       "music"
     ],
+    "jpg": [
+      "bmw_i3_cloud"
+    ],
+    "micromai": [
+      "bmw_i3_cloud"
+    ],
     "series": [
       "music"
     ],
+    "一屏": [
+      "bmw_i3_cloud"
+    ],
+    "交鸣": [
+      "bmw_i3_cloud"
+    ],
     "仅提": [
       "weather"
+    ],
+    "会保": [
+      "bmw_i3_cloud"
+    ],
+    "会尝": [
+      "bmw_i3_cloud"
+    ],
+    "位置和字号": [
+      "bmw_i3_cloud"
     ],
     "你启": [
       "back_screen_desktop"
@@ -22,6 +43,9 @@
     ],
     "依托": [
       "business"
+    ],
+    "保存": [
+      "bmw_i3_cloud"
     ],
     "内存占用": [
       "ecotag",
@@ -45,17 +69,32 @@
     "动画接口": [
       "business"
     ],
+    "及服": [
+      "bmw_i3_cloud"
+    ],
     "双击": [
       "kingxv"
+    ],
+    "受理": [
+      "bmw_i3_cloud"
     ],
     "另有": [
       "xiaoai_course_schedule"
     ],
+    "可明": [
+      "bmw_i3_cloud"
+    ],
     "图标裁边": [
       "xiaoai_course_schedule"
     ],
+    "在对应脚本项目的调试页填写": [
+      "bmw_i3_cloud"
+    ],
     "坐标的数值": [
       "calendar-lite"
+    ],
+    "备制": [
+      "bmw_i3_cloud"
     ],
     "天气": [
       "weather"
@@ -76,10 +115,23 @@
     "性化": [
       "xiaoai_course_schedule"
     ],
+    "成功": [
+      "bmw_i3_cloud"
+    ],
     "或改": [
       "weather"
     ],
+    "把配": [
+      "bmw_i3_cloud"
+    ],
+    "排查": [
+      "bmw_i3_cloud"
+    ],
+    "效性": [
+      "bmw_i3_cloud"
+    ],
     "文件": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo",
       "xiaoai_course_schedule",
       "yadea_car_control"
@@ -118,8 +170,23 @@
     "步数": [
       "ecotag"
     ],
+    "段一": [
+      "bmw_i3_cloud"
+    ],
+    "段检": [
+      "bmw_i3_cloud"
+    ],
     "测会": [
       "xiaoai_course_schedule"
+    ],
+    "然后保存": [
+      "bmw_i3_cloud"
+    ],
+    "片并": [
+      "bmw_i3_cloud"
+    ],
+    "的调": [
+      "bmw_i3_cloud"
     ],
     "的超级岛同时转化到小米背屏的小组件": [
       "pickup"
@@ -127,8 +194,14 @@
     "监听": [
       "schedule_reminder"
     ],
+    "示汽": [
+      "bmw_i3_cloud"
+    ],
     "米互": [
       "mishare"
+    ],
+    "终执": [
+      "bmw_i3_cloud"
     ],
     "背屏中心": [
       "xiaoai_course_schedule"
@@ -136,14 +209,29 @@
     "背屏使用的是通用模块": [
       "uriroute_deviceinfo"
     ],
+    "脚本项目": [
+      "bmw_i3_cloud"
+    ],
     "致力于丰富小米": [
       "weather"
+    ],
+    "表示服务端接收了请求": [
+      "bmw_i3_cloud"
     ],
     "规范": [
       "schedule_reminder"
     ],
+    "车辆详情复制车架号": [
+      "bmw_i3_cloud"
+    ],
+    "辆剩": [
+      "bmw_i3_cloud"
+    ],
     "辨率": [
       "weather"
+    ],
+    "远程": [
+      "bmw_i3_cloud"
     ],
     "透亮": [
       "schedule_reminder"

@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 60,
+  "tokenCount": 74,
   "tokens": {
     "power": [
       "music"
@@ -10,6 +10,9 @@
     ],
     "xposed": [
       "course_schedule"
+    ],
+    "一份": [
+      "bmw_i3_cloud"
     ],
     "上线": [
       "yuzhouhangxian"
@@ -36,6 +39,9 @@
     "了进": [
       "disordered-clock"
     ],
+    "云端组件会同时提供配套脚本": [
+      "bmw_i3_cloud"
+    ],
     "亮打": [
       "calendar-lite"
     ],
@@ -56,12 +62,17 @@
       "calendar-lite"
     ],
     "参照": [
+      "bmw_i3_cloud",
       "business"
+    ],
+    "参考与致谢": [
+      "bmw_i3_cloud"
     ],
     "发回": [
       "calendar-lite"
     ],
     "名为": [
+      "bmw_i3_cloud",
       "business"
     ],
     "嗅探": [
@@ -84,11 +95,17 @@
       "xiaoai_course_schedule",
       "yadea_car_control"
     ],
+    "定是": [
+      "bmw_i3_cloud"
+    ],
     "富有": [
       "yuzhouhangxian"
     ],
     "帧": [
       "calendar-lite"
+    ],
+    "并被": [
+      "bmw_i3_cloud"
     ],
     "度逻": [
       "business"
@@ -98,12 +115,14 @@
     ],
     "手动": [
       "app_widget",
+      "bmw_i3_cloud",
       "ecotag",
       "hyper-pick-up-code",
       "uriroute_deviceinfo",
       "yadea_car_control"
     ],
     "打开": [
+      "bmw_i3_cloud",
       "kingxv"
     ],
     "打造的": [
@@ -112,8 +131,17 @@
     "持亮": [
       "business"
     ],
+    "按需要调整大小": [
+      "bmw_i3_cloud"
+    ],
     "教室行不要无条件预留两行": [
       "xiaoai_course_schedule"
+    ],
+    "整点更新可能延后或跳过": [
+      "bmw_i3_cloud"
+    ],
+    "新仍": [
+      "bmw_i3_cloud"
     ],
     "无缝": [
       "business",
@@ -122,7 +150,11 @@
     "显示系统开机时长": [
       "ecotag"
     ],
+    "期和": [
+      "bmw_i3_cloud"
+    ],
     "权限": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo"
     ],
     "标的": [
@@ -146,6 +178,9 @@
     "爱课": [
       "xiaoai_course_schedule"
     ],
+    "片的": [
+      "bmw_i3_cloud"
+    ],
     "片资": [
       "weather"
     ],
@@ -154,6 +189,9 @@
     ],
     "生桌": [
       "kingxv"
+    ],
+    "目仓": [
+      "bmw_i3_cloud"
     ],
     "秒循环": [
       "ecotag"
@@ -168,14 +206,23 @@
     "级": [
       "ecotag"
     ],
+    "统和": [
+      "bmw_i3_cloud"
+    ],
     "置缓": [
       "uriroute_deviceinfo"
+    ],
+    "脚本和模板配置能力": [
+      "bmw_i3_cloud"
     ],
     "要先赋字符串变量再": [
       "xiaoai_course_schedule"
     ],
     "要微": [
       "calendar-lite"
+    ],
+    "见问": [
+      "bmw_i3_cloud"
     ],
     "谨遵": [
       "schedule_reminder"

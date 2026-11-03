@@ -1,6 +1,6 @@
 {
   "shard": "2e",
-  "tokenCount": 36,
+  "tokenCount": 62,
   "tokens": {
     "custom": [
       "music"
@@ -9,8 +9,17 @@
       "calendar-lite",
       "music"
     ],
+    "与型": [
+      "bmw_i3_cloud"
+    ],
     "个性": [
       "xiaoai_course_schedule"
+    ],
+    "义图": [
+      "bmw_i3_cloud"
+    ],
+    "主检": [
+      "bmw_i3_cloud"
     ],
     "件仓": [
       "ecotag",
@@ -18,6 +27,9 @@
     ],
     "件结": [
       "yadea_car_control"
+    ],
+    "传入": [
+      "bmw_i3_cloud"
     ],
     "作品": [
       "yuzhouhangxian"
@@ -32,11 +44,26 @@
       "course_schedule",
       "xiaoai_course_schedule"
     ],
+    "创建或应用一张": [
+      "bmw_i3_cloud"
+    ],
+    "前观": [
+      "bmw_i3_cloud"
+    ],
+    "前适": [
+      "bmw_i3_cloud"
+    ],
+    "动重": [
+      "bmw_i3_cloud"
+    ],
     "卡片位置": [
       "xiaoai_course_schedule"
     ],
     "在不": [
       "weather"
+    ],
+    "在模板配置中明确选择图片": [
+      "bmw_i3_cloud"
     ],
     "备兼": [
       "business"
@@ -47,26 +74,42 @@
     "契约": [
       "xiaoai_course_schedule"
     ],
+    "存能": [
+      "bmw_i3_cloud"
+    ],
     "屏交": [
       "weather"
     ],
     "已锁车": [
       "yadea_car_control"
     ],
+    "并自定义汽车名称": [
+      "bmw_i3_cloud"
+    ],
+    "或跳": [
+      "bmw_i3_cloud"
+    ],
     "放系": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "整点": [
+      "bmw_i3_cloud"
     ],
     "日出": [
       "weather"
     ],
     "条件": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "根据": [
       "ecotag",
       "schedule_reminder",
       "weather"
+    ],
+    "根目": [
+      "bmw_i3_cloud"
     ],
     "每个卡片和应用卡都是独立的": [
       "app_widget"
@@ -77,6 +120,9 @@
     "泡茶": [
       "business"
     ],
+    "用仍": [
+      "bmw_i3_cloud"
+    ],
     "白色": [
       "schedule_reminder",
       "xiaoai_course_schedule"
@@ -84,9 +130,15 @@
     "的原始数据流": [
       "schedule_reminder"
     ],
+    "确认脚本和模板都已安装": [
+      "bmw_i3_cloud"
+    ],
     "程提": [
       "schedule_reminder",
       "xiaoai_course_schedule"
+    ],
+    "端组": [
+      "bmw_i3_cloud"
     ],
     "者通": [
       "weather"
@@ -100,19 +152,41 @@
     "行深": [
       "business"
     ],
+    "观察": [
+      "bmw_i3_cloud"
+    ],
     "计时": [
       "xiaoai_course_schedule"
+    ],
+    "读检": [
+      "bmw_i3_cloud"
     ],
     "路径": [
       "xiaoai_course_schedule"
     ],
+    "辆正": [
+      "bmw_i3_cloud"
+    ],
+    "辑车": [
+      "bmw_i3_cloud"
+    ],
+    "近车": [
+      "bmw_i3_cloud"
+    ],
     "适用于小米背屏系列的音乐播放器": [
       "music"
+    ],
+    "都已": [
+      "bmw_i3_cloud"
+    ],
+    "配参": [
+      "bmw_i3_cloud"
     ],
     "配合课程表超级岛模块": [
       "xiaoai_course_schedule"
     ],
     "项目": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "mishare",
       "pickup",
@@ -121,6 +195,12 @@
     ],
     "飘落": [
       "weather"
+    ],
+    "首次使用仍需确认官方登录和车辆绑定": [
+      "bmw_i3_cloud"
+    ],
+    "马云": [
+      "bmw_i3_cloud"
     ]
   }
 }

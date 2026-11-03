@@ -1,6 +1,6 @@
 {
   "shard": "1b",
-  "tokenCount": 44,
+  "tokenCount": 62,
   "tokens": {
     "adaption": [
       "schedule_reminder"
@@ -44,6 +44,7 @@
       "yuzhouhangxian"
     ],
     "不要": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "丝滑": [
@@ -54,11 +55,26 @@
     "两个": [
       "xiaoai_course_schedule"
     ],
+    "义汽": [
+      "bmw_i3_cloud"
+    ],
     "了传": [
       "calendar-lite"
     ],
+    "于授": [
+      "bmw_i3_cloud"
+    ],
+    "交闪": [
+      "bmw_i3_cloud"
+    ],
+    "会联": [
+      "bmw_i3_cloud"
+    ],
     "保黑": [
       "schedule_reminder"
+    ],
+    "先确": [
+      "bmw_i3_cloud"
     ],
     "入对": [
       "weather"
@@ -74,6 +90,9 @@
     "副标": [
       "business",
       "ecotag"
+    ],
+    "剩余电量": [
+      "bmw_i3_cloud"
     ],
     "化到": [
       "mishare",
@@ -91,14 +110,26 @@
     "可切": [
       "kingxv"
     ],
+    "号可": [
+      "bmw_i3_cloud"
+    ],
+    "地时": [
+      "bmw_i3_cloud"
+    ],
     "堆叠": [
       "calendar-lite"
+    ],
+    "夜间暂停的是本组件的定时查询": [
+      "bmw_i3_cloud"
     ],
     "如果": [
       "business",
       "calendar-lite",
       "kingxv",
       "weather"
+    ],
+    "宝马车控": [
+      "bmw_i3_cloud"
     ],
     "室只": [
       "xiaoai_course_schedule"
@@ -111,6 +142,12 @@
     ],
     "屏级": [
       "calendar-lite"
+    ],
+    "已完": [
+      "bmw_i3_cloud"
+    ],
+    "应脚": [
+      "bmw_i3_cloud"
     ],
     "手搓": [
       "calendar-lite"
@@ -134,17 +171,33 @@
     "新时": [
       "yadea_car_control"
     ],
+    "方续": [
+      "bmw_i3_cloud"
+    ],
+    "时提": [
+      "bmw_i3_cloud"
+    ],
     "晴空": [
       "weather"
     ],
     "暂停": [
+      "bmw_i3_cloud",
       "weather"
+    ],
+    "源编": [
+      "bmw_i3_cloud"
+    ],
+    "片使": [
+      "bmw_i3_cloud"
     ],
     "用于": [
       "calendar-lite",
       "music",
       "schedule_reminder",
       "weather"
+    ],
+    "由车辆配置和官方账号权限决定": [
+      "bmw_i3_cloud"
     ],
     "空间": [
       "ecotag",
@@ -153,6 +206,9 @@
     ],
     "背屏个性化": [
       "xiaoai_course_schedule"
+    ],
+    "载失": [
+      "bmw_i3_cloud"
     ],
     "过广": [
       "yadea_car_control"

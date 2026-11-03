@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 38,
+  "tokenCount": 56,
   "tokens": {
     "450": [
       "weather"
@@ -15,17 +15,31 @@
       "business"
     ],
     "uriroute": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo",
       "yadea_car_control"
     ],
+    "中选择自己的图片": [
+      "bmw_i3_cloud"
+    ],
+    "也不等于授权会永久自动续期": [
+      "bmw_i3_cloud"
+    ],
     "乱序时钟": [
       "disordered-clock"
+    ],
+    "使用背屏系列的设备制作的": [
+      "bmw_i3_cloud"
     ],
     "元素": [
       "weather",
       "yuzhouhangxian"
     ],
+    "分别": [
+      "bmw_i3_cloud"
+    ],
     "列的": [
+      "bmw_i3_cloud",
       "music",
       "weather"
     ],
@@ -38,9 +52,15 @@
     "只支": [
       "yadea_car_control"
     ],
+    "可明确运行": [
+      "bmw_i3_cloud"
+    ],
     "启背": [
       "hyper-pick-up-code",
       "xiaoai_course_schedule"
+    ],
+    "在对应的本地或云端组件脚本项目中运行": [
+      "bmw_i3_cloud"
     ],
     "在息屏时透明度降至": [
       "calendar-lite"
@@ -48,6 +68,9 @@
     "块的": [
       "business",
       "xiaoai_course_schedule"
+    ],
+    "套的": [
+      "bmw_i3_cloud"
     ],
     "字": [
       "ecotag",
@@ -65,6 +88,9 @@
     "屏瞬": [
       "calendar-lite"
     ],
+    "开前": [
+      "bmw_i3_cloud"
+    ],
     "彻底抛弃了传统的": [
       "calendar-lite"
     ],
@@ -76,6 +102,15 @@
     ],
     "数据流": [
       "schedule_reminder"
+    ],
+    "方账": [
+      "bmw_i3_cloud"
+    ],
+    "方车": [
+      "bmw_i3_cloud"
+    ],
+    "有隶": [
+      "bmw_i3_cloud"
     ],
     "根据真实宽高比计算全局缩放系数": [
       "schedule_reminder"
@@ -96,8 +131,15 @@
     "线作": [
       "yuzhouhangxian"
     ],
+    "绑定当前车辆": [
+      "bmw_i3_cloud"
+    ],
     "续航": [
+      "bmw_i3_cloud",
       "weather"
+    ],
+    "联网": [
+      "bmw_i3_cloud"
     ],
     "蓝竖线加长": [
       "xiaoai_course_schedule"
@@ -114,11 +156,26 @@
     "超出两行": [
       "xiaoai_course_schedule"
     ],
+    "车型": [
+      "bmw_i3_cloud"
+    ],
+    "车辆绑定和隐藏组件绑定是两件事": [
+      "bmw_i3_cloud"
+    ],
     "载为": [
       "uriroute_deviceinfo"
     ],
+    "闪灯": [
+      "bmw_i3_cloud"
+    ],
+    "闭自": [
+      "bmw_i3_cloud"
+    ],
     "需支持底层焦点通知与": [
       "business"
+    ],
+    "需要在": [
+      "bmw_i3_cloud"
     ],
     "需重": [
       "uriroute_deviceinfo"

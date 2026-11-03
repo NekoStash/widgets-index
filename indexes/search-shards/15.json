@@ -1,6 +1,6 @@
 {
   "shard": "15",
-  "tokenCount": 42,
+  "tokenCount": 61,
   "tokens": {
     "35": [
       "xiaoai_course_schedule"
@@ -13,6 +13,9 @@
     ],
     "flow": [
       "pickup"
+    ],
+    "i3": [
+      "bmw_i3_cloud"
     ],
     "is": [
       "music"
@@ -27,6 +30,7 @@
       "weather"
     ],
     "下载": [
+      "bmw_i3_cloud",
       "hyper-pick-up-code",
       "mishare",
       "pickup",
@@ -36,11 +40,17 @@
     "不可": [
       "xiaoai_course_schedule"
     ],
+    "与车": [
+      "bmw_i3_cloud"
+    ],
     "亮屏瞬间秒切": [
       "calendar-lite"
     ],
     "会出": [
       "xiaoai_course_schedule"
+    ],
+    "供配": [
+      "bmw_i3_cloud"
     ],
     "制放": [
       "xiaoai_course_schedule"
@@ -48,11 +58,23 @@
     "动态自适应布局": [
       "business"
     ],
+    "动抠": [
+      "bmw_i3_cloud"
+    ],
+    "及只": [
+      "bmw_i3_cloud"
+    ],
     "只把": [
       "xiaoai_course_schedule"
     ],
+    "固定": [
+      "bmw_i3_cloud"
+    ],
     "在加": [
       "xiaoai_course_schedule"
+    ],
+    "型都": [
+      "bmw_i3_cloud"
     ],
     "安卓": [
       "app_widget"
@@ -81,10 +103,28 @@
     "打底": [
       "calendar-lite"
     ],
+    "文绑": [
+      "bmw_i3_cloud"
+    ],
+    "时显": [
+      "bmw_i3_cloud"
+    ],
     "明度": [
       "business",
       "calendar-lite",
       "weather"
+    ],
+    "有专": [
+      "bmw_i3_cloud"
+    ],
+    "有缓": [
+      "bmw_i3_cloud"
+    ],
+    "本地项目名为": [
+      "bmw_i3_cloud"
+    ],
+    "求已": [
+      "bmw_i3_cloud"
     ],
     "沪上": [
       "business"
@@ -94,6 +134,9 @@
     ],
     "版本历史": [
       "xiaoai_course_schedule"
+    ],
+    "理后": [
+      "bmw_i3_cloud"
     ],
     "用无": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -107,12 +150,21 @@
     "碍支": [
       "weather"
     ],
+    "示脚": [
+      "bmw_i3_cloud"
+    ],
+    "称变": [
+      "bmw_i3_cloud"
+    ],
     "绕过": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "置了": [
       "calendar-lite",
       "weather"
+    ],
+    "能够": [
+      "bmw_i3_cloud"
     ],
     "自动安装": [
       "hyper-pick-up-code"
@@ -132,12 +184,18 @@
     "起省": [
       "calendar-lite"
     ],
+    "辆后": [
+      "bmw_i3_cloud"
+    ],
     "重启": [
       "hyper-pick-up-code",
       "mishare",
       "pickup",
       "schedule_reminder",
       "xiaoai_course_schedule"
+    ],
+    "间隔": [
+      "bmw_i3_cloud"
     ],
     "须搭": [
       "course_schedule",

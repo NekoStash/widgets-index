@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 56,
+  "tokenCount": 71,
   "tokens": {
     "assets": [
       "business",
@@ -32,6 +32,7 @@
       "xiaoai_course_schedule"
     ],
     "不到": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "专属背屏适配": [
@@ -42,6 +43,9 @@
     ],
     "中提": [
       "dragon_scales_clock"
+    ],
+    "中运": [
+      "bmw_i3_cloud"
     ],
     "为超": [
       "xiaoai_course_schedule"
@@ -91,7 +95,11 @@
       "ecotag",
       "xiaoai_course_schedule"
     ],
+    "口为": [
+      "bmw_i3_cloud"
+    ],
     "名称": [
+      "bmw_i3_cloud",
       "hyper-pick-up-code"
     ],
     "囊电": [
@@ -100,17 +108,34 @@
     "它通": [
       "schedule_reminder"
     ],
+    "定来": [
+      "bmw_i3_cloud"
+    ],
+    "库及": [
+      "bmw_i3_cloud"
+    ],
     "恢复": [
+      "bmw_i3_cloud",
       "weather"
     ],
     "息并": [
+      "bmw_i3_cloud",
       "yadea_car_control"
+    ],
+    "成控": [
+      "bmw_i3_cloud"
     ],
     "托小": [
       "business"
     ],
+    "拒绝": [
+      "bmw_i3_cloud"
+    ],
     "控目": [
       "yadea_car_control"
+    ],
+    "控车时遇到授权过期或被拒绝": [
+      "bmw_i3_cloud"
     ],
     "整下": [
       "weather"
@@ -125,12 +150,24 @@
     "时信": [
       "yadea_car_control"
     ],
+    "权会": [
+      "bmw_i3_cloud"
+    ],
     "模拟真实的随风飘落摇摆轨迹": [
       "weather"
+    ],
+    "此前观察到令牌声明时长约": [
+      "bmw_i3_cloud"
+    ],
+    "步授": [
+      "bmw_i3_cloud"
     ],
     "滑返": [
       "kingxv",
       "yadea_car_control"
+    ],
+    "用宿": [
+      "bmw_i3_cloud"
     ],
     "的画": [
       "yuzhouhangxian"
@@ -154,6 +191,9 @@
       "schedule_reminder",
       "weather"
     ],
+    "表长": [
+      "bmw_i3_cloud"
+    ],
     "角保": [
       "xiaoai_course_schedule"
     ],
@@ -163,6 +203,9 @@
     "该版": [
       "app_widget",
       "uriroute_deviceinfo"
+    ],
+    "辆绑": [
+      "bmw_i3_cloud"
     ],
     "送此": [
       "yadea_car_control"
@@ -178,11 +221,18 @@
       "business"
     ],
     "重新": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo",
       "xiaoai_course_schedule"
     ],
+    "长约": [
+      "bmw_i3_cloud"
+    ],
     "隐藏电量胶囊": [
       "ecotag"
+    ],
+    "面不": [
+      "bmw_i3_cloud"
     ]
   }
 }

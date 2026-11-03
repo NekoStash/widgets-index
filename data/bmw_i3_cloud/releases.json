@@ -1,0 +1,74 @@
+{
+  "id": "bmw_i3_cloud",
+  "releases": [
+    {
+      "id": 428034596,
+      "tagName": "v1.1-cloud-beta.1",
+      "name": "BMW_i3_REAREye_Cloud_v1.1",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-11-03T00:53:57Z",
+      "publishedAt": "2026-10-29T15:19:36Z",
+      "url": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/tag/v1.1-cloud-beta.1",
+      "body": "<h1 dir=\"auto\">已有用户更新到本版</h1>\n<p dir=\"auto\"><strong>本次必须同时更新脚本和模板，保留当前车辆绑定，手动运行 <code class=\"notranslate\">setup_new</code>。</strong></p>\n<ul dir=\"auto\">\n<li>本地用户：覆盖同名 <code class=\"notranslate\">BMW_i3_Cloud_AllInOne</code> 脚本项目，再用同一份 ZIP 替换当前普通 BMW 卡片的模板。</li>\n<li>云端用户：本版发布后通过组件更新，同时更新模板和配套脚本。</li>\n</ul>\n<p dir=\"auto\">保留 My BMW 登录、Termux/Python 和隐藏实例。更新后重新进入卡片；<br>\n需要部署／检查后台运行库时，可运行一次 <code class=\"notranslate\">runtime</code>，它不会重新绑定车辆。</p>\n<p dir=\"auto\">本版新增外观读取入口，旧脚本没有这项能力，因此仅替换模板不能完成此次升级。</p>",
+      "assets": [
+        {
+          "id": 703814890,
+          "name": "BMW_i3_Cloud_AllInOne.zip",
+          "label": null,
+          "size": 1320993,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 0,
+          "createdAt": "2026-11-03T01:21:52Z",
+          "updatedAt": "2026-11-03T01:22:15Z",
+          "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.1-cloud-beta.1/BMW_i3_Cloud_AllInOne.zip"
+        },
+        {
+          "id": 703811742,
+          "name": "BMW_i3_REAREye_Cloud_v1.1.mrc",
+          "label": null,
+          "size": 1322602,
+          "contentType": "application/octet-stream",
+          "downloadCount": 0,
+          "createdAt": "2026-11-03T01:20:33Z",
+          "updatedAt": "2026-11-03T01:20:48Z",
+          "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.1-cloud-beta.1/BMW_i3_REAREye_Cloud_v1.1.mrc"
+        },
+        {
+          "id": 703814052,
+          "name": "BMW_i3_REAREye_Cloud_v1.1.zip",
+          "label": null,
+          "size": 1321588,
+          "contentType": "application/x-zip-compressed",
+          "downloadCount": 0,
+          "createdAt": "2026-11-03T01:21:33Z",
+          "updatedAt": "2026-11-03T01:21:49Z",
+          "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.1-cloud-beta.1/BMW_i3_REAREye_Cloud_v1.1.zip"
+        }
+      ],
+      "widgetInfo": {
+        "type": "widget",
+        "name": "BMW 车型自定义车控",
+        "business_setup": {
+          "id": "bmw_i3_cloud",
+          "renameable": false
+        },
+        "card_setup": {
+          "name": "BMW i3 车控",
+          "package": "hk.uwu.reareye",
+          "priority": 500,
+          "sticky": true,
+          "renameable": true
+        },
+        "requirements": {
+          "packages": [
+            "de.bmw.connected.mobile20.cn"
+          ]
+        },
+        "postinstall": {
+          "uri": "content://hk.uwu.reareye.script/component:{id}/bootstrap"
+        }
+      }
+    }
+  ]
+}

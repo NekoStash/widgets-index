@@ -1,6 +1,6 @@
 {
   "shard": "37",
-  "tokenCount": 46,
+  "tokenCount": 60,
   "tokens": {
     "extracts": [
       "music"
@@ -15,6 +15,15 @@
     "r228": [
       "app_widget"
     ],
+    "releases": [
+      "bmw_i3_cloud"
+    ],
+    "下文": [
+      "bmw_i3_cloud"
+    ],
+    "不占普通桌面或负一屏面积": [
+      "bmw_i3_cloud"
+    ],
     "串变": [
       "xiaoai_course_schedule"
     ],
@@ -28,8 +37,14 @@
       "weather",
       "yuzhouhangxian"
     ],
+    "件的": [
+      "bmw_i3_cloud"
+    ],
     "件预": [
       "xiaoai_course_schedule"
+    ],
+    "会检": [
+      "bmw_i3_cloud"
     ],
     "制的": [
       "business"
@@ -44,10 +59,16 @@
       "business",
       "schedule_reminder"
     ],
+    "包不": [
+      "bmw_i3_cloud"
+    ],
     "包名": [
       "business",
       "hyper-pick-up-code",
       "xiaoai_course_schedule"
+    ],
+    "原控车指令不会自动补发": [
+      "bmw_i3_cloud"
     ],
     "原样透传给": [
       "xiaoai_course_schedule"
@@ -55,16 +76,26 @@
     "名单": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "和车": [
+      "bmw_i3_cloud"
+    ],
     "回桌": [
       "kingxv"
     ],
+    "图片按原比例显示": [
+      "bmw_i3_cloud"
+    ],
     "基于墨飞大佬制作的桌面主题": [
       "disordered-clock"
+    ],
+    "够正": [
+      "bmw_i3_cloud"
     ],
     "如添加新品牌": [
       "business"
     ],
     "小米": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "course_schedule",
@@ -90,6 +121,9 @@
     "应与": [
       "calendar-lite"
     ],
+    "情复": [
+      "bmw_i3_cloud"
+    ],
     "智能嗅探": [
       "schedule_reminder"
     ],
@@ -114,10 +148,20 @@
     "特点": [
       "uriroute_deviceinfo"
     ],
+    "的实": [
+      "bmw_i3_cloud"
+    ],
+    "真正": [
+      "bmw_i3_cloud"
+    ],
     "程标": [
       "schedule_reminder"
     ],
+    "笛请": [
+      "bmw_i3_cloud"
+    ],
     "系列": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "course_schedule",
@@ -149,6 +193,7 @@
       "xiaoai_course_schedule"
     ],
     "选择": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "通过广播接收数据": [

@@ -1,9 +1,12 @@
 {
   "shard": "0b",
-  "tokenCount": 49,
+  "tokenCount": 66,
   "tokens": {
     "15": [
       "weather"
+    ],
+    "59": [
+      "bmw_i3_cloud"
     ],
     "business": [
       "business",
@@ -21,8 +24,17 @@
     "tastien": [
       "business"
     ],
+    "义名": [
+      "bmw_i3_cloud"
+    ],
+    "从相": [
+      "bmw_i3_cloud"
+    ],
     "优雅地呈现在背屏上": [
       "schedule_reminder"
+    ],
+    "先运行": [
+      "bmw_i3_cloud"
     ],
     "准提": [
       "business"
@@ -43,11 +55,20 @@
     "动显": [
       "ecotag"
     ],
+    "原文": [
+      "bmw_i3_cloud"
+    ],
+    "变后": [
+      "bmw_i3_cloud"
+    ],
     "号星": [
       "calendar-lite"
     ],
     "后核": [
       "xiaoai_course_schedule"
+    ],
+    "启请": [
+      "bmw_i3_cloud"
     ],
     "均经": [
       "schedule_reminder"
@@ -68,6 +89,9 @@
     "总里程": [
       "yadea_car_control"
     ],
+    "找不到编辑车型和图片的入口": [
+      "bmw_i3_cloud"
+    ],
     "拥有": [
       "uriroute_deviceinfo"
     ],
@@ -77,10 +101,20 @@
     "换行": [
       "schedule_reminder"
     ],
+    "断网": [
+      "bmw_i3_cloud"
+    ],
+    "新了": [
+      "bmw_i3_cloud"
+    ],
     "显示雅迪电动车实时信息": [
       "yadea_car_control"
     ],
+    "暂停背屏脚本的定时查询": [
+      "bmw_i3_cloud"
+    ],
     "构建": [
+      "bmw_i3_cloud",
       "weather",
       "yuzhouhangxian"
     ],
@@ -89,6 +123,9 @@
     ],
     "深度适配": [
       "business"
+    ],
+    "灯请": [
+      "bmw_i3_cloud"
     ],
     "现了": [
       "yuzhouhangxian"
@@ -106,6 +143,7 @@
       "calendar-lite"
     ],
     "示的": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "移至": [
@@ -130,14 +168,26 @@
     "表达": [
       "calendar-lite"
     ],
+    "要查": [
+      "bmw_i3_cloud"
+    ],
     "觉重": [
       "schedule_reminder"
+    ],
+    "认脚": [
+      "bmw_i3_cloud"
     ],
     "责任": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "车型都已完成控车实测": [
+      "bmw_i3_cloud"
+    ],
     "部图": [
       "calendar-lite"
+    ],
+    "问题": [
+      "bmw_i3_cloud"
     ],
     "集成": [
       "schedule_reminder"
@@ -147,6 +197,9 @@
     ],
     "题与": [
       "business"
+    ],
+    "鸣笛入口": [
+      "bmw_i3_cloud"
     ],
     "黑底": [
       "schedule_reminder"

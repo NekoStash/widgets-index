@@ -1,7 +1,10 @@
 {
   "shard": "3d",
-  "tokenCount": 49,
+  "tokenCount": 74,
   "tokens": {
+    "bmw": [
+      "bmw_i3_cloud"
+    ],
     "contributing": [
       "music"
     ],
@@ -34,11 +37,20 @@
     "会丢": [
       "xiaoai_course_schedule"
     ],
+    "使用自定义车图": [
+      "bmw_i3_cloud"
+    ],
     "供绕": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "倾城": [
       "ecotag"
+    ],
+    "入口导入同一份": [
+      "bmw_i3_cloud"
+    ],
+    "关闭": [
+      "bmw_i3_cloud"
     ],
     "最新": [
       "hyper-pick-up-code",
@@ -50,14 +62,26 @@
     "利用小米系统级": [
       "calendar-lite"
     ],
+    "制车": [
+      "bmw_i3_cloud"
+    ],
     "即将开始": [
       "xiaoai_course_schedule"
+    ],
+    "取了": [
+      "bmw_i3_cloud"
     ],
     "号教": [
       "xiaoai_course_schedule"
     ],
+    "同步官方": [
+      "bmw_i3_cloud"
+    ],
     "同的": [
       "app_widget"
+    ],
+    "后台限制": [
+      "bmw_i3_cloud"
     ],
     "呼应": [
       "yuzhouhangxian"
@@ -71,6 +95,12 @@
     "块特": [
       "uriroute_deviceinfo"
     ],
+    "复用已有专用绑定": [
+      "bmw_i3_cloud"
+    ],
+    "夜间": [
+      "bmw_i3_cloud"
+    ],
     "如果你需要微调它的位置": [
       "calendar-lite"
     ],
@@ -81,15 +111,29 @@
       "weather"
     ],
     "常用": [
+      "bmw_i3_cloud",
       "kingxv"
     ],
     "库名": [
       "ecotag"
     ],
+    "式绑": [
+      "bmw_i3_cloud"
+    ],
     "当前": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "ecotag",
       "xiaoai_course_schedule"
+    ],
+    "恢复背屏整点查询": [
+      "bmw_i3_cloud"
+    ],
+    "按下": [
+      "bmw_i3_cloud"
+    ],
+    "按手": [
+      "bmw_i3_cloud"
     ],
     "改进": [
       "weather"
@@ -103,7 +147,17 @@
     "板管": [
       "hyper-pick-up-code"
     ],
+    "核对并固定来源": [
+      "bmw_i3_cloud"
+    ],
+    "片按": [
+      "bmw_i3_cloud"
+    ],
+    "片选": [
+      "bmw_i3_cloud"
+    ],
     "牌的": [
+      "bmw_i3_cloud",
       "business"
     ],
     "生态": [
@@ -115,8 +169,14 @@
     "的呼": [
       "yuzhouhangxian"
     ],
+    "盖了": [
+      "bmw_i3_cloud"
+    ],
     "示节": [
       "xiaoai_course_schedule"
+    ],
+    "等待后用": [
+      "bmw_i3_cloud"
     ],
     "签风": [
       "ecotag"
@@ -131,9 +191,28 @@
     "落摇": [
       "weather"
     ],
+    "行构": [
+      "bmw_i3_cloud"
+    ],
+    "覆盖": [
+      "bmw_i3_cloud"
+    ],
     "路由": [
+      "bmw_i3_cloud",
       "hyper-pick-up-code",
       "xiaoai_course_schedule"
+    ],
+    "车时": [
+      "bmw_i3_cloud"
+    ],
+    "车架": [
+      "bmw_i3_cloud"
+    ],
+    "辆或": [
+      "bmw_i3_cloud"
+    ],
+    "配置冲突时应先核对官方车辆选择": [
+      "bmw_i3_cloud"
     ],
     "钟壁": [
       "dragon_scales_clock"

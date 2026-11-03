@@ -1,12 +1,15 @@
 {
   "shard": "0f",
-  "tokenCount": 45,
+  "tokenCount": 62,
   "tokens": {
     "reminder": [
       "schedule_reminder"
     ],
     "不再": [
       "xiaoai_course_schedule"
+    ],
+    "不重": [
+      "bmw_i3_cloud"
     ],
     "主屏": [
       "business"
@@ -29,7 +32,11 @@
     "内单": [
       "xiaoai_course_schedule"
     ],
+    "最终执行情况以车辆或": [
+      "bmw_i3_cloud"
+    ],
     "制作": [
+      "bmw_i3_cloud",
       "disordered-clock"
     ],
     "动挂": [
@@ -50,10 +57,23 @@
     "变色": [
       "weather"
     ],
+    "另行": [
+      "bmw_i3_cloud"
+    ],
+    "只在": [
+      "bmw_i3_cloud"
+    ],
     "号字约": [
       "xiaoai_course_schedule"
     ],
+    "同设": [
+      "bmw_i3_cloud"
+    ],
+    "和图": [
+      "bmw_i3_cloud"
+    ],
     "处理": [
+      "bmw_i3_cloud",
       "calendar-lite"
     ],
     "宽高比判断": [
@@ -69,6 +89,9 @@
     "已支持的品牌库": [
       "business"
     ],
+    "度和": [
+      "bmw_i3_cloud"
+    ],
     "意填": [
       "hyper-pick-up-code"
     ],
@@ -81,8 +104,14 @@
     "擎处": [
       "calendar-lite"
     ],
+    "方没": [
+      "bmw_i3_cloud"
+    ],
     "时间切换为透亮浅蓝": [
       "schedule_reminder"
+    ],
+    "更新失败保留上次数据及获取时间": [
+      "bmw_i3_cloud"
     ],
     "根标签需": [
       "xiaoai_course_schedule"
@@ -90,14 +119,23 @@
     "法滥": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "片即": [
+      "bmw_i3_cloud"
+    ],
     "的空洞": [
       "xiaoai_course_schedule"
     ],
     "础上": [
       "business"
     ],
+    "确认": [
+      "bmw_i3_cloud"
+    ],
     "移量": [
       "calendar-lite"
+    ],
+    "端下": [
+      "bmw_i3_cloud"
     ],
     "纯数学推演的无素材日历": [
       "calendar-lite"
@@ -110,6 +148,7 @@
     ],
     "自动": [
       "app_widget",
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "ecotag",
@@ -122,8 +161,17 @@
     "自动识别外卖品牌并加载专属视觉资产": [
       "business"
     ],
+    "自用": [
+      "bmw_i3_cloud"
+    ],
+    "行显": [
+      "bmw_i3_cloud"
+    ],
     "行精": [
       "weather"
+    ],
+    "认车": [
+      "bmw_i3_cloud"
     ],
     "请确保仓库中包含以下素材结构": [
       "weather"
@@ -134,6 +182,9 @@
     "负载的计算": [
       "uriroute_deviceinfo"
     ],
+    "车辆能力和服务是否可用": [
+      "bmw_i3_cloud"
+    ],
     "迎各": [
       "kingxv"
     ],
@@ -142,6 +193,9 @@
     ],
     "零帧绝杀": [
       "calendar-lite"
+    ],
+    "需上": [
+      "bmw_i3_cloud"
     ],
     "静态": [
       "schedule_reminder"

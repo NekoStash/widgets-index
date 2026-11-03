@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 55,
+  "tokenCount": 67,
   "tokens": {
     "120hz": [
       "weather"
@@ -40,15 +40,28 @@
     "严谨": [
       "schedule_reminder"
     ],
+    "仍提": [
+      "bmw_i3_cloud"
+    ],
     "以在": [
       "business"
     ],
+    "以官方账号": [
+      "bmw_i3_cloud"
+    ],
     "修改": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "disordered-clock",
       "kingxv",
       "uriroute_deviceinfo",
       "yadea_car_control"
+    ],
+    "再确认当前普通卡片使用的是包含": [
+      "bmw_i3_cloud"
+    ],
+    "再运": [
+      "bmw_i3_cloud"
     ],
     "出日": [
       "weather"
@@ -92,17 +105,29 @@
     "左滑": [
       "yadea_car_control"
     ],
+    "已保": [
+      "bmw_i3_cloud"
+    ],
     "序时": [
       "disordered-clock"
     ],
     "库迪": [
       "business"
     ],
+    "度休": [
+      "bmw_i3_cloud"
+    ],
+    "择和": [
+      "bmw_i3_cloud"
+    ],
     "持熄": [
       "ecotag"
     ],
     "持的": [
       "business"
+    ],
+    "持组": [
+      "bmw_i3_cloud"
     ],
     "是竖": [
       "kingxv"
@@ -120,6 +145,7 @@
       "yuzhouhangxian"
     ],
     "比例": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "weather"
@@ -128,6 +154,7 @@
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "状态": [
+      "bmw_i3_cloud",
       "business",
       "weather",
       "xiaoai_course_schedule",
@@ -155,14 +182,23 @@
     "知在": [
       "xiaoai_course_schedule"
     ],
+    "确认目标车辆": [
+      "bmw_i3_cloud"
+    ],
     "绝杀": [
       "calendar-lite"
     ],
     "背屏原生桌面": [
       "kingxv"
     ],
+    "背屏模板": [
+      "bmw_i3_cloud"
+    ],
     "营造简洁而富有秩序感的画面": [
       "yuzhouhangxian"
+    ],
+    "要的": [
+      "bmw_i3_cloud"
     ],
     "触发": [
       "calendar-lite",
@@ -181,6 +217,7 @@
       "yadea_car_control"
     ],
     "适配": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "ecotag",
@@ -199,7 +236,11 @@
     "长文本适配": [
       "schedule_reminder"
     ],
+    "除系": [
+      "bmw_i3_cloud"
+    ],
     "首次": [
+      "bmw_i3_cloud",
       "yuzhouhangxian"
     ]
   }

@@ -1,7 +1,10 @@
 {
   "shard": "27",
-  "tokenCount": 59,
+  "tokenCount": 73,
   "tokens": {
+    "02": [
+      "bmw_i3_cloud"
+    ],
     "aod": [
       "business",
       "calendar-lite",
@@ -33,8 +36,14 @@
     "yadea": [
       "yadea_car_control"
     ],
+    "三方": [
+      "bmw_i3_cloud"
+    ],
     "不仅": [
       "weather"
+    ],
+    "不包": [
+      "bmw_i3_cloud"
     ],
     "与背": [
       "business"
@@ -58,6 +67,7 @@
       "ecotag"
     ],
     "剩余": [
+      "bmw_i3_cloud",
       "ecotag",
       "yadea_car_control"
     ],
@@ -67,6 +77,9 @@
     "只占": [
       "xiaoai_course_schedule"
     ],
+    "只导入模板不会同时完成本地脚本安装": [
+      "bmw_i3_cloud"
+    ],
     "右上角为超级小爱图标": [
       "xiaoai_course_schedule"
     ],
@@ -74,6 +87,7 @@
       "xiaoai_course_schedule"
     ],
     "同时": [
+      "bmw_i3_cloud",
       "mishare",
       "pickup",
       "yuzhouhangxian"
@@ -83,6 +97,9 @@
     ],
     "向未知的星域航行": [
       "yuzhouhangxian"
+    ],
+    "和阶": [
+      "bmw_i3_cloud"
     ],
     "囊开": [
       "ecotag"
@@ -107,8 +124,23 @@
     "安装前需确保": [
       "uriroute_deviceinfo"
     ],
+    "定成": [
+      "bmw_i3_cloud"
+    ],
+    "定隐": [
+      "bmw_i3_cloud"
+    ],
+    "尝试": [
+      "bmw_i3_cloud"
+    ],
+    "并执行显式重新绑定": [
+      "bmw_i3_cloud"
+    ],
     "度预": [
       "xiaoai_course_schedule"
+    ],
+    "待初": [
+      "bmw_i3_cloud"
     ],
     "提醒": [
       "schedule_reminder",
@@ -120,6 +152,9 @@
     "播接": [
       "yadea_car_control"
     ],
+    "整图": [
+      "bmw_i3_cloud"
+    ],
     "文件中": [
       "uriroute_deviceinfo"
     ],
@@ -128,6 +163,9 @@
     ],
     "日落": [
       "weather"
+    ],
+    "时应": [
+      "bmw_i3_cloud"
     ],
     "时演": [
       "weather"
@@ -145,6 +183,7 @@
       "business"
     ],
     "环境": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "schedule_reminder",
       "weather"
@@ -161,6 +200,9 @@
       "music",
       "weather",
       "yuzhouhangxian"
+    ],
+    "种包": [
+      "bmw_i3_cloud"
     ],
     "程字": [
       "xiaoai_course_schedule"
@@ -184,6 +226,9 @@
     "行状": [
       "yadea_car_control"
     ],
+    "认目": [
+      "bmw_i3_cloud"
+    ],
     "课程表超级岛": [
       "xiaoai_course_schedule"
     ],
@@ -201,6 +246,7 @@
       "pickup"
     ],
     "返回": [
+      "bmw_i3_cloud",
       "kingxv",
       "yadea_car_control"
     ],

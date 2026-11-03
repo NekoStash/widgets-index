@@ -1,6 +1,6 @@
 {
   "shard": "1f",
-  "tokenCount": 41,
+  "tokenCount": 56,
   "tokens": {
     "30s": [
       "uriroute_deviceinfo"
@@ -10,6 +10,7 @@
       "schedule_reminder"
     ],
     "card": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "history": [
@@ -24,11 +25,23 @@
     "一": [
       "hyper-pick-up-code"
     ],
+    "一定": [
+      "bmw_i3_cloud"
+    ],
     "不同于传统的静态插件": [
       "schedule_reminder"
     ],
+    "两件": [
+      "bmw_i3_cloud"
+    ],
+    "中国": [
+      "bmw_i3_cloud"
+    ],
     "偏移": [
       "calendar-lite"
+    ],
+    "入该": [
+      "bmw_i3_cloud"
     ],
     "兼顾": [
       "calendar-lite",
@@ -41,11 +54,23 @@
     "务让": [
       "xiaoai_course_schedule"
     ],
+    "包包": [
+      "bmw_i3_cloud"
+    ],
     "叉淡": [
       "schedule_reminder"
     ],
+    "可供": [
+      "bmw_i3_cloud"
+    ],
+    "后应": [
+      "bmw_i3_cloud"
+    ],
     "命名为": [
       "business"
+    ],
+    "和普": [
+      "bmw_i3_cloud"
     ],
     "场动": [
       "weather"
@@ -60,6 +85,7 @@
       "disordered-clock"
     ],
     "屏系": [
+      "bmw_i3_cloud",
       "music",
       "weather"
     ],
@@ -87,14 +113,29 @@
     "搭载": [
       "business"
     ],
+    "无需上传": [
+      "bmw_i3_cloud"
+    ],
     "日步": [
       "ecotag"
     ],
     "时同": [
       "business"
     ],
+    "时完": [
+      "bmw_i3_cloud"
+    ],
     "时掌": [
       "business"
+    ],
+    "有计": [
+      "bmw_i3_cloud"
+    ],
+    "来源编号": [
+      "bmw_i3_cloud"
+    ],
+    "查入": [
+      "bmw_i3_cloud"
     ],
     "汉堡": [
       "business"
@@ -112,6 +153,7 @@
       "xiaoai_course_schedule"
     ],
     "系统": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "dragon_scales_clock",
@@ -120,8 +162,14 @@
       "weather",
       "xiaoai_course_schedule"
     ],
+    "试页": [
+      "bmw_i3_cloud"
+    ],
     "超长自动两行": [
       "xiaoai_course_schedule"
+    ],
+    "跳过": [
+      "bmw_i3_cloud"
     ],
     "过解": [
       "schedule_reminder"

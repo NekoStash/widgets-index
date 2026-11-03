@@ -4,6 +4,23 @@
   "limit": 20,
   "items": [
     {
+      "id": "bmw_i3_cloud",
+      "name": "BMW 车型自定义车控",
+      "description": "基于UriRoute修改获取My BMW车辆信息并在小米背屏展示的组件",
+      "author": {
+        "login": "Micromai01",
+        "name": "MicroMai",
+        "url": "https://github.com/Micromai01",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/200516595?v=4",
+        "type": "User"
+      },
+      "updatedAt": "2026-11-03T01:40:53.000Z",
+      "repository": {
+        "fullName": "Micromai01/BMW_SubSceen_Card",
+        "url": "https://github.com/Micromai01/BMW_SubSceen_Card"
+      }
+    },
+    {
       "id": "calendar-lite",
       "name": "背屏日历Lite",
       "description": "适用于小米背屏的日历小组件",
@@ -324,23 +341,6 @@
       "repository": {
         "fullName": "juzipaome/Xiaomi-RearScreen-Schedule",
         "url": "https://github.com/juzipaome/Xiaomi-RearScreen-Schedule"
-      }
-    },
-    {
-      "id": "weather",
-      "name": "背屏天气",
-      "description": "适用于小米背屏系列的天气小组件。",
-      "author": {
-        "login": "SiberiaApp",
-        "name": "九磅九万便士",
-        "url": "https://github.com/SiberiaApp",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/64341099?v=4",
-        "type": "User"
-      },
-      "updatedAt": "2026-04-14T09:03:44.000Z",
-      "repository": {
-        "fullName": "SiberiaApp/Xiaomi-RearScreen-Weather",
-        "url": "https://github.com/SiberiaApp/Xiaomi-RearScreen-Weather"
       }
     }
   ]

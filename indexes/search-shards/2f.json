@@ -1,6 +1,6 @@
 {
   "shard": "2f",
-  "tokenCount": 38,
+  "tokenCount": 56,
   "tokens": {
     "active": [
       "music"
@@ -16,6 +16,7 @@
     ],
     "一个": [
       "back_screen_desktop",
+      "bmw_i3_cloud",
       "calendar-lite",
       "schedule_reminder",
       "weather"
@@ -39,6 +40,9 @@
     "从此": [
       "yuzhouhangxian"
     ],
+    "会永": [
+      "bmw_i3_cloud"
+    ],
     "倒计时前缀与目标时刻": [
       "xiaoai_course_schedule"
     ],
@@ -49,11 +53,17 @@
     "内容从": [
       "xiaoai_course_schedule"
     ],
+    "况以": [
+      "bmw_i3_cloud"
+    ],
     "击可": [
       "kingxv"
     ],
     "创意": [
       "yuzhouhangxian"
+    ],
+    "到脚": [
+      "bmw_i3_cloud"
     ],
     "刷新率降至": [
       "business"
@@ -61,8 +71,17 @@
     "动换": [
       "schedule_reminder"
     ],
+    "参数": [
+      "bmw_i3_cloud"
+    ],
     "变量名": [
       "ecotag"
+    ],
+    "号权": [
+      "bmw_i3_cloud"
+    ],
+    "地脚": [
+      "bmw_i3_cloud"
     ],
     "奖作": [
       "yuzhouhangxian"
@@ -70,27 +89,58 @@
     "字单行": [
       "xiaoai_course_schedule"
     ],
+    "宿主": [
+      "bmw_i3_cloud"
+    ],
+    "尝试读取车况": [
+      "bmw_i3_cloud"
+    ],
     "已开机": [
       "yadea_car_control"
     ],
     "常渲": [
       "weather"
     ],
+    "情况": [
+      "bmw_i3_cloud"
+    ],
     "提示": [
+      "bmw_i3_cloud",
       "business"
     ],
     "搭配": [
       "course_schedule",
       "xiaoai_course_schedule"
     ],
+    "方流": [
+      "bmw_i3_cloud"
+    ],
     "有云": [
       "weather"
+    ],
+    "有绑": [
+      "bmw_i3_cloud"
+    ],
+    "未选择": [
+      "bmw_i3_cloud"
+    ],
+    "本地外观读取的兜底轮询间隔为": [
+      "bmw_i3_cloud"
+    ],
+    "本放": [
+      "bmw_i3_cloud"
+    ],
+    "权过": [
+      "bmw_i3_cloud"
     ],
     "框架开发的动态天气小组件": [
       "weather"
     ],
     "气状": [
       "weather"
+    ],
+    "汽车名称": [
+      "bmw_i3_cloud"
     ],
     "留信": [
       "yuzhouhangxian"
@@ -103,6 +153,9 @@
     ],
     "目前代码已内置以下主流餐饮": [
       "business"
+    ],
+    "目的": [
+      "bmw_i3_cloud"
     ],
     "示存": [
       "ecotag"
@@ -121,6 +174,9 @@
     ],
     "这条": [
       "xiaoai_course_schedule"
+    ],
+    "这次": [
+      "bmw_i3_cloud"
     ]
   }
 }

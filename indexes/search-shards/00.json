@@ -1,6 +1,6 @@
 {
   "shard": "00",
-  "tokenCount": 48,
+  "tokenCount": 68,
   "tokens": {
     "devices": [
       "music"
@@ -23,6 +23,9 @@
     "starisland": [
       "pickup"
     ],
+    "不要直接删除系统的小组件注册文件": [
+      "bmw_i3_cloud"
+    ],
     "与云": [
       "weather"
     ],
@@ -35,14 +38,29 @@
     "代码内置了基于真实宽高比": [
       "calendar-lite"
     ],
+    "会保留照片背景": [
+      "bmw_i3_cloud"
+    ],
+    "会重": [
+      "bmw_i3_cloud"
+    ],
     "你使": [
       "app_widget"
+    ],
+    "保留可用的": [
+      "bmw_i3_cloud"
+    ],
+    "创建": [
+      "bmw_i3_cloud"
     ],
     "加长": [
       "xiaoai_course_schedule"
     ],
     "只做了一些常用": [
       "kingxv"
+    ],
+    "可查看车辆剩余电量": [
+      "bmw_i3_cloud"
     ],
     "否则": [
       "uriroute_deviceinfo",
@@ -51,10 +69,23 @@
     "品牌": [
       "business"
     ],
+    "够确": [
+      "bmw_i3_cloud"
+    ],
+    "大陆": [
+      "bmw_i3_cloud"
+    ],
     "太白": [
       "yadea_car_control"
     ],
+    "安装与使用": [
+      "bmw_i3_cloud"
+    ],
+    "定不": [
+      "bmw_i3_cloud"
+    ],
     "定位": [
+      "bmw_i3_cloud",
       "business"
     ],
     "将前台的": [
@@ -91,6 +122,12 @@
     "探索更多背屏交互的可能": [
       "weather"
     ],
+    "接删": [
+      "bmw_i3_cloud"
+    ],
+    "新可": [
+      "bmw_i3_cloud"
+    ],
     "时拉": [
       "weather"
     ],
@@ -100,11 +137,23 @@
     "智能品牌识别系统": [
       "business"
     ],
+    "有令": [
+      "bmw_i3_cloud"
+    ],
+    "标车": [
+      "bmw_i3_cloud"
+    ],
     "模板不再渲染": [
       "xiaoai_course_schedule"
     ],
     "洁而": [
       "yuzhouhangxian"
+    ],
+    "点更": [
+      "bmw_i3_cloud"
+    ],
+    "版号": [
+      "bmw_i3_cloud"
     ],
     "独立": [
       "app_widget",
@@ -115,6 +164,12 @@
     ],
     "电源": [
       "yadea_car_control"
+    ],
+    "电量和续航暂时显示": [
+      "bmw_i3_cloud"
+    ],
+    "的专": [
+      "bmw_i3_cloud"
     ],
     "目深": [
       "schedule_reminder"
@@ -137,6 +192,12 @@
     "设计": [
       "yuzhouhangxian"
     ],
+    "载器": [
+      "bmw_i3_cloud"
+    ],
+    "里填": [
+      "bmw_i3_cloud"
+    ],
     "重绘": [
       "xiaoai_course_schedule"
     ],
@@ -147,6 +208,7 @@
       "yadea_car_control"
     ],
     "隐藏": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "ecotag",
       "weather"

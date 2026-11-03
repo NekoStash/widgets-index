@@ -20,6 +20,16 @@
     "stars": 2
   },
   {
+    "id": "bmw_i3_cloud",
+    "name": "BMW 车型自定义车控",
+    "authorName": "MicroMai",
+    "authorId": "Micromai01",
+    "description": "基于UriRoute修改获取My BMW车辆信息并在小米背屏展示的组件",
+    "latestReleaseTag": "v1.1-cloud-beta.1",
+    "latestReleasePublishedAt": "2026-10-29T15:19:36.000Z",
+    "stars": 0
+  },
+  {
     "id": "business",
     "name": "[适配Todo便签]超级背屏岛Pro",
     "authorName": "九磅九万便士",

@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 31,
+  "tokenCount": 53,
   "tokens": {
     "check": [
       "music"
@@ -11,8 +11,14 @@
     "yun": [
       "xiaoai_course_schedule"
     ],
+    "上传": [
+      "bmw_i3_cloud"
+    ],
     "不需要路由": [
       "xiaoai_course_schedule"
+    ],
+    "与本": [
+      "bmw_i3_cloud"
     ],
     "严谨遵循": [
       "schedule_reminder"
@@ -26,6 +32,9 @@
     "做到": [
       "kingxv"
     ],
+    "其更": [
+      "bmw_i3_cloud"
+    ],
     "准的": [
       "weather"
     ],
@@ -34,14 +43,39 @@
       "xiaoai_course_schedule"
     ],
     "发送": [
+      "bmw_i3_cloud",
       "yadea_car_control"
+    ],
+    "可以自定义车型外观": [
+      "bmw_i3_cloud"
+    ],
+    "在自": [
+      "bmw_i3_cloud"
+    ],
+    "型号": [
+      "bmw_i3_cloud"
+    ],
+    "应显": [
+      "bmw_i3_cloud"
+    ],
+    "应显示": [
+      "bmw_i3_cloud"
+    ],
+    "建隐": [
+      "bmw_i3_cloud"
     ],
     "开后备箱": [
       "yadea_car_control"
     ],
+    "态影": [
+      "bmw_i3_cloud"
+    ],
     "息屏显示": [
       "business",
       "weather"
+    ],
+    "或应": [
+      "bmw_i3_cloud"
     ],
     "或者通过": [
       "weather"
@@ -60,6 +94,7 @@
       "ecotag"
     ],
     "时间": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "schedule_reminder",
       "uriroute_deviceinfo",
@@ -67,11 +102,23 @@
       "xiaoai_course_schedule",
       "yadea_car_control"
     ],
+    "有这": [
+      "bmw_i3_cloud"
+    ],
+    "本地安装": [
+      "bmw_i3_cloud"
+    ],
+    "本时": [
+      "bmw_i3_cloud"
+    ],
     "本项目深度集成系统通知监听逻辑": [
       "schedule_reminder"
     ],
     "根据雨量": [
       "weather"
+    ],
+    "次绑": [
+      "bmw_i3_cloud"
     ],
     "独家": [
       "yuzhouhangxian"
@@ -79,20 +126,41 @@
     "率进": [
       "weather"
     ],
+    "用横": [
+      "bmw_i3_cloud"
+    ],
+    "用自": [
+      "bmw_i3_cloud"
+    ],
     "由管": [
       "hyper-pick-up-code"
     ],
     "界面下显示深色版本": [
       "yuzhouhangxian"
     ],
+    "目和": [
+      "bmw_i3_cloud"
+    ],
+    "直连": [
+      "bmw_i3_cloud"
+    ],
     "纯代": [
       "calendar-lite"
+    ],
+    "续航和数据获取时间": [
+      "bmw_i3_cloud"
+    ],
+    "置和": [
+      "bmw_i3_cloud"
     ],
     "背屏左侧约": [
       "xiaoai_course_schedule"
     ],
     "自动计算": [
       "calendar-lite"
+    ],
+    "败保": [
+      "bmw_i3_cloud"
     ],
     "赖应": [
       "business"

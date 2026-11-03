@@ -1,6 +1,6 @@
 {
   "shard": "32",
-  "tokenCount": 32,
+  "tokenCount": 48,
   "tokens": {
     "automatically": [
       "music"
@@ -13,6 +13,7 @@
       "kingxv"
     ],
     "github": [
+      "bmw_i3_cloud",
       "course_schedule"
     ],
     "request": [
@@ -30,6 +31,9 @@
     "了使": [
       "weather"
     ],
+    "以车": [
+      "bmw_i3_cloud"
+    ],
     "会压": [
       "xiaoai_course_schedule"
     ],
@@ -39,17 +43,42 @@
     "例背": [
       "calendar-lite"
     ],
+    "入车": [
+      "bmw_i3_cloud"
+    ],
     "准避": [
       "calendar-lite"
     ],
     "刷新": [
+      "bmw_i3_cloud",
       "business",
       "weather",
       "xiaoai_course_schedule",
       "yadea_car_control"
     ],
+    "参考": [
+      "bmw_i3_cloud"
+    ],
+    "只读": [
+      "bmw_i3_cloud"
+    ],
+    "和续": [
+      "bmw_i3_cloud"
+    ],
+    "型和": [
+      "bmw_i3_cloud"
+    ],
+    "官方没有隶属关系": [
+      "bmw_i3_cloud"
+    ],
+    "常见": [
+      "bmw_i3_cloud"
+    ],
     "幅识": [
       "schedule_reminder"
+    ],
+    "据获": [
+      "bmw_i3_cloud"
     ],
     "播放": [
       "music",
@@ -57,6 +86,9 @@
     ],
     "时透": [
       "calendar-lite"
+    ],
+    "本位": [
+      "bmw_i3_cloud"
     ],
     "杂元": [
       "weather"
@@ -71,10 +103,23 @@
       "weather",
       "xiaoai_course_schedule"
     ],
+    "片加": [
+      "bmw_i3_cloud"
+    ],
     "片素": [
       "calendar-lite"
     ],
+    "用绑": [
+      "bmw_i3_cloud"
+    ],
+    "由官方流程操作": [
+      "bmw_i3_cloud"
+    ],
+    "目录说明": [
+      "bmw_i3_cloud"
+    ],
     "直接": [
+      "bmw_i3_cloud",
       "schedule_reminder"
     ],
     "程同": [
@@ -93,14 +138,21 @@
       "xiaoai_course_schedule"
     ],
     "调整": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "weather"
     ],
     "车速": [
       "yadea_car_control"
     ],
+    "转前": [
+      "bmw_i3_cloud"
+    ],
     "适用于小米背屏系列的天气小组件": [
       "weather"
+    ],
+    "避免手动混合不同版本的模板和脚本": [
+      "bmw_i3_cloud"
     ],
     "驱动的设备资讯模块": [
       "uriroute_deviceinfo"

@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 50,
+  "tokenCount": 58,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -9,6 +9,7 @@
       "business"
     ],
     "png": [
+      "bmw_i3_cloud",
       "business"
     ],
     "soc": [
@@ -38,7 +39,11 @@
     "今天": [
       "calendar-lite"
     ],
+    "例显": [
+      "bmw_i3_cloud"
+    ],
     "允许": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "最底层铺设": [
@@ -50,11 +55,17 @@
     "包围": [
       "xiaoai_course_schedule"
     ],
+    "卡片提示脚本未连接": [
+      "bmw_i3_cloud"
+    ],
     "只有": [
       "xiaoai_course_schedule"
     ],
     "可自": [
       "ecotag"
+    ],
+    "启自": [
+      "bmw_i3_cloud"
     ],
     "在息屏时实现背景与文字的平滑交叉淡入淡出": [
       "schedule_reminder"
@@ -85,14 +96,23 @@
     "弃了": [
       "calendar-lite"
     ],
+    "成登": [
+      "bmw_i3_cloud"
+    ],
     "成系": [
       "schedule_reminder"
     ],
     "抓取": [
       "schedule_reminder"
     ],
+    "授权": [
+      "bmw_i3_cloud"
+    ],
     "整块": [
       "xiaoai_course_schedule"
+    ],
+    "新进": [
+      "bmw_i3_cloud"
     ],
     "方一": [
       "xiaoai_course_schedule"
@@ -102,6 +122,9 @@
     ],
     "有限": [
       "kingxv"
+    ],
+    "未选": [
+      "bmw_i3_cloud"
     ],
     "析系": [
       "business",
@@ -147,11 +170,15 @@
       "hyper-pick-up-code-reareye-xiaomi"
     ],
     "请求": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "资产": [
       "business",
       "weather"
+    ],
+    "辆配": [
+      "bmw_i3_cloud"
     ],
     "驱动": [
       "hyper-pick-up-code",

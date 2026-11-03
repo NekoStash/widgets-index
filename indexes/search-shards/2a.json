@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 47,
+  "tokenCount": 68,
   "tokens": {
     "12": [
       "xiaoai_course_schedule"
@@ -32,9 +32,21 @@
     "your": [
       "business"
     ],
+    "不重新绑定": [
+      "bmw_i3_cloud"
+    ],
+    "与使": [
+      "bmw_i3_cloud"
+    ],
+    "两种包应按各自用途安装": [
+      "bmw_i3_cloud"
+    ],
     "个专": [
       "calendar-lite",
       "schedule_reminder"
+    ],
+    "中国大陆": [
+      "bmw_i3_cloud"
     ],
     "主题版": [
       "ecotag"
@@ -44,6 +56,9 @@
     ],
     "仓库名": [
       "ecotag"
+    ],
+    "份历": [
+      "bmw_i3_cloud"
     ],
     "体验": [
       "weather"
@@ -61,14 +76,31 @@
     "取标": [
       "business"
     ],
+    "口导": [
+      "bmw_i3_cloud"
+    ],
     "商店": [
+      "bmw_i3_cloud",
       "hyper-pick-up-code"
     ],
+    "在对": [
+      "bmw_i3_cloud"
+    ],
+    "在根": [
+      "bmw_i3_cloud"
+    ],
     "复制": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo"
     ],
     "如被": [
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "已登": [
+      "bmw_i3_cloud"
+    ],
+    "并执": [
+      "bmw_i3_cloud"
     ],
     "开发者不承担任何责任": [
       "hyper-pick-up-code-reareye-xiaomi"
@@ -79,11 +111,20 @@
     "息屏状态": [
       "business"
     ],
+    "择自": [
+      "bmw_i3_cloud"
+    ],
     "据真": [
       "schedule_reminder"
     ],
     "新品": [
       "business"
+    ],
+    "显式": [
+      "bmw_i3_cloud"
+    ],
+    "查后": [
+      "bmw_i3_cloud"
     ],
     "气语": [
       "weather"
@@ -109,6 +150,7 @@
       "schedule_reminder"
     ],
     "留空": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "省电规范": [
@@ -118,8 +160,14 @@
       "business",
       "xiaoai_course_schedule"
     ],
+    "空调": [
+      "bmw_i3_cloud"
+    ],
     "站找到": [
       "back_screen_desktop"
+    ],
+    "系统调度和联网状态影响": [
+      "bmw_i3_cloud"
     ],
     "级动": [
       "calendar-lite",
@@ -140,11 +188,26 @@
     "行内": [
       "xiaoai_course_schedule"
     ],
+    "行包": [
+      "bmw_i3_cloud"
+    ],
     "行必": [
       "xiaoai_course_schedule"
     ],
+    "行情": [
+      "bmw_i3_cloud"
+    ],
     "该版本需要你使用": [
       "app_widget"
+    ],
+    "负一": [
+      "bmw_i3_cloud"
+    ],
+    "账号": [
+      "bmw_i3_cloud"
+    ],
+    "跳转": [
+      "bmw_i3_cloud"
     ],
     "轨迹": [
       "weather"
@@ -154,6 +217,9 @@
     ],
     "间不": [
       "xiaoai_course_schedule"
+    ],
+    "队检": [
+      "bmw_i3_cloud"
     ],
     "零帧": [
       "calendar-lite",

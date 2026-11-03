@@ -1,6 +1,6 @@
 {
   "shard": "39",
-  "tokenCount": 54,
+  "tokenCount": 73,
   "tokens": {
     "coco": [
       "business"
@@ -10,6 +10,9 @@
     ],
     "yuzhouhangxian": [
       "yuzhouhangxian"
+    ],
+    "不改变实际控车车辆": [
+      "bmw_i3_cloud"
     ],
     "与倒": [
       "xiaoai_course_schedule"
@@ -27,14 +30,30 @@
       "calendar-lite"
     ],
     "信息": [
+      "bmw_i3_cloud",
       "business",
       "uriroute_deviceinfo",
       "xiaoai_course_schedule",
       "yadea_car_control",
       "yuzhouhangxian"
     ],
+    "入口": [
+      "bmw_i3_cloud"
+    ],
     "分为": [
       "weather"
+    ],
+    "初始": [
+      "bmw_i3_cloud"
+    ],
+    "务是": [
+      "bmw_i3_cloud"
+    ],
+    "务端": [
+      "bmw_i3_cloud"
+    ],
+    "史外": [
+      "bmw_i3_cloud"
     ],
     "呼吸": [
       "schedule_reminder",
@@ -52,6 +71,9 @@
     "完全依靠系统时间变量和纯数学表达式推导网格坐标": [
       "calendar-lite"
     ],
+    "定后": [
+      "bmw_i3_cloud"
+    ],
     "家上": [
       "yuzhouhangxian"
     ],
@@ -65,8 +87,14 @@
     "已解锁": [
       "yadea_car_control"
     ],
+    "带脚": [
+      "bmw_i3_cloud"
+    ],
     "度定": [
       "business"
+    ],
+    "建议": [
+      "bmw_i3_cloud"
     ],
     "当前版本": [
       "xiaoai_course_schedule"
@@ -80,7 +108,11 @@
     "择文": [
       "xiaoai_course_schedule"
     ],
+    "换账": [
+      "bmw_i3_cloud"
+    ],
     "接口": [
+      "bmw_i3_cloud",
       "business"
     ],
     "推演": [
@@ -90,10 +122,14 @@
       "schedule_reminder"
     ],
     "改获": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "放换": [
       "schedule_reminder"
+    ],
+    "本版": [
+      "bmw_i3_cloud"
     ],
     "本项目不仅提供了精准的天气数据展示": [
       "weather"
@@ -101,14 +137,30 @@
     "朵缓": [
       "weather"
     ],
+    "权失": [
+      "bmw_i3_cloud"
+    ],
+    "权由": [
+      "bmw_i3_cloud"
+    ],
     "条路": [
       "xiaoai_course_schedule"
     ],
     "板不": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
+    ],
+    "板配": [
+      "bmw_i3_cloud"
     ],
     "板重": [
       "xiaoai_course_schedule"
+    ],
+    "片查": [
+      "bmw_i3_cloud"
+    ],
+    "用途": [
+      "bmw_i3_cloud"
     ],
     "电源状态": [
       "yadea_car_control"
@@ -123,6 +175,9 @@
     "的渐": [
       "weather"
     ],
+    "端初": [
+      "bmw_i3_cloud"
+    ],
     "等级": [
       "ecotag"
     ],
@@ -133,6 +188,9 @@
     ],
     "统中": [
       "dragon_scales_clock"
+    ],
+    "置冲": [
+      "bmw_i3_cloud"
     ],
     "胶囊": [
       "ecotag"
@@ -146,6 +204,9 @@
     "角时": [
       "xiaoai_course_schedule"
     ],
+    "询车": [
+      "bmw_i3_cloud"
+    ],
     "资源": [
       "weather"
     ],
@@ -156,10 +217,12 @@
       "business"
     ],
     "运行": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "weather"
     ],
     "避免": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "醒时": [
@@ -172,6 +235,7 @@
       "xiaoai_course_schedule"
     ],
     "默认": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "uriroute_deviceinfo"

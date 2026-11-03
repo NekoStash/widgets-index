@@ -1,6 +1,6 @@
 {
   "shard": "20",
-  "tokenCount": 55,
+  "tokenCount": 70,
   "tokens": {
     "folme": [
       "business",
@@ -9,6 +9,7 @@
       "weather"
     ],
     "id": [
+      "bmw_i3_cloud",
       "mishare",
       "pickup",
       "schedule_reminder",
@@ -38,12 +39,18 @@
     "侧约": [
       "xiaoai_course_schedule"
     ],
+    "关闭自定义图片即可恢复": [
+      "bmw_i3_cloud"
+    ],
     "到小": [
       "mishare",
       "pickup"
     ],
     "动刷": [
       "yadea_car_control"
+    ],
+    "动混": [
+      "bmw_i3_cloud"
     ],
     "占原": [
       "xiaoai_course_schedule"
@@ -54,6 +61,9 @@
     "可显": [
       "uriroute_deviceinfo"
     ],
+    "号或": [
+      "bmw_i3_cloud"
+    ],
     "回信": [
       "yadea_car_control"
     ],
@@ -62,10 +72,17 @@
       "pickup",
       "schedule_reminder"
     ],
+    "型号可以留空": [
+      "bmw_i3_cloud"
+    ],
+    "型自": [
+      "bmw_i3_cloud"
+    ],
     "安装后默认在背屏显示": [
       "uriroute_deviceinfo"
     ],
     "对应": [
+      "bmw_i3_cloud",
       "business",
       "weather"
     ],
@@ -84,6 +101,12 @@
     "并利": [
       "schedule_reminder"
     ],
+    "店收": [
+      "bmw_i3_cloud"
+    ],
+    "建重": [
+      "bmw_i3_cloud"
+    ],
     "式实": [
       "yuzhouhangxian"
     ],
@@ -95,6 +118,12 @@
     ],
     "手只": [
       "xiaoai_course_schedule"
+    ],
+    "按各": [
+      "bmw_i3_cloud"
+    ],
+    "控车": [
+      "bmw_i3_cloud"
     ],
     "摇摆": [
       "weather"
@@ -115,7 +144,11 @@
       "uriroute_deviceinfo"
     ],
     "标识": [
+      "bmw_i3_cloud",
       "ecotag"
+    ],
+    "次同": [
+      "bmw_i3_cloud"
     ],
     "欢迎各位大佬修改": [
       "kingxv"
@@ -147,6 +180,12 @@
     "示名": [
       "ecotag"
     ],
+    "示服": [
+      "bmw_i3_cloud"
+    ],
+    "示重": [
+      "bmw_i3_cloud"
+    ],
     "算并": [
       "weather"
     ],
@@ -163,16 +202,26 @@
       "uriroute_deviceinfo"
     ],
     "获取": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "获奖": [
       "yuzhouhangxian"
+    ],
+    "藏实": [
+      "bmw_i3_cloud"
     ],
     "行下": [
       "xiaoai_course_schedule"
     ],
     "觉资": [
       "business"
+    ],
+    "认当": [
+      "bmw_i3_cloud"
+    ],
+    "车况更新": [
+      "bmw_i3_cloud"
     ],
     "通过留白与轨道元素的呼应": [
       "yuzhouhangxian"

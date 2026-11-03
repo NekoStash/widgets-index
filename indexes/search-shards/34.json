@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 34,
+  "tokenCount": 63,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -13,6 +13,7 @@
       "uriroute_deviceinfo"
     ],
     "xiaomi": [
+      "bmw_i3_cloud",
       "business",
       "calendar-lite",
       "course_schedule",
@@ -23,13 +24,25 @@
       "schedule_reminder",
       "weather"
     ],
+    "zip": [
+      "bmw_i3_cloud"
+    ],
+    "上次": [
+      "bmw_i3_cloud"
+    ],
     "专属": [
       "business",
       "weather"
     ],
+    "个允": [
+      "bmw_i3_cloud"
+    ],
     "中的": [
       "business",
       "uriroute_deviceinfo"
+    ],
+    "云端发行包的脚本位于": [
+      "bmw_i3_cloud"
     ],
     "供了": [
       "weather"
@@ -46,12 +59,27 @@
     "单行": [
       "xiaoai_course_schedule"
     ],
+    "可恢": [
+      "bmw_i3_cloud"
+    ],
+    "号及": [
+      "bmw_i3_cloud"
+    ],
+    "和字": [
+      "bmw_i3_cloud"
+    ],
+    "处理授权后": [
+      "bmw_i3_cloud"
+    ],
     "实宽": [
       "calendar-lite",
       "schedule_reminder"
     ],
     "家电": [
       "ecotag"
+    ],
+    "对授": [
+      "bmw_i3_cloud"
     ],
     "寻车": [
       "yadea_car_control"
@@ -60,14 +88,44 @@
       "schedule_reminder",
       "weather"
     ],
+    "录和": [
+      "bmw_i3_cloud"
+    ],
+    "按宿主提示安装或应用卡片": [
+      "bmw_i3_cloud"
+    ],
+    "控车入口": [
+      "bmw_i3_cloud"
+    ],
+    "整点更新计划和最近车况状态": [
+      "bmw_i3_cloud"
+    ],
     "时页": [
       "xiaoai_course_schedule"
     ],
     "显示当前内存占用": [
       "ecotag"
     ],
+    "有变": [
+      "bmw_i3_cloud"
+    ],
+    "权与": [
+      "bmw_i3_cloud"
+    ],
+    "权后": [
+      "bmw_i3_cloud"
+    ],
     "标题一行为": [
       "xiaoai_course_schedule"
+    ],
+    "次提": [
+      "bmw_i3_cloud"
+    ],
+    "次隐": [
+      "bmw_i3_cloud"
+    ],
+    "正确": [
+      "bmw_i3_cloud"
     ],
     "点版": [
       "schedule_reminder"
@@ -82,7 +140,11 @@
       "weather"
     ],
     "的是": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo"
+    ],
+    "的路": [
+      "bmw_i3_cloud"
     ],
     "目不": [
       "weather"
@@ -92,6 +154,12 @@
       "mishare",
       "yadea_car_control"
     ],
+    "目名": [
+      "bmw_i3_cloud"
+    ],
+    "称输": [
+      "bmw_i3_cloud"
+    ],
     "级强": [
       "xiaoai_course_schedule"
     ],
@@ -100,6 +168,12 @@
     ],
     "组件管理": [
       "xiaoai_course_schedule"
+    ],
+    "考与": [
+      "bmw_i3_cloud"
+    ],
+    "至次日": [
+      "bmw_i3_cloud"
     ],
     "色彩": [
       "schedule_reminder",
@@ -114,11 +188,26 @@
     "资讯": [
       "uriroute_deviceinfo"
     ],
+    "车入": [
+      "bmw_i3_cloud"
+    ],
+    "近一": [
+      "bmw_i3_cloud"
+    ],
+    "近检": [
+      "bmw_i3_cloud"
+    ],
     "键词": [
       "business"
     ],
     "闪烁": [
       "weather"
+    ],
+    "阶段": [
+      "bmw_i3_cloud"
+    ],
+    "限决": [
+      "bmw_i3_cloud"
     ]
   }
 }

@@ -1,7 +1,10 @@
 {
   "shard": "08",
-  "tokenCount": 42,
+  "tokenCount": 56,
   "tokens": {
+    "07": [
+      "bmw_i3_cloud"
+    ],
     "save": [
       "music"
     ],
@@ -23,8 +26,20 @@
     "为灵": [
       "yuzhouhangxian"
     ],
+    "仍需": [
+      "bmw_i3_cloud"
+    ],
+    "件绑": [
+      "bmw_i3_cloud"
+    ],
     "余里": [
       "yadea_car_control"
+    ],
+    "保存名称后仍没有变化": [
+      "bmw_i3_cloud"
+    ],
+    "保持原文件名": [
+      "bmw_i3_cloud"
     ],
     "偏左": [
       "calendar-lite"
@@ -36,6 +51,12 @@
     "内置极其细腻的渐变色计算逻辑": [
       "weather"
     ],
+    "写完": [
+      "bmw_i3_cloud"
+    ],
+    "决定": [
+      "bmw_i3_cloud"
+    ],
     "函数": [
       "weather"
     ],
@@ -45,10 +66,14 @@
     "前需": [
       "uriroute_deviceinfo"
     ],
+    "只查": [
+      "bmw_i3_cloud"
+    ],
     "唤醒时通过": [
       "weather"
     ],
     "在小": [
+      "bmw_i3_cloud",
       "course_schedule",
       "xiaoai_course_schedule",
       "yadea_car_control",
@@ -57,8 +82,17 @@
     "复一": [
       "yadea_car_control"
     ],
+    "它只": [
+      "bmw_i3_cloud"
+    ],
     "屏左": [
       "xiaoai_course_schedule"
+    ],
+    "己的": [
+      "bmw_i3_cloud"
+    ],
+    "已重": [
+      "bmw_i3_cloud"
     ],
     "底部": [
       "xiaoai_course_schedule"
@@ -70,7 +104,11 @@
     "数据键值对": [
       "yadea_car_control"
     ],
+    "期时": [
+      "bmw_i3_cloud"
+    ],
     "未知": [
+      "bmw_i3_cloud",
       "yuzhouhangxian"
     ],
     "本仓": [
@@ -96,6 +134,9 @@
     ],
     "爱的": [
       "xiaoai_course_schedule"
+    ],
+    "片显": [
+      "bmw_i3_cloud"
     ],
     "用小": [
       "calendar-lite",
@@ -123,6 +164,9 @@
     "自动刷新": [
       "yadea_car_control"
     ],
+    "装还": [
+      "bmw_i3_cloud"
+    ],
     "请确": [
       "weather"
     ],
@@ -130,6 +174,7 @@
       "uriroute_deviceinfo"
     ],
     "辆信": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "这是一个专为小米": [

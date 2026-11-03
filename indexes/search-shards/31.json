@@ -1,6 +1,6 @@
 {
   "shard": "31",
-  "tokenCount": 56,
+  "tokenCount": 76,
   "tokens": {
     "17": [
       "business",
@@ -35,6 +35,9 @@
     "为了": [
       "weather"
     ],
+    "为准": [
+      "bmw_i3_cloud"
+    ],
     "以下": [
       "business",
       "hyper-pick-up-code",
@@ -42,6 +45,12 @@
     ],
     "会被过滤": [
       "xiaoai_course_schedule"
+    ],
+    "修改获取": [
+      "bmw_i3_cloud"
+    ],
+    "入口导入该": [
+      "bmw_i3_cloud"
     ],
     "最新测试版本": [
       "hyper-pick-up-code"
@@ -53,6 +62,7 @@
       "ecotag"
     ],
     "包含": [
+      "bmw_i3_cloud",
       "weather",
       "xiaoai_course_schedule",
       "yadea_car_control"
@@ -60,6 +70,7 @@
     "卡片": [
       "app_widget",
       "back_screen_desktop",
+      "bmw_i3_cloud",
       "xiaoai_course_schedule",
       "yadea_car_control"
     ],
@@ -70,14 +81,27 @@
     "可以在背屏显示超级岛内容的背屏主题": [
       "business"
     ],
+    "台处": [
+      "bmw_i3_cloud"
+    ],
     "台的": [
       "business"
     ],
     "合作": [
       "yuzhouhangxian"
     ],
+    "同一": [
+      "bmw_i3_cloud"
+    ],
     "否已": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
+    ],
+    "和最": [
+      "bmw_i3_cloud"
+    ],
+    "在该时间段一定不会联网": [
+      "bmw_i3_cloud"
     ],
     "域包": [
       "xiaoai_course_schedule"
@@ -85,13 +109,23 @@
     "基准": [
       "calendar-lite"
     ],
+    "外观": [
+      "bmw_i3_cloud"
+    ],
+    "存同": [
+      "bmw_i3_cloud"
+    ],
     "安装方法": [
       "hyper-pick-up-code"
+    ],
+    "定车": [
+      "bmw_i3_cloud"
     ],
     "实时演算并渲染天空色彩的平滑过渡": [
       "weather"
     ],
     "屏展": [
+      "bmw_i3_cloud",
       "yadea_car_control"
     ],
     "屏幕": [
@@ -107,6 +141,7 @@
     ],
     "应用": [
       "app_widget",
+      "bmw_i3_cloud",
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
       "kingxv",
@@ -126,17 +161,28 @@
       "calendar-lite"
     ],
     "提交": [
+      "bmw_i3_cloud",
       "weather"
+    ],
+    "改功": [
+      "bmw_i3_cloud"
     ],
     "效果": [
       "weather"
     ],
     "新的": [
+      "bmw_i3_cloud",
       "business",
       "weather"
     ],
     "日程": [
       "schedule_reminder"
+    ],
+    "普通": [
+      "bmw_i3_cloud"
+    ],
+    "查看": [
+      "bmw_i3_cloud"
     ],
     "标位": [
       "xiaoai_course_schedule"
@@ -177,6 +223,9 @@
     "系列背屏上显示课程表": [
       "course_schedule"
     ],
+    "细排": [
+      "bmw_i3_cloud"
+    ],
     "统内": [
       "weather"
     ],
@@ -189,17 +238,35 @@
     "认变": [
       "xiaoai_course_schedule"
     ],
+    "认官": [
+      "bmw_i3_cloud"
+    ],
     "记的": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "询与": [
+      "bmw_i3_cloud"
+    ],
+    "车已": [
+      "bmw_i3_cloud"
+    ],
+    "车辆信息": [
+      "bmw_i3_cloud"
+    ],
     "这是一个基于小米": [
       "weather"
+    ],
+    "送控": [
+      "bmw_i3_cloud"
     ],
     "降至": [
       "business",
       "calendar-lite",
       "weather"
+    ],
+    "除特别说明外": [
+      "bmw_i3_cloud"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "shard": "24",
-  "tokenCount": 34,
+  "tokenCount": 53,
   "tokens": {
     "98": [
       "xiaoai_course_schedule"
@@ -14,6 +14,9 @@
     "上滑": [
       "kingxv"
     ],
+    "仍提示过期": [
+      "bmw_i3_cloud"
+    ],
     "余存": [
       "ecotag"
     ],
@@ -25,6 +28,12 @@
     ],
     "动岛": [
       "business"
+    ],
+    "后保": [
+      "bmw_i3_cloud"
+    ],
+    "后初": [
+      "bmw_i3_cloud"
     ],
     "命令": [
       "yadea_car_control"
@@ -38,6 +47,9 @@
     "块通": [
       "business"
     ],
+    "套脚": [
+      "bmw_i3_cloud"
+    ],
     "安全": [
       "calendar-lite",
       "schedule_reminder"
@@ -47,8 +59,14 @@
       "pickup",
       "schedule_reminder"
     ],
+    "常见问题": [
+      "bmw_i3_cloud"
+    ],
     "度展": [
       "mishare"
+    ],
+    "开发与维护": [
+      "bmw_i3_cloud"
     ],
     "德基": [
       "business"
@@ -59,20 +77,35 @@
     "按": [
       "xiaoai_course_schedule"
     ],
+    "操作提示约": [
+      "bmw_i3_cloud"
+    ],
     "擎丝": [
       "weather"
     ],
     "无关": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "显式绑定当前账号与车辆": [
+      "bmw_i3_cloud"
+    ],
     "有": [
       "kingxv"
+    ],
+    "本地包把配套脚本放在根目录": [
+      "bmw_i3_cloud"
     ],
     "此广": [
       "yadea_car_control"
     ],
+    "步本": [
+      "bmw_i3_cloud"
+    ],
     "气小": [
       "weather"
+    ],
+    "留默": [
+      "bmw_i3_cloud"
     ],
     "的原": [
       "schedule_reminder"
@@ -89,11 +122,26 @@
     "简体": [
       "music"
     ],
+    "置能": [
+      "bmw_i3_cloud"
+    ],
+    "背屏定时查询与官方": [
+      "bmw_i3_cloud"
+    ],
+    "自己": [
+      "bmw_i3_cloud"
+    ],
     "若未匹配到已知品牌": [
       "business"
     ],
+    "读取": [
+      "bmw_i3_cloud"
+    ],
     "课中": [
       "xiaoai_course_schedule"
+    ],
+    "这些设置只改变外观": [
+      "bmw_i3_cloud"
     ],
     "这条路由是": [
       "xiaoai_course_schedule"
@@ -101,8 +149,17 @@
     "选": [
       "xiaoai_course_schedule"
     ],
+    "际行": [
+      "bmw_i3_cloud"
+    ],
+    "隐藏实例已绑定": [
+      "bmw_i3_cloud"
+    ],
     "雪花": [
       "weather"
+    ],
+    "需要查看组件脚本时": [
+      "bmw_i3_cloud"
     ],
     "霸王": [
       "business"

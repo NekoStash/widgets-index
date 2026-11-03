@@ -1,9 +1,12 @@
 {
   "shard": "25",
-  "tokenCount": 41,
+  "tokenCount": 63,
   "tokens": {
     "22": [
       "xiaoai_course_schedule"
+    ],
+    "5ca03c1": [
+      "bmw_i3_cloud"
     ],
     "lyrics": [
       "music"
@@ -17,17 +20,36 @@
     "不承": [
       "hyper-pick-up-code-reareye-xiaomi"
     ],
+    "与阶": [
+      "bmw_i3_cloud"
+    ],
     "二行": [
       "xiaoai_course_schedule"
     ],
+    "云端安装还需支持组件自带脚本及安装后初始化": [
+      "bmw_i3_cloud"
+    ],
     "会自": [
-      "app_widget"
+      "app_widget",
+      "bmw_i3_cloud"
     ],
     "允许焦点通知在背屏显示": [
       "xiaoai_course_schedule"
     ],
+    "先运": [
+      "bmw_i3_cloud"
+    ],
+    "到授": [
+      "bmw_i3_cloud"
+    ],
     "包级": [
       "xiaoai_course_schedule"
+    ],
+    "化与": [
+      "bmw_i3_cloud"
+    ],
+    "即查": [
+      "bmw_i3_cloud"
     ],
     "只做": [
       "kingxv"
@@ -50,6 +72,9 @@
     "子动": [
       "weather"
     ],
+    "对专": [
+      "bmw_i3_cloud"
+    ],
     "并利用动态高度算法自动避让下方时间": [
       "schedule_reminder"
     ],
@@ -59,8 +84,30 @@
     "我进": [
       "disordered-clock"
     ],
+    "授权同步时间更新了": [
+      "bmw_i3_cloud"
+    ],
     "控卡": [
+      "bmw_i3_cloud",
       "yadea_car_control"
+    ],
+    "新授": [
+      "bmw_i3_cloud"
+    ],
+    "新版": [
+      "bmw_i3_cloud"
+    ],
+    "方缓": [
+      "bmw_i3_cloud"
+    ],
+    "明时": [
+      "bmw_i3_cloud"
+    ],
+    "显示为准": [
+      "bmw_i3_cloud"
+    ],
+    "机上": [
+      "bmw_i3_cloud"
     ],
     "标裁": [
       "xiaoai_course_schedule"
@@ -76,6 +123,9 @@
     ],
     "百分": [
       "yadea_car_control"
+    ],
+    "的整": [
+      "bmw_i3_cloud"
     ],
     "目录下": [
       "business"
@@ -95,6 +145,12 @@
       "schedule_reminder",
       "weather"
     ],
+    "绑定成功不等于控车已执行": [
+      "bmw_i3_cloud"
+    ],
+    "续期": [
+      "bmw_i3_cloud"
+    ],
     "而富": [
       "yuzhouhangxian"
     ],
@@ -102,6 +158,7 @@
       "mishare"
     ],
     "自定": [
+      "bmw_i3_cloud",
       "calendar-lite",
       "ecotag"
     ],
@@ -114,6 +171,9 @@
     "行二": [
       "business"
     ],
+    "调试": [
+      "bmw_i3_cloud"
+    ],
     "超级": [
       "business",
       "hyper-pick-up-code-reareye-xiaomi",
@@ -121,12 +181,21 @@
       "pickup",
       "xiaoai_course_schedule"
     ],
+    "车图": [
+      "bmw_i3_cloud"
+    ],
+    "还需": [
+      "bmw_i3_cloud"
+    ],
     "避让": [
       "calendar-lite",
       "schedule_reminder"
     ],
     "间的": [
       "yuzhouhangxian"
+    ],
+    "际控": [
+      "bmw_i3_cloud"
     ],
     "顾了": [
       "calendar-lite"

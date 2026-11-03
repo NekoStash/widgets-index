@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 53,
+  "tokenCount": 71,
   "tokens": {
     "an": [
       "music"
@@ -38,11 +38,15 @@
     ],
     "不会": [
       "app_widget",
+      "bmw_i3_cloud",
       "hyper-pick-up-code-reareye-xiaomi",
       "mishare"
     ],
     "与专": [
       "business"
+    ],
+    "义车": [
+      "bmw_i3_cloud"
     ],
     "主题": [
       "business",
@@ -59,6 +63,9 @@
     "仍会": [
       "xiaoai_course_schedule"
     ],
+    "件事": [
+      "bmw_i3_cloud"
+    ],
     "依赖应用": [
       "business"
     ],
@@ -71,6 +78,12 @@
     "兼容": [
       "business"
     ],
+    "再按下文绑定车辆": [
+      "bmw_i3_cloud"
+    ],
+    "出可": [
+      "bmw_i3_cloud"
+    ],
     "刻官": [
       "schedule_reminder"
     ],
@@ -78,6 +91,7 @@
       "xiaoai_course_schedule"
     ],
     "加载": [
+      "bmw_i3_cloud",
       "business"
     ],
     "同物": [
@@ -95,14 +109,32 @@
     "大的": [
       "business"
     ],
+    "实际有效性以官方接口为准": [
+      "bmw_i3_cloud"
+    ],
+    "对并": [
+      "bmw_i3_cloud"
+    ],
     "将主": [
       "business"
+    ],
+    "已受": [
+      "bmw_i3_cloud"
     ],
     "底防": [
       "calendar-lite"
     ],
+    "成配": [
+      "bmw_i3_cloud"
+    ],
+    "或被": [
+      "bmw_i3_cloud"
+    ],
     "打造": [
       "schedule_reminder"
+    ],
+    "指令": [
+      "bmw_i3_cloud"
     ],
     "方时": [
       "schedule_reminder"
@@ -113,9 +145,24 @@
     "时之": [
       "xiaoai_course_schedule"
     ],
+    "本安": [
+      "bmw_i3_cloud"
+    ],
     "极低": [
       "business",
       "schedule_reminder"
+    ],
+    "板和": [
+      "bmw_i3_cloud"
+    ],
+    "查询": [
+      "bmw_i3_cloud"
+    ],
+    "模板配置": [
+      "bmw_i3_cloud"
+    ],
+    "永久": [
+      "bmw_i3_cloud"
     ],
     "湃记": [
       "hyper-pick-up-code",
@@ -126,6 +173,9 @@
     ],
     "生硬": [
       "calendar-lite"
+    ],
+    "用法": [
+      "bmw_i3_cloud"
     ],
     "的动态放行不够": [
       "xiaoai_course_schedule"
@@ -140,6 +190,7 @@
       "xiaoai_course_schedule"
     ],
     "第三": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "米所": [
@@ -147,6 +198,9 @@
     ],
     "级的": [
       "calendar-lite"
+    ],
+    "组件不自动抠图": [
+      "bmw_i3_cloud"
     ],
     "细腻": [
       "weather"
@@ -168,6 +222,9 @@
     ],
     "识主": [
       "ecotag"
+    ],
+    "调整图片大小和上下": [
+      "bmw_i3_cloud"
     ],
     "贡献": [
       "weather"

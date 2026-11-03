@@ -1,6 +1,6 @@
 {
   "shard": "14",
-  "tokenCount": 52,
+  "tokenCount": 74,
   "tokens": {
     "210": [
       "weather"
@@ -34,17 +34,32 @@
     "下面却空半行": [
       "xiaoai_course_schedule"
     ],
+    "不立即查询宝马云端": [
+      "bmw_i3_cloud"
+    ],
     "不预": [
       "xiaoai_course_schedule"
     ],
     "个卡": [
       "app_widget"
     ],
+    "个模": [
+      "bmw_i3_cloud"
+    ],
     "了日": [
       "calendar-lite"
     ],
+    "休眠": [
+      "bmw_i3_cloud"
+    ],
+    "会尝试打开前屏": [
+      "bmw_i3_cloud"
+    ],
     "全天候光影引擎": [
       "weather"
+    ],
+    "再在背屏更新授权": [
+      "bmw_i3_cloud"
     ],
     "则": [
       "uriroute_deviceinfo"
@@ -61,7 +76,14 @@
     "历日": [
       "schedule_reminder"
     ],
+    "名称与型号": [
+      "bmw_i3_cloud"
+    ],
+    "后仍": [
+      "bmw_i3_cloud"
+    ],
     "后再": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "后重": [
@@ -73,16 +95,35 @@
       "xiaoai_course_schedule"
     ],
     "在手": [
+      "bmw_i3_cloud",
       "business"
     ],
     "块把": [
       "xiaoai_course_schedule"
     ],
+    "型外": [
+      "bmw_i3_cloud"
+    ],
     "多云": [
       "weather"
     ],
+    "始化": [
+      "bmw_i3_cloud"
+    ],
     "实时物理粒子动效": [
       "weather"
+    ],
+    "屏面": [
+      "bmw_i3_cloud"
+    ],
+    "已安": [
+      "bmw_i3_cloud"
+    ],
+    "已有": [
+      "bmw_i3_cloud"
+    ],
+    "已选": [
+      "bmw_i3_cloud"
     ],
     "态隐": [
       "calendar-lite"
@@ -93,16 +134,25 @@
     "或本仓库作者的背屏分支": [
       "xiaoai_course_schedule"
     ],
+    "打开卡片显示已有缓存": [
+      "bmw_i3_cloud"
+    ],
     "摄像": [
       "calendar-lite",
       "schedule_reminder",
       "xiaoai_course_schedule"
+    ],
+    "收录": [
+      "bmw_i3_cloud"
     ],
     "教师": [
       "xiaoai_course_schedule"
     ],
     "数据依赖": [
       "weather"
+    ],
+    "期已": [
+      "bmw_i3_cloud"
     ],
     "李太白": [
       "yadea_car_control"
@@ -115,6 +165,9 @@
     ],
     "标出": [
       "yuzhouhangxian"
+    ],
+    "次数": [
+      "bmw_i3_cloud"
     ],
     "求余": [
       "calendar-lite"
@@ -137,6 +190,7 @@
     ],
     "的小": [
       "app_widget",
+      "bmw_i3_cloud",
       "ecotag",
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi",
@@ -145,6 +199,9 @@
     ],
     "的随": [
       "weather"
+    ],
+    "目中": [
+      "bmw_i3_cloud"
     ],
     "目前没有进度展示": [
       "mishare"
@@ -155,8 +212,17 @@
     "终极省电逻辑": [
       "calendar-lite"
     ],
+    "置中": [
+      "bmw_i3_cloud"
+    ],
     "美复": [
       "calendar-lite"
+    ],
+    "认唯": [
+      "bmw_i3_cloud"
+    ],
+    "详情": [
+      "bmw_i3_cloud"
     ],
     "象数": [
       "weather"
@@ -170,6 +236,9 @@
     ],
     "重构": [
       "schedule_reminder"
+    ],
+    "首页": [
+      "bmw_i3_cloud"
     ]
   }
 }

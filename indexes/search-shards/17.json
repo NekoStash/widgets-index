@@ -1,12 +1,18 @@
 {
   "shard": "17",
-  "tokenCount": 36,
+  "tokenCount": 53,
   "tokens": {
     "controls": [
       "music"
     ],
+    "python": [
+      "bmw_i3_cloud"
+    ],
     "上到": [
       "xiaoai_course_schedule"
+    ],
+    "人开": [
+      "bmw_i3_cloud"
     ],
     "储空": [
       "ecotag",
@@ -23,9 +29,16 @@
       "app_widget"
     ],
     "即可": [
+      "bmw_i3_cloud",
       "mishare",
       "pickup",
       "schedule_reminder"
+    ],
+    "取的": [
+      "bmw_i3_cloud"
+    ],
+    "同步时间表示重新读取了缓存": [
+      "bmw_i3_cloud"
     ],
     "否则需重新安装该背屏模块": [
       "uriroute_deviceinfo"
@@ -40,6 +53,7 @@
       "business"
     ],
     "在": [
+      "bmw_i3_cloud",
       "ecotag",
       "hyper-pick-up-code",
       "yadea_car_control"
@@ -56,6 +70,9 @@
     "幕保": [
       "schedule_reminder"
     ],
+    "建一": [
+      "bmw_i3_cloud"
+    ],
     "放行": [
       "xiaoai_course_schedule"
     ],
@@ -65,26 +82,49 @@
     "无缝解析系统": [
       "business"
     ],
+    "检查或创建隐藏实例": [
+      "bmw_i3_cloud"
+    ],
     "气微": [
       "weather"
     ],
     "牌识": [
       "business"
     ],
+    "用": [
+      "bmw_i3_cloud"
+    ],
+    "用固": [
+      "bmw_i3_cloud"
+    ],
+    "用空": [
+      "bmw_i3_cloud"
+    ],
     "电能": [
       "ecotag"
     ],
     "的图": [
+      "bmw_i3_cloud",
       "weather"
     ],
+    "的签": [
+      "bmw_i3_cloud"
+    ],
     "的设": [
+      "bmw_i3_cloud",
       "uriroute_deviceinfo"
     ],
     "的课": [
       "xiaoai_course_schedule"
     ],
+    "示所": [
+      "bmw_i3_cloud"
+    ],
     "算逻": [
       "weather"
+    ],
+    "统调": [
+      "bmw_i3_cloud"
     ],
     "美兼": [
       "business",
@@ -103,13 +143,20 @@
       "calendar-lite",
       "disordered-clock"
     ],
+    "表示": [
+      "bmw_i3_cloud"
+    ],
     "被过": [
       "xiaoai_course_schedule"
     ],
     "说明": [
+      "bmw_i3_cloud",
       "business",
       "ecotag",
       "yadea_car_control"
+    ],
+    "调节图标": [
+      "bmw_i3_cloud"
     ],
     "适用": [
       "calendar-lite",
@@ -120,8 +167,17 @@
     "通知规则": [
       "xiaoai_course_schedule"
     ],
+    "页能": [
+      "bmw_i3_cloud"
+    ],
     "风格": [
       "ecotag"
+    ],
+    "首次绑定后": [
+      "bmw_i3_cloud"
+    ],
+    "马车": [
+      "bmw_i3_cloud"
     ]
   }
 }
