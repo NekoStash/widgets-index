@@ -1,6 +1,6 @@
 {
   "shard": "10",
-  "tokenCount": 70,
+  "tokenCount": 72,
   "tokens": {
     "burger": [
       "business"
@@ -10,6 +10,9 @@
     ],
     "for": [
       "music"
+    ],
+    "fusehide": [
+      "bmw_i3_cloud"
     ],
     "it": [
       "music"
@@ -74,6 +77,9 @@
     ],
     "定位到": [
       "business"
+    ],
+    "定时器补跑修复": [
+      "bmw_i3_cloud"
     ],
     "容的": [
       "business"

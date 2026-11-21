@@ -1,7 +1,10 @@
 {
   "shard": "17",
-  "tokenCount": 53,
+  "tokenCount": 55,
   "tokens": {
+    "11": [
+      "bmw_i3_cloud"
+    ],
     "controls": [
       "music"
     ],
@@ -71,6 +74,9 @@
       "schedule_reminder"
     ],
     "建一": [
+      "bmw_i3_cloud"
+    ],
+    "当小": [
       "bmw_i3_cloud"
     ],
     "放行": [

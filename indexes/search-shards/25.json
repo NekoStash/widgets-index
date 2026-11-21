@@ -1,6 +1,6 @@
 {
   "shard": "25",
-  "tokenCount": 63,
+  "tokenCount": 65,
   "tokens": {
     "22": [
       "xiaoai_course_schedule"
@@ -57,6 +57,9 @@
     "可改": [
       "xiaoai_course_schedule"
     ],
+    "同一小时最多一次": [
+      "bmw_i3_cloud"
+    ],
     "后并": [
       "app_widget"
     ],
@@ -73,6 +76,9 @@
       "weather"
     ],
     "对专": [
+      "bmw_i3_cloud"
+    ],
+    "屏错": [
       "bmw_i3_cloud"
     ],
     "并利用动态高度算法自动避让下方时间": [

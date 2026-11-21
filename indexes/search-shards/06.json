@@ -1,6 +1,6 @@
 {
   "shard": "06",
-  "tokenCount": 74,
+  "tokenCount": 76,
   "tokens": {
     "power": [
       "music"
@@ -75,6 +75,9 @@
       "bmw_i3_cloud",
       "business"
     ],
+    "名空": [
+      "bmw_i3_cloud"
+    ],
     "嗅探": [
       "calendar-lite",
       "schedule_reminder"
@@ -94,6 +97,9 @@
     "字符串": [
       "xiaoai_course_schedule",
       "yadea_car_control"
+    ],
+    "存超": [
+      "bmw_i3_cloud"
     ],
     "定是": [
       "bmw_i3_cloud"

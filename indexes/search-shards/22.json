@@ -1,6 +1,6 @@
 {
   "shard": "22",
-  "tokenCount": 59,
+  "tokenCount": 60,
   "tokens": {
     "back": [
       "back_screen_desktop",
@@ -155,6 +155,9 @@
     ],
     "竖线": [
       "xiaoai_course_schedule"
+    ],
+    "缓存超过": [
+      "bmw_i3_cloud"
     ],
     "能找": [
       "bmw_i3_cloud"

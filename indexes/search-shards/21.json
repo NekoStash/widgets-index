@@ -154,6 +154,7 @@
       "bmw_i3_cloud"
     ],
     "模块": [
+      "bmw_i3_cloud",
       "business",
       "mishare",
       "pickup",

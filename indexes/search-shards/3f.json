@@ -1,6 +1,6 @@
 {
   "shard": "3f",
-  "tokenCount": 63,
+  "tokenCount": 64,
   "tokens": {
     "20": [
       "ecotag",
@@ -60,6 +60,9 @@
     "会回复一条": [
       "yadea_car_control"
     ],
+    "会在": [
+      "bmw_i3_cloud"
+    ],
     "佬修": [
       "kingxv"
     ],
@@ -92,6 +95,7 @@
       "schedule_reminder"
     ],
     "命名": [
+      "bmw_i3_cloud",
       "business"
     ],
     "完美": [

@@ -1,6 +1,6 @@
 {
   "shard": "30",
-  "tokenCount": 78,
+  "tokenCount": 79,
   "tokens": {
     "equipped": [
       "music"
@@ -16,6 +16,9 @@
     ],
     "series": [
       "music"
+    ],
+    "一小": [
+      "bmw_i3_cloud"
     ],
     "一屏": [
       "bmw_i3_cloud"
@@ -58,6 +61,7 @@
       "xiaoai_course_schedule"
     ],
     "前版": [
+      "bmw_i3_cloud",
       "xiaoai_course_schedule"
     ],
     "副标题与进度信息": [

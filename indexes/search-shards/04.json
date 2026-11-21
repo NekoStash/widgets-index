@@ -1,6 +1,6 @@
 {
   "shard": "04",
-  "tokenCount": 63,
+  "tokenCount": 65,
   "tokens": {
     "10": [
       "bmw_i3_cloud",
@@ -116,6 +116,9 @@
     "时查": [
       "bmw_i3_cloud"
     ],
+    "时补": [
+      "bmw_i3_cloud"
+    ],
     "有授": [
       "bmw_i3_cloud"
     ],
@@ -165,6 +168,9 @@
     ],
     "能效等级": [
       "ecotag"
+    ],
+    "蔽的": [
+      "bmw_i3_cloud"
     ],
     "被商": [
       "bmw_i3_cloud"

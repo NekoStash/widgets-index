@@ -1,6 +1,6 @@
 {
   "shard": "26",
-  "tokenCount": 71,
+  "tokenCount": 73,
   "tokens": {
     "an": [
       "music"
@@ -148,6 +148,9 @@
     "本安": [
       "bmw_i3_cloud"
     ],
+    "机息": [
+      "bmw_i3_cloud"
+    ],
     "极低": [
       "business",
       "schedule_reminder"
@@ -167,6 +170,9 @@
     "湃记": [
       "hyper-pick-up-code",
       "hyper-pick-up-code-reareye-xiaomi"
+    ],
+    "点时": [
+      "bmw_i3_cloud"
     ],
     "物理": [
       "weather"

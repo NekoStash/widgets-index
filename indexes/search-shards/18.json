@@ -1,6 +1,6 @@
 {
   "shard": "18",
-  "tokenCount": 67,
+  "tokenCount": 68,
   "tokens": {
     "120hz": [
       "weather"
@@ -91,6 +91,9 @@
     ],
     "型适": [
       "ecotag"
+    ],
+    "小时": [
+      "bmw_i3_cloud"
     ],
     "屏时": [
       "calendar-lite",

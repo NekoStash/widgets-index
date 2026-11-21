@@ -1,6 +1,6 @@
 {
   "shard": "0f",
-  "tokenCount": 62,
+  "tokenCount": 63,
   "tokens": {
     "reminder": [
       "schedule_reminder"
@@ -183,6 +183,9 @@
       "uriroute_deviceinfo"
     ],
     "车辆能力和服务是否可用": [
+      "bmw_i3_cloud"
+    ],
+    "载命": [
       "bmw_i3_cloud"
     ],
     "迎各": [

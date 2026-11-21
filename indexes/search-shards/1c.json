@@ -1,6 +1,6 @@
 {
   "shard": "1c",
-  "tokenCount": 58,
+  "tokenCount": 59,
   "tokens": {
     "back_screen_desktop": [
       "back_screen_desktop"
@@ -178,6 +178,9 @@
       "weather"
     ],
     "辆配": [
+      "bmw_i3_cloud"
+    ],
+    "钟会": [
       "bmw_i3_cloud"
     ],
     "驱动": [

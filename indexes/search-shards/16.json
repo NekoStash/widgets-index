@@ -1,6 +1,6 @@
 {
   "shard": "16",
-  "tokenCount": 56,
+  "tokenCount": 58,
   "tokens": {
     "450": [
       "weather"
@@ -156,6 +156,9 @@
     "超出两行": [
       "xiaoai_course_schedule"
     ],
+    "跑修": [
+      "bmw_i3_cloud"
+    ],
     "车型": [
       "bmw_i3_cloud"
     ],
@@ -164,6 +167,9 @@
     ],
     "载为": [
       "uriroute_deviceinfo"
+    ],
+    "过整": [
+      "bmw_i3_cloud"
     ],
     "闪灯": [
       "bmw_i3_cloud"

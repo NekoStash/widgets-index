@@ -1,6 +1,6 @@
 {
   "shard": "38",
-  "tokenCount": 71,
+  "tokenCount": 72,
   "tokens": {
     "assets": [
       "business",
@@ -65,6 +65,9 @@
     ],
     "优化性能或改进布局": [
       "weather"
+    ],
+    "会以": [
+      "bmw_i3_cloud"
     ],
     "位到": [
       "business"

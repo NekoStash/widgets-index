@@ -1,6 +1,6 @@
 {
   "shard": "09",
-  "tokenCount": 67,
+  "tokenCount": 68,
   "tokens": {
     "31": [
       "calendar-lite"
@@ -112,6 +112,9 @@
     ],
     "手动安装步骤": [
       "uriroute_deviceinfo"
+    ],
+    "手机息屏错过整点时": [
+      "bmw_i3_cloud"
     ],
     "承载": [
       "app_widget"

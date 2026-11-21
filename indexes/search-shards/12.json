@@ -1,6 +1,6 @@
 {
   "shard": "12",
-  "tokenCount": 60,
+  "tokenCount": 61,
   "tokens": {
     "一点": [
       "business"
@@ -170,6 +170,9 @@
       "schedule_reminder"
     ],
     "能后": [
+      "bmw_i3_cloud"
+    ],
+    "蔽后": [
       "bmw_i3_cloud"
     ],
     "藏官": [

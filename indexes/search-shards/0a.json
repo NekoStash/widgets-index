@@ -1,6 +1,6 @@
 {
   "shard": "0a",
-  "tokenCount": 61,
+  "tokenCount": 62,
   "tokens": {
     "art": [
       "music"
@@ -161,6 +161,9 @@
     ],
     "花粒": [
       "weather"
+    ],
+    "若安装": [
+      "bmw_i3_cloud"
     ],
     "装与": [
       "bmw_i3_cloud"

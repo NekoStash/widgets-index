@@ -1,6 +1,6 @@
 {
   "shard": "27",
-  "tokenCount": 73,
+  "tokenCount": 74,
   "tokens": {
     "02": [
       "bmw_i3_cloud"
@@ -131,6 +131,9 @@
       "bmw_i3_cloud"
     ],
     "尝试": [
+      "bmw_i3_cloud"
+    ],
+    "局挂": [
       "bmw_i3_cloud"
     ],
     "并执行显式重新绑定": [

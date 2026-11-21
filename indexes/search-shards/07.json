@@ -1,6 +1,6 @@
 {
   "shard": "07",
-  "tokenCount": 53,
+  "tokenCount": 55,
   "tokens": {
     "check": [
       "music"
@@ -93,6 +93,9 @@
     "支持胶囊电池与充电流光动画": [
       "ecotag"
     ],
+    "时整": [
+      "bmw_i3_cloud"
+    ],
     "时间": [
       "bmw_i3_cloud",
       "calendar-lite",
@@ -164,6 +167,9 @@
     ],
     "赖应": [
       "business"
+    ],
+    "车况每小时整点更新": [
+      "bmw_i3_cloud"
     ],
     "车控目前只支持开关机锁车": [
       "yadea_car_control"

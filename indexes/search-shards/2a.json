@@ -1,6 +1,6 @@
 {
   "shard": "2a",
-  "tokenCount": 68,
+  "tokenCount": 70,
   "tokens": {
     "12": [
       "xiaoai_course_schedule"
@@ -166,6 +166,9 @@
     "站找到": [
       "back_screen_desktop"
     ],
+    "等把": [
+      "bmw_i3_cloud"
+    ],
     "系统调度和联网状态影响": [
       "bmw_i3_cloud"
     ],
@@ -217,6 +220,9 @@
     ],
     "间不": [
       "xiaoai_course_schedule"
+    ],
+    "间重": [
+      "bmw_i3_cloud"
     ],
     "队检": [
       "bmw_i3_cloud"

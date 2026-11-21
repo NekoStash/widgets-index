@@ -1,6 +1,6 @@
 {
   "shard": "34",
-  "tokenCount": 63,
+  "tokenCount": 65,
   "tokens": {
     "code": [
       "hyper-pick-up-code",
@@ -46,6 +46,9 @@
     ],
     "供了": [
       "weather"
+    ],
+    "修复": [
+      "bmw_i3_cloud"
     ],
     "先赋": [
       "xiaoai_course_schedule"
@@ -187,6 +190,9 @@
     ],
     "资讯": [
       "uriroute_deviceinfo"
+    ],
+    "跑一": [
+      "bmw_i3_cloud"
     ],
     "车入": [
       "bmw_i3_cloud"

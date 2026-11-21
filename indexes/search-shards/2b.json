@@ -1,6 +1,6 @@
 {
   "shard": "2b",
-  "tokenCount": 71,
+  "tokenCount": 73,
   "tokens": {
     "alpha": [
       "xiaoai_course_schedule"
@@ -108,6 +108,9 @@
     "数学": [
       "calendar-lite"
     ],
+    "时最": [
+      "bmw_i3_cloud"
+    ],
     "本适": [
       "schedule_reminder"
     ],
@@ -200,6 +203,9 @@
       "xiaoai_course_schedule"
     ],
     "重发": [
+      "bmw_i3_cloud"
+    ],
+    "重跑": [
       "bmw_i3_cloud"
     ],
     "长文": [

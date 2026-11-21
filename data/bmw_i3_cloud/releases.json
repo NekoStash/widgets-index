@@ -2,6 +2,144 @@
   "id": "bmw_i3_cloud",
   "releases": [
     {
+      "id": 453663531,
+      "tagName": "v1.3",
+      "name": "BMW_i3_REAREye_Cloud_v1.3",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-11-21T12:06:31Z",
+      "publishedAt": "2026-11-21T12:06:47Z",
+      "url": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/tag/v1.3",
+      "body": "<p dir=\"auto\">BMW REAREye 背屏车控 v1.3，包含本地安装版与云端组件版，无需安装本项目的独立 APK。</p>\n<p dir=\"auto\">本次更新：</p>\n<ul dir=\"auto\">\n<li>修复“背屏不自动更新”：手机息屏时后台进程不被调度，原调度只在整点那一分钟触发且不补跑，整点窗口被跳过就会连续数小时不更新。现在缓存车况超过 90 分钟，醒来后会在当小时补跑一次。</li>\n<li>同一小时最多一次，两次调度最小间隔 45 分钟，夜间 02:00—08:00 仍暂停，请求节流强度不变。</li>\n<li>修复后实测：20:00 的整点任务 HTTP 200，SOC 78%、续航 244 km，<code class=\"notranslate\">rate_limit</code> 计数归零。</li>\n<li>版本号统一为 1.3：卡片名称、脚本版本行、状态文件、校验记录同步更新。</li>\n<li>保留 v1.2 的 My BMW 6.11.0 适配、fusehide 命名空间兼容、自定义外观与控车入口。</li>\n</ul>\n<p dir=\"auto\">本地安装选择 <code class=\"notranslate\">BMW_i3_Cloud_AllInOne.zip</code>；云端发布使用 <code class=\"notranslate\">BMW_i3_REAREye_Cloud_v1.3.zip</code>。已有安装可直接覆盖同名脚本项目和卡片模板，<strong>保留原车辆绑定，不需要 <code class=\"notranslate\">setup_new</code>，也不需要重新绑定</strong>。控车逻辑、绑定格式与外观配置均未改动。</p>\n<p dir=\"auto\">本次只改调度脚本，<code class=\"notranslate\">main.lua</code> 的 <code class=\"notranslate\">VERSION</code> 常量保持原值以免触发整包重装；如果导入新包后调度行为仍是旧的，说明本机脚本没有重新展开，替换 <code class=\"notranslate\">/data/adb/bmw-reareye-async-v3/scheduler.py</code> 后重启调度器即可。</p>\n<p dir=\"auto\">说明：小组件令牌寿命约 55 分钟，续期仍由官方 App 刷新；长时间不开 App 时仍可能出现“授权已到期”，打开一次 My BMW 即可。车况接口偶发 HTTP 429 属于官方限流，脚本按指数退避等待额度恢复。</p>",
+      "assets": [
+        {
+          "id": 775457534,
+          "name": "BMW_i3_Cloud_AllInOne.zip",
+          "label": "",
+          "size": 1324605,
+          "contentType": "application/zip",
+          "downloadCount": 2,
+          "createdAt": "2026-11-21T12:06:58Z",
+          "updatedAt": "2026-11-21T12:07:18Z",
+          "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.3/BMW_i3_Cloud_AllInOne.zip"
+        },
+        {
+          "id": 775458866,
+          "name": "BMW_i3_REAREye_Cloud_v1.3.mrc",
+          "label": "",
+          "size": 1325202,
+          "contentType": "application/zip",
+          "downloadCount": 1,
+          "createdAt": "2026-11-21T12:07:30Z",
+          "updatedAt": "2026-11-21T12:07:42Z",
+          "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.3/BMW_i3_REAREye_Cloud_v1.3.mrc"
+        },
+        {
+          "id": 775458444,
+          "name": "BMW_i3_REAREye_Cloud_v1.3.zip",
+          "label": "",
+          "size": 1325202,
+          "contentType": "application/zip",
+          "downloadCount": 2,
+          "createdAt": "2026-11-21T12:07:19Z",
+          "updatedAt": "2026-11-21T12:07:28Z",
+          "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.3/BMW_i3_REAREye_Cloud_v1.3.zip"
+        }
+      ],
+      "widgetInfo": {
+        "type": "widget",
+        "name": "BMW 车型自定义车控",
+        "business_setup": {
+          "id": "bmw_i3_cloud",
+          "renameable": false
+        },
+        "card_setup": {
+          "name": "BMW i3 车控",
+          "package": "hk.uwu.reareye",
+          "priority": 500,
+          "sticky": true,
+          "renameable": true
+        },
+        "requirements": {
+          "packages": [
+            "de.bmw.connected.mobile20.cn"
+          ]
+        },
+        "postinstall": {
+          "uri": "content://hk.uwu.reareye.script/component:{id}/bootstrap"
+        }
+      }
+    },
+    {
+      "id": 453547962,
+      "tagName": "v1.2",
+      "name": "BMW_i3_REAREye_Cloud_v1.2",
+      "isDraft": false,
+      "isPrerelease": false,
+      "createdAt": "2026-11-21T08:28:05Z",
+      "publishedAt": "2026-11-21T08:28:08Z",
+      "url": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/tag/v1.2",
+      "body": "<p dir=\"auto\">BMW REAREye 背屏车控 v1.2，包含本地安装版与云端组件版，无需安装本项目的独立 APK。</p>\n<p dir=\"auto\">本次更新：</p>\n<ul dir=\"auto\">\n<li>适配 My BMW 6.11.0（56317）：官方 App 升级后旧版版本预检返回 <code class=\"notranslate\">VERSION_UNSUPPORTED</code>，背屏一直显示“授权已到期”，现已修复。</li>\n<li>兼容 fusehide 等遮蔽 <code class=\"notranslate\">/data/data</code> 的环境：脚本检测到遮蔽后自动以 <code class=\"notranslate\">su -M 0</code> 在全局挂载命名空间重跑，避免 <code class=\"notranslate\">APP_DATA_UNREADABLE</code> 与 <code class=\"notranslate\">RUNTIME_MISSING</code>。</li>\n<li>版本号统一为 1.2：卡片名称、脚本版本行、状态文件、校验记录同步更新。</li>\n<li>保留 v1.1 的自定义外观、整点车况更新与空调／闪灯／鸣笛入口。</li>\n</ul>\n<p dir=\"auto\">本地安装选择 <code class=\"notranslate\">BMW_i3_Cloud_AllInOne.zip</code>；云端发布使用 <code class=\"notranslate\">BMW_i3_REAREye_Cloud_v1.2.zip</code>。已有安装可直接覆盖同名脚本项目和卡片模板，<strong>保留原车辆绑定，不需要 <code class=\"notranslate\">setup_new</code>，也不需要重新绑定</strong>。控车逻辑、绑定格式与外观配置均未改动。</p>\n<p dir=\"auto\">兼容外观默认取最近保存的一份，同一脚本项目共用；可在脚本设置固定来源。详细安装与使用方法见仓库 README。</p>",
+      "assets": [
+        {
+          "id": 774929740,
+          "name": "BMW_i3_Cloud_AllInOne.zip",
+          "label": "",
+          "size": 1323673,
+          "contentType": "application/zip",
+          "downloadCount": 4,
+          "createdAt": "2026-11-21T08:28:14Z",
+          "updatedAt": "2026-11-21T08:28:16Z",
+          "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.2/BMW_i3_Cloud_AllInOne.zip"
+        },
+        {
+          "id": 774929888,
+          "name": "BMW_i3_REAREye_Cloud_v1.2.mrc",
+          "label": "",
+          "size": 1324734,
+          "contentType": "application/octet-stream",
+          "downloadCount": 4,
+          "createdAt": "2026-11-21T08:28:19Z",
+          "updatedAt": "2026-11-21T08:28:20Z",
+          "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.2/BMW_i3_REAREye_Cloud_v1.2.mrc"
+        },
+        {
+          "id": 774929828,
+          "name": "BMW_i3_REAREye_Cloud_v1.2.zip",
+          "label": "",
+          "size": 1324268,
+          "contentType": "application/zip",
+          "downloadCount": 4,
+          "createdAt": "2026-11-21T08:28:17Z",
+          "updatedAt": "2026-11-21T08:28:18Z",
+          "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.2/BMW_i3_REAREye_Cloud_v1.2.zip"
+        }
+      ],
+      "widgetInfo": {
+        "type": "widget",
+        "name": "BMW 车型自定义车控",
+        "business_setup": {
+          "id": "bmw_i3_cloud",
+          "renameable": false
+        },
+        "card_setup": {
+          "name": "BMW i3 车控",
+          "package": "hk.uwu.reareye",
+          "priority": 500,
+          "sticky": true,
+          "renameable": true
+        },
+        "requirements": {
+          "packages": [
+            "de.bmw.connected.mobile20.cn"
+          ]
+        },
+        "postinstall": {
+          "uri": "content://hk.uwu.reareye.script/component:{id}/bootstrap"
+        }
+      }
+    },
+    {
       "id": 428034596,
       "tagName": "v1.1-cloud-beta.1",
       "name": "BMW_i3_REAREye_Cloud_v1.1",
@@ -10,39 +148,39 @@
       "createdAt": "2026-11-03T00:53:57Z",
       "publishedAt": "2026-10-29T15:19:36Z",
       "url": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/tag/v1.1-cloud-beta.1",
-      "body": "<h1 dir=\"auto\">已有用户更新到本版</h1>\n<p dir=\"auto\"><strong>本次必须同时更新脚本和模板，保留当前车辆绑定，手动运行 <code class=\"notranslate\">setup_new</code>。</strong></p>\n<ul dir=\"auto\">\n<li>本地用户：覆盖同名 <code class=\"notranslate\">BMW_i3_Cloud_AllInOne</code> 脚本项目，再用同一份 ZIP 替换当前普通 BMW 卡片的模板。</li>\n<li>云端用户：本版发布后通过组件更新，同时更新模板和配套脚本。</li>\n</ul>\n<p dir=\"auto\">保留 My BMW 登录、Termux/Python 和隐藏实例。更新后重新进入卡片；<br>\n需要部署／检查后台运行库时，可运行一次 <code class=\"notranslate\">runtime</code>，它不会重新绑定车辆。</p>\n<p dir=\"auto\">本版新增外观读取入口，旧脚本没有这项能力，因此仅替换模板不能完成此次升级。</p>",
+      "body": "<h1 dir=\"auto\">2026-11-21 兼容性更新（My BMW 6.11.0）</h1>\n<ul dir=\"auto\">\n<li>修复 My BMW 升级到 6.11.0（56317）后 <code class=\"notranslate\">sync.sh</code> 版本预检返回 <code class=\"notranslate\">VERSION_UNSUPPORTED</code>、背屏一直显示“授权已到期”的问题；版本白名单已更新。</li>\n<li><code class=\"notranslate\">sync.sh</code>、<code class=\"notranslate\">launch.sh</code> 增加挂载命名空间检测：遇到 fusehide 等遮蔽 <code class=\"notranslate\">/data/data</code> 的环境，自动以 <code class=\"notranslate\">su -M 0</code> 在全局命名空间重跑，避免 <code class=\"notranslate\">APP_DATA_UNREADABLE</code> / <code class=\"notranslate\">RUNTIME_MISSING</code>。</li>\n<li>已在手机验证：授权同步 <code class=\"notranslate\">SYNC_COMPLETE</code>、云端车况查询 HTTP 200、隐藏宿主仍为 <code class=\"notranslate\">BOUND_CONFIRMED</code>。</li>\n<li><strong>本次不需要 <code class=\"notranslate\">setup_new</code>，也不需要重新绑定车辆</strong>，覆盖同名脚本项目/卡片即可；控车逻辑、绑定格式、外观配置均未改动。</li>\n<li>附件已更新，并新增 <code class=\"notranslate\">SHA256SUMS.txt</code> 供下载后校验。</li>\n</ul>\n<hr>\n<h2 dir=\"auto\">上一版说明（保留备查）</h2>\n<h1 dir=\"auto\">已有用户更新到本版</h1>\n<p dir=\"auto\"><strong>本次必须同时更新脚本和模板，保留当前车辆绑定，手动运行 <code class=\"notranslate\">setup_new</code>。</strong></p>\n<ul dir=\"auto\">\n<li>本地用户：覆盖同名 <code class=\"notranslate\">BMW_i3_Cloud_AllInOne</code> 脚本项目，再用同一份 ZIP 替换当前普通 BMW 卡片的模板。</li>\n<li>云端用户：本版发布后通过组件更新，同时更新模板和配套脚本。</li>\n</ul>\n<p dir=\"auto\">保留 My BMW 登录、Termux/Python 和隐藏实例。更新后重新进入卡片；<br>\n需要部署／检查后台运行库时，可运行一次 <code class=\"notranslate\">runtime</code>，它不会重新绑定车辆。</p>\n<p dir=\"auto\">本版新增外观读取入口，旧脚本没有这项能力，因此仅替换模板不能完成此次升级。</p>",
       "assets": [
         {
-          "id": 703814890,
+          "id": 774916270,
           "name": "BMW_i3_Cloud_AllInOne.zip",
-          "label": null,
-          "size": 1320993,
-          "contentType": "application/x-zip-compressed",
-          "downloadCount": 6,
-          "createdAt": "2026-11-03T01:21:52Z",
-          "updatedAt": "2026-11-03T01:22:15Z",
+          "label": "",
+          "size": 1322878,
+          "contentType": "application/zip",
+          "downloadCount": 5,
+          "createdAt": "2026-11-21T08:22:39Z",
+          "updatedAt": "2026-11-21T08:22:40Z",
           "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.1-cloud-beta.1/BMW_i3_Cloud_AllInOne.zip"
         },
         {
-          "id": 703811742,
+          "id": 774916742,
           "name": "BMW_i3_REAREye_Cloud_v1.1.mrc",
-          "label": null,
-          "size": 1322602,
+          "label": "",
+          "size": 1324480,
           "contentType": "application/octet-stream",
-          "downloadCount": 2,
-          "createdAt": "2026-11-03T01:20:33Z",
-          "updatedAt": "2026-11-03T01:20:48Z",
+          "downloadCount": 3,
+          "createdAt": "2026-11-21T08:22:50Z",
+          "updatedAt": "2026-11-21T08:22:51Z",
           "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.1-cloud-beta.1/BMW_i3_REAREye_Cloud_v1.1.mrc"
         },
         {
-          "id": 703814052,
+          "id": 774916536,
           "name": "BMW_i3_REAREye_Cloud_v1.1.zip",
-          "label": null,
-          "size": 1321588,
-          "contentType": "application/x-zip-compressed",
-          "downloadCount": 4,
-          "createdAt": "2026-11-03T01:21:33Z",
-          "updatedAt": "2026-11-03T01:21:49Z",
+          "label": "",
+          "size": 1323473,
+          "contentType": "application/zip",
+          "downloadCount": 3,
+          "createdAt": "2026-11-21T08:22:45Z",
+          "updatedAt": "2026-11-21T08:22:48Z",
           "downloadUrl": "https://github.com/Micromai01/BMW_SubSceen_Card/releases/download/v1.1-cloud-beta.1/BMW_i3_REAREye_Cloud_v1.1.zip"
         }
       ],

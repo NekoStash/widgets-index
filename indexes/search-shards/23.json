@@ -1,6 +1,6 @@
 {
   "shard": "23",
-  "tokenCount": 76,
+  "tokenCount": 78,
   "tokens": {
     "feeling": [
       "music"
@@ -157,6 +157,9 @@
     "模块特点": [
       "uriroute_deviceinfo"
     ],
+    "每小": [
+      "bmw_i3_cloud"
+    ],
     "求更": [
       "yadea_car_control"
     ],
@@ -216,6 +219,9 @@
       "xiaoai_course_schedule"
     ],
     "补发": [
+      "bmw_i3_cloud"
+    ],
+    "补跑": [
       "bmw_i3_cloud"
     ],
     "观说": [

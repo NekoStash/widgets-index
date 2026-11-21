@@ -1,6 +1,6 @@
 {
   "shard": "01",
-  "tokenCount": 50,
+  "tokenCount": 51,
   "tokens": {
     "app_widget": [
       "app_widget"
@@ -26,6 +26,9 @@
     ],
     "入主": [
       "ecotag"
+    ],
+    "分钟会在当小时补跑一次": [
+      "bmw_i3_cloud"
     ],
     "删除": [
       "bmw_i3_cloud"

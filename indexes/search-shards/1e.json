@@ -1,6 +1,6 @@
 {
   "shard": "1e",
-  "tokenCount": 89,
+  "tokenCount": 90,
   "tokens": {
     "artist": [
       "music"
@@ -256,6 +256,9 @@
       "schedule_reminder"
     ],
     "网或": [
+      "bmw_i3_cloud"
+    ],
+    "脚本检测到遮蔽后会以": [
       "bmw_i3_cloud"
     ],
     "要另": [

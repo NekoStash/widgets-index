@@ -1,6 +1,6 @@
 {
   "shard": "0b",
-  "tokenCount": 66,
+  "tokenCount": 67,
   "tokens": {
     "15": [
       "weather"
@@ -161,6 +161,9 @@
     ],
     "能品": [
       "business"
+    ],
+    "若安": [
+      "bmw_i3_cloud"
     ],
     "蓝色竖线自适应": [
       "xiaoai_course_schedule"
